@@ -1,0 +1,39 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Temp dump files from pipeline development
+tmp_*.txt
+
+# Large raw PDF files (too big for GitHub, re-extract if needed)
+**/*.pdf
+Physics/
+
+# Raw extracted JSONs are committed, but the figures/ folders are binary/large
+figures/
+ch2_figures/
+**/figures/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pycache in src
+src/__pycache__/
+src/**/__pycache__/
