@@ -240,14 +240,14 @@ def main():
         print(f"[!] Input directory '{args.input}' not found. Exiting.")
         sys.exit(1)
 
-    # Discover and sort chapter directories
+    # Discover and sort chapter/lesson directories
     chapter_dirs = sorted(
-        [d for d in os.listdir(args.input) if re.match(r"chapter\s+\d+$", d, re.IGNORECASE)],
+        [d for d in os.listdir(args.input) if re.match(r"(chapter|lesson)[\s\-]*\d+$", d, re.IGNORECASE)],
         key=lambda d: int(re.search(r"\d+", d).group())
     )
 
     if not chapter_dirs:
-        print(f"[!] No 'chapter N' folders found inside '{args.input}'. Exiting.")
+        print(f"[!] No 'chapter N' or 'Lesson-N' folders found inside '{args.input}'. Exiting.")
         sys.exit(1)
 
     print(f"\n{'#' * 60}")

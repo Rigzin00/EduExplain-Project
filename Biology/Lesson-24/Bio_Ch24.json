@@ -1,0 +1,104 @@
+{
+  "extraction_backend": "marker",
+  "language": null,
+  "has_equations": false,
+  "source_pdf": "/content/drive/MyDrive/openstax/NIOS/Biology/Lesson-24.pdf",
+  "pages": [
+    {
+      "page_no": 1,
+      "text": "MODULE - 3\nReproduction and\nHeredity\nGENETICS AND SOCIETY\nYou have already learnt that genetics is the science of heredity and variation. After Mendel's work was rediscovered in 1900, genetics progressed very rapidly in the 20th century. Today we find many applications of the knowledge of genetics in the fields of agriculture, medicine and forensic science. Some technologies related to genetics such as gene cloning, recombinant DNA technology, DNA fingerprinting, raising genetically modified crops will be dealt with in this lesson. Biopiracy, biosafety and biopatents related to GMOs and Bt crops have also been touched upon\nAfter completing this lesson, you will be able to:",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 2,
+      "text": "MODULE - 3\nReproduction and Heredity\n24.1 GENETICS THROUGH AGES\nThe history of genetics can be traced to prehistoric times and can be classified into three eras as given below:\nEarly ideas\nPrimitive art such as drawings in ancient tombs and caves, bones and skulls show that human activities included selecting, breeding and domesticating plants and animals. Between 8000 and 1000 BC, horses, camels oxen and dogs had been domesticated. Between 7000 to 5000 BC corn, rice, wheat and datepalm were being cultivated.\nBetween the 17th and 19th century many theories regarding inheritance had been proposed but could not be proved. These were epigenesis, preformationism, blending inheritance and pangenesis. But this clearly shows that humans were always curious to know how traits are passed down the generations.\nModern Genetics\nGregor Johann Mendel, whose principles (laws) of inheritance you have learnt in earlier lessons of the unit is regarded as the founder of modern genetics. Between 1902 and 1904, the chromosome theory of inheritance was accepted and chromosomes, which could actually be seen under the microscope during cell division were regarded as the 'bearers of hereditary characters (genes)'. Mutations were recognised as source of genetic variation.\nWith the acceptance of Darwin's theory of natural selection, geneticists studied the inheritance of traits in populations (Population genetics).\nMolecular Genetics\nBy the mid 20th century, DNA was established as the genetic material and structure and chemical nature of DNA was understood [recall the double helical structure of DNA as proposed by J. Watson and F. Crick]\nThe central dogma of molecular biology holds that genetic information resides in DNA, but its expression is in the form of proteins which are synthesized according to genetic information carried by mRNA from DNA.\nIn the last two decades of the twentieth century more has been understood about the nucleic acid molecules and protein molecules and also about the genetics of bacteria. The knowledge gained has led to the invention of technologies of genetic engineering, gene cloning, organismal cloning, DNA finger printing. Even more recent are the fields of genomics and bioinformatics. The entire genetic make up (genome) of an organism can now be cloned, sequenced and functions of the various genes explored. Knowing the human genome has opened up the possibilities for handling genetic disorders through gene therapy.",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 3,
+      "text": "24.2 GENE CLONING AND GENE BANK\nThe term clone is a collective term for genetically identical individuals. You have probably heard about the sheep named \"Dolly\", which possessed the same genes as did her mother as she was cloned from her mother.\nIn the Roslin Institute in Scotland, Ian Wilmut cloned \"Dolly\" the sheep from Dolly's mother in 1996. The nucleus from a cell from Dolly's mother's udder (mammary glands) was introduced into the egg of another ewe (female sheep) whose nucleus was removed. This cell divided to give more cells which formed an embryo that could be implanted into the uterus of another ewe (surrogate mother).\nThe production of large quantities of identical genes is called gene cloning. Since any gene is a segment of DNA having a particular sequence of the four nitrogen bases (A, T, G, C), multiple copies of a particular gene may be obtained by means of recombinant DNA technology, popularly known as genetic engineering. You will learn more about genetic engineering later in this lesson.\nGene bank\nVarious clones of bacteria carrying the desired genes in their DNA can be stored and preserved at very low temperatures for their future use, in a gene bank. A gene bank or a gene library or a DNA library is, thus, a collection of bacterial or bacteriophage (virus) clones. Each clone carries specific DNA segment (gene) from another organism. For example, human gene coding for the hormone insulin may be inserted through genetic engineering into a bacterium. When the bacterium multiplies it forms a clone of bacteria carrying the gene for insulin and may be preserved in the 'gene bank'. Thus, clones from a gene bank may be used for producing large quantities of certain enzymes, hormones and vaccines.\nINTEXT QUESTIONS 24.1\n1.\n. Name any two recent techniques in genetics.\n\n2.\nDefine gene cloning\n\n3.\nWhat is a gene bank ?\nMODULE - 3\nReproduction and Heredity",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 4,
+      "text": "Reproduction and Heredity\nNotes\ncalled recombinant DNA technology. In this technique the desired gene which is a DNA segment carrying a particular sequence of nucleotides, is added to the DNA of another organism (usually a bacterium) with the help of a transferring agent or vector. The modified DNA molecule carrying DNA from two different sources is called recombinant DNA or rDNA. The joining of two pieces of DNA is termed DNA splicing (Splicing in Latin means marriage).\nGenetics and Society\nThe steps in the production of rDNA is as follows (Fig. 24.1):",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 5,
+      "text": "24.4 IMPORTANCE OF GENETIC ENGINEERING\nGenetic engineering or rDNA technology can be used for various purposes:\nINTEXT QUESTIONS 24.2\n1.\nWhat is the popular term for recombinant DNA technology?\n\n2.\nWhat is meant by DNA splicing?\n\n3.\nWhat is a plasmid and why is it called a vector for genetic engineering?\n24.5 TRANSGENIC MICROBES, PLANTS AND ANIMALS\nAlso called genetically modified organisms (GM organisms), transgenic organisms contain in their genetic make up, foreign genes, that is, genes from another species or another kind of organism. Transgenics are raised through recombinant DNA technology.\n24.5.1 Transgenic microbes\nBacteria are easiest to be genetically modified by adding foreign gene into their plasmids through rDNA technology as you have already learnt in this lesson. Transgenic bacteria with insulin gene and human growth hormone gene have been cloned to provide these hormones for human use.\nOther uses of transgenic bacteria are in decomposing pollutants and extracting metals such as copper and gold.\n24.5.2 Transgenic plants\nSome genetically modified plants are herbicide and pest resistant. A genetically modified tobacco plant contains a gene from the firefly and emits green light.\nMODULE - 3\nReproduction and Heredity",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 6,
+      "text": "Reproduction and Heredity\nBt CROPS\nBt crops are genetically modified crops and are therefore also called transgenic crops. The name Bt crops is because the transgene or the foreign gene is transferred into the crop by the soil bacterium Bacillus thuringiensis (Bt).\nThe transferred gene or transgene is not harmful to the host crop into whose genotype the gene has been added. It codes for a protein called cry protein.\nThe bacteria Bt lives in the soil. In its genotype there is a gene called cry gene which produces an insecticidal (insect killing) protein. A Bt crop produces this protein. When an insect pest eats the Bt crop, cry protein is converted into a toxic substance by the enzyme present in the stomach of the pest. This toxic substance kills the pest.\nThe cry gene has been isolated and transferred into many crops, eg cotton, maize, brinjal, tomato and tobacco and tested in the fields. They are resistant to insect attacks. Use of Bt crops reduces the need for spraying insecticides to kill insect pests. Insecticides are harmful to humans and other animals.\nHowever, Bt crops can only be cultivated after permission from Government of India, under Environment Protection Act (EPA). This is because entomologists worry that:\n24.5.3 Transgenic animals\nThe gene for growth hormone from cattle have been inserted through genetic engineering to produce large fish, pigs and some other animals.\nTransgenic goats can produce a blood clotting protein in their milk. This may be useful for children suffering from disorders such as haemophilia in which blood does not clot.\nGenetic engineering offers a wide scope for transferring genes from one organism to another, such as plants to microbes, animals to microbes. Such gene transfers are not possible by other techniques like hybridisation. However, rDNA technology is not without problems. One danger is that accidentally or intentionally pathogens may be produced and misused as in biological warfare. Hence strict guidelines have been laid down for research in genetic engineering.\n24.5.4 Biosafety\nThere is public concern about possible hazards of using genetically modified (GM) organisms as food. You already know that a GM organism is one that contains genes",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 7,
+      "text": "from another species. For example, Bt brinjal, a GM brinjal has genes added to genome of brinjal from another species by genetic engineering which helps it to protect itself from one of its pests. The salmon fish has been genetically modified by adding a more active salmon growth hormone gene.\nBut the concern is about safety of GM foods to humans and other animals and also to the environment. Hence, in early 2000, several countries agreed to a Biosafety protocol by which the safety of using GM foods is first ascertained before using them. In our country, Department of Biotechnology, in compliance with rules of Environment Protection Act (EPA) has to be consulted granting permission for research and use of any GM organism only after testing its safety to humans, other animals and the environment.\n24.5.5 Biopiracy\nPiracy means theft. Biopiracy means patenting or exploiting a biological resource of another country without being authorised or giving adequate compensation. For example, a rich developed country may patent a bioresource such as medicinal plant or traditional knowledge regarding a bioresource of a developing country. Sometimes a useful biomolecule extracted from a plant growing in another country may be patented and used for commercial benefits. Even genes from foreign plants and animals may be patented, eg U.S granted a patent for the germplasm of basmati rice grown in India.\n24.5.6 Biopatent\nA patent is an official document. Possession of this document permits the holder to use or sell his/her invention. The duration of a patent is 20 years and the patent holder has to obtain a license on certain reasonable terms and conditions. The Indian Patent Act (1970) provides patents for invention to be used as food, medicine/drugs, alloys, semiconductors etc. In India, duration of patent is for 14 years except for food and pharmaceuticals which is only for 7 years.\nThe patent is granted to the inventor so that the invention is not used by others for commercial purposes. A patent may be granted for (i) an invention or discovery (ii) improvement of an earlier invention (iii) process of generating a patent (iv) a concept or design.\nINTEXT OUESTIONS 24.3\nΙ.\nUse th\nne example\nof Bt\ncrops\nto\nstate\nımportance\not\ntransgenic crops.\nBIOLOGY 135\nMODULE - 3\nReproduction and Heredity",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 8,
+      "text": "Reproduction and Heredity\nGenetics and Society\n24.6 POLYMERASE CHAIN REACTION\nYou have learnt in the lesson no 22, that DNA polymerase is the enzyme responsible for DNA replication or making a copy of a DNA molecule.\nIn the technique called polymerase chain reaction (PCR), DNA polymerase\nenzyme is used repeatedly for making many copies of a small fragment of DNA. Thus polymerase chain reaction or PCR helps in making many copies of a small amount of DNA.\nThe steps in PCR are,\nPiece of DNA to be amplified\n\nHeat to 95°C: two strands separate\n\nAdd the primers and cool to 40°C so that they bind to the DNA\nRepeat the process until enough DNA is made\nFig. 24.2 Polymerase chain reaction\nThese steps are repeated to get multiple copies of DNA. These days DNA polymerase from a bacterium living in hot springs called Taq polymerase is used in PCR machines. DNA amplified by PCR can be used for various techniques.\n24.7 DNA FINGER PRINTING\nLike our fingerprints, the repeated sequences in our DNA are unique. You must have heard that the police lifts fingerprints from the scene of crime to identify the culprit in case of rape, theft or murder.\nIn 1984, Alec Jeffreys, a geneticist invented a technique which could distinguish the DNA of a person from that of another and called this technique genetic fingerprinting or DNA fingerprinting. This technique is now used for scientific investigation of crime. For example identifying correctly the accused in rape or murder or to solve paternity disputes (find out who the actual father of a child is).",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 9,
+      "text": "DNA fingerprinting can be done from very small amounts of DNA which are taken out of a tiny drop of blood, semen, hair follicle, tooth pulp etc. picked up from the scene of\nDNA is isolated from blood, semen etc.\ncrime. The steps in the technique are:\nIn a crime, there may be three or four suspects.\nTheir DNA fingerprinting is carried out and compared with that of the DNA picked up from the scene of crime. The one that matches the DNA print of one of the suspects is the actual culprit. (Fig. 24.3).\n24.8 GENOMICS\nGenome is a collective term for a full set of genes in an organism. Genes are paired and so genome means all the genes present in a haploid (n) set of chromosomes. Genomics is the analysis of the genome data, that is, finding out the functional nucleotide sequences (genes) in the DNA of an organism.\nMODULE - 3\nReproduction and Heredity",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 10,
+      "text": "Reproduction and Heredity\nThe genome of E. coli bacterium, the yeast Saccharomyces and some other kinds of organisms is already known e.g. Arabidopsis Drosophila.\nThe human genome has been mapped in 2003. Humans have 23 pairs of chromosomes (2n = 46) and the human genome has 3 \\times 10^9 nucleotide base pairs and if the sequence of nucleotides (genes) is known, it will be possible to pinpoint (i) defective genes (as shown in the figure in the box) and (ii) identify genes for correction of genetic disorders (gene therapy) and genetic counselling.",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 11,
+      "text": "24.9 GENETIC COUNSELLING\nYou have earlier learnt about dominant and recessive genes. If a child receives a dominant gene from one parent and its recessive from the other parent (heterozygous condition) the recessive gene does not express itself. Recessive genes get expressed only when they are in the homozygous condition, that is, both genes of a pair inherited from the parents are recessive.\nYou can probably appreciate why marriages between closed relations (termed consanguineous marriage) are discouraged. Being related, both parents may pass down the defective gene which may be present in a family. Most defective genes that cause genetic disorders are recessive. When both genes of a pair in the child are defective, the child is born with a genetic disorder. So if a couple wishes to know the chances of their child getting a particular disorder present in their family, they have to go to a genetic counsellor. Genetic counselling means advise given regarding a genetic disorder so that the couple knows whether to have any more children if their first child is suffering from a genetic disorder. The genetic counsellor has a very good knowledge of human genetics and can predict the chances of a genetic defect in a family.\nThe pattern of inheritance of a particular trait (feature) among humans is identified by the method of pedigree analysis. Pedigree is a diagrammatic representation of relationships showing a particular trait in a family. The genetic counsellor prepares a pedigree chart and can then advise accordingly. See the pedigree chart (Fig. 24.6) and study the squares and circles as explained.\nThe circles are females and the squares are males; filled in circles and squares are affected individuals, empty circles and squares are normal individuals\nFig. 24.6 Pedigree chart\n1.\nDefine genome.\n\n2.\nWhat is genomics?\n\n3.\nWhat is the use of genomics?\n\n4.\nWhy should a genetic counsellor have good knowledge of genetics?\nBIOLOGY 139\nMODULE - 3\nReproduction and Heredity",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 12,
+      "text": "Reproduction and Heredity\nGenetics and Society\nWHAT YOU HAVE LEARNT",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 13,
+      "text": "MODULE - 3\nReproduction and Heredity\nTERMINAL EXERCISES\nANSWERS TO INTEXT QUESTIONS",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 14,
+      "text": "Reproduction and Heredity\nGenetics and Society",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 15,
+      "text": "MODULE - IV ENVIRONMENT AND HEALTH",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 16,
+      "text": "",
+      "markdown": null,
+      "equations": []
+    }
+  ]
+}

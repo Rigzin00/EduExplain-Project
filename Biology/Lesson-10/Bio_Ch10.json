@@ -1,0 +1,91 @@
+{
+  "extraction_backend": "marker",
+  "language": null,
+  "has_equations": true,
+  "source_pdf": "/content/drive/MyDrive/openstax/NIOS/Biology/Lesson-10.pdf",
+  "pages": [
+    {
+      "page_no": 1,
+      "text": "Forms and Functions of Plants and animals\nNITROGEN METABOLISM\nAll the living organisms are basically composed of carbon, hydrogen, oxygen, nitrogen and many other forms of chemical elements. These elements contribute to finally organize various biomolecules present in a cell. Nitrogen is next to carbon in importance in living organisms. In a living cell, nitrogen is an important constituent of amino acids, proteins, enzymes, vitamins, alkaloids and some growth hormones. Therefore, study of nitrogen metabolism is absolutely essential because the entire life process is dependent on these nitrogen-containing molecules. In this lesson, you will learn about various aspects of nitrogen metabolism including nitrogen fixation and nitrogen assimilation in plants.\nAfter completing this lesson, you will be able to:\n10.1 MOLECULAR NITROGEN\nNitrogen is primarily present in the atmosphere freely as dinitrogen or nitrogen gas. It is present in the combined form as Chile saltpetre or sodium nitrate and Chile in South America is the major source of this nitrate nitrogen.\nMolecular Nitrogen or diatomic nitrogen (N_2) is highly stable as it is triple bonded (N\\equiv N). Because of this stability, molecular nitrogen as such is not very reactive in the atmosphere under normal conditions. In the atmosphere molecular nitrogen is 78.03% by volume and it has a very low boiling point (-195.8°C) which is even lower than that of oxygen. Proteins present in living organisms contain about 16% nitrogen.",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 2,
+      "text": "10.1.1 Nitrogen Cycle\nNitrogen is an essential constituent of living beings. Nitrogenous bases are part of nucleic acids and proteins are made up of amino acids of which Nitrogen is an important consituent. You already know about the importance of these two biomolecules.\nAir has 78% N&lt;sub&gt;2&lt;/sub&gt; but most of the living beings cannot utilize this atmospheric Nitrogen. Nitrogen cycle converts this nitrogen into a usable form. Lightning fixes Nitrogen to NH&lt;sub&gt;3&lt;/sub&gt;, and nitrogen fixing bacteria like Rhizobium (which live in roots of leguminous plants like pea, rajma, beans, pulses etc.) also convert N&lt;sub&gt;2&lt;/sub&gt; into NH&lt;sub&gt;3&lt;/sub&gt;. Most plants absorb nitrates from soil and reduce it to NH&lt;sub&gt;3&lt;/sub&gt; in the cells for further metabolic reactions. Dead organisms and their excreta like urea are decomposed by bacteria into NH&lt;sub&gt;3&lt;/sub&gt; and by a different set of bacteria into nitrates. These are left in the soil for use by plants. In this way Nitrogen cycle is self regulated but human activities have caused steady loss of soil Nitrogen.\nMODULE - 2\nForms and Functions of Plants and animals\nINTEXT QUESTIONS 10.1\n1. What is the percent by volume of nitrogen gas in the atmosphere?\n.....\n2. Name two biomolecules that contain nitrogen in plants.\n3. Why nitrogen is a stable molecule?\n.....",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 3,
+      "text": "Forms and Functions of Plants and animals\nNitrogen Metabolism\n4. What is the percentage of nitrogen in protein?\n.....\n5. What is the boiling point of nitrogen?\n.....\n6. Choose the correct option:\nNitrogen fixation is the conversion of:\n10.2 NITROGEN FIXATION (BIOLOGICAL AND ABIOLOGICAL)\nThe conversion of molecular nitrogen into compounds of nitrogen especially ammonia is called nitrogen fixation. Nitrogen fixation, is a reductive process i.e., nitrogen fixation will stop if there is no reducing condition or if oxygen is present. This nitrogen fixation may take place by two different methods – abiological and biological.\n10.2.1 Abiological nitrogen fixation\nIn abiological nitrogen fixation the nitrogen is reduced to ammonia without involving any living cell. Abiological fixation can be of two types: industrial and natural. For example, in the Haber's process, synthetic ammonia is produced by passing a mixture of nitrogen and hydrogen through a bed of catalyst (iron oxides) at a very high temperature and pressure.\nN_2 + 3H_2 \\xrightarrow{500^{\\circ}C} 2NH_3\nThis is industrial fixation wherein nitrogen gets reduced to ammonia.\nIn natural process nitrogen can be fixed especially during electrical discharges in the atmosphere. It may occur during lightning storms when nitrogen in the atmosphere can combine with oxygen to form oxides of nitrogen",
+      "markdown": null,
+      "equations": [
+        "N_2 + 3H_2 \\xrightarrow{500^{\\circ}C} 2NH_3"
+      ]
+    },
+    {
+      "page_no": 4,
+      "text": "Forms and Functions of Plants and animals\nN_2 + O_2 \\longrightarrow 2NO \\xrightarrow{O_2} 2NO_2\nThese oxides of nitrogen may be hydrated and trickle down to earth as combined nitrite and nitrate.\n10.2.2 Biological nitrogen fixation\nChemically, this process is same as abiological. Biological nitrogen fixation is reduction of molecular nitrogen to ammonia by a living cell in the presence of enzymes called nitrogenases.\n10.3 NITROGEN FIXATION BY FREE LIVING ORGANISMS AND SYMBIOTIC NITROGEN FIXATION\nNitrogen fixation is a distinctive property possessed by a select group of organisms, because of the presence of the enzyme nitrogenase in them.\nThe process of nitrogen fixation is primarily confined to microbial cells like bacteria and cyanobacteria. These microorganisms may be independent and free living (Table 10.1).\nSome microbes may become associated with other oragnisms and fix nitrogen. The host organism may be a lower plant or higher plant. The host organism and the",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 5,
+      "text": "Forms and Functions of Plants and animals\nnitrogen fixing microbes establish a special relationship called symbiosis and this results in symbiotic nitrogen fixation (Table 10.2).\nNitrogen Metabolism\nSystem\nSymbionts\n\nLichens\nCyanobacteria and Fungus.\n\nBryophyte\nCyanobacteria and Anthoceros.\n\nPteridophyte\nCyanobacteria and Azolla.\n\nGymnosperm\nCyanobacteria and Cycas.\n\nAngiosperms\nLegumes and Rhizobium.\n\nAngiosperms\nNon leguminous plants and actinomycete\n\n\n(Such as Alnus, Myrica, Purshia).\n\nAngiosperm\nBrazilian grass (Digitaria), Corn and Azospirillum.\n10.3.1 Mechanism of Biological Fixation of Nitrogen\nNitrogen fixation requires\nThe reducing agent (NADH&lt;sub&gt;2&lt;/sub&gt; and FADH&lt;sub&gt;2&lt;/sub&gt;) and ATP are provided by photosynthesis and respiration.\nThe overall biochemical process involves stepwise reduction of nitrogen to ammonia. The enzyme nitrogenase is a Mo-Fe containing protein and binds with molecule of nitrogen (N_2) at its binding site. This molecule of nitrogen is then acted upon by hydrogen (from the reduced coenzymes) and reduced in a stepwise manner. It first produces diamide (N_2H_2) then hydrazime (N_2H_4) and finally ammonia (2NH_3).\nNH&lt;sub&gt;3&lt;/sub&gt; is not liberated by the nitrogen fixers. It is toxic to the cells and therefore these fixers combine NH&lt;sub&gt;3&lt;/sub&gt; with organic acids in the cell and form amino acids.\nThe general equation for nitrogen fixation may be described as follows:\nN_2 + 16ATP + 8H^+ + 8e^- \\longrightarrow 2NH_3 + 16ADP + 16Pi +",
+      "markdown": null,
+      "equations": [
+        "N_2 + 16ATP + 8H^+ + 8e^- \\longrightarrow 2NH_3 + 16ADP + 16Pi +"
+      ]
+    },
+    {
+      "page_no": 6,
+      "text": "Molecular nitrogen is a very stable molecule. Therefore, sufficient amount of cell energy in the form of ATP is required for stepwise reduction of nitrogen to ammonia.\nIn legumes, nitrogen fixation occurs in specialized bodies called root nodules. The nodules develop due to interaction between the bacteria Rhizobium and the legume roots (see diagram 6.4c). The biochemical steps for nitrogen fixation are same. However, legume nodules possess special protein called LEGHEMOGLOBIN. The synthesis of leghemoglobin is the result of symbiosis because neither bacteria alone nor legume plant alone possess the protein. Recently it has been shown that a number of host genes are involved to achieve this. In addition to leghemoglobin, a group of proteins called nodulins are also synthesized which help in establishing symbiosis and maintaining nodule functioning.\nLeghemoglobin is produced as a result of interaction between the bacterium and legume roots. Apparently, Rhizobium gene codes for Heme part and legume root cell gene codes for Globin moiety. Both the coded products together consitute the final protein leghemoglobin. During N_2-fixaion, function of Leghemoglobin is to act as Oxygen-scavenger so that the enzymes, Nitrogenages then, convert N_2 to NH_3 under anaerobic condition.\nLeghemoglobin is considered to lower down the partial pressure of oxygen and helps in nitrogen fixation. However, this function is specific for legumes only because free living microbes do not possess nitrogen fixing leghemoglobin. Moreover, it has also not been found in cyanobacterial symbiosis with other plants, which fix N_2 under aerobic condition.\nMODULE - 2\nForms and Functions of Plants and animals",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 7,
+      "text": "Forms and Functions of Plants and animals\nINTEXT QUESTIONS 10.3\n1. Match the following:\nΑ\nВ\nNitrogen Metabolism\n2. Which Gymnospermous plant fixes nitrogen?\n..... 3. Is there any other gas evovled during nitrogen fixation? If yes, name the gas\nevolved.\n4. How many ATP molecules are required to reduce a single molecule of nitrogen?\n.....\n5. What is the major source of electrons for reduction of nitrogen?\n6. Match the following:\nB\n(ii) Anabaena\n7. Name the proteins that help in establishing symbiosis and maintain root nodule functioning in legumes.\n10.4 NITRATE AND AMMONIA ASSIMILATION BY PLANTS\nAs pointed out in the previous section, nitrogen fixation is confined to selected microbes and plants. But all plants require nitrogen because it has a role to play in the general metabolism. Therefore, plants which do not fix nitrogen, use other combined nitrogen sources such as nitrate and ammonia for carrying on metabolic activity.\nNitrate is absorbed by most plants and reduced to ammonia with the help of two different enzymes. The first step conversion of nitrate to nitrite is catalyzed by an enzyme called nitrate reductase. This enzyme has several other important constituents including FAD, cytochrome, NADPH or NADH and molybdenum.\nNO_3^- + NADH + H^+ \\xrightarrow{\\text{Nitrate reductase}} NO_2^- + NAD^+ + H_2C",
+      "markdown": null,
+      "equations": [
+        "NO_3^- + NADH + H^+ \\xrightarrow{\\text{Nitrate reductase}} NO_2^- + NAD^+ + H_2C"
+      ]
+    },
+    {
+      "page_no": 8,
+      "text": "The overall process of nitrate reduction take place in the cytosol and is an energy dependent reaction.\nThe enzyme nitrate reductase has been studied in many plants and it is observed that the enzyme is continuously synthesized and degraded. The enzyme nitrate reductase is inducible. This means that increase in nitrate concentration in the cytosol induces more of nitrate redutase to be synthesized. However, when excess NH&lt;sub&gt;4&lt;/sub&gt;&lt;sup&gt;+&lt;/sup&gt; is produced then it has a negative effect on the synthesis of nitrate reductase. In plants, it has also been observed that light also increases nitrate reductase when nitrate is available.\nIn the second step the nitrite so formed is further reduced to ammonia and this is catalyzed by the enzyme nitrite reductase. Nitrite present in the cytosol is transported into chloroplast or plastids where it is reduced to ammonia.\nNO_2^- + 3NADPH + 3H^+ \\xrightarrow{Nitrite reductase} NH_3 + 3NADP^+\nThe enzyme nitrite reductase is able to accept electrons from sources such as NADH, NADPH or FADH&lt;sub&gt;2&lt;/sub&gt;. Besides, reduced ferredoxin has also been shown to provide electrons to nitrite reductase for reducing nitrite to ammonia. Ammonia so formed has to be utilized quickly by plants because accumulation of ammonia has a toxic effect. Some plants including algae leach out excess ammonia which can further be oxidized to nitrite and nitrate by microorganisms in the soil or water.\nINTEXT OUESTIONS 10.4\n1.\nWhich is\nthe m\niost redi\nuced forn\nı of ir\nnorganic\nnitrogen?\n2. Match the following:\nA\nВ\n(iii) Nitrogenase\n-\n4 Which is the most oxidized form of inorganic nitrogen?\n.....\n5 In which plant organelle reduction of nitrite to ammonia is catlyzed by the enzyme nitrite reductase?\n.....\n10.5 AMINO ACID SYNTHESIS BY PLANTS\nAs you have noticed that ammonia formation is achieved by plants either by (i.) nitrogen fixation or (ii) by reduction of nitrate to nitrite. Ammonium (NH_4^+) is the\nBIOLOGY 237\nMODULE - 2\nForms and Functions of Plants and animals",
+      "markdown": null,
+      "equations": [
+        "NO_2^- + 3NADPH + 3H^+ \\xrightarrow{Nitrite reductase} NH_3 + 3NADP^+"
+      ]
+    },
+    {
+      "page_no": 9,
+      "text": "MODULE - 2\nForms and Functions of Plants and animals\nmost reduced form of inorganic combined nitrogen. This ammonium now becomes the major source for the production of amino acids, which are the building blocks of enzymes and proteins. Amino acids have two important chemical groups. (i) amino group (NH&lt;sub&gt;2&lt;/sub&gt;) and (ii) carboxy1 group (-COOH).\nFig. 10.2 A typical amino acid with functional groups. R represents alkyl group.\nAmmonium so produced is the major source of amino group. However, the carboxyl group has to be provided by other organic molecule synthesized by the plants. There are two major reactions for amino acid biosynthesis in plants:\n10.5.1 Reductive amination reaction:\nIn this reaction, ammonia combines with a keto acid. The most important keto acid is the alpha ketoglutaric acid produced during the operation of Krebs cycle (see lesson 12 Plant Respiration). The keto acid then undergoes enzymatic reductive amination to produce an amino acid.\n\\alpha-ketoglutaric acid + NH3 \\xrightarrow{\\text{glutamate dehydrogenase}} Glutamic (keto acid) (amino acid)\nSimilarly another amino acid called aspartic acid is produced by reductive amination of oxaloacetic acid.\nIt has been noted that reductive amination respresents the major 'port of entry' for ammonia into the metabolic stream in plants. This initiates synthesis of glutamic acid followed by other amino acids.\n10.5.2 Transamination reaction\nThis is another very important reaction for amino acid biosynthesis. The reaction involves transfer of amino group, from already synthesized amino acid, to the keto acid.\n\\alpha-Ketoglutaric acid + Aspartic acid \\underline{\\qquad} Glutamic acid + Oxaloacetic acid (Keto acid) (Amino acid) (Amino acid) (Keto acid)\nIn the above reaction, aspartic acid has transferred its amino group (NH_2) to the \\alpha-ketoglutaric acid to synthesize glutamic acid and release keto acid. The reaction is catalyzed by enzymes called transaminases. A large number of amino acids are synthesized by this transamination reaction. Amino acids are organic molecules containing nitorgen. The incorporation of amino group, from ammonium, into keto acids represents the major step for synthesis of nitrogenous organic biomolecules.",
+      "markdown": null,
+      "equations": [
+        "\\alpha-ketoglutaric acid + NH3 \\xrightarrow{\\text{glutamate dehydrogenase}} Glutamic (keto acid) (amino acid)",
+        "\\alpha-Ketoglutaric acid + Aspartic acid \\underline{\\qquad} Glutamic acid + Oxaloacetic acid (Keto acid) (Amino acid) (Amino acid) (Keto acid)"
+      ]
+    },
+    {
+      "page_no": 10,
+      "text": "Forms and Functions of Plants and animals\nINTEXT QUESTIONS 10.5\n1. Match the following:\nΑ\nВ\n.....\nWHAT YOU HAVE LEARNT",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 11,
+      "text": "MODULE - 2\nForms and Functions of Plants and animals\nTERMINAL EXERCISES",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 12,
+      "text": "ANSWERS TO INTEXT QUESTIONS\n6. (b)\n7. (a)\n5. Oxygen.\nMODULE - 2\nForms and Functions of Plants and animals",
+      "markdown": null,
+      "equations": []
+    }
+  ]
+}
