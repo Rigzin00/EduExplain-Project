@@ -1,0 +1,247 @@
+{
+  "extraction_backend": "marker",
+  "language": null,
+  "has_equations": true,
+  "source_pdf": "/content/drive/MyDrive/openstax/NIOS/Chemistry/313_Chemistry_Eng_Lesson17.pdf",
+  "pages": [
+    {
+      "page_no": 1,
+      "text": "17\nMODULE - 6\nChemistry of Elements\nHYDROGEN AND s-BLOCK ELEMENTS\nHydrogen, alkali metals (like sodium and potassium) and alkaline earth metals (like magnesium and calcium) are the essential parts of the world we live in. For example, hydrogen is used in making vanaspati. Yellow glow of street light is due to sodium. Sodium choloride, potassium chloride and compounds of alkali metals are essential for life. Sodium hydroxide sold under the name of caustic soda is used in the manufacture of soap. Plaster of paris, a compound of calcium is used as a building material as well as by doctors in setting of fractured bone.\nIn this lesson we shall study occurrence, physical and chemical properties and uses of hydrogen and s-block elements (alkali metals and alkaline earth metals).\nOBJECTIVES\nAfter reading this lesson, you will be able to:",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 2,
+      "text": "17.1 HYDROGEN\nHydrogen is the first element of the periodic table. Hydrogen has the simplest atomic structure and consists of a nucleus containing one proton with a charge +1 and one orbital electron. The electronic structure may be written as 1s^1.\n17.1.1 History and Occurrence of Hydrogen\nTurquet de Mayerne (1655) and Boyle (1672) collected an inflammable gas by reacting iron with sulphuric acid. A century later Cavendish investigated the properties of this gas and called it 'inflammable air', but it was Lavoisier who called it by its present name, hydrogen.\nHydrogen occurs in the free state in some volcanic gases and in the outer atmosphere of the sun; other stars are composed almost entirely of hydrogen. The extremely high temperatures that are common place in stars (10&lt;sup&gt;6&lt;/sup&gt;—10&lt;sup&gt;7&lt;/sup&gt;°C) enable nuclear fusion of hydrogen atoms to occur, resulting in a colossal liberation of energy; several reaction schemes have been put forward for this process which ultimately results in the formation of helium\n4_1^1 H \\longrightarrow {}_2^4 He + 2_{+1}^0 e (energy released) positive electron or positron\nThe hydrogen liberated during chemical reactions is lost very readily, since the mass of the hydrogen molecule is so small and its speed so high that it can escape from the earth's gravitational field. The main sources of hydrogen are water, and petroleum and natural gas, where it occurs in combination with carbon. The element is an essential ingredient in all living matter, being found in proteins and fats.\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "4_1^1 H \\longrightarrow {}_2^4 He + 2_{+1}^0 e (energy released) positive electron or positron"
+      ]
+    },
+    {
+      "page_no": 3,
+      "text": "17.1.2 Position in the Periodic Table\nWhere is hydrogen placed in the periodic table?\nElements are placed in the periodic table according to their outermost electronic configuration. So hydrogen (1s^1) may be placed with alkali metals (ns^1). But hydrogen attains noble gas configuration of helium atom (1s^2) by gaining one electron. It forms the hydride ion H^-(1s^2) like halogens (ns^2np^5) by gaining one electron. On electrolysis of used alkali hydride, hydrogen is liberated at anode just as chlorine is liberated at anode during electrolysis of sodium chloride. Thus hydrogen ought to be placed in group 17 along with halogens. Hydrogen also resembles group 14 elements, since both have a half filled shell of electrons. So where should hydrogen be placed? This problem is solved by placing hydrogen neither with alkali metals nor with halogens. It has been given a unique position in the periodic table (see Periodic Table in lesson 4).\n17.1.3 Isotopes of hydrogen\nIf atoms of the same element have different mass numbers they are called isotopes. This difference in mass number arises because the nucleus contains a different number of neutrons.\nNaturally occurring hydrogen contains three isotopes: protium {}^1_1H or H, deuterium {}^2_1H or D and tritium {}^3_1H or T. These three isotopes contain one proton and 0, 1 and 2 neutrons, respectively in the nucleus (Fig 17.1). Protium is by far the most abundant.\nNaturally occurring hydrogen contains 99.986% of the ^1_1H isotope, 0.014% of D and 7 \\times 10^{-16}\\% of T, therefore the properties of hydrogen are essentially those of the lightest isotope. Tritium is radioactive and emits low energy \\beta particles (t_{1/2} = 12.33 \\, \\text{yrs}).\nDue to difference in mass of different isotopes, there arise a few differences in their properties. For example:\nMODULE - 6\nChemistry of Elements\nCHEMISTRY 2.",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 4,
+      "text": "Difference in properties that arises from the difference in mass is called isotope effect. Since the percentage difference in the mass of isotopes of hydrogen is very large. The difference in properties of isotopes of hydrogen is very large the difference in properties of compounds containing these isotopes is also large.\n17.1.4 Physical properties\nHydrogen is a diatomic gas, H&lt;sub&gt;2&lt;/sub&gt;. It is colourless and has no smell. It is lightest of all the gases known. It is insoluble in water, acids and most of the organic solvents. It is adsorbed when passed over platinum and palladium.\n17.1.5 Chemical properties\n1. Combustion: Hydrogen is combustible and burns in air with pale blue flame.\n2H_2 + O_2 \\rightarrow 2H_2O\n2. Reducing property: Hydrogen reduces heated metal oxides to metals.\nZnO + H_2 \\rightarrow Zn + H_2O\nCuO + H_2 \\rightarrow Cu + H_2O\n3. Reaction with non-metals: Hydrogen combines with nitrogen, carbon, oxygen and chlorine under appropriate conditions to form ammonia, methane, water and hydrogen chloride, respectively.\n3H_2 + N_2 \\rightarrow 2NH_3\n2H_2 + C \\rightarrow CH_4\n2H_2 + O_2 \\rightarrow 2H_2O\nH_2 + Cl_2 \\rightarrow 2HCl\nReaction with metals: Hydrogen reacts with highly electropositive metals to from the corresponding hydrides.\n2Na + H_2 \\rightarrow 2NaH\n2Li + H_2 \\rightarrow 2LiH\n17.1.6 Uses\nHydrogen is used:\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "2H_2 + O_2 \\rightarrow 2H_2O",
+        "ZnO + H_2 \\rightarrow Zn + H_2O",
+        "CuO + H_2 \\rightarrow Cu + H_2O",
+        "3H_2 + N_2 \\rightarrow 2NH_3",
+        "2H_2 + C \\rightarrow CH_4",
+        "H_2 + Cl_2 \\rightarrow 2HCl",
+        "2Na + H_2 \\rightarrow 2NaH",
+        "2Li + H_2 \\rightarrow 2LiH"
+      ]
+    },
+    {
+      "page_no": 5,
+      "text": "INTEXT QUESTIONS 17.1\n17.2 COMPOUNDS OF HYDROGEN\nHydrogen forms a large number of compounds: here we will consider only two of them, namely water (H_2O) and hydrogen peroxide (H_2O_2).\n17.2.1 Water (H&lt;sub&gt;2&lt;/sub&gt;O)\nThis oxide of hydrogen is essential to all life. It occurs in the form of snow, as water in rivers, lakes, sea etc. and as vapour in the atmosphere. Water is a covalent compound made up of two hydrogen atoms linked with one oxygen atom through covalent bonds. Its Lewis structure and molecular structure are shown below.\nBecause of the large electronegativity of oxygen, water molecule is highly polar. It has partial negative charge (\\delta^-) on the oxygen atom and partial positive charge (\\delta^+) on the hydrogen atom. An electrostatic attraction between H of one molecule with O of other molecule results in the formation of intermolecular hydrogen bonds.\n\\begin{array}{cccccccccccccccccccccccccccccccccccc\nStructure of ice:\nThe remarkable characteristic of water is that in solid form, it is less dense than liquid form. Consequently an ice cube floats on water. Water molecules are joined together in an extensive three dimensional network in which oxygen atom is bonded to four hydrogen atoms, two by hydrogen bonds and two by normal covalent bonds, in a near tetrahedral hydrogen bonded structure (Fig. 17.2), which has got open spaces. This is responsible for low density.\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "\\begin{array}{cccccccccccccccccccccccccccccccccccc"
+      ]
+    },
+    {
+      "page_no": 6,
+      "text": "17.2.2 Heavy water and its applications\nWater containing deuterium in place of ordinary hydrogen (protium) is termed as heavy water (D_2O). Heavy water is separated from water by electrolysis. The equilibrium constant for the dissociation of water containing protium is very high (1.0 \\times 10^{-14}) as compared to water containing deuterium (3.0 \\times 10^{-15}) e.g.\nH_2O \\rightarrow H^+ + OH^-\nD_2O \\rightarrow D^+ + OD^-\nO–H bonds are broken more rapidly than O–D bonds. Thus when water is electrolyzed, H_2 is liberated much faster than D_2, and the remaining water thus becomes enriched in heavy water D_2O. In order to obtain one litre of almost pure D_2O, we have to electrolyze about 30000 litres of ordinary water.\nUses:\nCaC_2 + 2D_2O \\longrightarrow C_2D_2 + Ca(OD)_2\nSO_3 + D_2O \\longrightarrow D_2SO_4\n17.2.3 Hydrogen peroxide (H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;)\nHydrogen peroxide is an important compound of hydrogen. Its chemical formula is {\\rm H_2O_2}.\nMethods of preparation:\nTwo methods of preparation of hydrogen peroxide are given below:\n1. By the action of dilute mineral acids (H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt;) on metallic peroxides (barium peroxide, sodium peroxide)\n\\mathrm{BaO_2.8H_2O} + \\mathrm{H_2SO_4} \\longrightarrow \\mathrm{BaSO_4} + \\mathrm{H_2O_2} + 8\\mathrm{H_2O}\nNa_2O_2 + H_2SO_4 \\rightarrow Na_2SO_4 + H_2O_2\n2. By the electrolysis of H_2SO_4 (50% W/W) followed by distillation\nAt cathode: 2H^+ + 2e^- \\rightarrow H_2\nAt anode: 2SO_4^{2-} \\rightarrow S_2O_8^{2-} + 2e^{-1}\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "H_2O \\rightarrow H^+ + OH^-",
+        "D_2O \\rightarrow D^+ + OD^-",
+        "CaC_2 + 2D_2O \\longrightarrow C_2D_2 + Ca(OD)_2",
+        "SO_3 + D_2O \\longrightarrow D_2SO_4",
+        "\\mathrm{BaO_2.8H_2O} + \\mathrm{H_2SO_4} \\longrightarrow \\mathrm{BaSO_4} + \\mathrm{H_2O_2} + 8\\mathrm{H_2O}",
+        "Na_2O_2 + H_2SO_4 \\rightarrow Na_2SO_4 + H_2O_2",
+        "At cathode: 2H^+ + 2e^- \\rightarrow H_2",
+        "At anode: 2SO_4^{2-} \\rightarrow S_2O_8^{2-} + 2e^{-1}"
+      ]
+    },
+    {
+      "page_no": 7,
+      "text": "The anodic solution which contains persulphate ions (S_2O_8)^{2-} is distilled with sulphuric acid at reduced pressure yielding H_2O_2:\nS_2O_8^{2-} + 2H^+ + 2H_2O \\longrightarrow 2H_2SO_4 + H_2O_2\nProperties:\nHydrogen peroxide is a clolourless syrupy liquid and has sharp odour. It has a boiling point of 423K. It is miscible in all proportions with water, alcohol and ether. The oxidation state of oxygen in hydrogen peroxide is -1, a value, which lies between the oxidation state of oxygen in O_2 (zero) and water (-2). Therefore, hydrogen peroxide acts as an oxidizing agent as well as a reducing agent in acidic and alkaline media.\nOxiding Properties:\n(a) Oxidizing action in acid solution:\n(i) PbS + 4H_2O_2 \\rightarrow PbSO_4 + 4H_2O_3\n(ii) 2\\text{FeSO}_4 + \\text{H}_2\\text{SO}_4 + \\text{H}_2\\text{O}_2 \\rightarrow \\text{Fe}_2(\\text{SO}_4)_3 + 2\\text{H}_2\\text{O}_4\n(b) Oxidizing action in alkaline solution:\nMnCl_2 + H_2O_2 + 2KOH \\rightarrow 2KCl + 2H_2O + MnO_2\n(c) Reducing action in acid solution:\n2KMnO_4 + 3H_2SO_4 + 5H_2O_2 \\rightarrow 2MnSO_4 + K_2SO_4 + 8H_2O + 5O_2\n(d) Reducing action in alkaline solution:\n(i) 2KMnO_4 + 3H_2O_2 \\rightarrow 2MnO_2 + 3O_2 + 2H_2O + 2KOH\n(ii) Cl_2 + H_2O_2 + 2KOH \\rightarrow 2KCl + 2H_2O + O_2\nUses:\nHydrogen peroxide is used:\nStructure:\nThe Lewis structure and molecular structure of hydrogen peroxide are shown below:\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "S_2O_8^{2-} + 2H^+ + 2H_2O \\longrightarrow 2H_2SO_4 + H_2O_2",
+        "(i) PbS + 4H_2O_2 \\rightarrow PbSO_4 + 4H_2O_3",
+        "(ii) 2\\text{FeSO}_4 + \\text{H}_2\\text{SO}_4 + \\text{H}_2\\text{O}_2 \\rightarrow \\text{Fe}_2(\\text{SO}_4)_3 + 2\\text{H}_2\\text{O}_4",
+        "MnCl_2 + H_2O_2 + 2KOH \\rightarrow 2KCl + 2H_2O + MnO_2",
+        "2KMnO_4 + 3H_2SO_4 + 5H_2O_2 \\rightarrow 2MnSO_4 + K_2SO_4 + 8H_2O + 5O_2",
+        "(i) 2KMnO_4 + 3H_2O_2 \\rightarrow 2MnO_2 + 3O_2 + 2H_2O + 2KOH",
+        "(ii) Cl_2 + H_2O_2 + 2KOH \\rightarrow 2KCl + 2H_2O + O_2"
+      ]
+    },
+    {
+      "page_no": 8,
+      "text": "17.2.4 Hydrides\nHydrogen reacts with metals and nonmetals to forms hydrides. Hydrides can be calssified as:\n(1) Ionic hydrides\nOnly the Group 1 and 2 metals are sufficiently electropositive to force the hydrogen atom to accept an electron. These hydrides, which are white crystalline solids, are formed by heating the metal in hydrogen at temperatures up to 700^{\\circ}C. The Group 1 hydrides, e.g. Na&lt;sup&gt;+&lt;/sup&gt;H&lt;sup&gt;-&lt;/sup&gt;, have the sodium chloride structure, i.e. each cation is surrounded by six equidistant hydride ions and vice versa; the structures of the Group 2 hydrides, e.g. Ca^{2+}(H^{-})_{2}, are more complex.\nExcept for lithium hydride they decompose before their melting points are reached, and the fact that they contain the hydride ion is proved by electrolysing them in fused alkali halides, when hydrogen is evolved at the anode. The hydride ion is a very reactive entity and all ionic hydrides are decomposed by water and air (probably initiated by traces of water vapour in the air)\nH^- + H_2O(l) \\longrightarrow OH^-(aq) + H_2(g)\n(2) Covalent Hydrides\nBy far the greatest number of hydrides come under this classification and, except for a few, they are gaseous at ordinary temperature. They are formed by the elements from Group 13 to Group 17 in the Periodic Table.\n\\begin{array}{cccccccccccccccccccccccccccccccccccc\nThe stability of the hydrides of the elements of a particular periodic group decreases with increasing atomic number (as the element becomes more 'metallic'); thus hydrogen chloride is stable to heat while hydrogen iodide is easily decomposed into its elements. Some are so unstable in the presence of small traces of air, e.g. stannane, SnH&lt;sub&gt;4&lt;/sub&gt;, that special methods are necessary for their preparation.\nIn the covalent hydrides, hydrogen is showing its natural tendency to acquire the stable electronic configuration of helium by electron sharing.\n(3) Interstitial hydrides\nThese are ill-defined compounds formed by a number of transition metals in which hydrogen is accommodated in the lattice of the transition element. Some expansion of the metal lattice occurs, since the density of the hydride is less\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "H^- + H_2O(l) \\longrightarrow OH^-(aq) + H_2(g)",
+        "\\begin{array}{cccccccccccccccccccccccccccccccccccc"
+      ]
+    },
+    {
+      "page_no": 9,
+      "text": "than that of the parent metal. No definite chemical formula can be allocated to these substances, i.e. they are non-stoichiometric. Although the composition can be varied by changes in temperature and pressure, formulae such as {\\rm TiH_{1.73}} and {\\rm ZrH_{1.92}} have been reported. The uptake of hydrogen is reversible and can in all cases be removed by pumping at a sufficiently high temperature. The use of finely divided palladium for making extremely pure hydrogen depends on this reversibility.\n17.2.5 The Hydrogen Economy (Hydrogen as Fuel)\nThe total volume of ocean water is about 1 \\times 10^{21} L. Thus, the ocean contains an almost inexhaustible supply of hydrogen.\nThe world's fossil fuel reserves are being depleted at an alarmingly fast rate. Faced with this dilemma,, scientists have made intensive efforts in recent years to develop a method of obtaining hydrogen gas as an alternative energy source. Hydrogen gas could replace gasoline to power automobiles (after considerable modification of the engine, of course) or be used with oxygen gas in fuel cells to generate electricity. One major advantage of using hydrogen gas in these ways is that the reactions are essentially free of pollutants; the end product formed in a hydrogen-powered engine or in a fuel cell would be water, just as in the burning of hydrogen gas in air:\n2H_2(g) + O_2(g) \\longrightarrow 2H_2O(l)\nOf course, success of a hydrogen economy would depend on how cheaply we could produce hydrogen gas and how easily we could store it.\nAlthough electrolysis of water consumes too much energy for large-scale application, if scientists can devise a more practical method of \"splitting\" water molecules, we could obtain vast amounts of hydrogen from seawater. One approach that is currently in the early stages of development would use solar energy. In this scheme a catalyst (a complex molecule containing one or more transition metal atoms, such as ruthenium) absorbs a photon from solar radiation and becomes energetically excited. In its excited state the catalyst is capable of reducing water to molecular hydrogen.\nINTEXT QUESTIONS 17.2\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "2H_2(g) + O_2(g) \\longrightarrow 2H_2O(l)"
+      ]
+    },
+    {
+      "page_no": 10,
+      "text": "17.3 s-BLOCK ELEMENTS\nThe s-block elements have an outer electronic configuration ns^1 or ns^2 and are placed in the group 1 and 2 of the periodic table. Group 1 consists of the elements: lithium, sodium, potassium, rubidium, caesium and francium. They are collectively known as the alkali metals after the Arabic word al-qis meaning plant ashes. These ashes are particularly rich in carbonates of calcium, strontium, barium and radium. The elements beryllium, magnesium, calcium, strontium, barium and radium belong to group 2 and are known as alkaline earth metals.\n17.3.1 The alkali metals\nIn this group all the elements are electropositive metals and there exists resemblance between the elements owing to their similar outer electron configuration. The occurrence and properties of alkali metals are discussed below:\n17.3.1.1 Occurrence\nSodium and potassium are abundant. Sodium is found as sodium chloride in the sea water and as sodium nitrate (Chile saltpeter) in the deserts of Chile. Potassium too, is found in sea water, and also as carnallite (KCl.MgCl&lt;sub&gt;2&lt;/sub&gt;.6H&lt;sub&gt;2&lt;/sub&gt;O). Lithium, rubidium and caesium occur in a few rare aluminosilicates. Francium is radioactive; its longest-lived isotope &lt;sup&gt;223&lt;/sup&gt;Fr has a half life of only 21 minutes.\n17.3.1.2 Electronic configuration\nThe alkali metals with their symbols, atomic numbers and electronic configurations are listed below in Table 17.1:\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 11,
+      "text": "17.3.1.3 Physical properties of Alkali Metals\nAlkali metals are placed in group 1 of periodic table. They readily form unipositive ions. As we go down the group the alkali metals show steady increase in size due to the addition of a new shell at each step. The increase in size of the atoms or ions, directly influences the physical and chemical properties of the alkali metals. Some physical properties are given in Table 17.2.\nThe trends in physical properties are listed in Table 17.3.\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 12,
+      "text": "6.\nDensity\nLi  K \n\nGenerally density increases from Li to Cs as the atomic mass increases (exception K).\n\n7.\nMelting point &\nLi > Na > K > Rb > Cs\n\n\nboiling points\nDecreases down the group because of increasing size and weak intermetallic bond.\n\n8.\nFlame coloration\nThey show characteristic colors in the flame. The outermost electron absorbs energy and is excited to a higher energy level. This absorbed energy is remitted when the electron comes back to ground state. The difference in energy falls in the visible range of radiation hence the colors are seen.\n\n\n\nLi Na K Rb Cs\n\n\n\nCrimson red Yellow Pale violet Violet Violet\n17.3.1.4 Chemical Properties\nAlkali metals are the most reactive metals in the whole periodic table due to their ease in losing outermost electron hence getting oxidized easily. As the ease of losing electrons increases, the reactivity increases down the group.\n(i) Oxides: All alkali metals form oxides, which are basic in nature. Lithium forms only one type of oxide, lithium monoxide \\text{Li}_2\\text{O}. Sodium peroxide \\text{Na}_2\\text{O}_2 is formed when sodium is heated with oxygen. Other metals of this group also form superoxides \\text{MO}_2 on reaction with oxygen.\n4\\text{Na(s)} + \\text{O}_2(g) \\rightarrow 2\\text{Na}_2\\text{O(s)}2\\text{Na(s)} + \\text{O}_2(g) \\rightarrow \\text{Na}_2\\text{O}_2(s)K(s) + \\text{O}_2(g) \\rightarrow K\\text{O}_2(s)\nThe formation of a particular oxide is determined by the size of the metal ion. Tiny lithium ion is not able to come in contact with sufficient number of peroxo ions. However, the ions of potassium, rubidium, caesium are large enough to come in close contact with peroxo ions and form stable structures as superoxides.\n(ii) Reactivity towards water: Although lithium has the most negative E^{\\circ}, its reaction with water is considerably less vigorous than that of sodium which has the least negative E^{\\circ} among the alkali metals (Table 17.2). The low reactivity of lithium is due to small size and high ionization enthalpy. All the metals of the group react with water explosively to form hydroxide and liberate hydrogen.\n2M + 2H_2O \\rightarrow 2M^+ + 2OH^- + H_2\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "4\\text{Na(s)} + \\text{O}_2(g) \\rightarrow 2\\text{Na}_2\\text{O(s)}2\\text{Na(s)} + \\text{O}_2(g) \\rightarrow \\text{Na}_2\\text{O}_2(s)K(s) + \\text{O}_2(g) \\rightarrow K\\text{O}_2(s)",
+        "2M + 2H_2O \\rightarrow 2M^+ + 2OH^- + H_2"
+      ]
+    },
+    {
+      "page_no": 13,
+      "text": "Basic character of oxides and hydroxides: The basic character of oxides and hydroxides of alkali metals increases with the increase in size of metal ion. So, lithium oxide and hydroxide are least basic whereas, caesium oxide and hydroxide are most basic in nature.\n(iii) Hydrides: The alkali metals react with hydrogen at about 637K to form hydrides (MH), where M stands for alkali metals.\n2M + H_2 \\rightarrow 2MH\n(iv) Halides: Alkali metals react with halogens to form halides:\n2M + X_2 \\rightarrow 2MX(X = F, Cl, Br, I)\n17.3.1.5 Diagonal Reltionship between Lithium and Magesium\nThe similarity between first member of one group and the second member of succeeding group is called diagonal relationship. Thus lithium shows properties similar to magnesium. Likewise Beryllium and aluminium have similar characteristics\nThe closeness of the diagonal elements arises due to their comparable polarizing power. Mathematically,\nPolarizing power \\propto \\frac{\\text{Ionic charge}}{(\\text{Ionic radius})^2}\nOn going from lithium to sodium, the ionic charge remains the same, the ionic radius increases and, therefore, the polarizing power decreases. On going from lithium to beryllium, the ionic charge increases, the ionic radius decreases and, therefore, the polarizing power increases.\nOn going from beryllium to magnesium, the polarizing power decreases—and becomes comparable to that of lithium.\nIn other words, the ratio between ionic charge to the square of ionic radius is nearly the same for lithium and magnesium. So are their physical and chemical properties, as shown in the following examples.\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "2M + H_2 \\rightarrow 2MH",
+        "2M + X_2 \\rightarrow 2MX(X = F, Cl, Br, I)",
+        "Polarizing power \\propto \\frac{\\text{Ionic charge}}{(\\text{Ionic radius})^2}"
+      ]
+    },
+    {
+      "page_no": 14,
+      "text": "17.3.1.6 Anamodous behaviour of Lithium\n1. Lithium salts of large polarizable anions are less stable than those of other alkali metals, as expected\n\\text{Li}_2\\text{CO}_3 \\xrightarrow{\\phantom{-}700^\\circ\\text{C}} \\text{Li}_2\\text{O} + \\text{CO}_2 Na etc., no reaction below 800°C \n\n\\text{LiNO}_3 \\longrightarrow \\text{Li}_2\\text{O} + \\text{NO}_2 NaNO3 \\longrightarrow \\text{NaNO}_2 + \\frac{1}{2}\\text{O}_2 \n\n2\\text{LiOH} \\longrightarrow \\text{Li}_2\\text{O} + \\text{H}_2\\text{O} Na etc., no reaction.\nIn each case, the more stable salts of the heavier alkali metals decompose at a temperature higher than that normally obtainable in the laboratory. Lithium forms no solid bicarbonate, triiodide, hydrosulphide, or superoxide. These are unstable at room temperature, whereas those of the other alkali metals require a higher temperature to effect their decomposition.\nCHEMISTRY\nThe so-called \"anomalous\" properties of lithium occur because lithium is \"unexpectedly\" much less electropositive than sodium.\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "\\text{Li}_2\\text{CO}_3 \\xrightarrow{\\phantom{-}700^\\circ\\text{C}} \\text{Li}_2\\text{O} + \\text{CO}_2 Na etc., no reaction below 800°C \n\\text{LiNO}_3 \\longrightarrow \\text{Li}_2\\text{O} + \\text{NO}_2 NaNO3 \\longrightarrow \\text{NaNO}_2 + \\frac{1}{2}\\text{O}_2 \n2\\text{LiOH} \\longrightarrow \\text{Li}_2\\text{O} + \\text{H}_2\\text{O} Na etc., no reaction."
+      ]
+    },
+    {
+      "page_no": 15,
+      "text": "17.3.1.7 Sodium Hydroxide\nManufacture of sodium hydroxide by the Castner-Kellner process\nIn this process a saturated solution of sodium chloride (brine) flows through the cell (Fig. 17.3) in the same direction as a shallow stream of mercury which constitutes the cathode; the anode consists of a number of titanium blocks. On electrolysis chlorine is discharged at the anode and sodium at the cathode, where it dissolves in the mercury and is removed from the cell. The sodium amalgam is passed through water where the sodium reacts to form 50 per cent sodium hydroxide solution of high purity, the reaction being catalysed by the presence of iron grids. The mercury is then returned to the cell. The products are thus sodium hydroxide, chlorine and hydrogen.\nSodium is discharged in preference to hydrogen in the cell, since hydrogen has a high overvoltage at a mercury electrode. This amounts to saying that the discharge of hydrogen ions or the combination of hydrogen atoms to give molecules is difficult to achieve at a mercury surface, i.e. mercury is a poor catalyst for either or both of these processes. Since sodium dissolves in mercury which is circulated through the cell, the formation of sodium hydroxide and hydrogen in the electrolytic cell itself is prevented.\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 16,
+      "text": "Reactions of sodium hydroxide\nSodium hydroxide is a white deliquescent solid which is caustic and slimy to touch: it dissolves readily in water with vigorous evolution of heat. In aqueous solution this is completely dissociated and its reactions are essentially those of the hydroxide ion which is a strong base, i.e. it will neutralise acids and displace ammonia from ammonium salts when heated:\nNa^{+}OH^{-}(aq) + H^{+}CI^{-}(aq) \\longrightarrow Na^{+}CI^{-}(aq) + H_{2}O(1)\nor OH^{-}(aq) + H^{+}(aq) \\longrightarrow H_{2}O(1)\nNa^{+}OH^{-}(aq) + NH_{4}^{+}CI^{-}(aq) \\longrightarrow Na^{+}CI^{-}(aq) + H_{2}O(1) + NH_{3}(g)\nor OH^{-}(aq) + NH_{4}^{+}(aq) \\longrightarrow H_{2}O + NH_{3}(g)\nIn aqueous solution it reacts with many salts and precipitates the corresponding basic hydroxide, e.g.\nCu^{2+}SO_4^{\\ 2-}(aq) + 2Na^+OH^-(aq) \\longrightarrow Cu(OH)_2(s) + (Na^+)_2SO_4^{\\ 2-}(aq) or Cu^{2+}(aq) + 2OH^-(aq) \\longrightarrow Cu(OH)_2(s)\nThe hydroxides of the less electropositive metals are amphoteric and dissolve in an excess of alkali, e.g. the hydroxides of aluminium (III), lead (II), tin (11) and zinc(II):\n\\begin{array}{cccccccccccccccccccccccccccccccccccc\nSodium reacts with a variety of non-metals, e.g. the halogens, silicon, sulphur, white phosphorus; sodium salts are formed in which the non-metal is incorporated into the anion.\nUses of Sodium hydroxide\nSodium hydroxide is used in the laboratory for absorbing carbon dioxide and other acidic gases, in a number of organic reactions involving hydrolysis and in volumetric analysis. Industrially it is used in the manufacture of soap (essentially sodium stearate) and sodium formate (obtained by heating sodium hydroxide with carbon monoxide under pressure).\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "Na^{+}OH^{-}(aq) + H^{+}CI^{-}(aq) \\longrightarrow Na^{+}CI^{-}(aq) + H_{2}O(1)\nor OH^{-}(aq) + H^{+}(aq) \\longrightarrow H_{2}O(1)\nNa^{+}OH^{-}(aq) + NH_{4}^{+}CI^{-}(aq) \\longrightarrow Na^{+}CI^{-}(aq) + H_{2}O(1) + NH_{3}(g)\nor OH^{-}(aq) + NH_{4}^{+}(aq) \\longrightarrow H_{2}O + NH_{3}(g)",
+        "Cu^{2+}SO_4^{\\ 2-}(aq) + 2Na^+OH^-(aq) \\longrightarrow Cu(OH)_2(s) + (Na^+)_2SO_4^{\\ 2-}(aq) or Cu^{2+}(aq) + 2OH^-(aq) \\longrightarrow Cu(OH)_2(s)",
+        "\\begin{array}{cccccccccccccccccccccccccccccccccccc"
+      ]
+    },
+    {
+      "page_no": 17,
+      "text": "17.3.1.8 Sodium Carbonate\nThe manufacture of sodium carbonate – the Solvay process\nIt is manufactured by the ammonia-soda or Solvay process. In theory the process involves the reaction between sodium chloride and calcium carbonate to produce sodium carbonate and calcium chloride, but in practice other chemicals are required, since the reaction as given below does not take place:\nCaCO_3(s) + 2NaCl(s) \\longrightarrow Na_2CO_3(s) + Ca(Cl)_2(s)\nThe raw materials are sodium chloride. calcium carbonate, a fuel and ammonia. The calcium carbonate is strongly heated to give quicklime and carbon dioxide:\nCa^{2+}CO_3^{2-}(s) \\longrightarrow Ca^{2+}O^{2-}(s) + CO_2(g) (1)\nThe carbon dioxide is now passed up a large tower, fitted with perforated plates, down which a concentrated aqueous solution of sodium chloride saturated with ammonia trickles. The reactions taking place in the tower can be represented by the equations:\nNH_3(aq) + H_2O(1) \\longrightarrow NH_3.H_2O(aq) \\longrightarrow NH_4^+(aq) + OH^-(aq) (2)\n\\label{eq:Na+Cl-aq} \\begin{split} \\text{Na}^+(\\text{aq}) \\, + \\, \\text{Cl}^-(\\text{aq}) \\, + \\, \\text{NH}_4^+(\\text{aq}) \\, + \\, \\text{OH}^-(\\text{aq}) \\, + \\, \\text{CO}_2(\\text{g}) &amp; \\longrightarrow \\\\ \\text{Na}^+(\\text{aq}) \\, + \\, \\text{HCO}_3^-(\\text{aq}) \\, + \\, \\text{NH}_4^+(\\text{aq}) \\, + \\, \\text{Cl}^-(\\text{aq}) \\end{split} \\tag{3}\nNa^{+}(aq) + HCO_{3}^{-}(aq) \\longrightarrow Na^{+}HCO_{3}^{-}(s) (4)\nSodium hydrogen carbonate, which is not very soluble in sodium chloride solution, due to the common ion effect is filtered and heated to produce sodium carbonate:\n2\\text{Na}^+\\text{HCO}_3^-(s) \\longrightarrow (\\text{Na}^+)_2\\text{CO}_3^{2-}(s) + \\text{H}_2\\text{O}(1) + \\text{CO}_2(g) (5)\nThe sodium carbonate at this stage is contaminated with ammonium salts. If required pure, it is dissolved in water and carbon dioxide is blown through the solution. The precipitate of sodium hydrogen carbonate is filtered and heated to produce pure sodium carbonate; recrystallisation from water produces washing soda, (Na^+)_2CO_3^-.10H_2O.\n(Na)_2CO_3^2(aq) + H_2O(1) + CO_2(g) \\longrightarrow 2NaHCO_3(s) (6)\nprecipitated leaving ammonium\nsalts in solution\nThe Solvay process is a very economical process since:\n(a) sodium chloride and calcium carbonate are cheap:\nCHEMISTRY\nMODULE - 6\nChemistry of Elements\n37",
+      "markdown": null,
+      "equations": [
+        "CaCO_3(s) + 2NaCl(s) \\longrightarrow Na_2CO_3(s) + Ca(Cl)_2(s)",
+        "Ca^{2+}CO_3^{2-}(s) \\longrightarrow Ca^{2+}O^{2-}(s) + CO_2(g) (1)",
+        "NH_3(aq) + H_2O(1) \\longrightarrow NH_3.H_2O(aq) \\longrightarrow NH_4^+(aq) + OH^-(aq) (2)",
+        "\\label{eq:Na+Cl-aq} \\begin{split} \\text{Na}^+(\\text{aq}) \\, + \\, \\text{Cl}^-(\\text{aq}) \\, + \\, \\text{NH}_4^+(\\text{aq}) \\, + \\, \\text{OH}^-(\\text{aq}) \\, + \\, \\text{CO}_2(\\text{g}) &amp; \\longrightarrow \\\\ \\text{Na}^+(\\text{aq}) \\, + \\, \\text{HCO}_3^-(\\text{aq}) \\, + \\, \\text{NH}_4^+(\\text{aq}) \\, + \\, \\text{Cl}^-(\\text{aq}) \\end{split} \\tag{3}",
+        "Na^{+}(aq) + HCO_{3}^{-}(aq) \\longrightarrow Na^{+}HCO_{3}^{-}(s) (4)",
+        "2\\text{Na}^+\\text{HCO}_3^-(s) \\longrightarrow (\\text{Na}^+)_2\\text{CO}_3^{2-}(s) + \\text{H}_2\\text{O}(1) + \\text{CO}_2(g) (5)",
+        "(Na)_2CO_3^2(aq) + H_2O(1) + CO_2(g) \\longrightarrow 2NaHCO_3(s) (6)precipitated leaving ammoniumsalts in solution"
+      ]
+    },
+    {
+      "page_no": 18,
+      "text": "Properties and uses of sodium carbonate\nSodium carbonate is freely soluble in water and gives an alkaline reaction. It reacts with some salts in solution and precipitate the corresponding carbonates, e.g.\nCa^{2+}(Cl^{-})_{2}(aq) + (Na^{+})_{2}CO_{3}^{2-}(aq) \\longrightarrow Ca^{2+}CO_{3}^{2-}(s) + 2Na^{+}Cl^{-}(aq)\nBecause of its alkaline reaction in solution, sodium carbonate frequently precipitate basic carbonates, e.g.\n3Zn^{2+}(aq) + CO_3^{2-}(aq) + 4OH^{-}(aq) + 2H_2O(1) \\longrightarrow ZnCO_3.2Zn(OH)_2.2H_2O(s)\nIn these instances the normal carbonate can usually be obtained by using sodium hydrogen carbonate solution.\nSodium carbonate is often used in the laboratory as a volumetric reagent. Industrially it is used in a wide variety of ways, including the manufacture of glass, in the preparation of sodium salts, in the treatment of hard water, for the manufacture of soap, and in paper making.\n17.3.1.9 Sodium hydrogen carbonate\nThis can be obtained by passing carbon dioxide through a cold concentrated solution of the corresponding carbonate, e.g.\n(Na^{+})_{2}CO_{3}^{2-}(aq) + CO_{2}(g) + H_{2}O(1) \\longrightarrow 2Na^{+}HCO_{3}^{-}(s)\nBecause sodium hydrogen carbonate solution is less alkaline than sodium carbonate solution, the former is often used to precipitate normal carbonates which would otherwise be formed as basic carbonates, e.g.\nCu^{2+}(aq) + 2HCO_3^{-}(aq) \\longrightarrow CuCO_3(s) + H_2O(s) + CO_2(g)\n17.3.1.10 Biological Importance of Sodium and Potassium\n17.3.1.11 Stability and Solubility of Carbonates and Sulphates:\nThe carbonates and sulphates of alkali metals are generally soluble in water and thermally stable. The carbonates are highly stable to heat and melt without decomposing. As the electropositive character increases down the group, the stability of the carbonates increases. Carbonate of lithium is not so stable to heat due to the small size of lithium.\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "Ca^{2+}(Cl^{-})_{2}(aq) + (Na^{+})_{2}CO_{3}^{2-}(aq) \\longrightarrow Ca^{2+}CO_{3}^{2-}(s) + 2Na^{+}Cl^{-}(aq)",
+        "3Zn^{2+}(aq) + CO_3^{2-}(aq) + 4OH^{-}(aq) + 2H_2O(1) \\longrightarrow ZnCO_3.2Zn(OH)_2.2H_2O(s)",
+        "(Na^{+})_{2}CO_{3}^{2-}(aq) + CO_{2}(g) + H_{2}O(1) \\longrightarrow 2Na^{+}HCO_{3}^{-}(s)",
+        "Cu^{2+}(aq) + 2HCO_3^{-}(aq) \\longrightarrow CuCO_3(s) + H_2O(s) + CO_2(g)"
+      ]
+    },
+    {
+      "page_no": 19,
+      "text": "INTEXT QUESTIONS 17.3\n17.3.2 The Alkaline Earth Metals\nCHEMISTRY\nYou have seen a gradual increase in the size of the alkali metals as we move down the group 1 of the periodic table. Identical observations may be made in the case of alkaline earth metals placed in group 2 of the periodic table. Some physical properties of the alkaline earth metals are given in Table 17.4.\nAn alkaline earth metal atom is smaller in size compared to its adjacent alkali metal. This is due to the added proton in the nucleus, which exerts a pull on the electrons in an atom resulting in squeezing of the atom. This reduction in size shows higher control of the nucleus on the electrons in the shells.\nThe ease of losing electrons makes the alkaline earth metals good reducing agents. But this property is less prominent as compared to the corresponding alkali metals.\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 20,
+      "text": "17.3.2.1 Occurrence\nThe alkaline earth metals are too reactive to occur native. Magnesium is the second most abundant metallic element in the sea, and it also occurs as carnallite (KCl.MgCl&lt;sub&gt;2&lt;/sub&gt;.6H&lt;sub&gt;2&lt;/sub&gt;O) in earth crust. Calcium occurs as calcium carbonate (marble, chalk etc) and with magnesium as dolomite (CaCO&lt;sub&gt;3&lt;/sub&gt;.MgCO&lt;sub&gt;3&lt;/sub&gt;). Other ores of calcium are anhydrite (CaSO&lt;sub&gt;4&lt;/sub&gt;) and gypsum (CaSO&lt;sub&gt;4&lt;/sub&gt;.2H&lt;sub&gt;2&lt;/sub&gt;O). Strontium and barium are rare and are found as carbonates and sulphates. Beryllium too is rare and is found as beryl (Be&lt;sub&gt;2&lt;/sub&gt;Al&lt;sub&gt;2&lt;/sub&gt;(SiO&lt;sub&gt;3&lt;/sub&gt;)&lt;sub&gt;6&lt;/sub&gt;).\n17.3.2.2 Electronic Configuration\nThe electronic configurations of the alkaline earth metals are listed in Table 17.5.\n17.3.2.3 Physical properties of alkaline earth metals\nAlkaline earth metals are less electropositive than alkali metals. The electropositive character of alkaline earth metals increases down the group. They achieve an inert gas configuration by the loss of two electrons. Some physical properties and their trends are given in Table 17.6.\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 21,
+      "text": "5.\nMetallic\nBe \ncharacter\nMetallic character increases as we go down the group due to increase in electropositive character.\n\n6.\nDensity\nGenerally density increases from top to bottom as the atomic mass increases.\n\n7.\nMelting point &\nThey show higher values of melting and boiling points as compared to\n\n\nboiling point\nalkali metals because of the smaller size and stronger\nmetallic bonds. There is no regular trend down the\ngroup. It depends upon packing.\n\n8.\nFlame coloration\nExcept Be and Mg (due to small size and higher ionization enthalpy) all other alkaline earth metals impart characteristic colours to the Bunsen flame.\n\n\n\nCa Sr Ba\n\n\n\nBrick red Crimson red Sea green\n17.3.2.4 Chemical Properties of Alkaline Earth Metals\nThe alkaline earth metals are reactive metals, though less reactive than alkali metals. The reactivity increases from top to bottom in a group due to increase in electropositive character.\n2Mg + O_2 \\rightarrow 2MgO\n2Be + O_2 \\rightarrow 2BeO\n2Ca + O_2 \\rightarrow 2CaO\nBa + O_3 \\rightarrow 2BaO\nBasic character of the oxides increases gradually from BeO to BaO. Beryllium oxide is amphoteric, MgO is weakly basic while CaO is more basic.\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "2Mg + O_2 \\rightarrow 2MgO\n2Be + O_2 \\rightarrow 2BeO\n2Ca + O_2 \\rightarrow 2CaO\nBa + O_3 \\rightarrow 2BaO"
+      ]
+    },
+    {
+      "page_no": 22,
+      "text": "(iii) Hydrides: The alkaline earth metals combine with hydrogen to form hydrides of general formula MH_2\nM + H_2 \\rightarrow MH_2(M = Mg, Ca, Sr, Ba)\n(iv) Reaction with water: Usually the alkaline earth metals react with water to liberate hydrogen. Be does not react with water or steam even at red heat and does not get oxidized in air below 837K.\nMg + H_2O \\rightarrow MgO + H_2\nCa, Sr, and Ba react with cold water with increasing vigour.\nCa + 2H_2O \\rightarrow Ca(OH)_2 + H_2\n(v) Halides: All the alkaline earth metals combine directly with the halogens at appropriate temperature forming halides, MX&lt;sub&gt;2&lt;/sub&gt; where M stands for alkaline earth metals.\nM + X_2 \\rightarrow MX_2\n(vi) Solubility and stability of carbonates and sulphates:\nCarbonates: The carbonates of alkaline earth metals are sparingly soluble in water. They decompose if heated strongly. Their thermal stability increases with increase in the size of the cation. Decomposition temperatures of carbonates are given below:\nBeCO3\nMgCO_3\nCaCO3\nSrCO3\nBaCO3\n\n813K\n1173K\n1563K\n1633K\nSulphates: The sulphates of alkaline earth metals are white solids, stable to heat. The sulphates, BeSO&lt;sub&gt;4&lt;/sub&gt; and MgSO&lt;sub&gt;4&lt;/sub&gt; are readily soluble and the solubility decreases from CaSO&lt;sub&gt;4&lt;/sub&gt; to BaSO&lt;sub&gt;4&lt;/sub&gt;. The greater hydration energies of Be&lt;sup&gt;2+&lt;/sup&gt; and Mg&lt;sup&gt;2+&lt;/sup&gt; ions overcome the lattice energy factor and therefore, their sulphates are soluble.\nThe sulphates decompose on heating, giving the oxides.\nMSO_4 \\rightarrow MO + SO_3\nThe thermal stability of sulphates increases with the increase in the size of cation.\nThis is shown by the temperature at which decomposition occurs:\n(vii) Complex compounds: Smaller ions of the group 2 elements form complexes. For example chlorophyll is a complex compound of magnesium. Beryllium forms complexes like [BeF&lt;sub&gt;4&lt;/sub&gt;]&lt;sup&gt;2-&lt;/sup&gt;.\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "M + H_2 \\rightarrow MH_2(M = Mg, Ca, Sr, Ba)",
+        "Mg + H_2O \\rightarrow MgO + H_2",
+        "Ca + 2H_2O \\rightarrow Ca(OH)_2 + H_2",
+        "M + X_2 \\rightarrow MX_2",
+        "MSO_4 \\rightarrow MO + SO_3"
+      ]
+    },
+    {
+      "page_no": 23,
+      "text": "17.3.2.5 Anomalous Nature of Beryllium: Diagonal Relationship to Aluminium\nBeryllium, the first member of the group, appears to be very different from the other members, in the same way as lithium differs from the other alkali metals, and for the same reasons. In fact, the anomalous nature of the first member of the s- and p-block groups becomes more pronounced towards the middle of the table: beryllium differs more from magnesium than lithium does from sodium. Also, beryllium shows a diagonal resemblance to aluminium in the same way as lithium does to magnesium; and the properties in which beryllium differs from magnesium, it shares with aluminium (in general). The cohesive properties of beryllium are much greater than those of magnesium: beryllium has higher melting and boiling points, enthalpy of fusion, etc., and density, and it is much harder. Similarly its attraction for outer electrons is greater than that of magnesium, leading to much lower atomic radii, higher electron affinity and ionization energy, etc. Its higher polarizing power leads to all its compounds being largely covalent, with lower melting and boiling points, enthalpies of formation etc., and with greater solubility in organic solvents than the corresponding magnesium compounds. The hydration enthalpy of the small Be&lt;sup&gt;2+&lt;/sup&gt; ion is very high and its salts are among the most soluble known. Despite this, its electrode potential is not high, because of its very high second ionization enthalpy. Nevertheless, it would be expected to react with water, and react vigorously with acids (E^{\\phi} = -1.70). In fact, it does not react with water, and is resistant to acid. This must be a kinetic effect: perhaps an oxide film protects the metal. Certainly this is one of the metals rendered passive by concentrated nitric acid. The halides are hygroscopic and fume in air, and all soluble salts are largely hydrolysed and polymerized in water except in strong acid or strong alkali solutions (beryllium is amphoteric, unlike magnesium, etc.):\n2[Be(H_2O)_4]^{2+} \\xrightarrow{H_2O} 2H_3O^+ + [(H_2O)_3BeOBe(H_2O)_3]^{2+} \\xrightarrow{OH^-}\nBe(OH)_2(s) \\xrightarrow{OH^-} [Be(OH)_4]^{2-} (aq).\nBeryllium is a poor reducing agent, and does not dissolve in ammonia to give blue reducing solutions.\n17.3.2.6 Calcium oxide (CaO)\nManufacture of CaO\nCaO (quick lime) is manufactured in enormous quantities (126 million tonnes in 1988) by roasting CaCO&lt;sub&gt;3&lt;/sub&gt; in lime Kiln.\nCaCO_3 \\xrightarrow{heat} CaO + CO_2\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "2[Be(H_2O)_4]^{2+} \\xrightarrow{H_2O} 2H_3O^+ + [(H_2O)_3BeOBe(H_2O)_3]^{2+} \\xrightarrow{OH^-}\nBe(OH)_2(s) \\xrightarrow{OH^-} [Be(OH)_4]^{2-} (aq).",
+        "CaCO_3 \\xrightarrow{heat} CaO + CO_2"
+      ]
+    },
+    {
+      "page_no": 24,
+      "text": "CaO reacts exothermally with water, forming hydroxide\nCaO + H_2O \\longrightarrow Ca(OH)_2\nCa(OH)&lt;sub&gt;2&lt;/sub&gt; is called slaked lime\nCa(OH)_2 + CO_2 \\longrightarrow CaCO_3\n17.3.2.7 CaCO&lt;sub&gt;3&lt;/sub&gt; Calcium Carbonate\nCaCO&lt;sub&gt;3&lt;/sub&gt; occurs in two different crystalline forms, calcite and aragonite. Both forms occur naturally as minerals. Calcite is the more stable: each Ca&lt;sup&gt;2+&lt;/sup&gt; is surrounded by six oxygen atoms from CO&lt;sub&gt;3&lt;/sub&gt; &lt;sup&gt;2-&lt;/sup&gt; ions. Aragonite is a metastable form, and its standard enthalpy of formation is about 5 kJ mol&lt;sup&gt;-r&lt;/sup&gt; higher than that of calcite. In principle aragonite should decompose to calcite, but a high energy of activation prevents this happening. Aragonite can be made in the laboratory by precipitating from a hot solution. Its crystal structure has Ca &lt;sup&gt;2+&lt;/sup&gt; surrounded by nine oxygen atoms. This is a rather unusual coordination number.\nUses of Lime:\n17.3.2.8 Biological Role of Mg&lt;sup&gt;2+&lt;/sup&gt; and Ca&lt;sup&gt;2+&lt;/sup&gt;\nMg ^{2+} ions are concentrated in animal cells, and Ca ^{2+} are concentrated in the body fluids outside the cell. They are also essential for the transmission of impulses along nerve fibres. Mg^{2+} is important in chlorophyll, in the green parts of plants. Ca^{2+} is important in bones and teeth as apatite Ca_3(PO_4)_2, and the enamel on teeth as fluoroapatite [3(Ca_3(PO_4)_2) • CaF_2]. Ca^{2+} ions are important in blood clotting, and to maintain the regular beating of the heart.\nWHAT YOU HAVE LEARNT\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "CaO + H_2O \\longrightarrow Ca(OH)_2",
+        "Ca(OH)_2 + CO_2 \\longrightarrow CaCO_3"
+      ]
+    },
+    {
+      "page_no": 25,
+      "text": "ទំវ៉ា\nTERMINAL EXERCISE\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 26,
+      "text": "ANSWERS TO INTEXT QUESTIONS\n17.1\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 27,
+      "text": "17.2\n2KMnO_4 + 3H_2SO_4 + 5H_2O_2 \\rightarrow 2MnSO_4 + K_2SO_4 + 8H_2O + 5O_2\nMn(+7) is reduced to Mn(+2)\n17.3\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "2KMnO_4 + 3H_2SO_4 + 5H_2O_2 \\rightarrow 2MnSO_4 + K_2SO_4 + 8H_2O + 5O_2"
+      ]
+    }
+  ]
+}

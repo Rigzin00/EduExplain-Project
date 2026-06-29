@@ -1,0 +1,433 @@
+{
+  "extraction_backend": "marker",
+  "language": null,
+  "has_equations": true,
+  "source_pdf": "/content/drive/MyDrive/openstax/NIOS/Chemistry/313_Chemistry_Eng_Lesson13.pdf",
+  "pages": [
+    {
+      "page_no": 1,
+      "text": "13\nMODULE - 5\nChemical Dynamics\nELECTROCHEMISTRY\nElectrochemistry deals with the conversion of electrical energy into chemical energy and vice versa. When electric current is passed through an aqueous solution of certain substances or through molten salts, it causes a chemical reaction to occur. On the other hand, in dry cells, button cells or lead acid batteries chemical reactions occur which produce electrical energy. In this lesson you will study some aspects of these processes.\nOBJECTIVES\nAfter reading this lesson you will be able to:",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 2,
+      "text": "Chemical Dynamics\nElectrochemistry\n13.1 OXIDATION AND REDUCTION AS ELECTRON TRANSFER PROCESS\nOxidation and reduction reactions constitute a very important class of chemical reaction. The electronic concept looks at oxidation and reduction in terms of electron transfer: process in which an atom or ion looses one or more electron to the other is called oxidation and the process in which an atom or ion gains one or more electron is termed as reduction. In the formation of NaCl from Na and Cl\nNa \\rightarrow Na^+ + e^- (loss of e^- by Na; oxidation)\nCl + e^- \\rightarrow Cl^- (gain of e^- by Cl; reduction)\nSodium undergoes oxidation and chlorine undergoes reduction. Here, sodium helps chlorine to undergo reduction and therefore it is called a reducing agent or reductant.\nA reductant is a species in a chemical reaction which looses its electron to another reactant. Chlorine, on the other hand accepts electron, therefore it is an oxidising agent or oxidant. An oxidant is a species which accepts electrons in a chemical reaction.\nIt may be noted that oxidation and reduction processes do not take place independently but occur simultaneously and are thus called oxidation-reduction reaction or redox reactions. A redox reaction is a sum of oxidation and reduction half reactions in a chemical reaction\n13.2 OXIDATION NUMBER\nIt is easy to identify species undergoing oxidation or reduction in simple molecules. However, in polyatomic molecules, it is difficult to do the same. In the example of NaCl taken earlier it was easy to identify as sodium undergoing oxidation and chlorine undergoing reduction but in the reaction involving ferrous sulphate with potassium permanganate (KMnO&lt;sub&gt;4&lt;/sub&gt;) it is difficult. Therefore, a new term called Oxidation number has been introduced, Oxidation number is the apparent charge which an atom appears to have when each pair of electrons is counted with more electronegative atom. Oxidation number is always assigned to an atom. It is a number written with +ve or – ve sign. The number indicates the number of electrons that has been shifted from an atom towards a more electro-negative atom, in a hetronuclear covalent bond. The +ve sign for the atom shifting its electron away from itself and –ve is given to more electro –ve atom. The concept of Oxidation Number is based on the assumption that in a polyatomic covalent bonding, shared pair of electrons belongs to more electro–ve atom. Oxidation state (OS) is also used for Oxidation Number.",
+      "markdown": null,
+      "equations": [
+        "Na \\rightarrow Na^+ + e^- (loss of e^- by Na; oxidation)",
+        "Cl + e^- \\rightarrow Cl^- (gain of e^- by Cl; reduction)"
+      ]
+    },
+    {
+      "page_no": 3,
+      "text": "13.2.1 Rules for Assigning Oxidation Number\nThere are certain rules that are followed for computing the oxidation number of an atom in a molecule or ion.\nLet us illustrate the above rules taking few examples. The oxidation number of S, N and Cl atoms in : (a) H_2SO_4 (b) NO_3^- (c) ClO_4^- respectively will be calculated as\n+2 + x - 8 = 0\nx = +6\nTherefore oxidation number of sulphur in H_2SO_4 is + 6.\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "+2 + x - 8 = 0",
+        "x = +6"
+      ]
+    },
+    {
+      "page_no": 4,
+      "text": "Chemical Dynamics\nElectrochemistry\n(b) NO_3^- first assign -2 oxidation number to each O atom. Here the sum of the oxidation number of all the atoms will equal to charge present on the ion.\n\\therefore x - 6 = -1\nx = +5\noxidation number of N is +5.\n(c) In ClO_4^- x - 8 = -1\nx = +7\n13.3 BALANCING REDOX REACTION\nThe redox reaction can be balanced by any of the following methods:\n13.3.1 Balancing by Oxidation Number method\nThe steps involved in balancing redox reactions by this method are as follows:",
+      "markdown": null,
+      "equations": [
+        "\\therefore x - 6 = -1\nx = +5",
+        "(c) In ClO_4^- x - 8 = -1x = +7"
+      ]
+    },
+    {
+      "page_no": 5,
+      "text": "9. In the basic medium by add required number of negative charges by adding required number of OH&lt;sup&gt;-&lt;/sup&gt; ions to the side deficient in the magnitude of charges, then add H&lt;sub&gt;2&lt;/sub&gt;O molecules to balance OH&lt;sup&gt;-&lt;/sup&gt; ions.\nFor example: When Phosphorus is treated with nitric acid, nitric oxide is formed.\n1. The skeletal equation is\nP + HNO_3 \\longrightarrow HPO_3 + NO + H_2O\n2. Write the oxidation number of each atom on the given skeletal equation\n\\stackrel{0}{P} + \\stackrel{+1+5-2}{HNO_3} \\longrightarrow \\stackrel{+1+5-2}{HPO_3} + \\stackrel{+2-2}{NO} + \\stackrel{+1-2}{H_2O}\n3. P and N are undergoing change in Oxidation Number.\n\\begin{array}{c|c}\n &amp; &amp; &amp; &amp; \\\\\nP + HNO_3 &amp; \\xrightarrow{\\text{increase in ON} = 5} &amp; &amp; &amp; &amp; \\\\\n&amp; &amp; &amp; &amp; &amp; \\\\\n&amp; &amp; &amp; &amp; &amp; \\\\\n&amp; &amp; &amp; &amp;\n4. Equating the increase and decrease in Oxidation Number of P and N on the reactant side\n3P + 5HNO_3 \\longrightarrow HPO_3 + NO + H_2O\n5. Balance the P and N atoms on both sides of the equation\n3P + 5HNO_3 \\longrightarrow 3HPO_3 + 5NO + H_2O\n6. O and H are already balanced in the equation.\n13.3.2 Balancing by Ion Electron Method\nThis method is based on the principle that electrons lost during oxidation half reaction is equal to the electrons gained in the reduction half reaction. The steps involved are\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "P + HNO_3 \\longrightarrow HPO_3 + NO + H_2O",
+        "\\stackrel{0}{P} + \\stackrel{+1+5-2}{HNO_3} \\longrightarrow \\stackrel{+1+5-2}{HPO_3} + \\stackrel{+2-2}{NO} + \\stackrel{+1-2}{H_2O}",
+        "\\begin{array}{c|c}\n &amp; &amp; &amp; &amp; \\\\\nP + HNO_3 &amp; \\xrightarrow{\\text{increase in ON} = 5} &amp; &amp; &amp; &amp; \\\\\n&amp; &amp; &amp; &amp; &amp; \\\\\n&amp; &amp; &amp; &amp; &amp; \\\\\n&amp; &amp; &amp; &amp;",
+        "3P + 5HNO_3 \\longrightarrow HPO_3 + NO + H_2O",
+        "3P + 5HNO_3 \\longrightarrow 3HPO_3 + 5NO + H_2O"
+      ]
+    },
+    {
+      "page_no": 6,
+      "text": "Chemical Dynamics\nElectrochemistry\n13.3.3 Example of Balancing\nExample 13.1: Balance the following skeletal reaction by ion electron method\nCr_2O_7^{2-} + Fe^{2+} \\longrightarrow Cr^{3+} + Fe^{3+} in acid medium\nRefering to the rules given:\nStep I and II\nWrite the oxidation number of the atoms above their symbol in the skeletal equation\nCr_2 O_7^{2-} + Fe^{2+} \\longrightarrow Cr^{3+} + Fe^{3+}\nStep III: Oxidation number of Fe&lt;sup&gt;2+&lt;/sup&gt; is increasing; therefore it is undergoing oxidation and oxidation number of Cr is decreasing so it is undergoing reduction.\nStep IV: Split the reactions in two half reactions\n(a) Reduction half reaction\nCr_2O_7^{2-} \\longrightarrow Cr^{3+}\n(b) Oxidation half reaction\nFe^{2+} \\longrightarrow Fe^{3+}\nBalance the first reduction half reaction\nCr_2O_7^{2-} \\longrightarrow Cr^{3+}\nStep V: Balance the atoms undergoing change in Oxidation Number.\nCr_2O_7^{2-} \\longrightarrow 2Cr^{3+}\n358",
+      "markdown": null,
+      "equations": [
+        "Cr_2O_7^{2-} + Fe^{2+} \\longrightarrow Cr^{3+} + Fe^{3+} in acid medium",
+        "Cr_2 O_7^{2-} + Fe^{2+} \\longrightarrow Cr^{3+} + Fe^{3+}",
+        "Cr_2O_7^{2-} \\longrightarrow Cr^{3+}",
+        "Fe^{2+} \\longrightarrow Fe^{3+}",
+        "Cr_2O_7^{2-} \\longrightarrow 2Cr^{3+}"
+      ]
+    },
+    {
+      "page_no": 7,
+      "text": "Step VI &amp; VII : Write the total number of electron transfer taking place. Here each atom undergoes change in ON by 3 therefore two Cr atoms undergoes change in Oxidation Number by 6.\nCr_2O_7^{2-} + 6e \\longrightarrow 2Cr^{3+}\nStep VIII: Balance the charge by adding H&lt;sup&gt;+&lt;/sup&gt; on the left side\nCr_2O_7^{2-} + 6e + 14H^+ \\longrightarrow 2Cr^{3+}\nStep IX: Balance the H and O by adding H&lt;sub&gt;2&lt;/sub&gt;O on either side\nCr_2O_7^{2-} + 6e + 14H^+ \\longrightarrow 2Cr^{3+} + 7H_2O\nBalancing the oxidation half reaction\nAccording the steps as followed for reduction half reaction\nFe^{2+} \\longrightarrow Fe^{3+}\n(i) Atoms are balanced on both side so we go to next step, that is number of electron transfer taking place\nFe^{2+} \\longrightarrow Fe^{3+} + e.\n(ii) Balance the charge and it is balanced.\nStep X: Add the two half reactions\nFe^{2+} \\longrightarrow [Fe^{3+} + e] \\times 6\nCr_2O_7^{2-} + 14H^+ + 6e^- \\longrightarrow 2Ca^{3+} + 7H_2O\nCr_2O_7^{2-} + 6Fe^{2+} + 14H^+ \\longrightarrow 2Cr^{3+} + 6Fe^{3+} + 7H_2O\nINTEXT QUESTIONS 13.1\n1. Determine the Oxidation number of element in the bold letter in the following:\n\\begin{array}{cccccccccccccccccccccccccccccccccccc\nH_2S + HNO_3 \\longrightarrow NO + S + H_2O\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "Cr_2O_7^{2-} + 6e \\longrightarrow 2Cr^{3+}",
+        "Cr_2O_7^{2-} + 6e + 14H^+ \\longrightarrow 2Cr^{3+}",
+        "Cr_2O_7^{2-} + 6e + 14H^+ \\longrightarrow 2Cr^{3+} + 7H_2O",
+        "Fe^{2+} \\longrightarrow Fe^{3+}",
+        "Fe^{2+} \\longrightarrow Fe^{3+} + e.",
+        "Fe^{2+} \\longrightarrow [Fe^{3+} + e] \\times 6\nCr_2O_7^{2-} + 14H^+ + 6e^- \\longrightarrow 2Ca^{3+} + 7H_2O\nCr_2O_7^{2-} + 6Fe^{2+} + 14H^+ \\longrightarrow 2Cr^{3+} + 6Fe^{3+} + 7H_2O",
+        "H_2S + HNO_3 \\longrightarrow NO + S + H_2O"
+      ]
+    },
+    {
+      "page_no": 8,
+      "text": "Chemical Dynamics\nElectrochemistry\n4. Write the half reaction for the following\n2I_{(aq)}^{-} + 2Fe_{(aq)}^{3+} \\longrightarrow I_{2}(s) + 2Fe^{2+}(aq)\nMg(s) + CI_2(g) \\longrightarrow MgCI_2(s)\nI_2 + HNO_3 \\longrightarrow HIO_3 + NO_2 + H_2O_3\n5. Balance the equation by oxidation number method\nCuO + NH_3 \\longrightarrow Cu + N_2 + H_2O\nMnO_4 + HCl \\longrightarrow MnCl_2 + C_2 + H_2O\n6. Balance the following by ion eelctro half reaction method\nNO_3^- + Bi \\longrightarrow Bi^{3+} + NO_2 acidic medium\nM_{s}O_{4} + Fe^{2+} \\longrightarrow Mn^{2+} + Fe^{3+} acidic medium\n\\operatorname{Cr}_{2}\\operatorname{O}_{7}^{2-} + \\operatorname{F}e^{2+} \\longrightarrow \\operatorname{F}e^{3} + \\operatorname{C}r^{3+} acidic medium\nAl + NO_3^- \\longrightarrow Al (OH)_4^- + NH_3 basic medium\n13.4 ELECTROLYTIC CONDUCTION\nWhen electricity is passed through an aqueous solution, it may or may not conduct current. The chemical substances whose aqueous solutions conduct electricity are called electrolytes and those which do not conduct current are called as non-electrolytes. This phenomenon of conduction of current through a solution is called electrolytic conduction.\nElectrolytic conduction takes place due to the movement of cations and anions in a solution. The electrical conductance of a solution, depends upon (a) nature of solute (b) valency of its ion, (c) the concentration in solution and (d) the temperature. In this section we will learn about various ways of expressing the conductance of electrolytes and the factors affecting them.\n13.4.1 Conductance and Conductivity\nLike solid conductors, electrolytic solutions also obey Ohm's Law. When a current of I amperes flows through a solution which offers a resistance of R ohms and a potential difference of V volts is applied, then according to ohm's law\nV = I . R",
+      "markdown": null,
+      "equations": [
+        "2I_{(aq)}^{-} + 2Fe_{(aq)}^{3+} \\longrightarrow I_{2}(s) + 2Fe^{2+}(aq)",
+        "Mg(s) + CI_2(g) \\longrightarrow MgCI_2(s)",
+        "I_2 + HNO_3 \\longrightarrow HIO_3 + NO_2 + H_2O_3",
+        "CuO + NH_3 \\longrightarrow Cu + N_2 + H_2O",
+        "MnO_4 + HCl \\longrightarrow MnCl_2 + C_2 + H_2O",
+        "NO_3^- + Bi \\longrightarrow Bi^{3+} + NO_2 acidic medium",
+        "M_{s}O_{4} + Fe^{2+} \\longrightarrow Mn^{2+} + Fe^{3+} acidic medium",
+        "\\operatorname{Cr}_{2}\\operatorname{O}_{7}^{2-} + \\operatorname{F}e^{2+} \\longrightarrow \\operatorname{F}e^{3} + \\operatorname{C}r^{3+} acidic medium",
+        "Al + NO_3^- \\longrightarrow Al (OH)_4^- + NH_3 basic medium",
+        "V = I . R"
+      ]
+    },
+    {
+      "page_no": 9,
+      "text": "or\nIf the solution is taken in a conductivity cell which has two parallel electrodes l cm apart and each having an area of cross section A cm&lt;sup&gt;2&lt;/sup&gt;, the resistance R of the electrolyte is found to be directly proportional to l and inversely proportional to A i.e.\nR \\propto \\frac{l}{A} R = \\rho \\cdot \\frac{l}{A} \\qquad ....(i)\nWhere \\rho \"rho\" is a constant of proportionality and is called specific resistance or resistivity. It is characteristic of the nature of electrolyte, its concentration and temperature.\nIn case of solutions, it is preferred to discuss their conductance and conductivity rather than their resistance and specific resistance. The conductance is reciprocal of resistance and the conductivity is reciprocal of specific resistance.\nConductance is denoted by L and is measured in the unit of ohm&lt;sup&gt;-1&lt;/sup&gt; which has now been named as siemens, S. The conductivity is denoted by k \"kappa\". Thus by definition\nL = \\frac{1}{R} and k = \\frac{1}{\\rho} ...(ii)\nThe units of k can be worked out from relation (i) as under:\nThe inverse of (i) is,\nor \\frac{1}{R} = \\frac{1}{\\rho} \\cdot \\frac{A}{l}\nL = k \\frac{A}{l}\nand k = L \\frac{l}{A}\n= S \\frac{cm}{cm^2}\n= S cm^{-1}\nThe conductivity (K) is expressed in S cm&lt;sup&gt;-1&lt;/sup&gt; or 100 S m&lt;sup&gt;-1&lt;/sup&gt;.\n13.4.2 Measurement of Conductance\nThe conductance of an electolyte is measured with the help of a conductivity cell. Conductivity cell is a device which has two parallel platinum electrodes coated with platinum black.\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "R \\propto \\frac{l}{A} R = \\rho \\cdot \\frac{l}{A} \\qquad ....(i)",
+        "L = \\frac{1}{R} and k = \\frac{1}{\\rho} ...(ii)",
+        "or \\frac{1}{R} = \\frac{1}{\\rho} \\cdot \\frac{A}{l}\nL = k \\frac{A}{l}\nand k = L \\frac{l}{A}\n= S \\frac{cm}{cm^2}\n= S cm^{-1}"
+      ]
+    },
+    {
+      "page_no": 10,
+      "text": "Chemical Dynamics\nElectrochemistry\nThe SI unit of length is metre, hence SI unit of conductivity (K) is Sm&lt;sup&gt;-1&lt;/sup&gt;, but the commonly used unit\nis Scm&lt;sup&gt;-1&lt;/sup&gt;. In the expression for conductivity, \\frac{\\ell}{A} is a constant. Here l represents the distance between the two parallel electrodes and A represents the area of cross section of the electrodes. Thus for a given\nconductivity cell, \\frac{\\ell}{A} is a constant called cell constant.\nK (conductivity) = conductance \\times cell constant\nThe conductivities of some substances are given in the table.\nWe find from the table that the conductivities of metals are very high and that of pure water and glass very low.\n13.4.3 Molar Conductivity\nThe electrolytic conductivity of a solution depends on the concentration of the electrolyte in the solution. Therefore, the conductivity of an electrolyte is normally expressed as molar conductivity.\nMolar conductivity is the conducting power of all the ions furnished by one mole of an electrolyte in a solution of specified concentration.\nIt is denoted by \\lambda_m and is related to K by the relation.\n\\lambda_{_{m}} = \\frac{1000 \\text{ K}}{\\text{M}} \\qquad \\qquad \\dots \\dots (vi)\nWhere M is the molarity of the solution. Its units are S cm&lt;sup&gt;2&lt;/sup&gt; mol&lt;sup&gt;-1&lt;/sup&gt;.\n13.5 FACTORS AFFECTING CONDUCTIVITY\nAs mentioned the conductivity of an electrolyte depends upon the following aspects of the electrolyte.",
+      "markdown": null,
+      "equations": [
+        "\\lambda_{_{m}} = \\frac{1000 \\text{ K}}{\\text{M}} \\qquad \\qquad \\dots \\dots (vi)"
+      ]
+    },
+    {
+      "page_no": 11,
+      "text": "(c) Concentration:\n(i) Variation of conductivity (k) with concentration. When the solution is diluted its conductivity also decreases. It is because k is the conducting power of all the ions present per cm&lt;sup&gt;3&lt;/sup&gt; of the solution. When the solution is diluted the number of ions per cm&lt;sup&gt;3&lt;/sup&gt; also decreases, hence k decreases.\n(ii) Variation of Molar and Equivalent conductivity with concentration: As the solution is diluted its molar conductivity increases. Am is given as\n\\lambda m = \\frac{1000k}{M}\nwhere k is conductivity and M is molar concentration.\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "\\lambda m = \\frac{1000k}{M}"
+      ]
+    },
+    {
+      "page_no": 12,
+      "text": "Chemical Dynamics\nThis increase in \\lambdam is a resultant of two factors. On decreasing the concentration both k and M decreases. Of the two (k) tries to decrease \\lambdam while the other factor (M) tries to increase it. Since the decrease in M is much more, the net result is that \\lambdam increases. However, strong and weak electrolyte as show different type of behaviour on dilution (Fig. 13.3)\nFrom the Fig. 13.3 we find that the increase in molar conductivity for a strong electrolyte like KCl is very gradual on dilution and also the value is high at all concentrations. Whereas for a weak electrolyte like CH_3COOH, there is a gradual increase in \\lambda m on dilution which is followed by a sharper increase on further dilution. These observations can be explained as: since KCl is a strong electrolyte, it is fully dissociated at all concentrations. In concentrated solution, attraction between opposite ions is large and their conducting ability is less. On dilution inter-ionic forces decrease and ions can move faster leading to the increase in molar conductivity.\nOn the other hand, in weak electrolytes, molar conductivity is low in concentrated solution. This is due to partial dissociation (ionisation) of weak electrolytes. On diluting the solution the degree of ionisation increases, which increases the number of ions. This leads to a sharp increase in molar conductivity in weak electrolytes.\n13.5.1 Kohlrausch's Law\nKohlrausch determined the molar conductivity at infinite dilution for a large number of strong electrolytes. On the basis of his observations he concluded that at infinite dilution, each ion makes a definite contribution to the total molar conductivity of an electrolyte. This individual contribution is called molar ionic conductivity. He generalised his observations as\n\"At infinite dilution each ion of the electrolyte makes a definite contribution towards conductivity of the electrolyte and it is independent of the presence of other ions of the electrolyte.\" This is called Kohlrausch's Law of independent migration of ions.",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 13,
+      "text": "For a salt like KCl, molar conductivity at infinite dilution can be written as\n\\lambda_m^{\\infty} \\text{ KCl} = \\lambda_m^{\\infty} \\text{ K}^+ + \\lambda_m^{\\infty} \\text{ Cl}^-\nIn general for a salt of formula A_x B_y the molar conductivity at infinite dilution is written as\n\\lambda_m^{\\infty} (\\mathbf{A}_x \\mathbf{B}_y) = \\mathbf{X} \\ \\lambda_m^{\\infty} (\\mathbf{A}^{y+}) + \\mathbf{y} \\ \\lambda_m^{\\infty} (\\mathbf{B}^{x-})\nwhere \\lambda_m^{\\infty} indicates molar conductivity at infinite dilution. This law is used to calculate the molar conductivity at infinite dilution for weak electrolytes whose \\lambda_m^{\\infty} can not be obtained graphically.\nExample 13.2: \\Lambda^0 for NaCl, HCl and CH&lt;sub&gt;3&lt;/sub&gt;COONa are 126.0, 426.0 and 91.0 S cm&lt;sup&gt;2&lt;/sup&gt; mol&lt;sup&gt;-1&lt;/sup&gt; respectively. Calculate \\Lambda^0 for CH&lt;sub&gt;3&lt;/sub&gt;COOH.\nSolution \\Lambda^0 \\text{CH}_3 \\text{COOH} = \\lambda^0 (\\text{H}^+) + \\lambda^0 (\\text{CH}_3 \\text{COO}^-)\n\n= \\lambda^0 (\\text{H}^+) + \\lambda^0 (\\text{Cl}^-) + \\lambda^0 (\\text{Na}^+) + \\lambda^0 (\\text{CH}_3 \\text{COO}^-) - \\lambda^0 (\\text{Na}^+) - \\lambda^0\n\n= 426.0 + 91.0 - 126.0 = 391.0 \\text{ S cm}^2 \\text{ mol}^{-1}.\nINTEXT QUESTION 13.2\n13.6 ELECTRO CHEMICAL CELLS\nAn electrochemical cell is a device used for the interconversion of electrical and chemical energy. An electrochemical cell contains two electrodes (cathode and anode) and an electrolyte.\nThese are of two types; based on the nature of conversion of energies\n(a) Electrolytic cell (Faradaic cell)\nIn electrochemical cells, a battery is used to carry out redox reactions on the electrodes of the cell. Thus, these cells convert electrical energy into chemical energy.\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "\\lambda_m^{\\infty} \\text{ KCl} = \\lambda_m^{\\infty} \\text{ K}^+ + \\lambda_m^{\\infty} \\text{ Cl}^-",
+        "\\lambda_m^{\\infty} (\\mathbf{A}_x \\mathbf{B}_y) = \\mathbf{X} \\ \\lambda_m^{\\infty} (\\mathbf{A}^{y+}) + \\mathbf{y} \\ \\lambda_m^{\\infty} (\\mathbf{B}^{x-})",
+        "Solution \\Lambda^0 \\text{CH}_3 \\text{COOH} = \\lambda^0 (\\text{H}^+) + \\lambda^0 (\\text{CH}_3 \\text{COO}^-)\n= \\lambda^0 (\\text{H}^+) + \\lambda^0 (\\text{Cl}^-) + \\lambda^0 (\\text{Na}^+) + \\lambda^0 (\\text{CH}_3 \\text{COO}^-) - \\lambda^0 (\\text{Na}^+) - \\lambda^0\n= 426.0 + 91.0 - 126.0 = 391.0 \\text{ S cm}^2 \\text{ mol}^{-1}."
+      ]
+    },
+    {
+      "page_no": 14,
+      "text": "Chemical Dynamics\nElectrochemistry\n(b) Galvanic cell (Voltaic cell)\nIn galvanic cells an emf is developed as a result of radox reaction occuring on the electrodes. These cells convert chemical energy into electrical energy.\n13.7 ELECTROLYTIC CELLS OR RARADAIC CELLS\nAn electrolytic cell consists of two electrodes connected to a battery as shown in Fig 13.4.\nIn an electrolytic cell electrical energy is converted into chemical energy. The process of decomposition of an electrolyte into its ions when an electric current is passed through it, is called electrolysis.\nWhen electricity is passed through an electrolyte, a chemical change i.e. decomposition of the electrolyte into ions takes place at the electrode. Oxidation and reduction reactions occur in the cell.\nIn the electrical field Cl&lt;sup&gt;-&lt;/sup&gt; ions migrate to the +ve electrode (anode) and undergo oxidation by loosing electrons. Na+ ions will go to -ve electrode (cathode) and undergo reduction.\nThe process can be represented as:\noxidation at anode Cl^- \\longrightarrow Cl + e^- Cl + Cl \\longrightarrow Cl_2(g)\nand reduction at cathode, Na^+ + e^- \\longrightarrow Na.\n13.7.1 Faraday's Laws of Electrolysis\nMichael Faraday studied the quantitative aspects of electrolysis and expressed the results of his study in the form of the following two laws which are known as the Faraday's laws of electrolysis.",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 15,
+      "text": "(I) Faraday's First Law of Electrolysis\nIt states that the mass of a substance liberated during electrolysis is directly proportional to the quantity of electricity passed through the electrolyte taken as a solution or as melt.\nMathematically, if w is the mass of a substance liberated or discharged on passing O coulomb of electricity\nw \\propto Q and w = zQ \\tag{1}\nwhere z, the constant of proportionality is called electrochemical equivalent of the substance\nThe quantity of electricity passed, Q, is related to the strength of the current passed in amperes I, and the time in seconds, t.\nQ = I.t\nw = zIt \\tag{2}\nElectrochemical equivalent, z, of a substance is its mass liberated or deposited on passing 1 coulomb (Q = 1) charge or one ampere (I = 1) current for one second (t = 1).\n(II) Faraday's Second Law of Electrolysis\nThis law relates the masses of different substances liberated or discharged by passing the same amount of electricity. It states that when the same quantity of electricity is passed through different electrolytes (taken in different electrolytic cells which are connected in series) the masses of different substances liberated are proportional to their chemical equivalent masses. Equivalent mass of any substance undergoing a redox reaction (oxidation or reduction) is related to its molar mass as.\nEquivalent mass = \\frac{\\text{Molar mass}}{\\text{Number of electrons last or gained}}\nLet w_A and w_B be the masses of two substances liberated in two electrolytic cells connected in series, then:\n\\frac{w_{A}}{w_{B}} = \\frac{\\text{Equivalent mass of A}}{\\text{Equivalent mass of B}}.\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "w \\propto Q and w = zQ \\tag{1}",
+        "Q = I.t\nw = zIt \\tag{2}",
+        "Equivalent mass = \\frac{\\text{Molar mass}}{\\text{Number of electrons last or gained}}",
+        "\\frac{w_{A}}{w_{B}} = \\frac{\\text{Equivalent mass of A}}{\\text{Equivalent mass of B}}."
+      ]
+    },
+    {
+      "page_no": 16,
+      "text": "Chemical Dynamics\nElectrochemistry\nExample 13.3: What is the mass of silver deposited when 500 coulomb electricity is passed through a solution of AgNO_3? (Atomic mass of Ag = 108  u)\nSolution:\nSilver is deposited on cathode according the reaction\nAg^{+}(aq) + e^{-} \\rightarrow Ag(s)\n1 mol 1 F 1 mol\n96500 C 108 g\nThus, 1 mole of electrons (1 Faraday) or 96500 coulombs of electricity are required to produce 108 g of silver\n96500 C produce 108 g of Ag\n500 C would produce \\frac{108 \\times 500}{96500} = 0.56g of Ag\nExample 13.4: On passing electric current for some time, it was found that 32.4 g Ag had deposited on cathode in a cell filled with AgNO&lt;sub&gt;3&lt;/sub&gt;. How much would a copper cathode of another electrolytic cell containg CuSO&lt;sub&gt;4&lt;/sub&gt; solution weigh after the electrolysis if it was connected in series to the AgNO&lt;sub&gt;3&lt;/sub&gt; cell? The mass of the copper cathode before electrolysis was 27.33 g, Equivalent masses:\nAg = 108 g; Cu = 31.75 g\nSolution:\nAccording to the Faraday's second law of electrolysis\n\\frac{\\text{Mass of copper deposited}}{\\text{Mass of silver deposited}} = \\frac{\\text{Equivalent mass of copper}}{\\text{Equivalent mass of silver}}\n\\frac{\\text{Mass of copper deposited}}{32.4 \\text{ g}} = \\frac{31.75 \\text{ g}}{108 \\text{ g}}\nMass of copper deposited = \\frac{31.75 \\text{ g} \\times 32.4 \\text{ g}}{108 \\text{ g}} = 9.53 \\text{ g}\nMass of copper cathode before electrolysis = 27.33g\nMass of copper cathode after electrolysis = 27.33 + 9.53\n= 36.86 g",
+      "markdown": null,
+      "equations": [
+        "Ag^{+}(aq) + e^{-} \\rightarrow Ag(s)\n1 mol 1 F 1 mol\n96500 C 108 g",
+        "500 C would produce \\frac{108 \\times 500}{96500} = 0.56g of Ag",
+        "Ag = 108 g; Cu = 31.75 g",
+        "\\frac{\\text{Mass of copper deposited}}{32.4 \\text{ g}} = \\frac{31.75 \\text{ g}}{108 \\text{ g}}",
+        "Mass of copper deposited = \\frac{31.75 \\text{ g} \\times 32.4 \\text{ g}}{108 \\text{ g}} = 9.53 \\text{ g}",
+        "= 36.86 g"
+      ]
+    },
+    {
+      "page_no": 17,
+      "text": "13.7.2 Products of Electrolysis\nDuring electrolysis, cations are reduced at cathode and anions are oxidized at anode and a chemical reaction occurs in a non-spontaneous direction. The minimum potential required for any electrode process to occur is called its discharge potential or decomposition potential. Discharge potential is equal to the electrode potential for cathodic (reduction) process and equal in magnitude but opposite in sign to the electrode potential for anodic (oxidation) process. At any electrode that process (oxidation or reduction) would occur which is the easiest. The reduction of that ion would occur which has highest reduction potential and the oxidation of that ion would occur which has the smallest reduction potential in highest oxidation potential.\nIn many cases, the actual discharge potential exceeds the expected value. The difference between the two is known as over potential. Over potential is commonly observed when gaseous products are formed and depends upon the nature of cathode. Over potential for the discharge of H_2 gas is zero on a platinum cathode but it is 1.5 V on mercury cathode. Due to over potential the process which occur may not be the one which otherwise is the easiest. Let us take some, examples now.\n1. Electrolysis of molten NaCl (Pt electrodes).\nMolten NaCl furnishes its own cations and anions\nNaCl(1) \\rightarrow Na^+ + Cl^-\nSo only one process is possible at anode and cathode\nAnodic process (oxidation): 2Cl^- \\rightarrow Cl_2(g) + 2e^-\nCathodic process (reduction): 2Na^+ + 2e^- \\rightarrow 2Na(1)\n2. Electrolysis of aqueous NaCl (Pt electrodes)\nDissolved NaCl ionizes in its solution as\nNaCl(aq) \\rightarrow Na^{+}(aq) + Cl^{-}(aq)\nAt Cathode\nAt cathode it is not only Na&lt;sup&gt;+&lt;/sup&gt; ions that can be reduced, but H&lt;sub&gt;2&lt;/sub&gt;O also can be reduced. The two possible reduction processes are:\n(i) Na^+ + e^- \\rightarrow Na E^\\circ = -2.71 \\text{ V}\n(ii) 2H_2O + 2e^- \\rightarrow H_2(g) + 2OH^- E^{\\circ} = -0.83 \\text{ V}\nOut of these, the reduction potential of water is much greater than that of Na&lt;sup&gt;+&lt;/sup&gt;. Therefore only H&lt;sub&gt;2&lt;/sub&gt; gas is evolved at cathode. (However, if mercury cathode\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "NaCl(1) \\rightarrow Na^+ + Cl^-",
+        "NaCl(aq) \\rightarrow Na^{+}(aq) + Cl^{-}(aq)",
+        "(i) Na^+ + e^- \\rightarrow Na E^\\circ = -2.71 \\text{ V}",
+        "(ii) 2H_2O + 2e^- \\rightarrow H_2(g) + 2OH^- E^{\\circ} = -0.83 \\text{ V}"
+      ]
+    },
+    {
+      "page_no": 18,
+      "text": "Chemical Dynamics\nElectrochemistry\nis used, due to large over potential of discharge of H&lt;sub&gt;2&lt;/sub&gt;, Na&lt;sup&gt;+&lt;/sup&gt; ions are reduced and Na is produced which reacts with water to produce NaOH and H&lt;sub&gt;2&lt;/sub&gt;. It is used for manufacture of NaOH)\nAt anode\nAt anode, Cl&lt;sup&gt;-&lt;/sup&gt; ions and H&lt;sub&gt;2&lt;/sub&gt;O both can get oxidized:\n(iii) 2Cl^{-} \\rightarrow Cl_{2}(g) + 2e^{-} E^{\\circ} = -1.36 \\text{ V}\n(iv) 2H_2O \\rightarrow O_2(g) + 4H^+ + 4e^- E^\\circ = -1.23 \\text{ V}\nOxidation potential of water is slightly greater than that of Cl&lt;sup&gt;-&lt;/sup&gt; so its oxidation should be easier. But due to over potential for discharge of O&lt;sub&gt;2&lt;/sub&gt;, it becomes more difficult and Cl&lt;sub&gt;2&lt;/sub&gt; gas is evolved at anode. Thus the electrolysis of aqueous NaCl occurs as:\nAnodic process (oxidation): 2Cl^- \\rightarrow Cl_2(g) + 2e^-\nCathodic process (reduction): 2H_2O + 2e^- \\rightarrow H_2(g) + 2OH^-(aq)\nH&lt;sub&gt;2&lt;/sub&gt; is evolved at cathode and Cl&lt;sub&gt;2&lt;/sub&gt; at anode.\n3. Electrolysis of aqueous CuSO&lt;sub&gt;4&lt;/sub&gt; (Pt electrodes)\nCuSO&lt;sub&gt;4&lt;/sub&gt; ionizes in its aqueous solution as\nCuSO_4(aq) \\to Cu^{2+}(aq) + SO_4^{2-}(aq)\nAt cathode, copper is deposited because reduction of Cu^{2+} is easier than that of water and at anode O_2 is evolved as oxidation of water is easier than that of SO_4^{2-} ions.\nAnodic Process (oxidation): 2H_2O \\rightarrow O_2(g) + 4H_{(aq)}^+ + 4e^-\nCathodic process (reduction): Cu^{2+} + 2e^{-} \\rightarrow Cu(s)\nThus copper is discharged at cathode and O_2(g) at anode.\n4. Electrolysis of aqueous CuSO&lt;sub&gt;4&lt;/sub&gt; (Cu electrodes)\nWhen copper electrodes are used, oxidation of Cu (from electrode) is easier than oxidation of H_2O or SO_4^{2-} ions. However at cathode, reduction of Cu^{2+} ions occurs as the reduction of water is more difficult even on copper electrode\nAnodic process (oxidation): Cu(s) \\rightarrow Cu^{2+}(aq) + 2e^{-}\nCathodic process (reduction): Cu^{2+}(aq) + 2e^{-} \\rightarrow Cu(s)\nThis process is used for electrolytic refining of copper in its metallurgy.",
+      "markdown": null,
+      "equations": [
+        "(iii) 2Cl^{-} \\rightarrow Cl_{2}(g) + 2e^{-} E^{\\circ} = -1.36 \\text{ V}",
+        "(iv) 2H_2O \\rightarrow O_2(g) + 4H^+ + 4e^- E^\\circ = -1.23 \\text{ V}",
+        "CuSO_4(aq) \\to Cu^{2+}(aq) + SO_4^{2-}(aq)"
+      ]
+    },
+    {
+      "page_no": 19,
+      "text": "13.8 GALVANIC CELLS OR VOLTAIC CELLS\nIn such a cell chemical energy is converted into electrical energy. Dry cells, car batteries and button cells used in wrist watches are all examples of this type of cell. They are energy producing devices.\n13.8.1 Redox Reaction and Galvanic Cell\nYou have already learnt that when electricity is passed through a solution, redox reaction takes place. Now we shall learn how redox reaction can be used to produce electricity.\nWhen a Zinc rod is dipped in CuSO&lt;sub&gt;4&lt;/sub&gt; solution, a reaction starts in the solution.\nIt is an example of redox reaction. The two half reactions are\nZn(s) \\longrightarrow Zn^{2+}(aq) + 2e^{-} oxidation\n\nCu^{2+}(aq) + 2e^{-} \\longrightarrow Cu(s) reduction\nIn this redox reaction the electrons given by zinc rod have been directly consumed by Cu^{2+} ion. But, if somehow we make the electrons given by Zinc rod to flow through a wire to reach Cu^{2+} ions, we shall be producing electric current. To do so, the reaction is carried out in the electrochemical cell as shown Fig. 13.6:\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "Zn(s) \\longrightarrow Zn^{2+}(aq) + 2e^{-} oxidation\nCu^{2+}(aq) + 2e^{-} \\longrightarrow Cu(s) reduction"
+      ]
+    },
+    {
+      "page_no": 20,
+      "text": "Chemical Dynamics\nElectrochemistry\nThe redox reaction in the electro chemical cell has been modified Zinc rod is dipped in zinc sulphate solution in one beaker while copper rod is dipped in another beaker containing CuSO&lt;sub&gt;4&lt;/sub&gt; solution. The two solutions are connected through a salt bridge and the two metals are connected to an ammeter with the help of wire. We find electrons move through the wire from zinc to copper rod.\nA metal dipped in its own salt solution is called as half cell. Zinc rod dipped inzinc sulphate solution is oxidation half cell because oxidation takes place.\nZn(s) \\longrightarrow Zn^{2+}(aq) + 2e^{-} (oxidation)\nThe released electrons are taken up by zinc rod and it becomes negatively charged.\nCopper in copper sulphate is reduction half cell. Copper acts as cathode and reduction take place here. Copper rod becomes positively charged. Copper gains electrons and in this process, becmes positively charged.\nCu^{2+}(aq) + 2e \\longrightarrow Cu(s)\nHere the electrons will move from negatively charged electrode to positively charged copper electrode.\nFlow of electrons in the external circuit\nThe electrons released at the anode during oxidation flow through the external circuit and reach the cathode where they are taken up for reduction. Thus in a galvanic cell the electrons always flow from anode to cathode while the conventional positive current flows in the opposite direction i.e. from cathode to anode. Since the electric current always move in a closed circuit salt bridge is used to make electrical contact between the two half cells.\n13.8.2 Salt Bridge\nA salt bridge is a inverted U tube filled with a concentrated solution of an inert electrolyte like KCl or NH&lt;sub&gt;4&lt;/sub&gt;NO&lt;sub&gt;3&lt;/sub&gt; which does not take part in the cell reaction. The electrolyte is taken in the form of solution and mixed with agar-agar. The mixture is heated and filled in the U tube when hot. On cooling it sets into a jelly like mass and does not flow out, during its use. Salt bridge has two functions.\nCations and anions of the salt bridge move into two half cells and neutralise the excess charge. The anions move into oxidation half cell and neutralise the excess charge. The cations move into the reduction half cell and neutralise the charge.\nIn a Daniell cell a salt bridge is replaced by a porous pot, to make the cell more handy to use.",
+      "markdown": null,
+      "equations": [
+        "Zn(s) \\longrightarrow Zn^{2+}(aq) + 2e^{-} (oxidation)",
+        "Cu^{2+}(aq) + 2e \\longrightarrow Cu(s)"
+      ]
+    },
+    {
+      "page_no": 21,
+      "text": "13.8.3 Symbolic Representation of Galvanic Cells\nIn the previous section the cell was a Zn-Cu cell. But any two suitable metals can be used to make the cell and everytime we do not always draw the diagrams showing the cell. It is represented in the symbolic form with the help of standard notation. The rules of notations are as follows:\nZn_{(s)} | Zn^{2+}_{(aq)} (1M)\n3. In the reduction half cell the anion along with its concentration is written first, then vertical line and then the metal\nCu^{2+}_{(aq)}(1M) \\mid Cu_{(s)}\n4. A salt bridge is represented by two vertical lines.\nThus the Galvanic cell described above is written as\n\\begin{split} Zn_{_{(s)}} \\, \\big| \\, Zn^{2+}_{_{(aq)}}(1M) \\, \\big\\| Cu^{2+}_{_{(aq)}}(IM) \\, \\big| \\, Cu_{_{(s)}} \\\\ \\\\ or \\\\ \\\\ Zn \\, \\big| \\, Zn^{2+}_{_{_{(1M)}}} \\, \\big\\| \\, Cu^{2+}_{_{_{(1M)}}} \\, \\big| \\, Cu \\end{split}\n13.9 ELECTRODE POTENTIAL\nMetal atoms have tendency to lose electrons and go into solution as metal ions. Electrode potential is a measure of the tendency of metal atoms to gain or loose electrons when in contact with a solution of its own ions.\nWhen a metal strip M is immersed in a solution of its salt containing ions (M^{n+}), one of the processes as showin in Fig. 13.7 (a) or (b) can occur.\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "Zn_{(s)} | Zn^{2+}_{(aq)} (1M)",
+        "Cu^{2+}_{(aq)}(1M) \\mid Cu_{(s)}",
+        "\\begin{split} Zn_{_{(s)}} \\, \\big| \\, Zn^{2+}_{_{(aq)}}(1M) \\, \\big\\| Cu^{2+}_{_{(aq)}}(IM) \\, \\big| \\, Cu_{_{(s)}} \\\\ \\\\ or \\\\ \\\\ Zn \\, \\big| \\, Zn^{2+}_{_{_{(1M)}}} \\, \\big\\| \\, Cu^{2+}_{_{_{(1M)}}} \\, \\big| \\, Cu \\end{split}"
+      ]
+    },
+    {
+      "page_no": 22,
+      "text": "Chemical Dynamics\nElectrochemistry\n(i) The dissolution process where atoms of metal electrode M may loose some electrons to the electrode and enter the solution as M&lt;sup&gt;n+&lt;/sup&gt;\nM \\rightarrow M^{n+} + ne (metal is oxidised)\nThe metal electrode gets negative charge and the solution gets extra positive charge.\n(ii) The deposition process where metal cations M&lt;sup&gt;n+&lt;/sup&gt; from the solution may come in contact with the metal strip, gain some electrons and get converted into metal atoms M, which get deposited on the surfance of metal strip. Seperation of charges take place and a potential is developed called electrode potential.\nM^{n+} + ne^- \\rightarrow M (the ion is reduced)\nThe electrode reaction reaches an equilibrium as represented below\nM(S) \\xrightarrow{\\text{oxidation}} M^{n+}(aq) + ne^{-}\nElectrode potential is the potential developed at the interface between metal and its salt solution; when a metal is dipped in its own salt solution.\n13.9.1 Standard Electrode Potential\nAn electrode is said to be in the standard state if the concentration of the electrolyte is one molar and the temperature is 298K. Then its electrode potential is called standard electrode potential and denoted by E°. If any gas is used to make the electrode then the pressure of the gas should be 1 bar.\n13.10 MEASUREMENT OF ELECTRODE POTENTIAL\nIt is not possible to measure single electrode potential. It is because the reaction taking place at the electrodes is oxidation or reduction and these reactions do not take place in isolation. It can be measured with respect to a reference electrode. The electrode used as reference electrode is standard hydrogen electrode (SHE).\n13.10.1 Standard Hydrogen Electode\nStandard Hydrogen Electrode (SHE) consists of a container, containing 1M HCl solution kept at 298K. A wire containing Platinum electrode coated with platinum black is immersed in the solution. Pure hydrogen gas is bubbled in the solution at 1bar pressure.\nThe potential of SHE (E°) is taken as zero volt at all temperatures.\nStandard hydrogen electrode may act as anode or cathode depending upon the nature of the other electrode. If its acts as anode, the oxidation reaction taking place is",
+      "markdown": null,
+      "equations": [
+        "M \\rightarrow M^{n+} + ne (metal is oxidised)",
+        "M^{n+} + ne^- \\rightarrow M (the ion is reduced)",
+        "M(S) \\xrightarrow{\\text{oxidation}} M^{n+}(aq) + ne^{-}"
+      ]
+    },
+    {
+      "page_no": 23,
+      "text": "H_2(g) \\longrightarrow 2H^+(aq) + 2e^-\nIf it acts as cathode then the reduction half reaction occuring is\n2H^+(aq) + 2e^- \\longrightarrow H_2(g)\n13.10.2 Measurement of Standard Electrode Potential\n(i) Determination of magnitude: The standard electrode potential of an electrode can be measured by combining it with standard hydrogen electrode. To illustrate, let us take the example for the measurement of standard electrode potential of zinc electrode. A zinc strip is dipped in 1M ZnSO&lt;sub&gt;4&lt;/sub&gt; solution and it is connected to Standard Hydrogen electrode. The cell emf is found to be 0.76 V.\nWhen copper electrode i.e. copper dipped in 1 \\text{M CuSO}_4 solution is connected to standard hydrogen electrode then the cell emf is 0.34.\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "H_2(g) \\longrightarrow 2H^+(aq) + 2e^-",
+        "2H^+(aq) + 2e^- \\longrightarrow H_2(g)"
+      ]
+    },
+    {
+      "page_no": 24,
+      "text": "Chemical Dynamics\n(ii) Sign of electrode potential\nThe galvanic cell formed by the combination of SHE and electrode under study, the polarity of the electrode is determined with the help of a voltmeter. In case the given electrode is found to be positive electrode, its electrode potential is given the positive sign and if it is negative then it is given the negative sign. In the case of zinc connected to SHE the polarity is negative but in case of copper it is positive.\n13.11 ELECTROCHEMICAL SERIES AND ITS APPLICATIONS\n13.11.1 Cell emf and Potential difference\nThe difference in potential of the two electrodes (or half cells) of a galvanic cell, when measured in the open circuit is called the cell electromotive force or cell emf. When it is measured in a closed circuit with some external load it is called potential difference.\nCell emf can be measured by using a potentiometer. It depends on the nature of electrodes, concentration of electrolyte and the temperature.\n13.11.2 Standard cell emf\nThe emf of a cell has a standard value if both its half cells are in their standard states. It is denoted by E&lt;sup&gt;o&lt;/sup&gt; cell.\n13.11.3 Cell emf and electrode potential\nThe standard cell emf is related to the standard electrode potentials of its anode and cathode.\nE^0 cell = E^0 cathode – E^0 anode.\n= E^{\\circ}_{Right} – E^{\\circ}_{left}\nCell emf is related to the electrode potentials of its anode and cathode\n\\begin{split} \\boldsymbol{E}_{\\text{cell}} &amp;= \\boldsymbol{E}_{\\text{cathode}} - \\boldsymbol{E}_{\\text{anode}} \\\\ &amp;= \\boldsymbol{E}_{\\text{right}} - \\boldsymbol{E}_{\\text{left}} \\end{split}\n13.11.4 Electrochemical Series\nStandard potential of a large number of electrodes have been measured and they have been listed in the increasing order of electrode potential in a series called electro chemical series. The table 13.2 gives the standard reduction potentials of some electrodes.",
+      "markdown": null,
+      "equations": [
+        "E^0 cell = E^0 cathode – E^0 anode.= E^{\\circ}_{Right} – E^{\\circ}_{left}",
+        "\\begin{split} \\boldsymbol{E}_{\\text{cell}} &amp;= \\boldsymbol{E}_{\\text{cathode}} - \\boldsymbol{E}_{\\text{anode}} \\\\ &amp;= \\boldsymbol{E}_{\\text{right}} - \\boldsymbol{E}_{\\text{left}} \\end{split}"
+      ]
+    },
+    {
+      "page_no": 25,
+      "text": "The most active metal lithium is placed at the top and the most active non metal fluorine at the bottom. Thus we find that lithium is the most powerful reducing agent and flourine is most powerful oxidising agent.\n13.11.5 Applications of Electrochemical Series\n(i) It helps to predict a redox reaction. A given ion will oxidise all the metals below it and a given metal will reduce ions of any metal placed above it in the series.\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 26,
+      "text": "Chemical Dynamics\nElectrochemistry\nExample 13.5 : Predict the redox reaction between zinc and iron. Given E^0 of Zn^{2+}/Zn is -0.763 and E^0 for Fe^{2+}/Fe is -0.44 V.\nThe E&lt;sup&gt;0&lt;/sup&gt; value of Zn&lt;sup&gt;2+&lt;/sup&gt;/Zn is lower than Fe&lt;sup&gt;2+&lt;/sup&gt;/Fe. It means Zn has a greater reducing power than Fe or zinc can undergo oxidation more quickly than Fe. Zinc will reduce Fe&lt;sup&gt;2+&lt;/sup&gt; ions and itself undergoes oxidation. The given reaction between Zn and Fe will take place as shown.\nZn + Fe^{2+} \\longrightarrow Fe + Zn^{2+}\n(ii) It helps to calculate the emf of a galvanic cell.\nE_{\\text{cell}}^0 = E_{\\text{cathode}}^0 - E_{\\text{anode}}^0\nE^0 cell should always be positive. If E^0 cell comes as –ve it means the cell cannot work and electrodes should be interchanged.\nExample : Predict the E^{\\circ} for the cell\nMg \\mid Mg^{2+}(1M) \\mid |Ag^{+}(1M) \\mid Ag\nFrom the table\nE_{cell}^{0} = E_{cathode}^{0} - E_{anode}^{0}\nE_{Mg^{2+}/Mg}^{0} = -2.365V \\text{ and}\nE_{Ag^{+}/Ag}^{0} = 0.80V\nE_{cell}^{0} = 0.80 - (-2.365)V\n= 0.80 + 2.365\n= 3.165 V\n(iii) It helps to predict the feasibility of a redox reaction\nThe feasibility of a redox reaction can be predicted by calculating E^0 cell for the redox reaction. The redox reaction is broken in two half reactions: oxidation half reaction acts as anode and reduction half acts as cathode. The positive E^0 cell indicates the redox reaction is possible.\nExample 13.3: Predict whether the following reaction is feasible or not?\nCu^{2+}(aq) + 2Ag(s) \\longrightarrow Cu(s) + 2Ag^{+}(aq) Given E^{0}_{Ag^{+}/Ag} = 0.80V \\text{ and } E^{0}_{Cu^{2+}/cu} = 0.34V\nThe given redox reaction can be written as two half reactions\nAnode (Oxidation) 2Ag(s) \\longrightarrow 2Ag^{+}(aq) + 2e^{-}.\nCathode (Reduction) Cu^{2+}(aq) + 2e^{-} \\longrightarrow Cu(s)",
+      "markdown": null,
+      "equations": [
+        "Zn + Fe^{2+} \\longrightarrow Fe + Zn^{2+}",
+        "E_{\\text{cell}}^0 = E_{\\text{cathode}}^0 - E_{\\text{anode}}^0",
+        "Mg \\mid Mg^{2+}(1M) \\mid |Ag^{+}(1M) \\mid Ag",
+        "E_{cell}^{0} = E_{cathode}^{0} - E_{anode}^{0}\nE_{Mg^{2+}/Mg}^{0} = -2.365V \\text{ and}\nE_{Ag^{+}/Ag}^{0} = 0.80V\nE_{cell}^{0} = 0.80 - (-2.365)V\n= 0.80 + 2.365\n= 3.165 V",
+        "Cu^{2+}(aq) + 2Ag(s) \\longrightarrow Cu(s) + 2Ag^{+}(aq) Given E^{0}_{Ag^{+}/Ag} = 0.80V \\text{ and } E^{0}_{Cu^{2+}/cu} = 0.34V",
+        "Anode (Oxidation) 2Ag(s) \\longrightarrow 2Ag^{+}(aq) + 2e^{-}.Cathode (Reduction) Cu^{2+}(aq) + 2e^{-} \\longrightarrow Cu(s)"
+      ]
+    },
+    {
+      "page_no": 27,
+      "text": "E^{0}\\text{cell} = E^{0} \\text{ cathode} - E^{0} \\text{ anode}\n= E^{0} Cu^{2+}/Cu - E^{0}Ag^{+}/Ag\n= 0.34 \\text{ V} - 0.80 \\text{ V}\n= -0.46 \\text{V}\nThe –ve E&lt;sup&gt;0&lt;/sup&gt; value indicates that the above reaction will never take place and silver cannot displace Copper from a solution of Cu&lt;sup&gt;2+&lt;/sup&gt; ion. Instead the reverse reaction would be feasible.\n(iv) It helps to predict whether a metal can liberate hydrogen from acids. Any metal which is above hydrogen in the electro chemical series can liberate hydrogen from acid since it is a better reducing agent than hydrogen. Thus metals like, Zinc, Magnesium, Calcium etc can displace hydrogen from HCl or H&lt;sub&gt;2&lt;/sub&gt;SO&lt;sub&gt;4&lt;/sub&gt; but metals like Copper, silver etc cannot displace hydrogen from acid.\n13.12 NERNST EQUATION FOR ELECTRODE POTENTIAL\nNernst equation relates electrode potential to the concentration of ions in the electrolyle. An electrode reaction is always written as reduction reaction. Let us take a general example for a metal M.\nM^{n+}(aq) + ne \\longrightarrow M(s)\nThe Nernst equation for its electrode potentials is:\nE = E^{0} - \\frac{2.303 \\,\\text{RT}}{nF} \\log \\frac{[M]}{[M^{n+}]} (i)\nwhere\nE = Electrode potential\nE^0 = Standard electrode Potential (Reduction)\nR = gas constant in JK^{-1} mol^{-1}\nT = Temperature in Kelvin\nF = Faraday constant\nn = number of electrons involved in the electrode\nreaction\n[M^{n+}] = molar concentration of M^{n+} ion\n[M] = concentration of pure solid metal taken as unity\nTherefore, E = E^{0} - \\frac{2.303 \\text{ RT}}{nF} \\log \\frac{1}{[M^{n+}]}\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "E^{0}\\text{cell} = E^{0} \\text{ cathode} - E^{0} \\text{ anode}\n= E^{0} Cu^{2+}/Cu - E^{0}Ag^{+}/Ag\n= 0.34 \\text{ V} - 0.80 \\text{ V}\n= -0.46 \\text{V}",
+        "M^{n+}(aq) + ne \\longrightarrow M(s)",
+        "E = E^{0} - \\frac{2.303 \\,\\text{RT}}{nF} \\log \\frac{[M]}{[M^{n+}]} (i)"
+      ]
+    },
+    {
+      "page_no": 28,
+      "text": "Chemical Dynamics\nElectrochemistry\nIf we put the values of R, T and F in equation (i)\nR = 8.314 \\text{ J K}^{-1} \\text{ mol}^{-1} F = 96500 \\text{ Coulomb} T = 298 \\text{ K}\nwe have\nE = E^{0} - \\frac{0.0591}{n} \\log \\frac{1}{[\\mathbf{M}^{n+}]}  (ii)\nFor example: For copper electrode as half cell\nCu^{2+}(aq) + 2e \\longrightarrow Cu(s)\nhere n = 2.\nE_{Cu^{2+}/Cu}^{0} = +0.34V\nE_{Cu^{2+}/Cu} = E_{Cu^{2+}/Cu}^{0} - \\frac{0.0591}{2} \\log \\frac{1}{[Cu^{2+}]}\nSince E^0_{Cu^{2+}/Cu} is 0.34 V the equation becomes\n= 0.34 - 0.0295 \\log \\frac{1}{[Cu^{2+}]}\nExample 13.7 : Calculate the reduction potential for the following half cell at 298 K\nAg^{+}(0.1M) + e^{-} \\longrightarrow Ag(s)\nE^{0} = 0.80V\nE = E^{0} - \\frac{0.0591}{n} \\log \\frac{1}{[Ag^{+}]}\n= 0.80 - \\frac{0.0591}{1} \\log \\frac{1}{0.1}\n= 0.80 - 0.0591 \\log 10\n= 0.80 - 0.0591 = 0.741V\n13.12.1 Nernst Equation for Cell emf\nFor a general cell reaction:\naA + bB \\longrightarrow xX + yY\nE cell = E0 cell - \\frac{2.303 \\text{ RT}}{n\\text{F}} \\log \\frac{[\\text{X}]^{x}[\\text{Y}]^{y}}{[\\text{A}]^{a}[\\text{B}]^{b}}",
+      "markdown": null,
+      "equations": [
+        "R = 8.314 \\text{ J K}^{-1} \\text{ mol}^{-1} F = 96500 \\text{ Coulomb} T = 298 \\text{ K}",
+        "E = E^{0} - \\frac{0.0591}{n} \\log \\frac{1}{[\\mathbf{M}^{n+}]}  (ii)",
+        "Cu^{2+}(aq) + 2e \\longrightarrow Cu(s)",
+        "E_{Cu^{2+}/Cu}^{0} = +0.34V",
+        "E_{Cu^{2+}/Cu} = E_{Cu^{2+}/Cu}^{0} - \\frac{0.0591}{2} \\log \\frac{1}{[Cu^{2+}]}",
+        "= 0.34 - 0.0295 \\log \\frac{1}{[Cu^{2+}]}",
+        "Ag^{+}(0.1M) + e^{-} \\longrightarrow Ag(s)\nE^{0} = 0.80V\nE = E^{0} - \\frac{0.0591}{n} \\log \\frac{1}{[Ag^{+}]}\n= 0.80 - \\frac{0.0591}{1} \\log \\frac{1}{0.1}\n= 0.80 - 0.0591 \\log 10\n= 0.80 - 0.0591 = 0.741V",
+        "aA + bB \\longrightarrow xX + yY",
+        "E cell = E0 cell - \\frac{2.303 \\text{ RT}}{n\\text{F}} \\log \\frac{[\\text{X}]^{x}[\\text{Y}]^{y}}{[\\text{A}]^{a}[\\text{B}]^{b}}"
+      ]
+    },
+    {
+      "page_no": 29,
+      "text": "Thus, for the cell reaction:\nNi(s) + 2Ag^{+}(aq) \\longrightarrow Ni^{2+}(aq) + 2Ag\nE cell = E0cell - \\frac{2.303 \\text{ RT}}{n \\text{ F}} \\log \\frac{[\\text{N}i^{2+}]}{[\\text{Ag}^+]^2}\nNote: Only the ions are written in the fraction as concentration of pure solid or liquid is taken as unity.\nTo determine the value of n the reaction is written in two half reactions.\nAnode reaction (oxidation)\nNi(s) \\longrightarrow Ni^{2+}(aq) + 2e^{-}\nCathode reaction (reduction)\n2Ag^{+}(aq) + 2e^{-} \\longrightarrow 2Ag(s)\nThis can be represented in the form of a cell as\nThe value of n = 2 as 2e^- are exchange between anode and cathode\nExample 13.8: Calculate the EMF of the following cell at 298 K\nNi(s)|Ni^{2+}(0.001M)||Ag^{+}(0.1M)|Ag(s)\nE_{Ni^{2+}|Ni}^{0} = 0.25V E_{Ag^{+}|Ag}^{0} = 0.80V\nFrom the given values first find\nE^{0} cell = E^{0} cathode – E^{0} anode = 0.80 – (-0.25) V = 1.05V\nE cell = E0cell - \\frac{0.0591}{2} \\log \\frac{[Ni^{2+}]}{[Ag^{+}]^{2}}\n= 1.05 - \\frac{0.0591}{2} \\log \\frac{0.001}{(0.1)^{2}} = 1.05 - 0.0295 \\log \\frac{10^{-3}}{10^{-2}}\n= 1.05 - \\frac{60091}{2} \\log \\frac{60091}{(0.1)^2} = 1.05 - 0.0295 \\log \\frac{100}{1000}= 1.05 + 0.0295 \\log 10^{-1} = 1.0795 \\text{ V}\nINTEXT QUESTION 13.2\nFe(s) + CuSOu(aq) \\rightarrow FeSou(aq) + Cu(s)\nWrite down the cell notation, for this cell.\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "Ni(s) + 2Ag^{+}(aq) \\longrightarrow Ni^{2+}(aq) + 2Ag",
+        "E cell = E0cell - \\frac{2.303 \\text{ RT}}{n \\text{ F}} \\log \\frac{[\\text{N}i^{2+}]}{[\\text{Ag}^+]^2}",
+        "Ni(s) \\longrightarrow Ni^{2+}(aq) + 2e^{-}",
+        "2Ag^{+}(aq) + 2e^{-} \\longrightarrow 2Ag(s)",
+        "Ni(s)|Ni^{2+}(0.001M)||Ag^{+}(0.1M)|Ag(s)",
+        "E_{Ni^{2+}|Ni}^{0} = 0.25V E_{Ag^{+}|Ag}^{0} = 0.80V",
+        "E^{0} cell = E^{0} cathode – E^{0} anode = 0.80 – (-0.25) V = 1.05V",
+        "E cell = E0cell - \\frac{0.0591}{2} \\log \\frac{[Ni^{2+}]}{[Ag^{+}]^{2}}= 1.05 - \\frac{0.0591}{2} \\log \\frac{0.001}{(0.1)^{2}} = 1.05 - 0.0295 \\log \\frac{10^{-3}}{10^{-2}}",
+        "= 1.05 - \\frac{60091}{2} \\log \\frac{60091}{(0.1)^2} = 1.05 - 0.0295 \\log \\frac{100}{1000}= 1.05 + 0.0295 \\log 10^{-1} = 1.0795 \\text{ V}",
+        "Fe(s) + CuSOu(aq) \\rightarrow FeSou(aq) + Cu(s)"
+      ]
+    },
+    {
+      "page_no": 30,
+      "text": "Chemical Dynamics\nElectrochemistry\n5. Prodict whether the following reaction is feasible or not?\n\\begin{split} &amp;Cu(s) + Zn^{2+}(aq) \\to Cu^{2+}(aq) + 2n(s) \\\\ &amp;Given \\ E^{\\circ}_{Cu^{2+}|Cu} = +0.34 \\ V \\ and \\ E^{\\circ}_{2n^{2+}|Zn} = -0.76 \\ V \\end{split}\n13.13 BATTERIES AND FUEL CELLS\nThe cells and batteries (combination of 2 or more cells) that we use for various purposes from torch lights, cameras, watches to cars and bikes, are basically of three types: dry cells or primary cells, storage cells or secondary cells and fuel cells. A primary cell is the one that is consumed chemically when current is drawn from it. A secondary cell is the one which after discharge can be recharged by passing electricity through it and carrying out electrolysis. In fuel cells the oxidizing and reducing agents are fed continuously to the cell from outside.\n(i) Dry cell (Primary cell)\nIt is the cell commonly used in torches transistor radios, portable music players, clock etc. It is also known as Leclanche cell after the name of its inventer. It consists of a zinc container which also acts as the anode and a carbon (graphite) rod which acts as the cathode. Around carbon rod, a moist paste of graphite, ammonium chloride and manganese dioxide is placed which acts as the electrolyte (Fig 13.10). The electrode reactions that occur are complex but can be written in simplified way as:",
+      "markdown": null,
+      "equations": [
+        "\\begin{split} &amp;Cu(s) + Zn^{2+}(aq) \\to Cu^{2+}(aq) + 2n(s) \\\\ &amp;Given \\ E^{\\circ}_{Cu^{2+}|Cu} = +0.34 \\ V \\ and \\ E^{\\circ}_{2n^{2+}|Zn} = -0.76 \\ V \\end{split}"
+      ]
+    },
+    {
+      "page_no": 31,
+      "text": "Anodic process (oxidation): Zn(s) \\rightarrow Zn^{2+}(aq) + 2e^{-} Cathodic process (reduction):\n2MnO_2(s) + NH_4^+(aq) e^- \\rightarrow MnO(OH)(aq) + NH_3(g)\nThe ammonia gas evolved at cathode combines with Zn^{2+} ions produced at anode to give complex ion [Zn(NH_3)_4]^{2+}. A single dry cell has a potential of nearly 1.5 V. It can be used only once and cannot be recharged.\n(ii) Lead Storage Battery (Secondary cell)\nLead storage batteries are used in automobiles (cars, bikes, trucks, buses etc) and in inverters.\nA lead storage battery consists of alternate plates of anodes and cathodes. The anode consists of lead plate and the cathode of a grid of lead packed with lead dioxide (PbO&lt;sub&gt;2&lt;/sub&gt;). The electrolyte is an aqueous solution of sulphuric acid which is 38% or 3.7 M. (See Fig. 13.11) The reactions that occur at the electrodes during the discharge of the battery when it is used to draw current are:\nAnodic process (oxidation): Pb(s) + SO_4^{2-}(aq) \\rightarrow PbSO_4(s) + 2e^{-} Cathodic process (reduction):\nPbO_{2}(s) + SO_{4}^{2-}(aq) + 4H^{+}(aq) + 2e^{-} \\rightarrow PbSO_{4}(s) + 2H_{2}O(1)\nNet reaction: Pb(s) + PbO_2(s) + 2H_2SO_4(aq) \\rightarrow 2PbSO_4(s) + 2H_2O(l)\nThe battery can be recharged by passing current through it. Now it acts like an electrolytic cell and the electrode reactions are reversed and the original reactants are regenerated. The battery can be charged and discharged a large number of times.\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "2MnO_2(s) + NH_4^+(aq) e^- \\rightarrow MnO(OH)(aq) + NH_3(g)",
+        "PbO_{2}(s) + SO_{4}^{2-}(aq) + 4H^{+}(aq) + 2e^{-} \\rightarrow PbSO_{4}(s) + 2H_{2}O(1)"
+      ]
+    },
+    {
+      "page_no": 32,
+      "text": "Chemical Dynamics\n(iii) Fuel Cells\nThe maximum amount of electricity is produced by thermal power plants which use fossil fuel like coal or natural gas. Their efficiency is very low but these plants can be run continuously by constant feeding of the fuel. Galvanic cells have high efficiency but can be used only once and then have to be discarded, because reactants can not be fed into them continuously. Fuel cells combine the advantages of the two. They are efficient and can be used continuously. Most of the fuel cells are based on combustion reactions of fuels like hydrogen, methane, methanol etc which are fed continuously into fuel cells. One of the most successful fuel cells uses the combustion reaction of hydrogen (Fig. 13.12).\nThe electrodes used in it are made of porus carbon impregnated with catalyst (finely divided Pt or Pd). The electrolyte used is an aqueous solution of KOH. Hydrogen gas is bubbled around the anode and oxygen gas around the cathode. The electrode process are:\nAnodic process (oxidation): 2H_2(g) + 4OH^-(aq) \\rightarrow 4H_2O + 4e^-\nCathodic process (reduction): O_2(g) + 2H_2O(l) + 4e^- \\rightarrow 4OH^-(aq)\nOverall process: 2H_2(g) + O_2(g) \\rightarrow 2H_2O(l)\nThe cell potential of this cell is 0.9V. It was used as a power source in Apollo space programme and water produced was used for drinking purpose by the crew of the spacecraft.\n13.14 CELL EMF AND GIBBS ENERGY\nThe maximum amount of work that a cell in its standard state can perform is given by\nW_{max} = -n FE^0",
+      "markdown": null,
+      "equations": [
+        "W_{max} = -n FE^0"
+      ]
+    },
+    {
+      "page_no": 33,
+      "text": "The significance of –ve sign is that the work is done by the cell. Since the maximum amount of useful work which a system can perform is equal to decrease in Gibbs energy thus\nW_{max} = \\Delta G^0 = -nFE^0\nIf \\Delta G^0 calculated is negative, then the cell reaction is spontaneons otherwise not.\nExample 13.9 : Calculate the standard Gibb's energy \\Delta G^0 for the reaction occurring in Daniell cell\nZn(s) + Cu^{2+}(aq) \\longrightarrow Zn^{2+}(aq) + Cu(s)\nat 298 K. The E^0 cell at this temperature is 1.1V. Is the reaction spontaneous.\nFor Daniell cell, n = 2.\nSolution:\n\\Delta G^{0} = -nFE^{0}\n\\Delta G^{0} = -2 \\times 96500 \\times 1.1\n= -212,300J\n= -212.3kJ\nSince \\Delta E^0 is –ve, the cell reaction is spontaneous\nINTEXT QUESTIONS 13.4\n13.15 CORROSION\nCorrosion is the process of deterioration of metals due to their exposure to environment. It slowly forms a layer of oxides, basic carbonates or other salts on the surface of metals. Rusting of iron and tarnishing of silver objects are common examples of corrosion. Corrosion results in huge material loss resulting in damage to buildings, ships, bridges, machinery etc.\nCorrosion is essentially an electrochemical process involving anodic oxidation of metals resulting in the formation of their ions and a cathodic process that\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "W_{max} = \\Delta G^0 = -nFE^0",
+        "Zn(s) + Cu^{2+}(aq) \\longrightarrow Zn^{2+}(aq) + Cu(s)",
+        "\\Delta G^{0} = -nFE^{0}\n\\Delta G^{0} = -2 \\times 96500 \\times 1.1\n= -212,300J\n= -212.3kJ"
+      ]
+    },
+    {
+      "page_no": 34,
+      "text": "Chemical Dynamics\nElectrochemistry\nconsumes the electrons. Though rusting is a complex process. The following reactions can be considered to be taking place. One spot on the surface of iron becomes anode and undergoes oxidation.\nOxidation: Fe (s) \\rightarrow Fe ^3 (uq) +2e ^-Reduction: O&lt;sub&gt;2&lt;/sub&gt; (g) + 4H ^4(uq) +4e ^- \\rightarrow 2H _2O(l) Atomospheric exidation: 2Fe ^2 (uq) + 2H _2O(l) + ½O _2(g) \\rightarrow Fe _2O_3(s) + 4H (uq)\nFig. 13.13: Corrosion of iron\nAnodic process: 2\\text{Fe(s)} \\rightarrow 2\\text{Fe}^{2+}(\\text{aq}) + 4\\text{e}^{-} E^{\\circ} = -0.44\\text{V}\nThe electrons released here move through the metal to another place which acts like a cathode. Here the reduction of oxygen takes place in presence of H&lt;sup&gt;+&lt;/sup&gt; ions.\nCathodic proess: O_2(g) + 4H^+(aq) + 4e^- \\rightarrow 2H_2O E^\\circ = +1.23 \\text{ V}\nThe overall process is\n2\\text{Fe(s)} + \\text{O}_2(g) + 4\\text{H}^+(aq) \\rightarrow 2\\text{Fe}^{2+}(aq) + 2\\text{H}_2\\text{O} \\quad \\text{E}_{\\text{cell}}^{\\circ} = 1.67\nThe positive sign of E_{\\text{cell}}^{\\circ} indicates that this reaction occurs spontaneously. Fe&lt;sup&gt;2+&lt;/sup&gt; ions formed heroe are further oxidized to Fe&lt;sup&gt;3+&lt;/sup&gt; ions by atmospheric oxygen to form rust\n4\\text{Fe}^{2+}(aq) + O_2(g) + 4\\text{H}_2\\text{O}(l) \\rightarrow 2\\text{Fe}_2\\text{O}_3(s) + 8\\text{H}^+(aq)\n\\text{Fe}_2\\text{O}_3(s) + x\\text{H}_2\\text{O}(l) \\rightarrow \\text{Fe}_2\\text{O}_3 \\cdot x\\text{H}_2\\text{O}(s) \\text{ (rust)}\nRusting requires the combined effect of oxygen and water. It is accelerated by CO&lt;sub&gt;2&lt;/sub&gt; and SO&lt;sub&gt;2&lt;/sub&gt; (acidic conditions) and retarded by alkalis. It has been observed that completely homogeneous iron does not rust.\nProtection against corrosion\nThere are two general methods used for protection of metallic objects against corrosion.\n386",
+      "markdown": null,
+      "equations": [
+        "2\\text{Fe(s)} + \\text{O}_2(g) + 4\\text{H}^+(aq) \\rightarrow 2\\text{Fe}^{2+}(aq) + 2\\text{H}_2\\text{O} \\quad \\text{E}_{\\text{cell}}^{\\circ} = 1.67",
+        "4\\text{Fe}^{2+}(aq) + O_2(g) + 4\\text{H}_2\\text{O}(l) \\rightarrow 2\\text{Fe}_2\\text{O}_3(s) + 8\\text{H}^+(aq)\n\\text{Fe}_2\\text{O}_3(s) + x\\text{H}_2\\text{O}(l) \\rightarrow \\text{Fe}_2\\text{O}_3 \\cdot x\\text{H}_2\\text{O}(s) \\text{ (rust)}"
+      ]
+    },
+    {
+      "page_no": 35,
+      "text": "(a) Use of Protective Layer\nMany substances are used for applying a protective layer to prevent or limit corrosion:\n(b) Cathodic Protection\nCathodic protection of a metal can be done by coating it with a more reactive or more electropositive metal with smaller electrode potential.\n(i) Galvanisation:\nreaction that occurs is\nIron sheets or other objects are coated with a layer of zinc by dipping them in molten zinc or using electrolysis. Zinc layer is protected against corrosion by a firmly sticking layer of ZnO. Even when the zinc layer is broken, zinc being more electropestive than iron becomes the anode and iron (E_{Zn^{2+}/Zn}^{\\circ} = -0.76 \\text{ V}; E_{Fe^{2+}/Fe}^{\\circ} = -0.44 \\text{ V}) \\text{ becomes the cathode, the cell}\nZn(s) + Fe^{2+}(aq) \\rightarrow Zn^{2+}(aq) + Fe(s)\nThus, any Fe&lt;sup&gt;2+&lt;/sup&gt; irons formed as a result of atmospheric oxidation are reduced back to iron at the cost of zinc. Therefore, zinc coating becomes sacrificial anode.\n(ii) Chromium plating (electroplating) is not only decorative, but also protects iron against rusting. Like zinc, chromium is also more electropositive than iron (E_{Cr^{3+}/Cr}^{\\circ} = -0.74 \\text{ V}; E_{Fe^{2+}/Fe}^{\\circ} = -0.44 \\text{ V}). Chromium itself is not affected by\natmospheric oxygen. Its layer protects iron. Once this layer is broken, chromium becomes the anode and iron the cathode and the following reaction occurs:\n2Cr(s) + 3Fe^{2+}(aq) \\rightarrow 2Cr^{3+}(aq) + 3Fe(s)\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "Zn(s) + Fe^{2+}(aq) \\rightarrow Zn^{2+}(aq) + Fe(s)",
+        "2Cr(s) + 3Fe^{2+}(aq) \\rightarrow 2Cr^{3+}(aq) + 3Fe(s)"
+      ]
+    },
+    {
+      "page_no": 36,
+      "text": "Chemical Dynamics\nElectrochemistry\n(iii) Cathodic protection can also be provided by attaching, rather than coating, a piece of more reactive metal to the object to be protected. Ships, water pipes, iron tanks etc. are often protected against corrosion by connecting a piece of magnesium either directly or through a wire. Magnesium being more electropositive than iron (E_{Mg^{2+}/Mg}^{\\circ} = -2.36V; E_{Fe^{2+}/Fe}^{\\circ} = -0.44V) becomes sacrificial anode. The following reaction occurs in the cell formed.\nMg(s) + Fe^{2+}(aq) \\rightarrow Mg^{2+}(a) + Fe(s)\nWHAT YOU HAVE LEARNT",
+      "markdown": null,
+      "equations": [
+        "Mg(s) + Fe^{2+}(aq) \\rightarrow Mg^{2+}(a) + Fe(s)"
+      ]
+    },
+    {
+      "page_no": 37,
+      "text": "E_{cell} = E_{cathode} - E_{anode}\n• The Nernst equation is\nE = E^{0} - \\frac{2.303RT}{nF} \\log \\frac{[Red]}{[Oxi]}\n• The standard Gibbs energy of the cell reaction \\Delta G^0 is related to the standard cell emf as \\Delta G^0 = -nFE^0.\nTERMINAL EXERCISE\n1. Calculate the Oxidation number of the elements written in bold letters\n[\\textbf{Cr}(\\textbf{H}_{2}\\textbf{O})_{6}]^{3+}, \\quad [\\textbf{Fe}\\ (\\textbf{CN})_{6}]^{3-}, \\quad \\textbf{HC}\\ \\textbf{O}_{3}^{-}\\ , \\ \\textbf{Pb}_{3}\\textbf{O}_{4}\n2. Balance the following reactions by oxidation number method\n(a) \\operatorname{Fe_2O_3} + \\operatorname{C} \\longrightarrow \\operatorname{Fe} + \\operatorname{CO}\n(b) C_6H_6 + O_2 \\longrightarrow CO_2 + H_2O\n3. Balance the following reactions by ion-electron method:\n(i) \\operatorname{Zn} + \\operatorname{HNO}_3 \\longrightarrow \\operatorname{Zn} (\\operatorname{NO}_3)_2 + \\operatorname{NO}_2 + \\operatorname{H}_2\\operatorname{O}\n(ii) ClO_3^- + Mn^{2+} \\longrightarrow MnO_2 + Cl^- in acidic medium\n(iii) Fe(OH)_2 + H_2O_2 \\longrightarrow Fe(OH)_3 + H_2O in basic medium\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "E_{cell} = E_{cathode} - E_{anode}",
+        "E = E^{0} - \\frac{2.303RT}{nF} \\log \\frac{[Red]}{[Oxi]}",
+        "[\\textbf{Cr}(\\textbf{H}_{2}\\textbf{O})_{6}]^{3+}, \\quad [\\textbf{Fe}\\ (\\textbf{CN})_{6}]^{3-}, \\quad \\textbf{HC}\\ \\textbf{O}_{3}^{-}\\ , \\ \\textbf{Pb}_{3}\\textbf{O}_{4}",
+        "(a) \\operatorname{Fe_2O_3} + \\operatorname{C} \\longrightarrow \\operatorname{Fe} + \\operatorname{CO}",
+        "(b) C_6H_6 + O_2 \\longrightarrow CO_2 + H_2O",
+        "(i) \\operatorname{Zn} + \\operatorname{HNO}_3 \\longrightarrow \\operatorname{Zn} (\\operatorname{NO}_3)_2 + \\operatorname{NO}_2 + \\operatorname{H}_2\\operatorname{O}",
+        "(ii) ClO_3^- + Mn^{2+} \\longrightarrow MnO_2 + Cl^- in acidic medium",
+        "(iii) Fe(OH)_2 + H_2O_2 \\longrightarrow Fe(OH)_3 + H_2O in basic medium"
+      ]
+    },
+    {
+      "page_no": 38,
+      "text": "Chemical Dynamics\nElectrochemistry\nZn(s) + 2Ag^{+}(aq) \\longrightarrow Zn^{2+}(aq) + 2Ag(s)\n14. For the cell\nMg \\mid Mg^{2+} \\mid \\mid Zn^{2+} \\mid Zn\nNi(s) + Cu^{2+}(aq) \\longrightarrow Cu(s) + Ni^{2+}(aq)\n390",
+      "markdown": null,
+      "equations": [
+        "Zn(s) + 2Ag^{+}(aq) \\longrightarrow Zn^{2+}(aq) + 2Ag(s)",
+        "Mg \\mid Mg^{2+} \\mid \\mid Zn^{2+} \\mid Zn",
+        "Ni(s) + Cu^{2+}(aq) \\longrightarrow Cu(s) + Ni^{2+}(aq)"
+      ]
+    },
+    {
+      "page_no": 39,
+      "text": "2Al(s) + 3Sn^{4+}(aq) \\longrightarrow 2Al^{3+}(aq) + 2Sn^{2+}(aq)\n19. Calculate emf of the cell\nCr \\mid Cr^{3+} (.1M) \\parallel Fe^{2+} (0.1M) \\mid Fe\n20. Calculate emf of the given cell reaction at 298k\nSn^{4+} (1.5M) + Zn(s) \\longrightarrow Sn^{2+} (0.5M) + Zn^{2+} (2M)\nCu^{2+} + 2e \\longrightarrow Cu:\nE^0 = .34V\n2Ag^+ + 2e \\longrightarrow 2Ag;\nE^0 = +.80V\nreason out whether 1M silver nitrate solution can be stored in copper vessel or 1M copper sulphate can be stored in silver vessel.\nANSWERS INTEXT QUESTION\n13.1\nOxidation Number\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "2Al(s) + 3Sn^{4+}(aq) \\longrightarrow 2Al^{3+}(aq) + 2Sn^{2+}(aq)",
+        "Cr \\mid Cr^{3+} (.1M) \\parallel Fe^{2+} (0.1M) \\mid Fe",
+        "Sn^{4+} (1.5M) + Zn(s) \\longrightarrow Sn^{2+} (0.5M) + Zn^{2+} (2M)",
+        "Cu^{2+} + 2e \\longrightarrow Cu:",
+        "E^0 = .34V",
+        "2Ag^+ + 2e \\longrightarrow 2Ag;",
+        "E^0 = +.80V"
+      ]
+    },
+    {
+      "page_no": 40,
+      "text": "Chemical Dynamics\nElectrochemistry\n(i) oxidation\nFe^{3+}(aq) \\longrightarrow Fe^{2+}(aq) (Reduction)\n(iii) I_2 \\longrightarrow HIO_3 oxidation\nHNO_3 \\longrightarrow NO_2 reduction\noxidation___\n5. 3\\text{CuO} + 2\\text{NH}_3 \\longrightarrow 3\\text{Cu} + \\text{N}_2 + 3\\text{H}_2\\text{O}\n+2 -3 0 0\nreduction\noxidation MnO_2 + 4HCl^{-1} \\longrightarrow MnCl_2^0 + Cl_2 + 2H_2O(ii) +4 +2 ------------------------------------\n6. Bi \\longrightarrow Bi3+ + 3e-\n(i) NO_3^- + 2H^+ + e^- \\longrightarrow NO_2 + H_2O] \\times 3\n\\mathrm{Bi} + 3\\mathrm{NO_3^-} + 6\\mathrm{H^+} \\longrightarrow \\mathrm{Bi^{3+}} + 3\\mathrm{NO_2} + 3\\mathrm{H_2O}\n(ii) Mn O_4^- + 8H^+ + 5e^- \\longrightarrow Mn^{2+} + 4H_2O\nFe2+ \\rightarrow Fe3+ + e^-] × 5\nMn O_4^- + 5Fe^{2+} + 8H^+ \\longrightarrow Mn^{2+} + 5Fe^{3+} + 4H_2O\n(iii) Cr_2O_7^{2-} + 14H^+ + 6e \\longrightarrow 2Cr^{3+} + 7H_2O\nFe2+ \\rightarrow Fe3+ + e^-] × 6\nCr_2O_7^{2-} + 6Fe^{2+} + 14H + \\longrightarrow 2Cr^{3+} + 6Fe^{3+} + 7H_2O",
+      "markdown": null,
+      "equations": [
+        "Fe^{3+}(aq) \\longrightarrow Fe^{2+}(aq) (Reduction)",
+        "HNO_3 \\longrightarrow NO_2 reduction",
+        "5. 3\\text{CuO} + 2\\text{NH}_3 \\longrightarrow 3\\text{Cu} + \\text{N}_2 + 3\\text{H}_2\\text{O}+2 -3 0 0reduction",
+        "6. Bi \\longrightarrow Bi3+ + 3e-",
+        "(i) NO_3^- + 2H^+ + e^- \\longrightarrow NO_2 + H_2O] \\times 3",
+        "\\mathrm{Bi} + 3\\mathrm{NO_3^-} + 6\\mathrm{H^+} \\longrightarrow \\mathrm{Bi^{3+}} + 3\\mathrm{NO_2} + 3\\mathrm{H_2O}",
+        "(ii) Mn O_4^- + 8H^+ + 5e^- \\longrightarrow Mn^{2+} + 4H_2O",
+        "Fe2+ \\rightarrow Fe3+ + e^-] × 5",
+        "Mn O_4^- + 5Fe^{2+} + 8H^+ \\longrightarrow Mn^{2+} + 5Fe^{3+} + 4H_2O",
+        "(iii) Cr_2O_7^{2-} + 14H^+ + 6e \\longrightarrow 2Cr^{3+} + 7H_2O",
+        "Fe2+ \\rightarrow Fe3+ + e^-] × 6",
+        "Cr_2O_7^{2-} + 6Fe^{2+} + 14H + \\longrightarrow 2Cr^{3+} + 6Fe^{3+} + 7H_2O"
+      ]
+    },
+    {
+      "page_no": 41,
+      "text": "(iv) Al + 4 0H- \\longrightarrow NH3 + 9 OH-] × 8\n\nNO3- + 6H20 + 8e- \\longrightarrow NH3 + 9 OH-] × 3\n\n8Al + 3NO3- + 18H2O + 5OH- \\longrightarrow 8Al (OH)4- + NH3\n13.2\n13.3\n13.4\nMODULE - 5\nChemical Dynamics",
+      "markdown": null,
+      "equations": [
+        "(iv) Al + 4 0H- \\longrightarrow NH3 + 9 OH-] × 8\nNO3- + 6H20 + 8e- \\longrightarrow NH3 + 9 OH-] × 3\n8Al + 3NO3- + 18H2O + 5OH- \\longrightarrow 8Al (OH)4- + NH3"
+      ]
+    }
+  ]
+}

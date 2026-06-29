@@ -1,0 +1,282 @@
+{
+  "extraction_backend": "marker",
+  "language": null,
+  "has_equations": true,
+  "source_pdf": "/content/drive/MyDrive/openstax/NIOS/Chemistry/313_Chemistry_Eng_Lesson9.pdf",
+  "pages": [
+    {
+      "page_no": 1,
+      "text": "9\nMODULE - 4\nChemical Energetics\nCHEMICAL THERMODYNAMICS\nWhen a chemical reaction occurs, it is accompanied by an energy change which may take any of several different forms. For example, the energy change involved in the combustion of fuels like kerosene, coal, wood, natural gas, etc., takes the form of heat and light. Electrical energy is obtained from chemical reactions in batteries. The formation of glucose, C_6H_{12}O_6 by the process of photosynthesis requires the absorption of light energy from the sun. Thus, we see that the energy change that accompanies a chemical reaction can take different forms. In this lesson, you shall study the reactions in which heat is either evolved or absorbed.\nOBJECTIVES\nAfter reading this lesson, you will be able to:",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 2,
+      "text": "Chemical Energetics\nChemical Thermodynamics\n9.1 SOME COMMONLY USED TERMS\nIn this lesson you would come across some frequently used terms. Let us understand the meaning of these terms first.\n9.1.1 System and Surrounding\nIf we are studying the reaction of two substances A and B kept in a beaker, the reaction mixture of A and B is a system and the beaker and the room where it is kept are surroundings as shown in figure 9.1\nSystem is the part of the physical universe which is under study, while the rest of the universe is surroundings.\nYou know that hot tea/milk (let us call it a system) kept in a stoppered thermos flask remains hot for a couple of hours. If this flask is made of perfect insulating material, then there would be no exchange of matter or energy between the system and the surroundings. We call such a system an isolated system.\nIsolated system is a system which can exchange neither matter nor energy with the surroundings.\nIf we keep hot tea/milk in a stoppered stainless steel flask, it will not remain hot after some time. Here energy is lost to the surroundings through the steel walls, but due to stopper, the matter will not be lost. We call this system a closed system.\nClosed system is a system which can exchange energy but not matter with the surroundings.",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 3,
+      "text": "If we keep stainless steel flask or thermos flask open, some matter will also be lost due to evaporation along with energy. We call such a system an open system. Plants, animals, human beings are all examples of open systems, because they continuously exchange matter (food, etc) and energy with the surroundings.\nOpen system is a system which can exchange both energy and matter with surroundings.\n9.1.2. State of a System\nWe describe the state of a system by its measurable properties. For example, we can describe the state of a gas by specifying its pressure, volume, temperature etc. These variable properties are called state variables or state functions. Their values depend only on the initial and final state of the system and not on the path taken by the system during the change. When the state of a system changes, the change depends only on the initial and the final state of the system (Fig 9.2).\nState functions are those functions which depend only on the state of the system.\nChange in state of a system is defined by giving the initial and the final state of the system. We can understand it by considering another example. We travel from one point to another. The distance travelled depends on the path or the route we take. But the separation between these two points on the earth is fixed. Thus, separation is a state function, but not the distance travelled.\n9.1.3 Properties of a System\nAs stated earlier, the measurable properties of a system are called state variables. They may be further divided into two main types.\nMODULE - 4\nChemical Energetics",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 4,
+      "text": "Chemical Energetics\nYou may note that an extensive property can become an intensive property by specifying a unit amount of the substance concerned. For example, mass and volume are extensive properties, but density (mass per unit volume) and specific volume (volume per unit mass) are intensive properties.\n9.1.4 Types of Processes\nLet us first understand what do we mean by a process. Suppose we want to raise the temperature of the system. We may do it by heating it. Here, heating is the process.\nThe method of bringing about a change in state is called process.\nProcesses could be of different types. The different types of processes are explained below.\n(i) Isothermal process: Ice melts at 273 K and 1 atm pressure. The temperature does not change as long as the process of melting goes on. Such processes are examples of isothermal process. We can define isothermal process as followes.\nWhen the temperature of the system remains constant during various operations, then the process is said to be isothermal. This is attained either by removing heat from the system or by supplying heat to the system.\n(ii) Adiabatic Process: If an acid is mixed with a base in a closed thermos flask, the heat evolved is retained by the system. Such processes are known as adiabatic processes because the thermos flask does not allow exchange of heat between the system and the surroundings. Adiabatic process can be defined as follows:\nIn an adiabatic process there is no exchange of heat between the system and the surroundings. Thus, in adiabatic processes there is always a change in temperature.\n(iii) Reversible Process: In a reversible process, the initial and the final states are connected through a succession of equlibrium states. All changes occuring in any part of the process are exactly reversed when it is carried out in the opposite direction. Thus both the systems and its surroundings must be restored exactly to their original state, when the process has been performed and then reversed.",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 5,
+      "text": "Let us understand it by an example. Imagine a liquid in equlibrium with its vapour in a cylinder closed by a frictionless piston, and placed in a constant temperature bath as shown in figure. 9.3. If the external pressure on the piston is increased by an infinitesimally small amount, the vapours will condense, but the condensation will occur so slowly that the heat evolved will be taken up by the temperature bath. The temperature of the system will not rise, and the pressure above this liquid will remain constant. Although condensation of the vapor is taking place, the system at every instant is in the state of equilibrium. If the external pressure is made just smaller than the vapour pressure, the liquid will vaporize extremely slowly, and again temperature and pressure will remain constant.\nReversible processes are those processes in which the changes are carried out so slowly that the system and surroundings are always in equilibrium.\n(iv) Irreversible Processes: In the above example rapid evaporation or condensation by the sudden decrease or incease of the external pressure, will lead to non-uniformity in temperature and pressure within the system and the equilibrium will be disturbed. Such processes are called as irreversible processes.\n9.1.5 Standard States\nYou have seen that a system is described by the state variables. In order to compare the energies for different compounds, a standard set of conditions is chosen. This refers to the condition of 1 bar pressure at any specified temperature, with a substance in its most stable form.\n9.2 EXOTHERMIC AND ENDOTHERMIC REACTIONS\n(i) Add a few cm&lt;sup&gt;3&lt;/sup&gt; of dilute hydrocholoric acid in a test tube containing a few pieces of granulated zinc and observe the evolution of a gas. Feel the test tube. It would be hot.\nMODULE - 4\nChemical Energetics",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 6,
+      "text": "Chemical Energetics\nChemical Thermodynamics\nExothermic reactions are those reactions which proceed with the evolution of heat.\nLet us now consider the following reactions:\nIn all the above processes we see that heat is absorbed by the system from the surroundings. Such reactions are called endothermic reactions.\nEndothermic reactions are those reactions which proceed with the absorption of heat from the surroundings.\n9.3 THERMOCHEMICAL EQUATIONS\nYou are familiar with equations for chemical reactions. Now we shall write the chemical equations which will specify heat energy changes and states of the reactants and products. These are called the thermochemical equations. For writing these equations, we follow the conventions listed below:\n(i) The heat evolved or absorbed in a reaction is affected by the physical state of the reacting substances. Therefore, gaseous, liquid and solid states are represented by putting symbols (g), (l), and (s) along side the chemical formulae respectively.\nFor example, to represent burning of methane in oxygen, we write\nCH_1(g) + 2O_2(g) \\rightarrow CO_2(g) + 2H_2O(l) + heat\nIn writing thermochemical reactions, we denote the amount of heat evolved or absorbed by a symbol \\Delta H. The amount of heat evolved or absorbed is written after the equation followed by semicolon. \\Delta H is negative for exothermic reactions and it is positive for endothermic reactions.\nFor example:\nAn exothermic reaction is written as\nCH_4(g) + 2O_2(g) \\rightarrow CO_2(g) + 2H_2O(l); \\Delta H = -891 \\text{ kJ}",
+      "markdown": null,
+      "equations": [
+        "CH_1(g) + 2O_2(g) \\rightarrow CO_2(g) + 2H_2O(l) + heat",
+        "CH_4(g) + 2O_2(g) \\rightarrow CO_2(g) + 2H_2O(l); \\Delta H = -891 \\text{ kJ}"
+      ]
+    },
+    {
+      "page_no": 7,
+      "text": "Whereas an endothermic reaction is written as\nH_2(g) + I_2(g) \\rightarrow 2HI(g); \\Delta H = 52.2 \\text{ kJ}\n(ii) In case of elements which exhibit allotropy, the name of allotropic modification is mentioned. For example,\nC (graphite), C (diamond), etc.\nH_2(g) + \\frac{1}{2}O_2(g) \\rightarrow H_2O(g); \\Delta H = -242 \\text{ kJ}\nIf coefficients are multiplied by 2, we would write the equation\n2H_2(g) + O_2(g) \\rightarrow 2H_2O(g); \\Delta H = 2(-242) = -484 \\text{ kJ}\n9.4 THE FIRST LAW OF THERMODYNAMICS\nYou have learnt that chemical reactions are accompanied by energy changes. How do we determine these energy changes? You know that we cannot create or destroy energy. Energy only changes from one form to another. This is the observation made by many scientists over the years. This observation has taken the form of first law of thermodynamics. It has been found valid for various situations. We state this law as follows:\nEnergy can neither be created nor destroyed. The total energy of the universe or an isolated system is constant.\nMathematically the first law of thermodynamics is stated as:\n\\Delta U = q + w \\tag{9.1}\nwhere \\Delta U = change in internal energy, q = heat absorbed by the system, and w = work done on the system. These terms are explained as:\n9.4.1 Internal Energy (U)\nEvery system has a definite amount of energy. This amount is different for different substances. It includes translational, vibrational and rotational energies of molecules, energy of electrons and nuclei.\nMODULE - 4\nChemical Energetics",
+      "markdown": null,
+      "equations": [
+        "H_2(g) + I_2(g) \\rightarrow 2HI(g); \\Delta H = 52.2 \\text{ kJ}",
+        "H_2(g) + \\frac{1}{2}O_2(g) \\rightarrow H_2O(g); \\Delta H = -242 \\text{ kJ}",
+        "2H_2(g) + O_2(g) \\rightarrow 2H_2O(g); \\Delta H = 2(-242) = -484 \\text{ kJ}",
+        "\\Delta U = q + w \\tag{9.1}"
+      ]
+    },
+    {
+      "page_no": 8,
+      "text": "Chemical Energetics\nChemical Thermodynamics\nThe internal energy may be defind as the sum of the energies of all the atoms, molecules or ions contained in the system.\nIt is a state variable. It is not possible to measure the absolute values of internal energy. However, we can calculate the change in internal energy. If the internal energy of the system in the initial state is U_1 and that in the final state is U_2, then change in internal energy \\Delta U is independent of the path taken from the initial to the final state.\nWe can write this change as:\n\\Delta U = U_2 - U_1\nThe internal energy of the system can be changed in two ways:\n9.4.2 Heat(q) and Work(w)\nHeat and work are not state functions. This is because the values of both q and w depend upon the way in which the change is carried out.\nSince the law deals with the transfer of heat and work, we assign some signs to these quantities. Any thing which increases the internal energy of a system is given a positive sign.\nHeat given to the system (q) and work done on the system (w) are given positive signs. Let us illustrate this with an example.\nIf a certain change is accompanied by absorption of 50 kJ of heat and expenditure of 30 kJ of work,\nq = +50 \\text{ kJ}\nw = -30 \\text{ kJ}\nChange in internal energy \\Delta U = (+50 \\text{ kJ}) + (-30 \\text{ kJ}) = = +20 \\text{ kJ}\nThus the system has undergone a net increase in the internal energy of -20 kJ.\nChange in the internal energy of the surroundings wll be 20 kJ.\n9.4.3 Work of Expansion\nLet us assume that pressure p is constant and the volume of the system changes from V_1 to V_2. The work done by a system is given as\nw = -p (V_2 - V_1) = -p \\Delta V  (9.2)",
+      "markdown": null,
+      "equations": [
+        "\\Delta U = U_2 - U_1",
+        "q = +50 \\text{ kJ}",
+        "w = -30 \\text{ kJ}",
+        "w = -p (V_2 - V_1) = -p \\Delta V  (9.2)"
+      ]
+    },
+    {
+      "page_no": 9,
+      "text": "(Here we have taken minus sign, because the work is done by the system). Let us substitute the expression given for w in equation 9.1.\nWe get\n\\Delta U = q - p \\,\\Delta V \\tag{9.3}\nIf the process is carried of at constant volume, i.e. \\Delta V = 0, then\n\\Delta U = q_{..} \\tag{9.4}\nThe subscript v in q_v denotes that volume is constant.\nThe equation 9.4 shows that we can determine internal energy change if we measure the heat gained or lost by the system at constant volume. However, in chemistry, the chemical reactions are generally carried out at constant pressure (atmospheric presure). What do we do then? Let us define another state function, called, enthalpy.\n9.4.4 Enthalpy (H)\nFor measuring heat lost or gained at constant pressure, we define a new state function called enthalpy. It is denoted by the symbol H and is given by\nH = U + p V \\tag{9.5}\nEnthalpy change, \\Delta H, is given by\n\\Delta H = \\Delta U + \\Delta(pV) \\tag{9.6}\nor \\Delta H = \\Delta U + p \\Delta V + V \\Delta p\nIf the change is carried out at constant pressure, then \\Delta p = 0. The equation 9.6 will become\n\\Delta H = \\Delta U + p \\Delta V \\text{ (at constant pressure)}  (9.7)\nSubstituting the value of \\Delta U from equation 9.3 in equation 9.7, we get\n\\Delta H = q - p \\Delta V + p \\Delta V\n= q (at constant pressure)\nWe denote q at constant pressure by q_n hence\n\\Delta H = q_{\\rm p} \\tag{9.8}\nEquation 9.8 shows that by measuring heat lost or gained at constant pressure, we can measure enthalpy change for any process.\n9.4.5 Relation between \\Delta H and \\Delta U\nFor liquids and solids, the difference between \\Delta_r H and \\Delta_r U is not significant but for gasses, the difference is significant as we will see here.\nMODULE - 4\nChemical Energetics",
+      "markdown": null,
+      "equations": [
+        "\\Delta U = q - p \\,\\Delta V \\tag{9.3}",
+        "\\Delta U = q_{..} \\tag{9.4}",
+        "H = U + p V \\tag{9.5}",
+        "\\Delta H = \\Delta U + \\Delta(pV) \\tag{9.6}",
+        "or \\Delta H = \\Delta U + p \\Delta V + V \\Delta p",
+        "\\Delta H = \\Delta U + p \\Delta V \\text{ (at constant pressure)}  (9.7)",
+        "\\Delta H = q - p \\Delta V + p \\Delta V",
+        "\\Delta H = q_{\\rm p} \\tag{9.8}"
+      ]
+    },
+    {
+      "page_no": 10,
+      "text": "Chemical Energetics\nChemical Thermodynamics\nLet V_{\\Lambda} be the total volume of the gaseous reactants,\nV_{\\scriptscriptstyle \\rm B} the total volume of the gaseous products,\nn_{\\Delta} the number of moles of gaseous reactants,\nand n_{\\rm B} the number of moles of gaseous products, at constant pressure and temperature.\nThen, using ideal gas law, we can write\np V_{\\scriptscriptstyle A} = n_{\\scriptscriptstyle A} RT \\tag{9.9}\np V_{R} = n_{R} RT \\tag{9.10}\nSubtracting equation 9.9 from equation 9.10, we get\np V_B - pV_A = n_B RT - n_A RT = (n_B - n_A) RTp (V_B - V_A) = p \\Delta V = \\Delta n_{\\rho} RT\nAt constant pressure\n\\Delta H = \\Delta U + p \\Delta V\nTherefore \\Delta H = \\Delta U + \\Delta n_{_{\\sigma}} RT\nHere \\Delta n_g = (number of moles of gaseous products) - (number of moles of gaseous reactants)\nThus we can find the value of \\Delta H from \\Delta U or vice versa.\nFor solids and liquids \\Delta V is very small. We can neglect the term p \\Delta V, hence \\Delta H is nearly the same as \\Delta U.\nINTEXT QUESTIONS 9.1\nH_2(g) + Cl_2(g) \\rightarrow 2HCl(g) + 185 \\text{ kJ}\nis endothermic.\n\\frac{1}{2} \\text{ N}_2(g) + \\frac{3}{2} \\text{ H}_2(g) \\rightarrow \\text{NH}_3(g) ; \\Delta H = -46 \\text{ kJ}\n260",
+      "markdown": null,
+      "equations": [
+        "p V_{\\scriptscriptstyle A} = n_{\\scriptscriptstyle A} RT \\tag{9.9}",
+        "p V_{R} = n_{R} RT \\tag{9.10}",
+        "p V_B - pV_A = n_B RT - n_A RT = (n_B - n_A) RTp (V_B - V_A) = p \\Delta V = \\Delta n_{\\rho} RT",
+        "\\Delta H = \\Delta U + p \\Delta V",
+        "H_2(g) + Cl_2(g) \\rightarrow 2HCl(g) + 185 \\text{ kJ}",
+        "\\frac{1}{2} \\text{ N}_2(g) + \\frac{3}{2} \\text{ H}_2(g) \\rightarrow \\text{NH}_3(g) ; \\Delta H = -46 \\text{ kJ}"
+      ]
+    },
+    {
+      "page_no": 11,
+      "text": "9.5 STANDARD ENTHALPY OF REACTIONS\nLet as denote total enthalpy of reactants as H_{\\text{reactants}} and total enthalpy of products as H_{\\text{products}}. The difference between these enthalpies, \\Delta H, is the enthalpy of the reaction\n\\Delta_r H = H_{\\text{products}} - H_{\\text{reactants}}\nWhen H_{\\text{products}} is greater than H_{\\text{reactants}} then \\Delta H is positive and heat is absorbed in the reaction, and the reaction will be endothermic. For example,\nH_2(g) + I_2(g) \\rightarrow 2HI(g); \\Delta H = 52.5 \\text{ kJ}\nWhen H_{\\text{products}} is less than H_{\\text{reactants}} then \\Delta H is negative and heat is evolved in the reaction, and the reaction will be exothermic. For example,\nCH_4(g) + 2O_2(g) \\rightarrow CO_2(g) + 2H_2O(l); \\Delta_1 H = -890.4 \\text{ kJ}\nEnthalpy of a reaction changes with pressure and temperature. It is convenient to report enthalpies of the reactions in terms of standard state of substances as we have defined earlier. When substances are in their standard states, we call the enthalpy of reaction as standard enthalpy of reaction. It is defined as the enthalpy change for a reaction, when the reactants and the products are in their standard states. It is donoted by \\Delta_{\\mu} H^0.\n9.5.1 Enthalpy of formation (\\Delta_f H^\\circ)\nThe enthalpy change when one mole of a pure compound is formed from its elements in their most stable states is called the enthalpy of formation and is denoted by \\Delta_t H^0.\nWhen the reacting elements and the products formed are all in their standard states, the enthalpy change accompanying the chemical reaction is called the standard enthalpy of formation and is denoted by \\Delta_f H^0. By convention, we take the standard enthalpy of formation of an element in its most stable state as zero.\nFor example:\nC_{\\text{(Graphite)}} + O_2(g) \\rightarrow CO_2(g); \\Delta_f H^0 = -393.5 \\text{ kJ mol}^{-1}\nMODULE - 4\nChemical Energetics\nNotes",
+      "markdown": null,
+      "equations": [
+        "\\Delta_r H = H_{\\text{products}} - H_{\\text{reactants}}",
+        "H_2(g) + I_2(g) \\rightarrow 2HI(g); \\Delta H = 52.5 \\text{ kJ}",
+        "CH_4(g) + 2O_2(g) \\rightarrow CO_2(g) + 2H_2O(l); \\Delta_1 H = -890.4 \\text{ kJ}",
+        "C_{\\text{(Graphite)}} + O_2(g) \\rightarrow CO_2(g); \\Delta_f H^0 = -393.5 \\text{ kJ mol}^{-1}"
+      ]
+    },
+    {
+      "page_no": 12,
+      "text": "Chemical Energetics\nChemical Thermodynamics\nThis means that carbon dioxide is formed from its elements in their most stable states. Carbon in the form of graphite and at room temperature and gasesous O_2 and CO_2 being at 1 bar.\n9.5.2 Enthalpy of Combustion (\\Delta_{comb} H°)\nEnthalpy of combustion is the enthalpy change (heat evolved) accompanying the complete combustion of 1 mole of a substance in oxygen at a given temperature and 1 bar pressure.\nFor example:\nC_2H_2OH(1) + 3O_2(g) \\rightarrow 2CO_2(g) + 3H_2O(1); \\Delta_{comb}H^0 = -1365.6 kJ\nEnthalpy of combutsion of C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;5&lt;/sub&gt;OH(l) is – 1365.6 kJ mol&lt;sup&gt;-1&lt;/sup&gt;\n9.5.3 Enthalpy of Neutralization (\\Delta_{neut} H^0)\nEnthalpy of neutralization is the enthalpy change (heat evolved) when one mole of hydrogen ions (H^+) is neutralized by one mole of hydroxyl ions (OH^-) in dilute aqueous medium to form water.\nFor example:\nH^{+}(aq) + OH^{-}(aq) \\rightarrow H_{2}O(l); \\Delta_{nout} H = -57 \\text{ kJ/mol}\nEnthalpy of neutralization of a strong acid with a strong base is always constant having a value of -57 kJ. However, enthalpy of neutralization of strong acid with a weak base or weak acid with a strong base will be different, because of varying degree of ionization of weak acids and bases.\n9.5.4 Enthalpy of atomisation (\\Delta_a H^0)\nIt is the change in enthalpy when one mole of a substance is converted into its atoms in gaseous state at a given temperature and 1 bar pressure\nExamples:\n(i) C(graphite) \\longrightarrow C(g) \\Delta_a H^0 = 716.68 \\text{ kJ mol}^{-1}\nIn case of elements in solid state, it is equal to the enthalpy of sublimation.\n(ii) CH_4(g) \\longrightarrow C(g) + 4H(g) \\Delta_a H^0 = 1660 \\text{ kJ mol}^{-1}\n(iii) Hg(l) \\longrightarrow Hg(g) \\Delta_a H^0 = 61.32 \\text{ kJ mol}^{-1}\nFor elements in liquid state, it is equal to the enthalpy of vaporization.\n9.5.5 Enthalpy of transition (phase transformation) (\\Delta_{trs}H^0)\nIt is the change in enthalpy when one mole of substance changes from one phase to another at a constant temperature and under 1 bar pressure. Phase transition/transformation is a general term that includes the following:",
+      "markdown": null,
+      "equations": [
+        "C_2H_2OH(1) + 3O_2(g) \\rightarrow 2CO_2(g) + 3H_2O(1); \\Delta_{comb}H^0 = -1365.6 kJ",
+        "H^{+}(aq) + OH^{-}(aq) \\rightarrow H_{2}O(l); \\Delta_{nout} H = -57 \\text{ kJ/mol}",
+        "(i) C(graphite) \\longrightarrow C(g) \\Delta_a H^0 = 716.68 \\text{ kJ mol}^{-1}",
+        "(ii) CH_4(g) \\longrightarrow C(g) + 4H(g) \\Delta_a H^0 = 1660 \\text{ kJ mol}^{-1}",
+        "(iii) Hg(l) \\longrightarrow Hg(g) \\Delta_a H^0 = 61.32 \\text{ kJ mol}^{-1}"
+      ]
+    },
+    {
+      "page_no": 13,
+      "text": "Name of Process\nProcess\nSpecific symbol\n(i) Sublimation: Solid \\longrightarrow Gas \\Delta_{\\text{sub}}H^0\n(ii) Vaporisation: Liquid \\longrightarrow Gas \\Delta_{van}H^0\n(iii) Fusion: Solid \\longrightarrow Liquid \\Delta_{\\text{fus}}H^{0}\n(iv) Transition Solid (one crystalline \\Delta_{trs}H^0\nform) \\longrightarrow Solid\n(another crystalline form)\nExamples:\n(i) Hg(l) \\longrightarrow Hg(g) \\Delta_{trs}H^0/\\Delta_{vap}H^0 = 61.32 \\text{ kJ mol}^{-1}\n(ii) H_2O(1) \\longrightarrow H_2O(g) \\Delta_{trs}H^0/\\Delta_{vap}H^0 = 4079 \\text{ kJ mol}^{-1}\n(iii) H_2O(s) \\longrightarrow H_2O(g) \\Delta_{trs}H^0/\\Delta_{sub}H^0 = 6.01 \\text{ kJ mol}^{-1}\n(iv) C(graphite) \\longrightarrow C(diamond) \\Delta_{trs}H^0 = 1.90 \\text{ kJ mol}^{-1}\n9.5.6 Enthalpy of Solution (\\Delta_{sol}H^0)\nIt is the change in enthalpy when one mole of a solute is dissolved in a specific amount of a solvent at a constant temperature and under 1 bar pressure. It is also known as integral enthalpy of solution. The amount of solvent is mentioned as its of moles in which one mole of solute is dissolved.\nExamples\n(i) HCl(g) + 10H_2O(l) \\longrightarrow HCl.10 H_2O \\quad \\Delta_{sol}H^0 = -69.5 \\text{ kJ mol}^{-1}\n(ii) HCl(g) + 25H_2O(l) \\longrightarrow HCl.25 H_2O \\Delta_{sol}H^0 = -72.2 \\text{ kJ mol}^{-1}\n9.5.7. Enthalpy of ionization (\\Delta_{ion}H^0)\nIt is the change in enthalpy when one mole of a weak electrolyte ionizes completely in its solution at a constant temperature and under 1 bar pressure\nExample:\nHCN(aq) \\longrightarrow H^{+}(aq) + CN^{-}(aq) \\Delta_{ion}H^{0} = 43.7 \\text{ kJ mol}^{-1}\nMODULE - 4\nChemical Energetics\n263",
+      "markdown": null,
+      "equations": [
+        "(i) Sublimation: Solid \\longrightarrow Gas \\Delta_{\\text{sub}}H^0",
+        "(ii) Vaporisation: Liquid \\longrightarrow Gas \\Delta_{van}H^0",
+        "(iii) Fusion: Solid \\longrightarrow Liquid \\Delta_{\\text{fus}}H^{0}",
+        "(iv) Transition Solid (one crystalline \\Delta_{trs}H^0",
+        "form) \\longrightarrow Solid",
+        "(i) Hg(l) \\longrightarrow Hg(g) \\Delta_{trs}H^0/\\Delta_{vap}H^0 = 61.32 \\text{ kJ mol}^{-1}",
+        "(ii) H_2O(1) \\longrightarrow H_2O(g) \\Delta_{trs}H^0/\\Delta_{vap}H^0 = 4079 \\text{ kJ mol}^{-1}",
+        "(iii) H_2O(s) \\longrightarrow H_2O(g) \\Delta_{trs}H^0/\\Delta_{sub}H^0 = 6.01 \\text{ kJ mol}^{-1}",
+        "(iv) C(graphite) \\longrightarrow C(diamond) \\Delta_{trs}H^0 = 1.90 \\text{ kJ mol}^{-1}",
+        "(i) HCl(g) + 10H_2O(l) \\longrightarrow HCl.10 H_2O \\quad \\Delta_{sol}H^0 = -69.5 \\text{ kJ mol}^{-1}",
+        "(ii) HCl(g) + 25H_2O(l) \\longrightarrow HCl.25 H_2O \\Delta_{sol}H^0 = -72.2 \\text{ kJ mol}^{-1}",
+        "HCN(aq) \\longrightarrow H^{+}(aq) + CN^{-}(aq) \\Delta_{ion}H^{0} = 43.7 \\text{ kJ mol}^{-1}"
+      ]
+    },
+    {
+      "page_no": 14,
+      "text": "Chemical Energetics\nChemical Thermodynamics\n9.6 LAWS OF THERMOCHEMISTRY\nThere are two laws of thermochemistry: The Lavoisiter-Laplace law and the Hess's Law of Constant Heat Summation.\nLavoisier – Laplace Law: When a chemical equation is reversed, the sign of \\Delta H is changed. For example,\nN_2(g) + O_2(g) \\rightarrow 2NO(g); \\Delta H = 180.5 \\text{ kJ}\n2NO (g) \\rightarrow N2 (g) + O2 (g); \\Delta H = -180.5 \\text{ kJ}\nHess's Law of constant heat summation: Hess's law states that the enthalpy of reaction is independent of the number and the nature of the intermediate steps.\nYou have learnt that standard enthalpy change of the reaction\nC \\text{ (graphite)} + O_2(g) \\rightarrow CO_2(g)\nis equal to -393.5 kJ mol&lt;sup&gt;-1&lt;/sup&gt;. This value can be determined with the help of a calorimeter. However, there are some reactions for which the direct measurement of enthalpy in the laboratory is not possible. For example the standard enthalpy change for the reaction,\nC (graphite) + \\frac{1}{2} O2 (g) \\rightarrow CO (g)\ncannot be to determined with the help of calorimeter because the combustion of carbon is incomplete unless an excess of oxygen is used. If excess of oxygen is used, some of the CO is oxidized to CO&lt;sub&gt;2&lt;/sub&gt;. How can then we determine the enthalpy change for such reactions when direct measurement is not possible?\nSince \\Delta H is a state function, it is not dependent on the way the reactions are carried out. Let us carry out the reactions as follows.\n(1) First carry out the following reaction and let \\Delta_r H_1^0 be the enthalphy change of the reaction.\nC (graphite) + O_2(g) \\rightarrow CO_2(g); \\Delta_r H_1^0 = -393.5 \\text{ kJ/mol.}\n(2) Now let us write the reaction for which we have to determine the enthalpy change of the reaction and let it be \\Delta H_2^{\\circ}\nC (graphite) + \\frac{1}{2} O2 (g) \\rightarrow CO(g); \\Delta_r H_2^0 = ?\n(3) Let us carry out the following reactions and let \\Delta_r H_3^0 be the enthalpy change of the reaction\nCO(g) + \\frac{1}{2} O_2(g) \\rightarrow CO_2(g); \\Delta_r H_3^0 = -283.0 \\text{ kJ}",
+      "markdown": null,
+      "equations": [
+        "N_2(g) + O_2(g) \\rightarrow 2NO(g); \\Delta H = 180.5 \\text{ kJ}",
+        "2NO (g) \\rightarrow N2 (g) + O2 (g); \\Delta H = -180.5 \\text{ kJ}",
+        "C \\text{ (graphite)} + O_2(g) \\rightarrow CO_2(g)",
+        "C (graphite) + \\frac{1}{2} O2 (g) \\rightarrow CO (g)",
+        "C (graphite) + O_2(g) \\rightarrow CO_2(g); \\Delta_r H_1^0 = -393.5 \\text{ kJ/mol.}",
+        "C (graphite) + \\frac{1}{2} O2 (g) \\rightarrow CO(g); \\Delta_r H_2^0 = ?",
+        "CO(g) + \\frac{1}{2} O_2(g) \\rightarrow CO_2(g); \\Delta_r H_3^0 = -283.0 \\text{ kJ}"
+      ]
+    },
+    {
+      "page_no": 15,
+      "text": "We have obtained the products CO_2(g) from carbon and oxygen through two routes, namely first as in step (1) and second as in step (2) + (3).\nAccording to Hess's Law\n\\Delta_r H_1^{\\ 0} = \\Delta_r H_2^{\\ 0} + \\Delta_r H_3^{\\ 0} or \\Delta_r H_2^{\\ 0} = \\Delta_r H_1^{\\ 0} - \\Delta_r H_3^{\\ 0}\nFig 9.4 shows alternate paths for the conversion of carbon and oxygen to carbon dioxide.\nThe result of Hess's law is that thermochemical equations can be added and substracted just like algebraic equations to get the desired reaction. A useful practical application of this law is that we can calculate enthalpy changes for the reactions which cannot be studied directly as in the above case.\nTo obtain the enthalpy change for the reactions, we algebraically combine the known values of \\Delta_L H^0 in the same way as the reactions themselves,\nThus C(graphite) + O_2(g) \\rightarrow CO_2(g); \\Delta_r H_1^0 = -393.5 \\text{ kJ/mol}\n\n-[CO(graphite) + \\frac{1}{2} O_2(g) \\rightarrow CO_2(g)]; \\Delta_r H_3^0 = -283.0 \\text{ kJ/mol}\n\nC(graphite) + \\frac{1}{2} O_2(g) \\rightarrow CO(g); \\Delta_r H_2^0 = [(-393.5) - (-283.0)]\n\n= -110.5 \\text{ kJ/mol}\nExample 9.1 The heat evolved in the combustion of glucose is shown in the following equation:\nC_6H_{12}O_6(s) + 6O_2(g) \\rightarrow 6CO_2(g) + 6H_2O(l); \\Delta_{comb}H = -2840 \\text{ kJ/mol}\nHow much energy will be required for the production of 1.08 g of glucose?\nSoluton: Glucose will be prepared by the reverse reaction.\nMODULE - 4\nChemical Energetics",
+      "markdown": null,
+      "equations": [
+        "\\Delta_r H_1^{\\ 0} = \\Delta_r H_2^{\\ 0} + \\Delta_r H_3^{\\ 0} or \\Delta_r H_2^{\\ 0} = \\Delta_r H_1^{\\ 0} - \\Delta_r H_3^{\\ 0}",
+        "Thus C(graphite) + O_2(g) \\rightarrow CO_2(g); \\Delta_r H_1^0 = -393.5 \\text{ kJ/mol}\n-[CO(graphite) + \\frac{1}{2} O_2(g) \\rightarrow CO_2(g)]; \\Delta_r H_3^0 = -283.0 \\text{ kJ/mol}\nC(graphite) + \\frac{1}{2} O_2(g) \\rightarrow CO(g); \\Delta_r H_2^0 = [(-393.5) - (-283.0)]\n= -110.5 \\text{ kJ/mol}",
+        "C_6H_{12}O_6(s) + 6O_2(g) \\rightarrow 6CO_2(g) + 6H_2O(l); \\Delta_{comb}H = -2840 \\text{ kJ/mol}How much energy will be required for the production of 1.08 g of glucose?Soluton: Glucose will be prepared by the reverse reaction."
+      ]
+    },
+    {
+      "page_no": 16,
+      "text": "Chemical Energetics\nChemical Thermodynamics\n6\\text{CO}_2(g) + 6\\text{H}_2\\text{O} (1) \\rightarrow \\text{C}_6\\text{H}_{12}\\text{O}_6 (s) + 6\\text{CO}_2 (g) ; \\Delta H = 2840 \\text{ kJ}.\nThis equation refers to 1 mol of glucose (180 g of glucose).\nProduction of 180 g of glucose requires 2840 kJ of energy. Therefore, production of 1.08 g will require;\n\\frac{2840 \\text{ kJ}}{180 \\text{ g}} \\times 1.08 \\text{ g} = 17.04 \\text{ kJ}\nExample 9.2 Calculate the standard enthalpy of formation of ethane, given that\nC(graphite) + O_2(g) \\rightarrow CO_2(g); \\Delta_f H^0 = -394 \\text{ kJ mol}^{-1}\nH_2(g) + \\frac{1}{2} O_2(g) \\rightarrow H_2O(\\ell); \\Delta_f H^0 = -286 \\text{ kJ mol}^{-1}\nC_2H_6(g) + \\frac{7}{2} O_2(g) \\rightarrow 2CO_2(g) + 3H_2O(\\ell); \\Delta_r H^0 = -1560 \\text{ kJ mol}^{-1}\nSolution: Given that\nC_{\\text{(graphite)}} + O_2(g) \\to CO_2(g) ; \\Delta_r H_1^0 = -394 \\text{ kJ/mol} (1)\nH_2(g) + \\frac{1}{2} O_2(g) \\rightarrow H_2O(l) ; \\Delta_r H_2^0 = -286 \\text{ kJ/mol} (2)\nC_2H_6(g) + \\frac{7}{2} O_2(g) \\rightarrow 2CO_2(g) + 3H_2O(l); \\Delta_r H_3^0 = -1560 \\text{ kJ/mol} (3)\nThe required equation is\n2C_{\\text{(graphite)}} + 3H_2(g) \\rightarrow C_2H_6(g) ; \\Delta_f H^0 = ? (4)\nTo obtain the above equation, mulitply equations (1) by 2 and equation (2) by 3 and then add both the equations we get\n2C_{\\text{(graphite)}} + 3H_2(g) + \\frac{7}{2}O_2(g) \\rightarrow 2CO_2(g) + 3H_2O(l); \\Delta_r H_5^0 = -1656 \\text{ kJ/mol } (5)\n(where \\Delta_r H_5^0 = 2\\Delta_r H_1^0 + 3\\Delta_r H_2^0 = 2 \\times (-394) + 3 \\times (-286) = -1656 \\text{ kJ/mol})\nSubtract equation (3) from equation (5) to get the equation (4)\n2C_{\\text{(graphite)}} + 3H_2(g) \\rightarrow C_2H_6(g);\nwhere \\Delta_f H^0 = -1656 - (-1560) = -96 \\text{ kJ/mol}\nThus, standard enthalpy of formation of ethane is -96 kJ/mol",
+      "markdown": null,
+      "equations": [
+        "6\\text{CO}_2(g) + 6\\text{H}_2\\text{O} (1) \\rightarrow \\text{C}_6\\text{H}_{12}\\text{O}_6 (s) + 6\\text{CO}_2 (g) ; \\Delta H = 2840 \\text{ kJ}.",
+        "\\frac{2840 \\text{ kJ}}{180 \\text{ g}} \\times 1.08 \\text{ g} = 17.04 \\text{ kJ}",
+        "C(graphite) + O_2(g) \\rightarrow CO_2(g); \\Delta_f H^0 = -394 \\text{ kJ mol}^{-1}",
+        "H_2(g) + \\frac{1}{2} O_2(g) \\rightarrow H_2O(\\ell); \\Delta_f H^0 = -286 \\text{ kJ mol}^{-1}",
+        "C_2H_6(g) + \\frac{7}{2} O_2(g) \\rightarrow 2CO_2(g) + 3H_2O(\\ell); \\Delta_r H^0 = -1560 \\text{ kJ mol}^{-1}",
+        "C_{\\text{(graphite)}} + O_2(g) \\to CO_2(g) ; \\Delta_r H_1^0 = -394 \\text{ kJ/mol} (1)",
+        "H_2(g) + \\frac{1}{2} O_2(g) \\rightarrow H_2O(l) ; \\Delta_r H_2^0 = -286 \\text{ kJ/mol} (2)",
+        "C_2H_6(g) + \\frac{7}{2} O_2(g) \\rightarrow 2CO_2(g) + 3H_2O(l); \\Delta_r H_3^0 = -1560 \\text{ kJ/mol} (3)",
+        "2C_{\\text{(graphite)}} + 3H_2(g) \\rightarrow C_2H_6(g) ; \\Delta_f H^0 = ? (4)",
+        "2C_{\\text{(graphite)}} + 3H_2(g) + \\frac{7}{2}O_2(g) \\rightarrow 2CO_2(g) + 3H_2O(l); \\Delta_r H_5^0 = -1656 \\text{ kJ/mol } (5)",
+        "(where \\Delta_r H_5^0 = 2\\Delta_r H_1^0 + 3\\Delta_r H_2^0 = 2 \\times (-394) + 3 \\times (-286) = -1656 \\text{ kJ/mol})",
+        "2C_{\\text{(graphite)}} + 3H_2(g) \\rightarrow C_2H_6(g);",
+        "where \\Delta_f H^0 = -1656 - (-1560) = -96 \\text{ kJ/mol}"
+      ]
+    },
+    {
+      "page_no": 17,
+      "text": "INTEXT QUESTIONS 9.2\nC(graphite) + O2 (g) \\rightarrow CO2(g) ; \\Delta_t H^0 = -394 \\text{ kJ mol}^{-1}\n\\Delta H^0 is known as enthalpy of formation of CO_2(g)\n2. Calculate the enthalpy change for complete combustion of 29.0 g of butane, if\nC_4H_{10}(g) + \\frac{3}{2}O_2(g) \\rightarrow 4CO_2(g) + 5H_2O(l); \\Delta_{comb}H^0 = -2658 \\text{ kJ}\n3. Calculate the standard enthalpy of the reaction\n2H_2S(g) + SO_2(g) \\rightarrow 3S(s) + 2H_2O(1)\ngiven that\n\\Delta_{E}H^{0} (H2S) = -20.6 kJ mol-1\n\\Delta_{c} H^{0} (SO_{2}) = -296.9 \\text{ kJ mol}^{-1}\n\\Delta_f H^0 (H_2 O) = -289.9 \\text{ kJ mol}^{-1}\n9.7 BOND ENTHALPIES\nIn a chemical reaction, you have seen that energy is either absorbed or evolved. Do you know the origin of this change in energy? You know that bonds are broken and new bonds are formed in chemical reactions. Energy changes take place in breaking some bonds of the reactants and in forming new bonds of the products. So the energy changes in a chemical reaction are a result of energy changes in breaking and forming of bonds. Let us consider the gaseous reactions, because in these, we encounter the energy changes due to breaking and forming of bonds only.\nAt high temperature, hydrogen molecules dissociate into atoms as\nH_2(g) \\rightarrow H(g) + H(g); \\Delta H = 435 kJ/mol\nThe heat absorbed in this reaction is used to break the chemical bonds holding the hydrogen atoms together in the H_2 molecules. For a diatomic molecule like H_2(g),\nMODULE - 4\nChemical Energetics",
+      "markdown": null,
+      "equations": [
+        "C(graphite) + O2 (g) \\rightarrow CO2(g) ; \\Delta_t H^0 = -394 \\text{ kJ mol}^{-1}",
+        "C_4H_{10}(g) + \\frac{3}{2}O_2(g) \\rightarrow 4CO_2(g) + 5H_2O(l); \\Delta_{comb}H^0 = -2658 \\text{ kJ}",
+        "2H_2S(g) + SO_2(g) \\rightarrow 3S(s) + 2H_2O(1)",
+        "\\Delta_{E}H^{0} (H2S) = -20.6 kJ mol-1",
+        "\\Delta_{c} H^{0} (SO_{2}) = -296.9 \\text{ kJ mol}^{-1}",
+        "\\Delta_f H^0 (H_2 O) = -289.9 \\text{ kJ mol}^{-1}",
+        "H_2(g) \\rightarrow H(g) + H(g); \\Delta H = 435 kJ/mol"
+      ]
+    },
+    {
+      "page_no": 18,
+      "text": "Chemical Energetics\nChemical Thermodynamics\nwe define bond dissociation energy as the enthalpy change of the reaction in which one mole of the gaseous molecules are dissociated into gaseous atoms.\nNow, let us consider a polyatomic molecule like H&lt;sub&gt;2&lt;/sub&gt;O(g). The dissociation may involve fragmenting the molecules into an atom and a group of atoms, called a radical, as in\nH_2O(g) \\rightarrow H(g) + OH(g); \\Delta_r H^0 = 502 \\text{ kJ/mol}\n\nOH(g) \\rightarrow O(g) + H(g); \\Delta_r H^0 = 427 \\text{ kJ/mol}\nIn the first reaction, one of the two OH bonds in \\rm H_2O (g) dissociates with an enthalpy change of 502 kJ/mol and in the second reaction, second OH bond dissociates with an enthalpy change of 427 kJ/mol. It is clear that the dissociation energy of the O – H bond is sensitive to its environment. However, the difference is not very large. We take the average value (464.5 kJ/mol in this case) in case of polyatomic molecules and call it bond enthalpy.\nBond enthalpy is defined as the average amount of enthalpy change involved in the dissociation of one mole of bonds present in different gaseous compounds.\nNow you know the distincton between bond dissociation enthalpy and bond enthalpy. Bond dissociation enthalpy refers to breaking a particular bond in a particular molecule whereas bond enthalpy is the average value of bond dissociation energies for a given type of bond. The bond enthalpies of some bonds are listed in table 9.1.\nBy using bond enthalpies (B.E.) it is possible to estimate the energy released when a gaseous molecule is formed from its gaseous atoms. For example, the energy released at constant pressure for the reaction (\\Delta H),\n3H(g) + C(g) + Cl(g) \\rightarrow CH_2Cl(g)\nis the sum of the energies of three C-H bonds, and one C-Cl bond, all taken with a negative sign because energy is released. Using the values of bond enthalpies (B.E.) from table 9.1 we get,\n\\Delta_r H = -3 \\times \\text{B.E.} (\\text{C} - \\text{H}) - \\text{B.E.} (\\text{C} - \\text{Cl})\n= (-3 \\times 415 - 335) \\text{ kJ mol}^{-1}\n= (-1245 - 335) \\text{ kJ mol}^{-1}\n= -1574 \\text{ kJ mol}^{-1}\nWe will now show you how to use bond enthalpy data to estimate the enthalpy of a reaction, when direct calorimetric data are not available. Note that in section 9.7 we used enthalpy of formation data to estimate enthalpy of a reaction. In",
+      "markdown": null,
+      "equations": [
+        "H_2O(g) \\rightarrow H(g) + OH(g); \\Delta_r H^0 = 502 \\text{ kJ/mol}\nOH(g) \\rightarrow O(g) + H(g); \\Delta_r H^0 = 427 \\text{ kJ/mol}",
+        "3H(g) + C(g) + Cl(g) \\rightarrow CH_2Cl(g)",
+        "\\Delta_r H = -3 \\times \\text{B.E.} (\\text{C} - \\text{H}) - \\text{B.E.} (\\text{C} - \\text{Cl})= (-3 \\times 415 - 335) \\text{ kJ mol}^{-1}= (-1245 - 335) \\text{ kJ mol}^{-1}= -1574 \\text{ kJ mol}^{-1}"
+      ]
+    },
+    {
+      "page_no": 19,
+      "text": "principle, bond enthalpy data can be used to calculate \\Delta_{P}H for a chemical reaction occurring in gaseous state by making use of difference in energy absorbed in breaking the bonds in reactants and energy released in formation of bonds in products.\n\\Delta H = \\Sigma B.E. (reactants) – \\Sigma B.E. (products) (9.10)\nExample 9.3: Use bond enthalpy data given in table 9.1 to calculate the enthalpy of the reaction.\nCH_{3}(g) + Cl_{2}(g) \\rightarrow CH_{3}Cl(g) + HCl(g)\nSolution: 1. Write the equation using structural formula\n\\begin{array}{cccccccccccccccccccccccccccccccccccc\nMODULE - 4\nChemical Energetics",
+      "markdown": null,
+      "equations": [
+        "\\Delta H = \\Sigma B.E. (reactants) – \\Sigma B.E. (products) (9.10)",
+        "CH_{3}(g) + Cl_{2}(g) \\rightarrow CH_{3}Cl(g) + HCl(g)",
+        "\\begin{array}{cccccccccccccccccccccccccccccccccccc"
+      ]
+    },
+    {
+      "page_no": 20,
+      "text": "Chemical Energetics\nChemical Thermodynamics\n2. List the bonds broken and bonds formed under the equation as shown\n\\begin{array}{cccccccccccccccccccccccccccccccccccc\nnumber of bonds broken\nnumber of bonds formed\nC - H = 4 C - Cl = 1\n\nCl - Cl = 1 H - Cl = 1\n\nC - H = 3\n3. Look up the values of bond enthalpies for the bonds in the reactants and products and list them as shown\nReactants Products\n\nB.E. (C - H) = 435 \\text{ kJ mol}^{-1}\n\nB.E. (Cl - Cl) = 339 \\text{ kJ mol}^{-1}\n\nB.E. (H - Cl) = 431 \\text{ kJ mol}^{-1}\n\nB.E. (C - H) = 435 \\text{ kJ/mol}^{-1}\n4. Use equation 9.10,\nEnthalpy of the rection \\Delta_r H = \\Sigma B.E. (reactants) - \\Sigma B.E. (products) = 4[B.E. (C – H) + B.E. (C – Cl)] – [B.E. (C – Cl) + B.E. (H – Cl) + 3 B.E. (C – H)] = [4 × 435 + 242] – [339 + 431 + 3 × 435] = – 93 kJ\nNow let us take one example in which we calculate the enthalpy of a reaction using\nExample 9.4: Calculate \\Delta_{\\perp}H^{\\circ} for the reaction\n\\operatorname{Cl}_{2}\\left(g\\right)+2\\operatorname{HF}\\left(g\\right)\\rightarrow2\\operatorname{HCl}\\left(g\\right)+F_{2}\\left(g\\right)\n(a) Using enthalpy of formation data\n\\Delta_{\\rm f} H^{\\circ} \\text{ (HCl)} = -92.5 \\text{ kJ}\n\\Delta_{\\rm f} H^{\\circ} \\text{ (HF)} = -269 \\text{ kJ}\n(b) Using bond enthalpy data\nB.E. (H - Cl) = 431 \\text{ kJ mol}^{-1}\nB.E. (F - F) = 155 \\text{ kJ mol}^{-1}",
+      "markdown": null,
+      "equations": [
+        "\\begin{array}{cccccccccccccccccccccccccccccccccccc",
+        "C - H = 4 C - Cl = 1\nCl - Cl = 1 H - Cl = 1\nC - H = 3",
+        "Reactants Products\n\nB.E. (C - H) = 435 \\text{ kJ mol}^{-1}\n\nB.E. (Cl - Cl) = 339 \\text{ kJ mol}^{-1}\n\nB.E. (H - Cl) = 431 \\text{ kJ mol}^{-1}\n\nB.E. (C - H) = 435 \\text{ kJ/mol}^{-1}",
+        "Enthalpy of the rection \\Delta_r H = \\Sigma B.E. (reactants) - \\Sigma B.E. (products) = 4[B.E. (C – H) + B.E. (C – Cl)] – [B.E. (C – Cl) + B.E. (H – Cl) + 3 B.E. (C – H)] = [4 × 435 + 242] – [339 + 431 + 3 × 435] = – 93 kJ",
+        "\\operatorname{Cl}_{2}\\left(g\\right)+2\\operatorname{HF}\\left(g\\right)\\rightarrow2\\operatorname{HCl}\\left(g\\right)+F_{2}\\left(g\\right)",
+        "\\Delta_{\\rm f} H^{\\circ} \\text{ (HCl)} = -92.5 \\text{ kJ}\\Delta_{\\rm f} H^{\\circ} \\text{ (HF)} = -269 \\text{ kJ}",
+        "B.E. (H - Cl) = 431 \\text{ kJ mol}^{-1}B.E. (F - F) = 155 \\text{ kJ mol}^{-1}"
+      ]
+    },
+    {
+      "page_no": 21,
+      "text": "B.E. (H - F) = 563 \\text{ kJ mol}^{-1}\nB.E. (Cl - Cl) = 242 \\text{ kJ mol}^{-1}\nSolution:\n(a) Using enthalpy of formation of compounds,\n\\Delta_{r}H = [2\\Delta_{f}H^{0} (HCl) + \\Delta_{f}H(F_{2})] - [2\\Delta_{f}H^{0} (HF) + \\Delta_{f}H^{0} (Cl_{2})]\n= [2x (-92.5) + 0] - [2x - (269) + 0] kJ\n= -185 kJ + 538 kJ\n= +353 kJ\n(b) Using bond enthalpies\n\\Delta_{r}H^{0} = \\Sigma \\text{ B.E. (reactants bonds)} - \\Sigma \\text{ B.E. (products bonds)}\n\n\n= [B.E. (Cl - Cl) + 2B.E. (H - F)] - [2 B.E. (H - Cl) + B.E. (F - F)]\n\n\n= [242 + 2 (563)] \\text{ kJ} - [2 \\times 431 + 155] \\text{ kJ}\n\n\n= 1368 \\text{ kJ} - 1017 \\text{ kJ}\n\n\n\\Delta H^{0} = 351 \\text{ kJ}\n\\Delta_{\\perp}H^0 calculated by these two different methods are nearly the same.\nINTEXT QUESTIONS 9.3\n\\frac{1}{2} N_2(g) + \\frac{3}{2} H_2(g) \\rightarrow NH_3(g); \\quad \\Delta_f H^0 = -46 \\text{ kJ mol}^{-1}\nMODULE - 4\nChemical Energetics",
+      "markdown": null,
+      "equations": [
+        "B.E. (H - F) = 563 \\text{ kJ mol}^{-1}B.E. (Cl - Cl) = 242 \\text{ kJ mol}^{-1}",
+        "\\Delta_{r}H = [2\\Delta_{f}H^{0} (HCl) + \\Delta_{f}H(F_{2})] - [2\\Delta_{f}H^{0} (HF) + \\Delta_{f}H^{0} (Cl_{2})]\n= [2x (-92.5) + 0] - [2x - (269) + 0] kJ\n= -185 kJ + 538 kJ\n= +353 kJ",
+        "\\Delta_{r}H^{0} = \\Sigma \\text{ B.E. (reactants bonds)} - \\Sigma \\text{ B.E. (products bonds)}\n\n\n= [B.E. (Cl - Cl) + 2B.E. (H - F)] - [2 B.E. (H - Cl) + B.E. (F - F)]\n\n\n= [242 + 2 (563)] \\text{ kJ} - [2 \\times 431 + 155] \\text{ kJ}\n\n\n= 1368 \\text{ kJ} - 1017 \\text{ kJ}\n\n\n\\Delta H^{0} = 351 \\text{ kJ}",
+        "\\frac{1}{2} N_2(g) + \\frac{3}{2} H_2(g) \\rightarrow NH_3(g); \\quad \\Delta_f H^0 = -46 \\text{ kJ mol}^{-1}"
+      ]
+    },
+    {
+      "page_no": 22,
+      "text": "Chemical Energetics\nChemical Thermodynamics\n\\frac{1}{2} \\text{ H}_2(g) \\to \\text{H}(g); \\qquad \\Delta_r H^0 = 218 \\text{ kJ mol}^{-1}\n\\frac{1}{2} N_2(g) \\to N(g); \\Delta_r H^0 = 973 \\text{ kJ mol}^{-1}\n3. Calculate the enthalpy of the reaction\nH_2(g) + Cl_2(g) \\rightarrow 2HCl(g)\ngiven;\nBond enthalpy (H - H) = 435 \\text{ kJ mol}^{-1}\nBond enthalpy (Cl - Cl) = 242 \\text{ kJ mol}^{-1}\nBond enthalpy (H - Cl) = 431 \\text{ kJ mol}^{-1}\nWHAT YOU HAVE LEARNT",
+      "markdown": null,
+      "equations": [
+        "\\frac{1}{2} \\text{ H}_2(g) \\to \\text{H}(g); \\qquad \\Delta_r H^0 = 218 \\text{ kJ mol}^{-1}",
+        "\\frac{1}{2} N_2(g) \\to N(g); \\Delta_r H^0 = 973 \\text{ kJ mol}^{-1}",
+        "H_2(g) + Cl_2(g) \\rightarrow 2HCl(g)given;"
+      ]
+    },
+    {
+      "page_no": 23,
+      "text": "TERMINAL EXERCISE\nC_2H_2(g) + \\frac{5}{2} O_2(g) \\rightarrow 2CO_2(g) + H_2O(l); \\Delta_{comb}H = -1299 \\text{ kJ/mol}\nC(graphite) + O_2(g) \\rightarrow CO_2(g); \\Delta_t H = -393 kJ/mol\nH_2(g) + \\frac{1}{2} O_2(g) \\rightarrow H_2O(1) ; \\Delta_1 H = -285.5 \\text{ kJ/mol}\nCalculate enthalpy of formation of C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;(g)\n3. Calculate the enthalpy of combustion of propane\n\\mathrm{C_3H_8}\\left(\\mathrm{g}\\right) + 5\\mathrm{O_2}(\\mathrm{g}) \\rightarrow 3\\mathrm{CO_2}(\\mathrm{g}) + 4\\mathrm{H_2O}\\left(\\mathrm{l}\\right)\nGiven the following:\nH_2(g) + \\frac{1}{2} O_2(g) \\rightarrow H_2O(l); \\quad \\Delta_t H = -285.5 \\text{ kJ/mol}\nC(s) + O_2(g) \\rightarrow CO_2(g); \\Delta_t H = -393 \\text{ kJ/mol}\n3C(s) + 4H_2(g) \\rightarrow C_3H_8(g); \\quad \\Delta_1 H = -104 \\text{ kJ/mol}\nMODULE - 4\nChemical Energetics",
+      "markdown": null,
+      "equations": [
+        "C_2H_2(g) + \\frac{5}{2} O_2(g) \\rightarrow 2CO_2(g) + H_2O(l); \\Delta_{comb}H = -1299 \\text{ kJ/mol}",
+        "C(graphite) + O_2(g) \\rightarrow CO_2(g); \\Delta_t H = -393 kJ/mol",
+        "H_2(g) + \\frac{1}{2} O_2(g) \\rightarrow H_2O(1) ; \\Delta_1 H = -285.5 \\text{ kJ/mol}",
+        "\\mathrm{C_3H_8}\\left(\\mathrm{g}\\right) + 5\\mathrm{O_2}(\\mathrm{g}) \\rightarrow 3\\mathrm{CO_2}(\\mathrm{g}) + 4\\mathrm{H_2O}\\left(\\mathrm{l}\\right)",
+        "H_2(g) + \\frac{1}{2} O_2(g) \\rightarrow H_2O(l); \\quad \\Delta_t H = -285.5 \\text{ kJ/mol}",
+        "C(s) + O_2(g) \\rightarrow CO_2(g); \\Delta_t H = -393 \\text{ kJ/mol}",
+        "3C(s) + 4H_2(g) \\rightarrow C_3H_8(g); \\quad \\Delta_1 H = -104 \\text{ kJ/mol}"
+      ]
+    },
+    {
+      "page_no": 24,
+      "text": "Chemical Energetics\nChemical Thermodynamics\n2Na_2O_2(s) + 2H_2O(l) \\rightarrow 4NaOH(s) + O_2(g)\nEnthalpies of formation of NaOH (s), Na_2O_2 (s) and H_2O (l) are - 426.4 kJ mol&lt;sup&gt;-1&lt;/sup&gt;, 504 kJ mol&lt;sup&gt;-1&lt;/sup&gt; and - 285 kJ mol&lt;sup&gt;-1&lt;/sup&gt; respectively.\n6. Calculate the heat of formation of gaseous ethyl alcohol,\n2C(graphite) + 3H_2(g) + \\frac{1}{2}O_2(g) \\rightarrow C_2H_5OH(g)\ngiven that enthalpy of sublimation of graphite is 714 kJ/mol and bond enthalpies of H – H, O = O, C – C, C – H, C – O and O – H are respectively 435 kJ/mol&lt;sup&gt;-1&lt;/sup&gt;, 498 kJ/mol&lt;sup&gt;-1&lt;/sup&gt;, 347 kJ/mol&lt;sup&gt;-1&lt;/sup&gt;, 415 kJ/mol&lt;sup&gt;-1&lt;/sup&gt;, 355 kJ/mol&lt;sup&gt;-1&lt;/sup&gt; and 462 \\text{ kJ/mol}^{-1} respectively.\nANSWERS TO INTEXT QUESTIONS\n9.1\n(b) \\Delta U = \\Delta H - \\Delta n RT\n= 46000 \\text{ (J mol}^{-1}) - (-1) (8.314 \\text{ Jk}^{-1} \\text{ mol}^{-1}) \\times (298 \\text{ K})\n= -46000 \\text{ (J mol}^{-1}) + 2247.6 \\text{ (J mol}^{-1})\n= -43.5 \\text{ kJ mol}^{-1}\n3. (a)\n9.2",
+      "markdown": null,
+      "equations": [
+        "2Na_2O_2(s) + 2H_2O(l) \\rightarrow 4NaOH(s) + O_2(g)",
+        "2C(graphite) + 3H_2(g) + \\frac{1}{2}O_2(g) \\rightarrow C_2H_5OH(g)",
+        "(b) \\Delta U = \\Delta H - \\Delta n RT= 46000 \\text{ (J mol}^{-1}) - (-1) (8.314 \\text{ Jk}^{-1} \\text{ mol}^{-1}) \\times (298 \\text{ K})= -46000 \\text{ (J mol}^{-1}) + 2247.6 \\text{ (J mol}^{-1})= -43.5 \\text{ kJ mol}^{-1}"
+      ]
+    },
+    {
+      "page_no": 25,
+      "text": "9.3\nB.E. (NH_3(g) Bonds) = 1673 kJ mol^{-1}\nB.E. (N - H) = 557.7 \\text{ kJ mol}^{-1}\n3. \\Delta_r H^0 = -185 \\text{ kJ mol}^{-1}\nMODULE - 4\nChemical Energetics",
+      "markdown": null,
+      "equations": []
+    }
+  ]
+}

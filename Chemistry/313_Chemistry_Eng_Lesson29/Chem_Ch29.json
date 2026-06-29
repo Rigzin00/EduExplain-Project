@@ -1,0 +1,181 @@
+{
+  "extraction_backend": "marker",
+  "language": null,
+  "has_equations": true,
+  "source_pdf": "/content/drive/MyDrive/openstax/NIOS/Chemistry/313_Chemistry_Eng_Lesson29.pdf",
+  "pages": [
+    {
+      "page_no": 1,
+      "text": "29\nMODULE - 7\nChemistry of Organic Compounds\nBIOMOLECULES\nYou are aware that our body, plants and other animals are made up of many chemical substances. There are certain complex organic molecules which form the basis of life. These build up living organisms and are also required for their growth and maintenance. Such molecules are called biomolecules. The main classes of biomolecules are carbohydrates, proteins, lipids, nucleic acids, enzymes, hormones etc. In this lesson, you will study about the structures and functions of some important biomolecules.\nOBJECTIVES\nAfter reading this lesson you will be able to:\n29.1 CARBOHYDRATES\nCarbohydrates form a very large group of naturally occurring organic compounds which play a vital role in daily life. They are produced in plants by the process of",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 2,
+      "text": "Chemistry of Organic Compounds\nphotosynthesis. The most common carbohydrates are glucose, fructose, sucrose, starch, cellulose etc. Chemically, the carbohydrates may be defined as polyhydroxy aldehydes or ketones or substances which give such molecules on hydrolysis. Many carbohydrates are sweet in taste and all sweet carbohydrates are called as sugars. The chemical name of the most commonly used sugar in our homes is sucrose.\n29.1.1 Classification of Carbohydrates\nCarbohydrates are classified into three groups depending upon their behaviour on hydrolysis.\n(i) Monosaccharides: A polyhydroxy aldehyde or ketone which cannot be hydrolysed further to a smaller molecule containing these functional groups, is known as a monosaccharide. About 20 monosaccharides occur in nature and glucose is the most common amongst them.\nMonosaccharides are further classified on the basis of the number of carbon atoms and the functional group present in them. If a monosaccharide contains an aldehyde group, it is known as an aldose and if it contains a keto group, it is known as a ketose. The number of carbon atoms present is also included while classfying the compound as is evident from the examples given in Table 29.1. Name of some naturally occuring monosaccharides are given in brackets.",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 3,
+      "text": "29.1.2 Structure of Monosaccharides\nAlthough a large number of monosaccharides are found in nature.\nD-or L-before the name of monosaccharides indicates the configuration of particular stereoisomer. Various stereoisomers are assigned relative configurations as D- or L -. This system of assigning the relative configuration refers to their relation with the glyceraldehyde. Glyceraldehyde contains one asymmetric carbon atom and hence exists in two enantiomeric forms as shown below.\nL-(-) -glyceraldehyde\nAll those compounds which can be correlated to (+) -glyceraldehyde are said to have D-configuration and those can be correlated to (-) -glyceraldehyde are said to have L-configuration. In monosaccharides, it is the lowest asymmetric carbon atom (shown in the box) by which the correlation is made. As in (+) glucose, the lowest asymmetric carbon atom has –OH group on the right side which matches with (+) glyceraldehyde; hence, it is assigned D-configuration.\nL-Configuration Examples\nSome example of molecules having L-configuration are shown below:\nMODULE - 7\nChemistry of Organic Compounds",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 4,
+      "text": "MODULE - 7\nChemistry of Organic Compounds\n\\begin{array}{c|ccccc} CH_2 \\text{ OH} &amp; CHO \\\\ \\hline C=O &amp; HO &amp; H \\\\ \\hline HO &amp; H &amp; HO &amp; H \\\\ \\hline HO &amp; H &amp; HO &amp; H \\\\ \\hline CH_2 \\text{ OH} &amp; CH_2 \\text{ OH} \\\\ \\hline L- Xylose &amp; CHO &amp; CHO \\\\ \\hline HO &amp; H &amp; HO &amp; H \\\\ \\hline HO &amp; H &amp; HO &amp; H \\\\ \\hline HO &amp; H &amp; HO &amp; H \\\\ \\hline CH_2 \\text{ OH} &amp; CH_2 \\text{ OH} \\\\ \\hline L- Galactose &amp; L- Allose \\\\ \\hline \\end{array}\nWe will confine our discussion here to four of them only viz. D-glucose, D-fructose, D-ribose and 2-deoxy-D-ribose.\nD-Glucose (an aldohexose) is the monomer for many other carbohydrates. Alone or in combination, glucose is probably the most abundant organic compound on the earth. D-Fructose (a ketohexose) is a sugar that is found with glucose in honey and fruit juices. D-Ribose (an aldopentose) is found in ribonucleic acids (RNA) while. 2-Deoxy-D-ribose is an important constituent of the deoxyribonucleic acids(DNA). Here, the prefix 2-Deoxy indicates that it lacks oxygen at carbon no. 2.\n\\begin{array}{c|ccccccccccccccccccccccccccccccccccc\nThese monosaccharides generally exist as cyclic compounds in nature. A ring is formed by a reaction between the carbonyl group and one of the hydroxyl groups",
+      "markdown": null,
+      "equations": [
+        "\\begin{array}{c|ccccc} CH_2 \\text{ OH} &amp; CHO \\\\ \\hline C=O &amp; HO &amp; H \\\\ \\hline HO &amp; H &amp; HO &amp; H \\\\ \\hline HO &amp; H &amp; HO &amp; H \\\\ \\hline CH_2 \\text{ OH} &amp; CH_2 \\text{ OH} \\\\ \\hline L- Xylose &amp; CHO &amp; CHO \\\\ \\hline HO &amp; H &amp; HO &amp; H \\\\ \\hline HO &amp; H &amp; HO &amp; H \\\\ \\hline HO &amp; H &amp; HO &amp; H \\\\ \\hline CH_2 \\text{ OH} &amp; CH_2 \\text{ OH} \\\\ \\hline L- Galactose &amp; L- Allose \\\\ \\hline \\end{array}",
+        "\\begin{array}{c|ccccccccccccccccccccccccccccccccccc"
+      ]
+    },
+    {
+      "page_no": 5,
+      "text": "present in the molecule. Glucose preferentially forms the six membered ring which can be in two different isomeric forms called \\alpha- and \\beta-forms (shown below as I and II). The two forms differ only in the arrangement of the hydroxyl group at carbon No.1. Such isomers are called anomers.\nFormation of these cyclic structures (I and II) from the open chain structure can be shown as follows.\nThe cyclic structures I and II are more appropriately represented as Ia and IIa.\nThe \\alpha- and \\beta-forms of other sugars also exist in the cyclic form. D-Ribose forms a five membered ring structure as shown below :\nMODULE - 7\nChemistry of Organic Compounds",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 6,
+      "text": "MODULE - 7\nChemistry of Organic Compounds\n29.1.3 Structure of Di-Saccharides, Oligo Saccharides and Polysaccharides\nDisaccharides are formed by the condensation of two monosaccharide molecules. These monosaccharides join together by the loss of a water molecule between one hydroxyl group on each monosaccharide. Such a linkage, which joins the monosaccharide units together is called glycoside linkage. If two \\alpha-glucose molecules are joined together, the disaccharide maltose is formed.\n\\begin{array}{c|ccccccccccccccccccccccccccccccccccc\n2 molecules of \\alpha – glucose\nSimilarly, sucrose (the common sugar) consists of one molecule of glucose and one molecule of fructose joined together.\nLactose(or milk sugar) is found in milk and is formed by joining of one molecule of glucose and one molecule of galactose.\n\\begin{array}{c|ccccccccccccccccccccccccccccccccccc",
+      "markdown": null,
+      "equations": [
+        "\\begin{array}{c|ccccccccccccccccccccccccccccccccccc"
+      ]
+    },
+    {
+      "page_no": 7,
+      "text": "If a large number of monosaccharide units are joined together, we get polysaccharides. These are the most common carbohydrates found in nature. They have mainly one of the following two functions- either as food materials or as structural materials. Starch is the main food storage polysaccharide of plants. It is a polymer of \\alpha-glucose and consists of two types of chains- known as amylose and amylopectin.\nAmylose is a water soluble fraction of starch and is a linear polymer of \\alpha-D-glucose. On the other hand, amylopectin is a water insoluble fraction and consists of branched chain of \\alpha-D-glucose.\nCellulose is another natural polysaccharide which is the main component of wood and other plant materials. It consists of long chain of \\beta-D-glucose molecules.\nGlycogen\nThe carbohydrates are stored in animal body as glycogen and its structure is similar to amylopectin.\nIt is a polysaccharide containing the \\alpha-D-glucose monosaccharide and does the same energy storage function in animals which the starch does in plants. The carbohydrates which are not needed immediately by the body are converted by the body to glycogen for long term storage. Glycogen molecules are larger than those of amylopectin and are having more branched structure.\n29.1.4 Biological Importance of Carbohydrates\nINTEXT QUESTIONS 29.1\nMODULE - 7\nChemistry of Organic Compounds",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 8,
+      "text": "MODULE - 7\nChemistry of Organic Compounds\n29.2 PROTEINS\nProteins are the most abundant macromolecules in living cells. The name protein is derived from the Greek word 'proteios' meaning 'of prime importance'. These are high molecular mass complex amino acids. You will study about amino acids in the next section. Proteins are most essential class of biomolecules because they play the most important role in all biological processes. A living system contains thousands of different proteins for its various functions. In our every day food pulses, eggs, meat and milk are rich sources of proteins and are must for a balanced diet.\n29.2.1 Classification of Proteins\nProteins are classified on the basis of their chemical composition, shape and solubility into two major categories as discussed below.\nUnlike simple proteins, conjugated proteins are classified on the basis of the chemical nature of their prosthetic groups. These are",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 9,
+      "text": "Proteins can also be classified on the basis of functions they perform, as summarized in table 29.2.\n29.2.2 Structure of Proteins\nProtein molecules are polymers of different sizes and shapes with different physical and chemical properties. The monomer units for proteins are amino acids. All the amino acids that are found in proteins have an amino group(-NH_2) on the carbon atom adjacent to carbonyl group, hence are called \\alpha-amino acids. The general formula of \\alpha-amino acids is shown below.\nCOOH\n\\begin{array}{c} |_{\\alpha\\text{-carbon}} \\\\ |_{\\alpha\\text{-carbon}} \\\\ |_{2}N - C - H \\\\ |_{\\alpha\\text{-carbon}} \\end{array}\nAll proteins found in nature are the polymers of about twenty (20) different \\alpha-amino acids and all of these have L-configuration. Out of these ten (10) amino acids cannot be synthesized by our body and hence must form the part of our diet. These are called essential amino acids.\nAll proteins have one common structural feature that their amino acids are connected to one another by peptide linkages. By a peptide linkage we mean an\namide \\begin{pmatrix} C - N - \\end{pmatrix} bond formed when the carboxyl group of one amino acid\nMODULE - 7\nChemistry of Organic Compounds",
+      "markdown": null,
+      "equations": [
+        "COOH\n\\begin{array}{c} |_{\\alpha\\text{-carbon}} \\\\ |_{\\alpha\\text{-carbon}} \\\\ |_{2}N - C - H \\\\ |_{\\alpha\\text{-carbon}} \\end{array}",
+        "amide \\begin{pmatrix} C - N - \\end{pmatrix} bond formed when the carboxyl group of one amino acid"
+      ]
+    },
+    {
+      "page_no": 10,
+      "text": "MODULE - 7\nChemistry of Organic Compounds\nmolecule reacts with the \\alpha-amino group of another. In the process, a molecule of water is given off. The product of the reaction is called a peptide or more precisely a dipeptide because it is made by combining two amino acids, as shown below:\n\\begin{array}{c|ccccccccccccccccccccccccccccccccccc\nIf a third amino acid is joined to a dipeptide in the same manner, the product is a tripeptide. Thus, a tripeptide contains three amino acids linked by two peptide linkages. Similar combinations of four, five, six amino acids give a tetrapeptide, a pentapeptide, a hexapeptide, respectively. Peptides formed by the combination of more than ten amino acid units are called polypeptides. Proteins are polypeptides formed by the combination of large number of amino acid units. There is no clear line of demarcation between polypeptides and proteins. For example insulin, although it contains only 51 amino acids, is generally considered a small protein.\nThe amino acid unit with the free amino group is known as the N-terminal residue and the one with the free carboxyl group is called the C-terminal residue. By convention, the structure of peptide or proteins written with the N-terminal residue on the left and the C-terminal on the right.\nThe actual structure of a protein can be discussed at four different levels.\n&gt;N-H group. Two types of secondary structures have been reported. These are -\\alpha helix (Fig. 29.1) when the chain coils up and \\beta-pleated sheet (Fig. 29.2) when hydrogen bonds are formed between the chains.",
+      "markdown": null,
+      "equations": [
+        "\\begin{array}{c|ccccccccccccccccccccccccccccccccccc"
+      ]
+    },
+    {
+      "page_no": 11,
+      "text": "(iii) Tertiary structure: It is the three-dimensional structure of proteins. It arises due to folding and superimposition of various a-helical chains or b-plated sheets. For example Fig. 29.3 represents the tertiary structure for the protein myoglobin.\nMODULE - 7\nChemistry of Organic Compounds\n369",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 12,
+      "text": "Chemistry of Organic Compounds\n(iv) Quaternary structure: The quaternary structure refers to the way in which simple protein chains associate with each other resulting in the formation of a complex protein.\nBy different modes of bonding in secondary and tertiary structural levels a protein molecule appears to have a unique three-dimensional structure.\n29.2.3 Denaturation\nOne of the great difficulties in the study of the structure of proteins is that if the normal environment of a living protein molecule is changed even slightly, such as by a change in pH or in temperature, the hydrogen bonds are disturbed and broken. When attractions between and within protein molecules are destroyed, the chains separate from each other, globules unfold and helices uncoil. We say that the protein has been denatured.\nDenaturation is seen in our daily life in many forms. The curdling of milk is caused by bacteria in the milk which produce lactic acid. The change in pH caused by the lactic acid causes denaturation, coagulation and precipitation of the milk proteins. Similarly, the boiling of an egg causes precipitation of the albumin proteins in the egg white. Some proteins (such as those in skin, fingernails, and the stomach lining) are extremely resistant to denaturation.\n29.2.4 Biological Importance of Proteins",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 13,
+      "text": "INTEXT QUESTIONS 29.2\n29.3 LIPIDS\nThe lipids include a large number of biomolecules of different types. The term lipid originated from a Greek word 'Lipos' meaning fat. In general, those constituents of the cell which are insoluble in water and soluble in organic solvents of low polarity (such as chloroform, ether, benzene etc.) are termed as lipids. Lipids perform a variety of biological functions.\n29.3.1 Classification of Lipids\nLipids are classified into three broad categories on the basis of their molecular structure and the hydrolysis products.\n29.3.2 Structure of lipids\nThe structure of all three types of lipids are breifly discussed below.\nMODULE - 7\nChemistry of Organic Compounds",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 14,
+      "text": "Chemistry of Organic Compounds\n(i) Simple Lipids\nThe simple lipids are esters. They are subdivided into two groups, depending on the nature of the alcohol component. Fats and oils are triglycerides, i.e. they are the esters of glycerol with three molecules of long chain fatty acids. Variations in the properties of fats and oils is due to the presence of different acids. These long chain acids may vary in the number of carbon atoms (between C_{12} to C_{26}) and may or may not contain double bonds. On hydrolysis of a triglyceride molecule, one molecule of glycerol and three molecules of higher fatty acids are obtained as shown below:\n\\begin{array}{c|ccccccccccccccccccccccccccccccccccc\nBy definition, a fat is that triglyceride which is solid or semisolid at room temperature and an oil is the one that is liquid at room temperature. Saturated fatty acids form higher melting triglycerides than unsaturated fatty acids. The saturated triglycerides tend to be solid fats, while the unsaturated triglycerides tend to be oils. The double bonds in an unsaturated triglyceride are easily hydrogenated to give a saturated product, and in this way an oil may be converted into a fat. Hydrogenation is used in the manufacture of vanaspati ghee from oils.\nFats and oils are found in both plants and animals. Our body can produce fats from carbohydrates. This is one method that the body has for storing the energy from unused carbohydrates. The vegetable oils are found primarily in the seeds of plants.\nThe second type of simple lipids are waxes. They are the esters of fatty acids with long chain monohydroxy alcohols 26 to 34 carbons atoms. Waxes are widespread in nature and occur usually as mixtures. They form a protective coating on the surfaces of animals and plants. Some insects also secrete waxes. The main constitutent of bees wax obtained from the honey comb of bees is myricyl palmitate:\n\\begin{array}{c} O\\\\ ||\\\\ CH_3-(CH_2)_{14}-C-O-(CH_2)_{29}-CH_3\\\\ \\hline \\textbf{myricyl palmitate} \\end{array}",
+      "markdown": null,
+      "equations": [
+        "\\begin{array}{c|ccccccccccccccccccccccccccccccccccc",
+        "\\begin{array}{c} O\\\\ ||\\\\ CH_3-(CH_2)_{14}-C-O-(CH_2)_{29}-CH_3\\\\ \\hline \\textbf{myricyl palmitate} \\end{array}"
+      ]
+    },
+    {
+      "page_no": 15,
+      "text": "The waxes discussed above should not be confused with household paraffin wax which is a mixture of straight chain hydrocarbons.\n(ii) Compound Lipids\nCompound lipids on hydrolysis yield some other substances in addition to an alcohol and fatty acids. The first type of such lipids are called phospholipids, because they are the triglycerides in which two molecules of fatty acids and one molecule of phosphoric acid are present. Glycolipids contain a sugar molecule in addition to fatty acid attached to an alcohol.\n(iii) Derived Lipids\nSteroids are another class of lipids which are formed in our body during metabolism. These are the compounds with a distinctive ring system that provides the structural backbone for many of our hormones. Steroids do not contain ester groups and hence cannot be hydrolysed. Cholesterol is one of the most widely distributed steroids in animal and human tissues.\nH_3C\nH_3C\nCH_3\nCH_3\nCH_3\nCH_3\nAnother important group of derived lipids is that of fat-soluble vitamins. This includes vitamins A, D, E and K, whose deficiency causes different diseases.\n29.3.3 Biological Importance of Lipids\nMODULE - 7\nChemistry of Organic Compounds",
+      "markdown": null,
+      "equations": [
+        "H_3C\nH_3C\nCH_3\nCH_3\nCH_3\nCH_3"
+      ]
+    },
+    {
+      "page_no": 16,
+      "text": "Chemistry of Organic Compounds\nINTEXT QUESTIONS 29.3\n29.4 NUCLEIC ACIDS\nWhy is a dog a dog and not a cat? Why do some people have blue or brown eyes and not black? From a chemical standpoint, how does the body know what particular type of protein is to be synthesized? How is this information transmitted from one generation to the next? The study of the chemistry of heredity is one of the most fascinating fields of research today. It was recognized in the 19&lt;sup&gt;th&lt;/sup&gt; century that the nucleus of a living cell contains particles responsible for heredity, which were called chromosomes. In more recent years, it has been discovered that chromosomes are composed of nucleic acids. These are named so because they come from the nucleus of the cell and are acidic in nature. Two types of nucleic acids exist which are called DNA (deoxyribonucleic acid) and RNA(ribonucleic acid). They differ in their chemical composition as well as in functions.\n29.4.1 Structure of Nucleic Acids\nLike all natural molecules, nucleic acids are linear polymeric molecules. They are chain like polymers of thousands of nucleotide units, hence they are also called polynucleotides. A nucleotide consists of three subunits: a nitrogen containing heterocyclic aromatic compound (called base), a pentose sugar and a molecule of phosphoric acid. So a nucleic acid chain is represented as shown below.\nIn DNA molecules, the sugar moity is 2-deoxyribose, whereas in RNA molecules it is ribose. In DNA, four bases have been found. They are adenine (A), guanine (G), cytosine (C) and thymine (T). The first three of these bases are found in RNA also but the fourth is uracil (U).",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 17,
+      "text": "The sequence of different nucleotides in DNA is termed as its primary structure. Like proteins, they also have secondary structure. DNA is a double stranded helix. Two nucleic acid chains are wound about each other and held together by hydrogen bonds between pairs of bases. The hydrogen bonds are specific between pairs of bases that is guanine and cytosine form hydrogen bonds with each other, whereas adenine forms hydrogen bonds with thymine. The two stands are complementary to each other. The overall secondary structure resembles a flexible ladder (Fig. 29.4). This structure for DNA was proposed by James Watson and Francis Crick in 1953. They were honoured with a Nobel Prize in 1962 for this work.\nUnlike DNA, RNA is a single stranded molecule, which may fold back on itself to form double helix structure by base pairing in a region where base sequences are complimentary. There are three types of RNA molecules which perform different functions. These are named as messenger RNA(m-RNA), ribosomal-RNA(r-RNA) and transfer RNA (t-RNA)\n29.4.2 Biological Functions of Nucleic Acids\nA DNA molecule is capable of self duplication during cell divisions. The process starts with the unwinding of the two chains in the parent DNA. As the two strands separate, each can serve as a master copy for the construction of a new partner. This is done by bringing the appropriate nucleotides in place and linking them together. Because the bases must be paired in a specific manner (adenine to thymine and guanine to cytosine), each newly built strand is not identical but complimentary to the old one. Thus when replication is completed, we have two DNA molecules, each identical to the original. Each of the new molecule is a double helix that has one old strand and one new strand to be transmitted to daughter cells (Fig. 3.15).\nMODULE - 7\nChemistry of Organic Compounds",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 18,
+      "text": "Chemistry of Organic Compounds\nAnother important function of nucleic acids is the protein synthesis. The specific sequence of bases in DNA represents coded information for the manufacture of specific proteins. In the process, the information from DNA is transmitted to another nucleic acid called messenger RNA, which leaves the nucleus and goes to the cytoplasm of the cell. Messenger RNA acts as template for the incorporation of amino acids in the proper sequence in protein. The amino acids are brought to the messenger RNA in the cell, by transfer RNA. Where they form peptide bonds. In short it can be said that DNA contains the coded message for protein synthesis whereas RNA actually carries out the synthesis of protein.\nINTEXT QUESTIONS 29.4",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 19,
+      "text": "29.5 ENZYMES\nIn a living system, many complex reactions occur at the temperature of about 310K. An example of this is the digestion of food, during which stepwise oxidation to \\mathrm{CO}_2 and water and energy production. These reactions are carried out under such mild conditions due to presence of certain chemicals which are called enzymes. They act as catalysts for biochemical reactions in living cells. Almost all the enzymes are globular proteins.\nEnzymes are very selective and specific for a particular reaction. They are named after the compound or class of compounds upon which they work or after the reaction that they catalyze. The ending of an enzyme name is- ase. For example, maltase is an enzyme that specifically catalyzes the hydrolysis of maltose into glucose. Similarly, an esterase is an enzyme which induces hydrolysis of ester linkage.\n29.5.1 Mechanism of Enzyme Action\nJust like chemical catalysts, enzymes are needed only in small quantities. Similar to the action of chemical catalysts, enzymes lower the energy barrier that reactants must pass over to form the products. For example, hydrolysis of the ester that needs boiling with aqueous NaOH in the laboratory, whereas it occurs at nearly neutral pH and at moderate temperature when catalyzed by an enzyme.\nThere is a particular enzyme for each substrate and they are said to have lock and key arrangement. It is said that first the substrate molecule binds to the active site of the enzyme which results in the formation of an enzyme-substrate complex. In this complex, the substrate is placed in the right orientation to facilitate a given reaction (Fig.29.6). This complex then breaks to give the molecule of the product and regenerates the enzyme for the next molecule of the substrate.\n29.5.2 Characteristics of Enzymes\n(i) Enzymes speed up biochemical reactions up to ten million times compared to the uncatalysed reaction.\nMODULE - 7\nChemistry of Organic Compounds",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 20,
+      "text": "Chemistry of Organic Compounds\n29.6 HORMONES\nHormones are chemical messengers which are secreted by endocrine glands. They are carried through the blood stream to the target tissues.\nMajority of the hormones in humans are steroids. The two important classes of steroid hormones are sex hormones and adrenocortical hormones. The sex hormones control maturation, tissue growth and reproduction whereas the adreno-cortical hormones regulate various metabolic processes. Two most important male sex hormones or androgens are testosterone and androterone. They are responsible for the development of male secondary sex characteristics during puberty and for promoting tissue and muscle growth.\nThe female sex hormones or estrogens include estrogen and estradiol as examples. These hormones are responsible for the development of female secondary sex characteristics and for regular of menstrual cycle.\nAnother important female hormone is progesterone which prepares the lining of the uterus for the implantation of the fertilized ovum. The continued secretion of progerterone is important for the completion of the pregnancy.\nSynthetic estrogens have been developed and they are used in combination with synthetic pregnancy hormones as oral contraceptines.\nThe adrenocritical hormones are secreted by adrenal glands which are small organs located near the upper end of each kidney. The aldosterone controls the tissue swelling by regulating cellular salt balance between Na&lt;sup&gt;+&lt;/sup&gt; and K&lt;sup&gt;+&lt;/sup&gt;. Another hormone called hydrocortisone is involved in the regulation of glucose metabolism and in the control of inflammation.\nTwo important hormones which are polypeptides in nature are vasopressin and oxytocin. Oxytocin occurs in females only and stimulates uterine contraction during child birth. Vasopression occurs both in males and females and causes contraction of peripheral blood vessels and an increase in blood pressure.",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 21,
+      "text": "Insulin, another important polypeptide hormone, is secreted from pancreases. It regulates the metabolism of glucose in the body. The deficiency of insulin in human causes diabetes mellitus.\nINTEXT QUESTIONS 29.5\n29.7 VITAMINS : CLASSIFICATION AND THEIR FUNCTIONS\nA variety of organic molecules act as coenzymes. Many of them are vitamins. Vitamins are small organic molecules which are taken in diet and there are required in trace amounts for proper growth.\nVitamins can be fat soluble or water soluble. A list of important vitamins and their deficiency symptoms is given below.\nVitamin\nDeficiency Symptom\nA. Water Soluble\n(i) Ascorbic Acid (Vitamin C)\n        \n            (ii) Thiamin (Vitamin B&lt;sub&gt;1&lt;/sub&gt;)\n            (iii) Riboflavin (Vitamin B&lt;sub&gt;2&lt;/sub&gt;)\n            (iv) Pyridoxine (Vitamin B&lt;sub&gt;6&lt;/sub&gt;)\n            (v) Niacin\n            (vi) Folic acid (Vitamin M)\n        \n    \n    (vii) Vitamin B&lt;sub&gt;12&lt;/sub&gt;\n    Bleeding gums, Bruising\nFatigue, Depression\nCracked lips, Scaly skin\nAnemia, Irritability\nDermatitis, Dementis\nMegalobastic Anemia\nMegalobastic Anemia, Neuro degeneration\n(viii) Pantothenic acid Weight loss, Irreitability\n(ix) Biotin (Vitamin H) Dermatitis, anorexia, depression\nB. Fat Soluble\n(x) Vitamin A\n    (xi) Vitamin D\n    (xii) Vitamin E\n    (xiii) Vitamin K\n    Night blindness, dry skin\n    Rickets, osteomalacia\n    Hemolysis of RBCs\n    Hemorrahage, delayed blood\nCHEMISTRY 379\nclotting\nMODULE - 7\nChemistry of Organic Compounds",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 22,
+      "text": "Chemistry of Organic Compounds\nINTEXT QUESTIONS 29.6\n(a) Anemia\n(ii) Vitamin B&lt;sub&gt;2&lt;/sub&gt;\n(b) Bleeding guns\n(iii) Vitamin B&lt;sub&gt;6&lt;/sub&gt;\nWHAT YOU HAVE LEARNT",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 23,
+      "text": "ទំវា\nTERMINAL EXERCISE\nANSWERS TO INTEXT QUESTIONS\n29.1\nMODULE - 7\nChemistry of Organic Compounds",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 24,
+      "text": "MODULE - 7\nChemistry of Organic Compounds\n29.2\n3. An \\alpha-amino acid may be represented as\n\\begin{array}{c} {\\rm H_2N-CH-COOH} \\\\ | \\\\ {\\rm R} \\end{array}\n4. Refer to section 29.2.1.\n29.3\n29.4",
+      "markdown": null,
+      "equations": [
+        "\\begin{array}{c} {\\rm H_2N-CH-COOH} \\\\ | \\\\ {\\rm R} \\end{array}"
+      ]
+    },
+    {
+      "page_no": 25,
+      "text": "(ii) In DNA molecules, the sugar moity is 2-deoxyribose whereas in RNA molecules, it is ribose.\n29.5\n29.6\nMODULE - 7\nChemistry of Organic Compounds",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 26,
+      "text": "",
+      "markdown": null,
+      "equations": []
+    }
+  ]
+}

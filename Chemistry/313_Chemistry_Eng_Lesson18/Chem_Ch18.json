@@ -1,0 +1,79 @@
+{
+  "extraction_backend": "marker",
+  "language": null,
+  "has_equations": true,
+  "source_pdf": "/content/drive/MyDrive/openstax/NIOS/Chemistry/313_Chemistry_Eng_Lesson18.pdf",
+  "pages": [
+    {
+      "page_no": 1,
+      "text": "Chemistry of Elements\nGENERAL CHARACTERISTICS\nOF THE P-BLOCK ELEMENTS\nThe p-block of the periodic table consists of the elements of groups 13,14, 15, 16, 17 and 18. These elements are characterised by the filling up of electrons in the outermost p-orbitals of their atoms. Some of these elements and their compounds play an important role in our daily life. For example:\nThe usual trends (vertical as well as horizontal) in various properties observed in the s-block are observed in this block, too. As we move from top to bottom through a vertical column (group) some similarities are observed in the properties. However, this vertical similarity is less marked in the p-block than that observed in the s-block, especially in groups 13 and 15; vertical similarity is increasingly shown by the later groups. As far as the horizontal trend is concerned, the properties vary in a regular fashion as we move from left to right across a row (period).\nIn this lesson we shall study some important physical properties w.r.t. the of electronic configuration of the atom. Finally, we shall relate the periodicity in atomic properties to the observed chemical behaviour of their compounds, with special reference to their oxides, hydrides and halides.",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 2,
+      "text": "OBJECTIVES\nAfter reading this lesson you will be able to:\n18.1 OCCURRENCE OF THE P-BLOCK ELEMENTS IN NATURE\nThe p-block elements do not follow any set pattern of mode of occurrence in nature. Some of them occur free as well as in the combined state in nature. For example, elements such as oxygen, nitrogen, carbon, sulphur occur in both the forms. Noble gases occur in free state only. All other elements usually occur in the combined state. The distribution of these elements in nature is also far from any uniform pattern. Some of them are quite abundant, e.g., oxygen, silicon, aluminium, nitrogen etc. On the other hand the heavier members in each group of the block are generally much less abundant. The important minerals associated with elements will be considered whenever it is necessary at the appropriate places in the text\n18.2 ELECTRONIC CONFIGURATION\nAmong the elements of p-block, the p-orbitals are successively filled in a systematic manner in each row. Corresponding to the filling up of 2p, 3p, 4p, 5p and 6p orbitals five rows of p-block elements are there. The outer electronic configuration of the atoms of these elements is ns^2np^{1-6}.\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 3,
+      "text": "Chemistry of Elements\nGeneral Characteristics of the p-block Elements\n18.3 ATOMIC SIZE\nThe atomic radius of the of p-block elements generally decreases on moving across a period from left to right in the periodic table. It is because the addition of electrons takes place in the same valence shell and are subjected to an increased pull of the nuclear charge at each step. The variation in atomic size along a period is shown in Table 18.1.\nOn moving down a group, the atomic radius of the elements increases as the atomic number increases. This is due to the increase in the number of shells as we move from one element to the next down the group. The increase in nuclear charge is more than compensated by the additional shell. The variation in atomic size on moving down a group is shown in Table 18.2.\n18.4 IONIZATION ENTHALPY\nIt is the amount of energy required to remove the most loosely bound electron from the outermost shell of a neutral gaseous atom. It is measured in kJ mol&lt;sup&gt;-1&lt;/sup&gt; and is known as first ionization enthalpy.\nThe first ionization enthalpy of the p-block elements generally increases on moving from left to right along a period. It is because as we move from left to right along a period, the atomic size decreases. In a small atom, the electrons are held tightly. The larger the atom, the less strongly the electrons are held by the nucleus. The ionization enthalpy, therefore, increases with decrease in atomic size. However, there are certain exceptions, e.g., the first ionization enthalpy of a group 16 element",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 4,
+      "text": "is lower than that of a group 15 element. It is because in case of a group 15 element, the electron is to be removed from the half-filled p-orbitals. A comparison of first ionization energies of some elements is given in Table 18.3.\nIn general the first ionization enthalpy decreases in a regular way on descending a group. It is because on descending a group, the atomic size increases. As a result the electrons are less tightly held by the nucleus and therefore, first ionization enthalpy decreases.\nINTEXT OUESTIONS 18.1\nELECTRON GAIN ENTHALPY\nWhen an electron is added to a neutral gaseous atom, heat enegy is either released or absorbed. The amount of heat energy released or absorbed when an extra electron is added to a neutral gaseous atom is termed as electron gain enthalpy, i.e., energy change for the process:\nX(g) + e^{-} \\longrightarrow X^{-}(g)\nGenerally for most of the atoms, the electron gain enthalpy is negative, i.e., energy is released when an electron is added to a neutral gaseous atom. But for some atoms, the electron gain enthalpy is a positive quantity, i.e., energy is absorbed during the addition of an electron.\nElectron affinity generally becomes more negative on moving from left to right along a period. It is because on moving across a period, the atomic size decreases. As a result the force of attraction exerted by the nucleus on the electron increases.\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": [
+        "X(g) + e^{-} \\longrightarrow X^{-}(g)"
+      ]
+    },
+    {
+      "page_no": 5,
+      "text": "Chemistry of Elements\nGeneral Characteristics of the p-block Elements\nConsequently the atom has a greater tendency to gain an electron. Hence, electron gain enthalpy becomes more negative.\nOn moving down a group, the electron gain enthalpy becomes less negative. This is due to the increase in atomic size and thus, less attraction for the electrons; the atom will have less tendency to gain an electron. Hence, electron gain enthalpy becomes less negative. But in the halogen group, the electron gain enthalpy of chlorine is more negative than that of fluorine. It is because the size of the F atom is very small which makes the addition of electron less favourable due to inter electronic repulsion. Similar situation exists for the first element of each group.\n18.6 ELECTRONEGATIVITY\nElectronegativity is defined as a measure of the ability of an atom to attract the shared electron pair in a covalent bond to itself.\nElectronegativity increases along the period and decreases down the group.\nFluorine is the most electronegative of all the elements. The second most electronegative element is oxygen followed by nitrogen in the third position.\n18.7 METALLIC AND NON-METALLIC BEHAVIOUR\nThe elements can be broadly classified into metals and non-metals. Metals are electropositive in character i.e., they readily form positive ions by the loss of electrons, whereas non-metals are electronegative in character i.e., they readily form negative ions by the gain of electrons. The metallic and non-metallic character of p-block elements varies as follows:\nAlong the period the metallic character decreases, whereas non-metallic character increases. It is because on moving across the period, the atomic size decreases due to the increased nuclear charge and hence, ionization energy increases.\nOn moving down the group the metallic character increases, whereas non-metallic character, decreases. It is because on moving down a group, the atomic size increases. As a result the ionization energy decreases and tendency to lose electrons increases. Therefore, metallic character increases and non-metallic character decreases.",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 6,
+      "text": "18.8 ANOMALOUS BEHAVIOUR OF THE FIRST ELEMENT IN EACH GROUP OF THE p-BLOCK\nThe elements comprising s-block and p-block are called main groups or representative elements.\nSince the atomic radii decrease across a period, the p-block atoms are smaller than their nearest s or d block atoms; thus F atom has the smallest radius. Associated with small atom the 2p orbitals are very compact and influence the bonds formed. Interelectronic repulsions are thus more significant in 2p than in np orbitals (where n &gt; 2). This results in the N–N, O–O and F–F bonds being comparatively weaker than the P–P, S–S and CI–CI bonds, respectively.\nThe small size of the atoms of N, O and F results in their high electonegativity values. This is reflected in the formation of relatively strong hydrogen bonds in X – H....Y, where X and Y may be N, O or F.\nCarbon, nitrogen and oxygen differ from other elements of their respective groups due to their unique ability to form p\\pi–p\\pi multiple bonds. For example C=C, C=C, N=N, O=O, etc. The later members such as Si, P, S, etc., do not form p\\pi–p\\pi bonds because the atomic orbitals (3p) are too large to achieve effective overlapping.\nThe valence shell capacity of the p-block elements in the second period limits the coordination number to a maximum of 4. However, in compounds of the heavier members the higher coordination numbers are attainable. Thus BH_4^- and BF_4^- contrast with [AlF_6]^{3-}; CF_4 contrasts with [SiF_6]^{2-} and NH_4^+ contrasts with [PCl_6]^-. In the heavier members of each group d-orbitals are available for bonding and their participation may be envisaged in the attainment of the higher coordination number.\n18.9 INERT PAIR EFFECT\nAmong the elements of p-block, in groups 13,14 and 15, there is a general trend that the higher oxidation states become less stable in going down the group. Thus although boron and aluminium are universally trivalent, gallium, indium and thallium exhibit +1 state as well. In fact +1 state of thallium is very stable. Similar situations are noticed in groups 14 and 15. Though carbon is universally tetravalent, it is possible to prepare divalent germanium, tin and lead compounds. The stable state of +3 in antimony and bismuth in group 15 is another example.\nOuter electron configurations of group 13, 14 and 15 elements are ns^2np^1, ns^2np^2 and ns^2np^3, respectively. They are thus expected to show the higher oxidation state of +3, +4 and +5 respectively. But the preference of heavier elements of these\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 7,
+      "text": "Chemistry of Elements\nGeneral Characteristics of the p-block Elements\ngroups to show +1, +2 and +3 states, respectively indicate that two electrons do not participate in bonding. The reluctance of s-electrons to take part in chemical bonding is known as inert pair effect.\nThe so called \"inert pair effect\" is therefore, ascribed to two factors.\nThe net result is the lesser stability of higher oxidation state with the increasing atomic number in these groups. Once the involved energies are taken into consideration, the so called \"inert pair effect\" term loses its significance.\nINTEXT QUESTIONS 18.2\n18.10 GENERAL TRENDS IN THE CHEMISTRY OF THE P-BLOCK ELEMENTS\nThe p-block elements except noble gases react with hydrogen, oxygen and halogens to form various hydrides, oxides and halides respectively. A more or less regular trend is observed in the properties of these compounds on moving down any particular group. The noble gases have almost zero electron afinity and have very high ionization enthalpies. Therefore, under normal conditions, the atoms of noble gases have little tendency to gain or lose electrons.",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 8,
+      "text": "18.10.1 Hydrides\nThe hydrides of the p-block elements are listed in table 18.5. They are covalent molecules and their bond angles are consistent with VSEPR theory. The angles decrease from 109.5° in CH&lt;sub&gt;4&lt;/sub&gt; to 107° in NH&lt;sub&gt;3&lt;/sub&gt; and 104° in H&lt;sub&gt;2&lt;/sub&gt;O.\nThese hydrides are volatile in nature. Generally their acid strength increases from left to right and from top to bottom.\n18.10.2 Oxides\np-Block elements form a number of oxides on reacting with oxygen. The oxides E_2O_n (n=3, 5  or  7) are the highest oxides formed by the elements in the groups 13, 15 or 17 respectively. The oxides EO_n (n=2, 3  or  4) are formed by the elements in groups 14, 16 or 18 respectively. Thus, nitrogen forms NO, NO&lt;sub&gt;2&lt;/sub&gt;, N_2O_3, and N_2O_5; phosphorus forms P_4O_6 and P_4O_{10}, xenon forms XeO_3 and XeO_4.\n18.10.3 Halides\nA review of the properties of halides of p-block elements reveals that most of them are covalent halides. In a group the covalent character of halides decreases down the group. Where an element exhibits more than one oxidation state, the covalent character of a halide increases with the increase in the oxidation state of the element forming halides. For example, whereas PbCl&lt;sub&gt;2&lt;/sub&gt; is an ionic halide, PbCl&lt;sub&gt;4&lt;/sub&gt; is covalent. Similarly the covalent character of halides of a particular element increases from fluoride to chloride to bromide.\nCovalent halides are generally gases, liquids or solids with low melting points. These halides usually hydrolyse to give the oxoacid of the element. For example SiCl&lt;sub&gt;4&lt;/sub&gt; reacts vigorously with water\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 9,
+      "text": "Chemistry of Elements\nGeneral Characteristics of the p-block Elements\nSiCl_4 + 4H_2O \\longrightarrow Si(OH)_4 + 4HCl\nIn general the chlorides, bromides and iodides are found to be more stable with lower oxidation state of the element, whereas fluorides are formed in the higher oxidation states. The halides are usually formed by the direct union of the element with the halogen. For example\nC_{(s)} + Cl_2(g) \\longrightarrow CCl_4(l)\n\n2As_{(s)} + Cl_2(g) \\longrightarrow AsCl_3(s)\nINTEXT QUESTION 18.3\nWHAT YOU HAVE LEARNT",
+      "markdown": null,
+      "equations": [
+        "SiCl_4 + 4H_2O \\longrightarrow Si(OH)_4 + 4HCl",
+        "C_{(s)} + Cl_2(g) \\longrightarrow CCl_4(l)\n2As_{(s)} + Cl_2(g) \\longrightarrow AsCl_3(s)"
+      ]
+    },
+    {
+      "page_no": 10,
+      "text": "TERMINAL EXERCISE\nMODULE - 6\nChemistry of Elements",
+      "markdown": null,
+      "equations": []
+    },
+    {
+      "page_no": 11,
+      "text": "Chemistry of Elements\nGeneral Characteristics of the p-block Elements\nANSWERS TO INTEXT QUESTIONS\n18.1\n18.2\n18.3",
+      "markdown": null,
+      "equations": []
+    }
+  ]
+}
