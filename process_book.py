@@ -65,7 +65,7 @@ def find_images_json(chapter_dir: str) -> str | None:
 # STAGE 1 — CHUNKING  (calls nios_parser functions directly)
 # =============================================================================
 
-def run_chunker(text_json_path: str, chapter_no: int) -> list[dict]:
+def run_chunker(text_json_path: str, chapter_no: int, subject: str) -> list[dict]:
     """Run the NIOS parser and return parsed chunks as a list of dicts."""
     import importlib.util
     spec = importlib.util.spec_from_file_location(
@@ -80,7 +80,7 @@ def run_chunker(text_json_path: str, chapter_no: int) -> list[dict]:
 
     chunks = nios_parser.parse_nios(
         pages,
-        subject="Physics",
+        subject=subject,
         source="NIOS",
         chapter_no=chapter_no,
         chapter_title=chapter_title,
@@ -134,11 +134,11 @@ def run_multimodal_merge(resources: list[dict], images: list[dict]) -> list[dict
         ch_no = ctx.get("chapter_no", 0)
 
         image_resources.append({
-            "document_id":   ctx.get("document_id", "NIOS_PHY"),
+            "document_id":   ctx.get("document_id"),
             "resource_id":   f"IMG_{c_no:02d}_CH{ch_no:02d}_{img_raw_id}",
             "resource_type": "diagram",
             "class_no":      c_no,
-            "subject":       ctx.get("subject", "Physics"),
+            "subject":       ctx.get("subject"),
             "chapter_no":    ch_no,
             "chapter_title": ctx.get("chapter_title", ""),
             "section":       ctx.get("section"),
@@ -161,7 +161,7 @@ def run_multimodal_merge(resources: list[dict], images: list[dict]) -> list[dict
 # CHAPTER PROCESSOR
 # =============================================================================
 
-def process_chapter(chapter_dir: str, chapter_no: int, output_dir: str, class_no: int) -> bool:
+def process_chapter(chapter_dir: str, chapter_no: int, output_dir: str, class_no: int, subject: str, subject_code: str) -> bool:
     """Run the full pipeline for a single chapter. Returns True on success."""
     sep = "=" * 58
     print(f"\n{sep}")
@@ -192,7 +192,7 @@ def process_chapter(chapter_dir: str, chapter_no: int, output_dir: str, class_no
     # ── Stage 1: Chunking ─────────────────────────────────────────────────────
     print(f"  [1/3] Chunking...")
     try:
-        chunks = run_chunker(text_json, chapter_no=chapter_no)
+        chunks = run_chunker(text_json, chapter_no=chapter_no, subject=subject)
     except Exception as e:
         print(f"  [!] Chunking FAILED: {e}")
         return False
@@ -200,7 +200,7 @@ def process_chapter(chapter_dir: str, chapter_no: int, output_dir: str, class_no
 
     # ── Stage 2: Resource Builder ─────────────────────────────────────────────
     print(f"  [2/3] Building resources...")
-    document_id = f"NIOS_PHY_CH{chapter_no:02d}"
+    document_id = f"NIOS_{subject_code}_CH{chapter_no:02d}"
     try:
         resources = run_resource_builder(chunks, raw_extraction, document_id, class_no)
     except Exception as e:
@@ -230,10 +230,12 @@ def process_chapter(chapter_dir: str, chapter_no: int, output_dir: str, class_no
 # =============================================================================
 
 def main():
-    parser = argparse.ArgumentParser(description="NIOS Physics Full-Book Dataset Pipeline")
+    parser = argparse.ArgumentParser(description="NIOS Textbook Full-Book Dataset Pipeline")
     parser.add_argument("--input",    "-i", default="Physics",   help="Root folder containing 'chapter N' subdirectories")
     parser.add_argument("--output",   "-o", default="data/final", help="Output directory for per-chapter multimodal JSONs")
     parser.add_argument("--class-no", "-c", type=int, default=12, help="Class number to embed in every resource")
+    parser.add_argument("--subject",  type=str, default="Physics", help="Subject Name (e.g. Biology)")
+    parser.add_argument("--subject-code",  type=str, default="PHY", help="Shortcode for Document ID (e.g. BIO)")
     args = parser.parse_args()
 
     if not os.path.isdir(args.input):
@@ -251,7 +253,7 @@ def main():
         sys.exit(1)
 
     print(f"\n{'#' * 60}")
-    print(f"  NIOS PHYSICS FULL-BOOK PIPELINE")
+    print(f"  NIOS {args.subject.upper()} FULL-BOOK PIPELINE")
     print(f"  Found {len(chapter_dirs)} chapter(s) to process")
     print(f"  Output >> {os.path.abspath(args.output)}")
     print(f"{'#' * 60}")
@@ -260,7 +262,7 @@ def main():
     for ch_dir_name in chapter_dirs:
         chapter_no = int(re.search(r"\d+", ch_dir_name).group())
         chapter_dir = os.path.join(args.input, ch_dir_name)
-        ok = process_chapter(chapter_dir, chapter_no, args.output, args.class_no)
+        ok = process_chapter(chapter_dir, chapter_no, args.output, args.class_no, args.subject, args.subject_code)
         (success if ok else failed).append(chapter_no)
 
     # ── Final summary ─────────────────────────────────────────────────────────
