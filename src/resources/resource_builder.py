@@ -182,6 +182,7 @@ class ResourceBuilder:
             description=None,
             summary=None,
             concepts=[],
+            figure_references=chunk.get("figure_references", []),
             has_equation=self._detect_has_equation(chunk),
         )
 

@@ -55,6 +55,7 @@ class Resource:
     # ------------------------------------------------------------------
     summary: Optional[str] = None
     concepts: list[str] = field(default_factory=list)
+    figure_references: list[str] = field(default_factory=list)
 
     # ------------------------------------------------------------------
     # Structural flags (populated at build time, never later)
@@ -88,6 +89,7 @@ class Resource:
             description=d.get("description"),
             summary=d.get("summary"),
             concepts=d.get("concepts", []),
+            figure_references=d.get("figure_references", []),
             has_equation=d.get("has_equation", False),
         )
 

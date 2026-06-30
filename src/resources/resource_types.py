@@ -26,7 +26,14 @@ VALID_RESOURCE_TYPES: frozenset[str] = frozenset({
     "exercise",      # assessment questions, intext questions, end exercises
     "diagram",       # figures, labeled illustrations, process diagrams
     "table",         # structured tabular data
+    "recall",        # prior knowledge activation, "Can you recall?"
+    "scientist_box", # pedagogical boxes about scientists
+    "internet_task", # tasks asking students to search the internet
+    "mcq",           # multiple choice questions
+    "project",       # longer term tasks or practical projects
+    "summary",       # chapter or section summaries
 })
+
 
 # ------------------------------------------------------------------
 # Mapping: parser chunk_type → resource_type
@@ -36,11 +43,16 @@ VALID_RESOURCE_TYPES: frozenset[str] = frozenset({
 
 CHUNK_TYPE_TO_RESOURCE_TYPE: dict[str, str] = {
     "explanation":      "explanation",
-    "summary":          "explanation",    # section summaries are explanatory    
+    "summary":          "summary",        # now its own distinct type
     "example":          "example",
     "activity":         "activity",
     "exercise":         "exercise",
     "intext_question":  "exercise",       # treated as exercise for benchmark
+    "recall":           "recall",
+    "scientist_box":    "scientist_box",
+    "internet_task":    "internet_task",
+    "mcq":              "mcq",
+    "project":          "project",
 }
 
 # Fallback when chunk_type is missing or unrecognised
@@ -60,12 +72,18 @@ def map_chunk_type(chunk_type: str) -> str:
 # ------------------------------------------------------------------
 
 RESOURCE_ID_PREFIX: dict[str, str] = {
-    "explanation": "TXT",    
-    "example":     "EXP",
-    "activity":    "ACT",
-    "exercise":    "EX",
-    "diagram":     "IMG",
-    "table":       "TBL",
+    "explanation":   "TXT",    
+    "example":       "EXP",
+    "activity":      "ACT",
+    "exercise":      "EX",
+    "diagram":       "IMG",
+    "table":         "TBL",
+    "recall":        "RCL",
+    "scientist_box": "SCI",
+    "internet_task": "INT",
+    "mcq":           "MCQ",
+    "project":       "PRJ",
+    "summary":       "SUM",
 }
 
 
@@ -79,7 +97,8 @@ def get_id_prefix(resource_type: str) -> str:
 # ------------------------------------------------------------------
 
 TEXT_RESOURCE_TYPES: frozenset[str] = frozenset({
-    "explanation", "example", "activity", "exercise"
+    "explanation", "example", "activity", "exercise", "recall",
+    "scientist_box", "internet_task", "mcq", "project", "summary"
 })
 
 NON_TEXT_RESOURCE_TYPES: frozenset[str] = frozenset({
