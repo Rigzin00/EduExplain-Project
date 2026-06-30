@@ -244,7 +244,7 @@ def main():
 
     # Discover and sort chapter/lesson directories
     chapter_dirs = sorted(
-        [d for d in os.listdir(args.input) if re.match(r"(chapter|lesson)[\s\-]*\d+$", d, re.IGNORECASE)],
+        [d for d in os.listdir(args.input) if re.search(r"(chapter|lesson)[\s\-]*\d+$", d, re.IGNORECASE)],
         key=lambda d: int(re.search(r"\d+", d).group())
     )
 
@@ -260,7 +260,8 @@ def main():
 
     success, failed = [], []
     for ch_dir_name in chapter_dirs:
-        chapter_no = int(re.search(r"\d+", ch_dir_name).group())
+        # Extract the lesson/chapter number from the end of the folder name (e.g., '313_..._Lesson5' -> 5)
+        chapter_no = int(re.search(r"\d+$", ch_dir_name).group())
         chapter_dir = os.path.join(args.input, ch_dir_name)
         ok = process_chapter(chapter_dir, chapter_no, args.output, args.class_no, args.subject, args.subject_code)
         (success if ok else failed).append(chapter_no)
