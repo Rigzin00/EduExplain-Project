@@ -95,11 +95,35 @@ def _apply_ocr_corrections(text: str) -> str:
     return text
 
 
+# ---------------------------------------------------------------------------
+# Hardcoded titles for problematic OCR chapters where title is missing
+# ---------------------------------------------------------------------------
+_HARDCODED_TITLES = {
+    ("Physics", 11, 8): "Sound",
+    ("Physics", 11, 11): "Electric Current Through Conductors",
+    ("Physics", 11, 12): "Magnetism",
+    ("Physics", 11, 13): "Electromagnetic Waves and Communication System",
+    ("Physics", 11, 14): "Semiconductors",
+}
+
 class MahaParser(BaseParser):
 
     # -----------------------------------------------------------------------
-    # Preprocessing
+    # Preprocessing & Overrides
     # -----------------------------------------------------------------------
+    
+    def infer_chapter_title(self, pages: list[dict]) -> str:
+        # For MAHA, some PDFs completely lack the title in the OCR.
+        class_no = getattr(self, "class_no", 11)  # safely fallback if not set
+        key = (self.subject, class_no, self.chapter_no)
+        if key in _HARDCODED_TITLES:
+            return _HARDCODED_TITLES[key]
+            
+        # Try base inference
+        title = super().infer_chapter_title(pages)
+        if title.lower() in ("can you recall?", "introduction:", "introduction", "can you tell?", "p", "std. xi"):
+            return ""
+        return title
 
     def preprocess_pages(self, pages: list[dict]) -> list[dict]:
         pages = super().preprocess_pages(pages)

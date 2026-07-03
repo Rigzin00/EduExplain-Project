@@ -47,26 +47,46 @@ class BaseParser:
     def infer_chapter_title(self, pages: list[dict]) -> str:
         """Try to auto-detect chapter title from first page.
 
-        Handles two common formats:
+        Handles common formats:
           1. ALL-CAPS heading: "UNITS, DIMENSIONS AND VECTORS"  (NIOS style)
-          2. Chapter-dot-title: "1. Living World"  (Maharashtra style)
+          2. Chapter-dot-title: "1. Living World"  (Maharashtra style single line)
+          3. Chapter-dot newline Title: "1.\nUnits and Measurements" (Maharashtra style multi-line)
         """
         if not pages:
             return self.chapter_title
         first_text = pages[0].get("text", "")
-        for raw_line in first_text.split("\n"):
-            line = raw_line.strip()
-            if not line:
-                continue
+        lines = [line.strip() for line in first_text.split("\n") if line.strip()]
+        
+        for i, line in enumerate(lines):
             # Format 1: All-caps heading (NIOS style)
             if re.match(r'^[A-Z][A-Z0-9\s,\(\)\-\/]{8,80}$', line):
                 if re.match(r'^MODULE\s*-', line):
                     continue
                 return line.title()
-            # Format 2: "N. Title" or "N.N Title" (Maharashtra / NCERT style)
-            m = re.match(r'^\d{1,2}\.\d?\s+(.{4,80})$', line)
+                
+            # Format 2: "N. Title" (Only matches top level chapter numbers, never 1.1)
+            m = re.match(r'^\d{1,2}\.\s+(.{4,80})$', line)
             if m:
-                return m.group(1).strip().title()
+                extracted = m.group(1).strip()
+                if "introduction" not in extracted.lower():
+                    return extracted.title()
+                    
+            # Format 3: "N." followed by title on next line
+            if re.match(r'^\d{1,2}\.$', line) and i + 1 < len(lines):
+                next_line = lines[i+1]
+                if 4 <= len(next_line) <= 80 and "introduction" not in next_line.lower():
+                    return next_line.title()
+                    
+        # Fallback: if no format matched, often the first line is the naked title
+        if lines:
+            fallback = lines[0].strip()
+            # If the first line is just a stray number, use the second line
+            if re.match(r'^\d{1,2}\.?$', fallback) and len(lines) > 1:
+                fallback = lines[1].strip()
+                
+            if 4 <= len(fallback) <= 100 and "introduction" not in fallback.lower():
+                return fallback.title()
+                
         return self.chapter_title or ""
 
     def pages_to_lines(self, pages: list[dict]) -> list[dict]:
