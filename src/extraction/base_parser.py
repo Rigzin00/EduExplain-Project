@@ -45,16 +45,28 @@ class BaseParser:
         return pages, data
 
     def infer_chapter_title(self, pages: list[dict]) -> str:
-        """Try to auto-detect chapter title from first page."""
+        """Try to auto-detect chapter title from first page.
+
+        Handles two common formats:
+          1. ALL-CAPS heading: "UNITS, DIMENSIONS AND VECTORS"  (NIOS style)
+          2. Chapter-dot-title: "1. Living World"  (Maharashtra style)
+        """
         if not pages:
             return self.chapter_title
         first_text = pages[0].get("text", "")
         for raw_line in first_text.split("\n"):
             line = raw_line.strip()
+            if not line:
+                continue
+            # Format 1: All-caps heading (NIOS style)
             if re.match(r'^[A-Z][A-Z0-9\s,\(\)\-\/]{8,80}$', line):
                 if re.match(r'^MODULE\s*-', line):
                     continue
                 return line.title()
+            # Format 2: "N. Title" or "N.N Title" (Maharashtra / NCERT style)
+            m = re.match(r'^\d{1,2}\.\d?\s+(.{4,80})$', line)
+            if m:
+                return m.group(1).strip().title()
         return self.chapter_title or ""
 
     def pages_to_lines(self, pages: list[dict]) -> list[dict]:

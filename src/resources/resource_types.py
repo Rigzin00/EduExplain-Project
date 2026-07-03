@@ -32,6 +32,7 @@ VALID_RESOURCE_TYPES: frozenset[str] = frozenset({
     "mcq",           # multiple choice questions
     "project",       # longer term tasks or practical projects
     "summary",       # chapter or section summaries
+    "callout",       # informational callout boxes (Do you know?)
 })
 
 
@@ -53,6 +54,7 @@ CHUNK_TYPE_TO_RESOURCE_TYPE: dict[str, str] = {
     "internet_task":    "internet_task",
     "mcq":              "mcq",
     "project":          "project",
+    "callout":          "callout",
 }
 
 # Fallback when chunk_type is missing or unrecognised
@@ -84,6 +86,7 @@ RESOURCE_ID_PREFIX: dict[str, str] = {
     "mcq":           "MCQ",
     "project":       "PRJ",
     "summary":       "SUM",
+    "callout":       "CLT",
 }
 
 
@@ -98,7 +101,7 @@ def get_id_prefix(resource_type: str) -> str:
 
 TEXT_RESOURCE_TYPES: frozenset[str] = frozenset({
     "explanation", "example", "activity", "exercise", "recall",
-    "scientist_box", "internet_task", "mcq", "project", "summary"
+    "scientist_box", "internet_task", "mcq", "project", "summary", "callout"
 })
 
 NON_TEXT_RESOURCE_TYPES: frozenset[str] = frozenset({
