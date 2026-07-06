@@ -1,0 +1,254 @@
+[
+  {
+    "resource_id": "TXT_12_CH12_X_001",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": null,
+    "concepts": [
+      "thermal energy flow",
+      "radiation",
+      "conduction",
+      "convection"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_X_002",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "chemical energy",
+      "carbon dioxide",
+      "oxygen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_1_001",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": "PROCESSES OF HEAT TRANSFER",
+    "concepts": [
+      "conduction",
+      "convection",
+      "radiation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_1_002",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": "PROCESSES OF HEAT TRANSFER",
+    "concepts": [
+      "thermal conductivity",
+      "heat transfer",
+      "conduction"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH12_S12_1_001",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": "PROCESSES OF HEAT TRANSFER",
+    "concepts": [
+      "thermal conductivity",
+      "latent heat of fusion",
+      "heat transfer"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_1_003",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": "PROCESSES OF HEAT TRANSFER",
+    "concepts": [
+      "convection",
+      "temperature difference",
+      "surface area"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_1_004",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": "PROCESSES OF HEAT TRANSFER",
+    "concepts": [
+      "radiation",
+      "electromagnetic waves",
+      "speed of light",
+      "temperature",
+      "wavelengths",
+      "visible light",
+      "far-infrared region",
+      "platinum wire",
+      "color change",
+      "higher temperatures",
+      "shorter wavelengths",
+      "emitted radiation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_2_001",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": "RADIATION LAWS",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_2_002",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": "RADIATION LAWS",
+    "concepts": [
+      "reflection",
+      "absorption",
+      "transmission"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_2_003",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": "RADIATION LAWS",
+    "concepts": [
+      "emissive power",
+      "absorptive power",
+      "black body"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_2_004",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": "RADIATION LAWS",
+    "concepts": [
+      "Stefan-Boltzmann law",
+      "emissivity",
+      "thermal equilibrium"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH12_S12_2_001",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": "RADIATION LAWS",
+    "concepts": [
+      "stefan-boltzmann law",
+      "surface area calculation",
+      "emissivity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_3_001",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": "SOLAR ENERGY",
+    "concepts": [
+      "solar constant",
+      "greenhouse effect",
+      "CO₂"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_4_001",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": "NEWTON'S LAW OF COOLING",
+    "concepts": [
+      "Newton's law of cooling",
+      "Stefan-Boltzmann law",
+      "temperature difference"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_4_002",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": "NEWTON'S LAW OF COOLING",
+    "concepts": [
+      "thermal conductivity",
+      "temperature difference",
+      "surface area",
+      "material thickness",
+      "absorptive power"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_4_003",
+    "document_id": "NIOS_PHY_CH12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Heat Transfer And Solar Energy",
+    "section": "NEWTON'S LAW OF COOLING",
+    "concepts": [
+      "conduction",
+      "heat transfer",
+      "thermal conductivity"
+    ]
+  }
+]

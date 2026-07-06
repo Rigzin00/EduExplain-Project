@@ -1,0 +1,449 @@
+[
+  {
+    "resource_id": "TXT_11_CH07_X_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": null,
+    "concepts": [
+      "specific heat capacity",
+      "thermal expansion",
+      "heat transfer mechanisms"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_1_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Introduction:",
+    "concepts": [
+      "temperature",
+      "thermometer",
+      "thermal properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Temperature and Heat:",
+    "concepts": [
+      "temperature",
+      "heat",
+      "kinetic energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Measurement of Temperature:",
+    "concepts": [
+      "adiabatic wall",
+      "diathermic wall",
+      "thermal equilibrium"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH07_S7_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Measurement of Temperature:",
+    "concepts": [
+      "temperature",
+      "thermometer",
+      "thermometry"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_4_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Absolute Temperature and Ideal Gas Equation:",
+    "concepts": [
+      "absolute zero",
+      "Kelvin scale",
+      "ideal gas law"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_4_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Absolute Temperature and Ideal Gas Equation:",
+    "concepts": [
+      "ideal gas equation",
+      "Charles' law",
+      "Gay-Lussac's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Thermal Expansion:",
+    "concepts": [
+      "thermal expansion",
+      "atoms vibration",
+      "linear expansion",
+      "areal expansion",
+      "volume expansion"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_5_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Thermal Expansion:",
+    "concepts": [
+      "linear expansion",
+      "coefficient of linear expansion",
+      "temperature dependence"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_5_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Thermal Expansion:",
+    "concepts": [
+      "areal expansion",
+      "coefficient of areal expansion",
+      "temperature change"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_5_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Thermal Expansion:",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_5_005",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Thermal Expansion:",
+    "concepts": [
+      "linear expansion",
+      "area expansion",
+      "volume expansion"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_6_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Specific Heat Capacity:",
+    "concepts": [
+      "specific heat capacity",
+      "heat absorption",
+      "substance",
+      "temperature",
+      "unit mass",
+      "coolant",
+      "heating medium"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_6_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Specific Heat Capacity:",
+    "concepts": [
+      "specific heat capacity",
+      "constant pressure",
+      "constant volume",
+      "molar specific heat capacities"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_6_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Specific Heat Capacity:",
+    "concepts": [
+      "specific heat capacity",
+      "heat equation",
+      "temperature change"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_6_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Specific Heat Capacity:",
+    "concepts": [
+      "heat capacity",
+      "specific heat capacity",
+      "thermal capacity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_7_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Calorimetry:",
+    "concepts": [
+      "calorimetry",
+      "heat exchange",
+      "specific heat capacity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_8_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Change of State:",
+    "concepts": [
+      "phase change",
+      "melting",
+      "vaporization",
+      "temperature",
+      "heat"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_8_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Change of State:",
+    "concepts": [
+      "sublimation",
+      "solid-to-vapor transition",
+      "molecular structure",
+      "dry ice",
+      "iodine"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_8_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Change of State:",
+    "concepts": [
+      "phase diagram",
+      "vaporization curve",
+      "fusion curve"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_8_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Change of State:",
+    "concepts": [
+      "critical temperature",
+      "vapor",
+      "liquefaction",
+      "pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_8_005",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Change of State:",
+    "concepts": [
+      "latent heat",
+      "fusion",
+      "vaporization"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH07_S7_8_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Change of State:",
+    "concepts": [
+      "latent heat of vaporization",
+      "latent heat of fusion",
+      "energy required for phase change"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_9_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Heat Transfer:",
+    "concepts": [
+      "conduction",
+      "convection",
+      "radiation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_9_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Heat Transfer:",
+    "concepts": [
+      "conduction",
+      "thermal conductivity",
+      "thermal resistance"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_9_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Heat Transfer:",
+    "concepts": [
+      "convection",
+      "heat transfer",
+      "fluids",
+      "molecules",
+      "motion",
+      "currents",
+      "circulation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_9_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Heat Transfer:",
+    "concepts": [
+      "electromagnetic waves",
+      "heat transfer",
+      "radiation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_10_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Newton's Laws of Cooling:",
+    "concepts": [
+      "Newton's Law of Cooling",
+      "temperature difference",
+      "mathematical representation"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH07_S7_10_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "internet_task",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Thermal Properties Of Matter",
+    "section": "Newton's Laws of Cooling:",
+    "concepts": [
+      "volume expansion",
+      "specific latent heat",
+      "temperature dependence of properties"
+    ]
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "resource_id": "TXT_12_CH12_X_001",
+    "document_id": "NIOS_BIO_CH12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Respiration In Plants",
+    "section": null,
+    "concepts": [
+      "respiration",
+      "organic molecules",
+      "oxidation",
+      "energy",
+      "ATP",
+      "oxygen",
+      "cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_X_002",
+    "document_id": "NIOS_BIO_CH12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Respiration In Plants",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_1_001",
+    "document_id": "NIOS_BIO_CH12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Respiration In Plants",
+    "section": "RESPIRATION",
+    "concepts": [
+      "respiration",
+      "oxidation",
+      "ATP",
+      "mitochondria",
+      "cytoplasm",
+      "aerobic",
+      "anaerobic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_2_001",
+    "document_id": "NIOS_BIO_CH12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Respiration In Plants",
+    "section": "EXTERNAL RESPIRATION/GASEOUS EXCHANGE",
+    "concepts": [
+      "photosynthesis",
+      "respiration",
+      "oxygen",
+      "carbon dioxide",
+      "chloroplast"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_3_001",
+    "document_id": "NIOS_BIO_CH12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Respiration In Plants",
+    "section": "CELLULAR RESPRIATION",
+    "concepts": [
+      "respiratory process",
+      "glycolysis",
+      "Krebs cycle",
+      "electron transport chain"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_3_002",
+    "document_id": "NIOS_BIO_CH12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Respiration In Plants",
+    "section": "CELLULAR RESPRIATION",
+    "concepts": [
+      "cytoplasm",
+      "cellular respiration",
+      "pyruvic acid",
+      "ATP",
+      "glucose",
+      "pyruvate"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_3_003",
+    "document_id": "NIOS_BIO_CH12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Respiration In Plants",
+    "section": "CELLULAR RESPRIATION",
+    "concepts": [
+      "fermentation",
+      "pyruvic acid",
+      "oxygen",
+      "mitochondria",
+      "anaerobic conditions",
+      "yeasts",
+      "muscle cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_3_004",
+    "document_id": "NIOS_BIO_CH12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Respiration In Plants",
+    "section": "CELLULAR RESPRIATION",
+    "concepts": [
+      "pyruvic acid",
+      "mitochondria",
+      "Krebs' cycle",
+      "CO₂",
+      "NADH",
+      "FADH₂",
+      "glucose",
+      "glycolysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_3_005",
+    "document_id": "NIOS_BIO_CH12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Respiration In Plants",
+    "section": "CELLULAR RESPRIATION",
+    "concepts": [
+      "respiration",
+      "photosynthesis",
+      "amphibolic pathway",
+      "fermentation",
+      "pyruvic acid",
+      "oxygen",
+      "cytoplasm",
+      "mitochondria",
+      "glycolysis",
+      "Krebs cycle",
+      "oxidative phosphorylation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_4_001",
+    "document_id": "NIOS_BIO_CH12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Respiration In Plants",
+    "section": "RATE OF RESPIRATION AND FACTORS AFFECTING IT",
+    "concepts": [
+      "respiration",
+      "rate of respiration",
+      "CO₂ release",
+      "internal factors",
+      "external factors",
+      "oxygen levels",
+      "water",
+      "temperature",
+      "respiratory quotient"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_5_001",
+    "document_id": "NIOS_BIO_CH12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Respiration In Plants",
+    "section": "PHOTORESPIRATION",
+    "concepts": [
+      "carboxylation",
+      "RUBP",
+      "Calvin cycle",
+      "mitochondria",
+      "peroxisomes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_6_001",
+    "document_id": "NIOS_BIO_CH12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Respiration In Plants",
+    "section": "PENTOSE PHOSPHATE PATHWAY OR HMP-PATHWAY",
+    "concepts": [
+      "cytosol",
+      "mitochondria",
+      "electron transport chain",
+      "glucose",
+      "NADPH",
+      "ribulose-5-phosphate",
+      "nucleotide synthesis",
+      "reducing equivalents",
+      "precursors"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_6_002",
+    "document_id": "NIOS_BIO_CH12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Respiration In Plants",
+    "section": "PENTOSE PHOSPHATE PATHWAY OR HMP-PATHWAY",
+    "concepts": [
+      "respiratory system",
+      "pentose phosphate pathway",
+      "photosynthesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_6_003",
+    "document_id": "NIOS_BIO_CH12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Respiration In Plants",
+    "section": "PENTOSE PHOSPHATE PATHWAY OR HMP-PATHWAY",
+    "concepts": [
+      "pentose phosphate pathway",
+      "fermentation",
+      "krebs cycle",
+      "electron transport chain"
+    ]
+  }
+]

@@ -1,0 +1,365 @@
+[
+  {
+    "resource_id": "TXT_12_CH29_X_001",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": null,
+    "concepts": [
+      "environmental exposure",
+      "public health",
+      "genetic disorder"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_X_002",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_1_001",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "What is a disease?",
+    "concepts": [
+      "abnormal condition",
+      "disruption of normal functioning",
+      "pathogens"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_1_002",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "What is a disease?",
+    "concepts": [
+      "acquired diseases",
+      "deficiency diseases",
+      "cancer"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_1_003",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "What is a disease?",
+    "concepts": [
+      "modes of spread",
+      "intermediate agents",
+      "contaminated objects"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_2_001",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "SOME IMPORTANT TERMS TO REMEMBER",
+    "concepts": [
+      "pathogen",
+      "parasite",
+      "vector",
+      "carrier",
+      "reservoir",
+      "epidemic",
+      "endemic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_001",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "COMMUNICABLE DISEASES (INFECTIOUS DISEASES)",
+    "concepts": [
+      "communicable diseases",
+      "contaminated food",
+      "water",
+      "direct contact",
+      "vectors",
+      "pathogens",
+      "bacteria",
+      "viruses",
+      "fungi",
+      "parasites"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_002",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "COMMUNICABLE DISEASES (INFECTIOUS DISEASES)",
+    "concepts": [
+      "varicella-zoster virus",
+      "transmitted through contact or scabs",
+      "incubation period",
+      "lifelong immunity",
+      "rubeola virus",
+      "spreads via the air",
+      "vaccination",
+      "polio virus",
+      "contaminated food or water",
+      "oral polio vaccine drops",
+      "rabies"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_003",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "COMMUNICABLE DISEASES (INFECTIOUS DISEASES)",
+    "concepts": [
+      "Mycobacterium tuberculosis",
+      "Salmonella typhi",
+      "Vibrio cholerae",
+      "Corynebacterium diph"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_004",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "COMMUNICABLE DISEASES (INFECTIOUS DISEASES)",
+    "concepts": [
+      "malarial parasites",
+      "Plasmodium",
+      "female Anopheles mosquitoes",
+      "incubation period",
+      "symptoms",
+      "prevention",
+      "Amoebiasis",
+      "Entamoeba histolytica",
+      "contaminated food and water",
+      "amoebic dysentery",
+      "hygiene",
+      "proper sanitation",
+      "antiamoebic drugs"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_005",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "COMMUNICABLE DISEASES (INFECTIOUS DISEASES)",
+    "concepts": [
+      "filariasis",
+      "filarial worms",
+      "Wuchereria bancrofti",
+      "mosquitoes",
+      "Aedes",
+      "Culex",
+      "lymphadenopathy",
+      "hydrocele"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_4_001",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "NON-COMMUNICABLE DISEASES",
+    "concepts": [
+      "diabetes mellitus",
+      "insulin resistance",
+      "pancreatic issues",
+      "frequent urination",
+      "thirst",
+      "fatigue",
+      "blood glucose level",
+      "cholesterol deposition",
+      "coronary arteries",
+      "restricted blood flow",
+      "heart attack",
+      "chest pain",
+      "shortness of breath",
+      "bone density",
+      "osteoporosis",
+      "bone fragility",
+      "fragile bones"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_5_001",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "SEXUALLY TRANSMITTED DISEASES",
+    "concepts": [
+      "syphilis",
+      "gonorrhoea",
+      "AIDS"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_5_002",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "SEXUALLY TRANSMITTED DISEASES",
+    "concepts": [
+      "immunodeficiency",
+      "HIV virus",
+      "cell-mediated immune system",
+      "sexual contact",
+      "shared needles",
+      "childbirth",
+      "breastfeeding",
+      "symptoms",
+      "persistent fever",
+      "weight loss",
+      "recurrent infections"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_5_003",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "SEXUALLY TRANSMITTED DISEASES",
+    "concepts": [
+      "treponema pallidum",
+      "spiral-shaped bacterium",
+      "syphilis",
+      "sexually transmitted diseases",
+      "sexual contact",
+      "safe sex practices",
+      "antibiotics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_5_004",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "SEXUALLY TRANSMITTED DISEASES",
+    "concepts": [
+      "Neisseria gonorrhoeae",
+      "gynecology",
+      "incubation period",
+      "symptoms",
+      "prevention",
+      "treatment"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_6_001",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "DRUG ABUSE AND ITS PREVENTION",
+    "concepts": [
+      "drug",
+      "abuse",
+      "therapeutic",
+      "substances",
+      "misuse",
+      "solvent",
+      "infected",
+      "reproductive",
+      "tract",
+      "infection",
+      "RTI"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_6_002",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "DRUG ABUSE AND ITS PREVENTION",
+    "concepts": [
+      "particulate matter",
+      "ozone",
+      "water contamination",
+      "gastrointestinal diseases"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_6_003",
+    "document_id": "NIOS_BIO_CH29",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Some Common Human Diseases",
+    "section": "DRUG ABUSE AND ITS PREVENTION",
+    "concepts": [
+      "pollution",
+      "climate change",
+      "biodiversity loss"
+    ]
+  }
+]

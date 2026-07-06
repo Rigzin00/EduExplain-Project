@@ -1,0 +1,539 @@
+[
+  {
+    "resource_id": "RCL_12_CH08_X_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": null,
+    "concepts": [
+      "respiration",
+      "oxidation",
+      "ATP"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Organs of Respiratory Exchange:",
+    "concepts": [
+      "respiratory exchange",
+      "gas exchange",
+      "air spaces",
+      "lenticels",
+      "woody plants",
+      "specialized structures",
+      "oxygen entry",
+      "carbon dioxide exit",
+      "transport system"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Organs of Respiratory Exchange:",
+    "concepts": [
+      "respiratory exchange",
+      "circulatory system",
+      "organisms"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Human Respiratory system:",
+    "concepts": [
+      "respiratory system",
+      "inspiration",
+      "expiration",
+      "gas exchange",
+      "lungs"
+    ]
+  },
+  {
+    "resource_id": "ACT_12_CH08_S8_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Human Respiratory system:",
+    "concepts": [
+      "trachea",
+      "primary bronchi",
+      "secondary bronchi",
+      "tertiary bronchi",
+      "terminal bronchioles",
+      "alveoli",
+      "pleural membrane",
+      "pleural fluid"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH08_S8_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Human Respiratory system:",
+    "concepts": [
+      "muscular septum",
+      "thoracic cavity",
+      "abdominal cavity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Mechanism of respiration:",
+    "concepts": [
+      "respiratory system",
+      "gas exchange",
+      "ATP production",
+      "diaphragm",
+      "external intercostal muscles",
+      "thoracic cavity",
+      "alveoli",
+      "partial pressure"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Mechanism of respiration:",
+    "concepts": [
+      "respiratory exchange",
+      "internal respiration",
+      "transport of oxygen",
+      "oxygen binding to hemoglobin",
+      "oxyhemoglobin dissociation",
+      "Bohr effect",
+      "Haldane effect"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_3_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Mechanism of respiration:",
+    "concepts": [
+      "transportation_of_CO2_in_blood",
+      "carbonic_acid_and_hemoglobin_interaction",
+      "hemoglobin_buffering"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_3_003",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Mechanism of respiration:",
+    "concepts": [
+      "oxidation",
+      "phosphorylation",
+      "ATP"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Regulation of Breathing:",
+    "concepts": [
+      "respiratory centers",
+      "brainstem",
+      "medulla",
+      "pons",
+      "Hering-Breuer reflex",
+      "stretch receptors",
+      "voluntary control"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Modified Respiratory Movements:",
+    "concepts": [
+      "respiratory movements",
+      "involuntary reflex actions",
+      "voluntary responses"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Common disorders of respiratory system:",
+    "concepts": [
+      "respiratory disorders",
+      "exchange gases",
+      "artificial ventilation",
+      "ventilator",
+      "mechanical assistance",
+      "natural breathing",
+      "severe lung issues"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Transportation in living organisms:",
+    "concepts": [
+      "cells",
+      "exchange",
+      "material"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Transportation in living organisms:",
+    "concepts": [
+      "circulation",
+      "diffusion",
+      "active transport",
+      "cyclosis",
+      "cytoplasmic streaming",
+      "paranchymal circulation",
+      "extracellular transport"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_7_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Transportation in living organisms:",
+    "concepts": [
+      "complexity",
+      "transportation",
+      "organism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_8_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Circulation in animals:",
+    "concepts": [
+      "circulation",
+      "closed circulation",
+      "single circulation",
+      "double circulation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_9_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Circulatory System in Human:",
+    "concepts": [
+      "circulatory system",
+      "transport",
+      "homeostasis",
+      "proteins",
+      "electrolytes"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH08_S8_9_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Circulatory System in Human:",
+    "concepts": [
+      "formed elements",
+      "blood cells",
+      "red blood corpuscles",
+      "white blood corpuscles",
+      "platelets"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Red blood corpuscles / Erythrocytes:",
+    "concepts": [
+      "erythrocyte",
+      "hemoglobin",
+      "erythropoiesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_11_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "White blood corpuscles / Leucocytes:",
+    "concepts": [
+      "leucocytes",
+      "white blood cells",
+      "defense mechanisms",
+      "granulocytes",
+      "neutrophils",
+      "basophils",
+      "eosinophils",
+      "lymphocytes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_12_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Thrombocytes / Platelets:",
+    "concepts": [
+      "thrombocytes",
+      "megakaryocytes",
+      "bone marrow",
+      "blood clotting",
+      "platelet plug",
+      "clotting factors",
+      "thrombin",
+      "fibrin",
+      "mesh"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_13_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Heart:",
+    "concepts": [
+      "muscular organ",
+      "central pump",
+      "circulatory system",
+      "four chambers",
+      "atria",
+      "ventricles",
+      "septum",
+      "pericardium",
+      "heart wall",
+      "three layers",
+      "epicardium",
+      "myocardium",
+      "endocardium"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH08_S8_13_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Heart:",
+    "concepts": [
+      "defective valves",
+      "abnormal or adventitious sound",
+      "heart murmuring"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_14_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Working mechanism of human heart: Cardiac Cycle:",
+    "concepts": [
+      "cardiac cycle",
+      "ventricular systole",
+      "atrial systole"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_15_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Blood vessels:",
+    "concepts": [
+      "arteries",
+      "veins",
+      "capillaries"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_16_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Blood pressure (B. P.):",
+    "concepts": [
+      "blood pressure",
+      "sphygmomanometer",
+      "arterial blood pressure"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_16_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Blood pressure (B. P.):",
+    "concepts": [
+      "blood pressure",
+      "cardiac output",
+      "arterioles",
+      "capillaries",
+      "vasoconstrictors",
+      "ADH",
+      "viscosity",
+      "venous return"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_16_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Blood pressure (B. P.):",
+    "concepts": [
+      "blood pressure",
+      "sphygmomanometer",
+      "mercury manometer",
+      "Korotkoff sounds",
+      "hypertension",
+      "angina pectoris"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_17_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Electrocardiogram:",
+    "concepts": [
+      "electrocardiogram",
+      "heart",
+      "atrial depolarization",
+      "ventricular depolarization",
+      "ventricular repolarization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_18_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Organs Of Respiratory Exchange:",
+    "section": "Lymphatic System:",
+    "concepts": [
+      "lymph",
+      "lymphatic system",
+      "tonsils",
+      "tonsillitis",
+      "antibiotics"
+    ]
+  }
+]

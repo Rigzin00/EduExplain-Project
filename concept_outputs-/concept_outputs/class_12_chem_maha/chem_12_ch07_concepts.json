@@ -1,0 +1,781 @@
+[
+  {
+    "resource_id": "TXT_12_CH07_X_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": null,
+    "concepts": [
+      "six valence electrons",
+      "similar chemical properties",
+      "reactivity patterns",
+      "seven valence electrons",
+      "highly reactive nonmetals",
+      "gain one electron",
+      "stable electron configuration",
+      "full outer electron shells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Occurence : The elements oxygen (&lt;sub&gt;8&lt;/sub&gt;O), sulfur (&lt;sub&gt;16&lt;/sub&gt;S), selenium (&lt;sub&gt;34&lt;/sub&gt;Se), tellurium (&lt;sub&gt;52&lt;/sub&gt;Te) and polonium (&lt;sub&gt;84&lt;/sub&gt;Po) constitute Group 16, called the oxygen family. Large number of metal ores are oxides or sulfides. Group 16 elements are also called chalcogens or ore forming elements.",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Electronic configuration of elements of group 16, 17 and 18: The general electronic configuration of the group 16 elements is ns&lt;sup&gt;2&lt;/sup&gt;np&lt;sup&gt;4&lt;/sup&gt; while that of group 17 elements is ns&lt;sup&gt;2&lt;/sup&gt;np&lt;sup&gt;5&lt;/sup&gt;. The group 18 elements are shown by ns&lt;sup&gt;2&lt;/sup&gt;np&lt;sup&gt;6&lt;/sup&gt; configuration.",
+    "concepts": [
+      "electronic configuration",
+      "reactivity",
+      "group 16 elements",
+      "group 17 elements",
+      "group 18 elements"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Atomic and physical properties of elements of group 16, 17 and 18.",
+    "concepts": [
+      "atomic radius",
+      "ionization enthalpy",
+      "effective nuclear charge"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_4_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Atomic and physical properties of elements of group 16, 17 and 18.",
+    "concepts": [
+      "nonmetals",
+      "metalloids",
+      "metals",
+      "polonium",
+      "allotropy",
+      "van der Waals forces"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH07_S7_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Atomic and physical properties of elements of group 16, 17 and 18.",
+    "concepts": [
+      "atomic structure",
+      "periodic trends",
+      "electronegativity"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH07_S7_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Anamalous Behaviour",
+    "concepts": [
+      "anomalous behaviour",
+      "fluorine",
+      "sulfur",
+      "hydride",
+      "oxygen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Anamalous Behaviour",
+    "concepts": [
+      "atomic size",
+      "electronegativity",
+      "fluorine",
+      "oxoacid",
+      "hydrogen fluoride",
+      "strong hydrogen bonding"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Chemical Properties of elements of groups 16, 17 and 18",
+    "concepts": [
+      "oxidation state",
+      "covalent bonding",
+      "fluorine"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_6_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Chemical Properties of elements of groups 16, 17 and 18",
+    "concepts": [
+      "sp³ hybridization",
+      "bond dissociation enthalpy",
+      "reducing properties",
+      "HF to HI"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_6_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Chemical Properties of elements of groups 16, 17 and 18",
+    "concepts": [
+      "reactivity towards oxygen",
+      "acidic oxides",
+      "reducing properties",
+      "thermally stable oxide",
+      "chlorine oxides",
+      "bromine oxides",
+      "iodine oxides"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_6_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Chemical Properties of elements of groups 16, 17 and 18",
+    "concepts": [
+      "sp³d² hybridization",
+      "octahedral structures",
+      "stability of halides",
+      "tetrahalides",
+      "trigonal bipyramidal geometries",
+      "dihalides"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH07_S7_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Chemical Properties of elements of groups 16, 17 and 18",
+    "concepts": [
+      "reactivity",
+      "interhalogen compounds",
+      "fluorides"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_6_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Chemical Properties of elements of groups 16, 17 and 18",
+    "concepts": [
+      "reactivity",
+      "metals",
+      "compounds",
+      "direct reaction",
+      "aluminum oxide",
+      "copper sulfide",
+      "magnesium selenide"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Chemical Properties of elements of groups 16, 17 and 18",
+    "concepts": [
+      "reactivity",
+      "metallurgy",
+      "chemical bonding"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH07_S7_6_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Chemical Properties of elements of groups 16, 17 and 18",
+    "concepts": [
+      "reactivity",
+      "metal halides",
+      "covalent character"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH07_S7_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Allotropy:",
+    "concepts": [
+      "allotropy",
+      "O_2",
+      "O_3",
+      "sulfur",
+      "allotropic forms",
+      "rhombic sulfur",
+      "monoclinic sulfur",
+      "non metallic",
+      "red selenium"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Allotropy:",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Allotropy:",
+    "concepts": [
+      "allotropy",
+      "paramagnetism",
+      "unpaired electrons"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Oxoacids",
+    "concepts": [
+      "sulfuric acid",
+      "di or pyrosulfuric acid",
+      "peroxy monosulfuric acid",
+      "peroxy disulfuric acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_8_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Oxoacids",
+    "concepts": [
+      "oxidation state",
+      "acid strength",
+      "halogen oxoacids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Oxygen and Compounds of oxygen",
+    "concepts": [
+      "dioxygen",
+      "metal oxides",
+      "nonmetals",
+      "compounds",
+      "sulfur",
+      "methane",
+      "paramagnetism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_9_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Oxygen and Compounds of oxygen",
+    "concepts": [
+      "oxidation",
+      "acid-base reaction",
+      "amphoteric property"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_9_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Oxygen and Compounds of oxygen",
+    "concepts": [
+      "allotrope",
+      "ultraviolet light",
+      "atomic oxygen",
+      "endothermic process",
+      "decomposition",
+      "oxidizing properties",
+      "bleaching agent"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Oxygen and Compounds of oxygen",
+    "concepts": [
+      "allotrope",
+      "ultra-violet light",
+      "atomic oxygen",
+      "molecular oxygen",
+      "ozonide",
+      "decomposition",
+      "aldehyde",
+      "ketone",
+      "ozonolysis"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH07_S7_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Oxygen and Compounds of oxygen",
+    "concepts": [
+      "allotrope",
+      "resonance hybrid",
+      "canonical form"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_10_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Compounds of sulfur:",
+    "concepts": [
+      "chemical properties",
+      "reduction",
+      "oxidation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_10_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Compounds of sulfur:",
+    "concepts": [
+      "oxidation",
+      "catalyst",
+      "low temperature",
+      "high pressure",
+      "absorption",
+      "concentration",
+      "corrosiveness"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_10_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Compounds of sulfur:",
+    "concepts": [
+      "acidic_property",
+      "reaction_with_metals_and_nonmetals",
+      "concentration_dependence"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_11_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Chlorine and compounds of chlorine",
+    "concepts": [
+      "oxidation",
+      "hydrochloric acid",
+      "manganese dioxide",
+      "potassium permanganate",
+      "brine",
+      "electrolysis",
+      "chlorides",
+      "affinity",
+      "ammonia",
+      "ammonium chloride",
+      "nitrogen",
+      "trichloride",
+      "bleaching property",
+      "nascent"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_11_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Chlorine and compounds of chlorine",
+    "concepts": [
+      "bleaching",
+      "chlorine",
+      "oxidizing agent"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_11_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Chlorine and compounds of chlorine",
+    "concepts": [
+      "hydrogen chloride preparation",
+      "concentration sulfuric acid drying",
+      "high solubility in water",
+      "hydrochloric acid formation",
+      "dissociation constant",
+      "ammonium chloride formation",
+      "noble metals aqua regia dissolution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_12_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Interhalogen compounds",
+    "concepts": [
+      "interhalogen compounds",
+      "electronegativity",
+      "ionic or neutral"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_12_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Interhalogen compounds",
+    "concepts": []
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_12_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Interhalogen compounds",
+    "concepts": [
+      "interhalogen compound",
+      "Wijs solution",
+      "determination of iodine value"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_12_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Interhalogen compounds",
+    "concepts": [
+      "interhalogen compounds",
+      "classification",
+      "composition"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_12_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Interhalogen compounds",
+    "concepts": [
+      "atomic size",
+      "interhalogen compounds",
+      "direct relationship"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_12_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Interhalogen compounds",
+    "concepts": [
+      "reactivity",
+      "electronegativity",
+      "bond energy"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH07_S7_12_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Interhalogen compounds",
+    "concepts": [
+      "colorless gas",
+      "gas",
+      "liquid",
+      "solid",
+      "ruby red solid",
+      "brown red solid",
+      "black solid",
+      "orange solid",
+      "interhalogen compound",
+      "general characteristics",
+      "fluorine",
+      "chlorine",
+      "bromine",
+      "iodine",
+      "fluorine trichloride",
+      "fluorine tribromide",
+      "fluorine tetrachloride",
+      "fluorine pentachloride",
+      "fluorine hexachloride"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH07_S7_12_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Interhalogen compounds",
+    "concepts": [
+      "oxidant",
+      "reductant",
+      "oxidation states"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_12_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Interhalogen compounds",
+    "concepts": [
+      "autoionization",
+      "thermal stability",
+      "hydrolysis"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH07_S7_13_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Compounds of Xenon",
+    "concepts": [
+      "ionisation energies",
+      "unreactivity",
+      "compounds"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_13_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Compounds of Xenon",
+    "concepts": [
+      "compound",
+      "fluoride",
+      "reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_13_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Compounds of Xenon",
+    "concepts": [
+      "hydrolysis",
+      "adducts",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_13_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Compounds of Xenon",
+    "concepts": [
+      "covalent bond",
+      "redox reaction",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_13_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Compounds of Xenon",
+    "concepts": [
+      "hydrolysis",
+      "oxyfluorides",
+      "silica",
+      "water",
+      "xenon dioxydifluoride",
+      "silicon tetrafluoride"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH07_S7_13_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Elements Of Groups 16, 17 And 18",
+    "section": "Compounds of Xenon",
+    "concepts": [
+      "compounds",
+      "oxygen fluorides",
+      "argon"
+    ]
+  }
+]

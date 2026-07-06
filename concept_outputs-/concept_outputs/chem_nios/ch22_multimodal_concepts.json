@@ -1,0 +1,157 @@
+[
+  {
+    "resource_id": "TXT_12_CH22_X_001",
+    "document_id": "NIOS_CHEM_CH22",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Coordination Compounds",
+    "section": null,
+    "concepts": [
+      "coordination compound",
+      "ligand",
+      "metal ion",
+      "polymerization",
+      "chlorophyll",
+      "hemoglobin",
+      "bonding",
+      "coordinative bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_X_002",
+    "document_id": "NIOS_CHEM_CH22",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Coordination Compounds",
+    "section": null,
+    "concepts": [
+      "atomic structure",
+      "reactivity",
+      "electron configuration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_1_001",
+    "document_id": "NIOS_CHEM_CH22",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Coordination Compounds",
+    "section": "WERNERS' COORDINATION THEORY",
+    "concepts": [
+      "coordination compound",
+      "reactivity",
+      "Werner's theory"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_2_001",
+    "document_id": "NIOS_CHEM_CH22",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Coordination Compounds",
+    "section": "DEFINITION OF SOME IMPORTANT TERMS",
+    "concepts": [
+      "ligand",
+      "complex ion",
+      "Lewis acid-base interaction",
+      "coordination number",
+      "coordination sphere",
+      "oxidation number"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_3_001",
+    "document_id": "NIOS_CHEM_CH22",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Coordination Compounds",
+    "section": "RULES OF NOMENCLATURE OF COORDINATION COMPOUNDS",
+    "concepts": [
+      "ligand naming convention",
+      "Greek prefixes",
+      "coordinating compound"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_4_001",
+    "document_id": "NIOS_CHEM_CH22",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Coordination Compounds",
+    "section": "VALENCE BOND THEORY",
+    "concepts": [
+      "coordination compound",
+      "metal complex",
+      "ligand orbital",
+      "magnetic property",
+      "paramagnetic",
+      "diamagnetic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_5_001",
+    "document_id": "NIOS_CHEM_CH22",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Coordination Compounds",
+    "section": "CRYSTAL FIELD THEORY",
+    "concepts": [
+      "d-orbitals",
+      "ligands",
+      "metal ions",
+      "octahedral complex",
+      "t₂g",
+      "e_g",
+      "color",
+      "magnetic properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_6_001",
+    "document_id": "NIOS_CHEM_CH22",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Coordination Compounds",
+    "section": "ISOMERISM",
+    "concepts": [
+      "structural isomerism",
+      "coordination isomerism",
+      "stereoisomerism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_7_001",
+    "document_id": "NIOS_CHEM_CH22",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Coordination Compounds",
+    "section": "APPLICATIONS OF COORDINATION COMPOUNDS",
+    "concepts": [
+      "cyanide complexes",
+      "precious metals",
+      "EDTA",
+      "platinum-based complexes",
+      "chelating agents",
+      "qualitative analysis",
+      "silver ions"
+    ]
+  }
+]

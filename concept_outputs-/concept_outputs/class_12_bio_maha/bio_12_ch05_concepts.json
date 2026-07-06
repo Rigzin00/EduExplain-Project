@@ -1,0 +1,263 @@
+[
+  {
+    "resource_id": "TXT_12_CH05_S5_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Origin of life: (Protobiogenesis)",
+    "concepts": [
+      "responsiveness",
+      "growth",
+      "metabolism",
+      "energy transformations",
+      "reproduction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Chemical Evolution of Life (Self assembly theory of origin of life ):",
+    "concepts": [
+      "chemical evolution",
+      "self-assembly theory",
+      "protobionts"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Organic Evolution:",
+    "concepts": [
+      "descent with modification",
+      "Darwin's concept",
+      "Lamarck's theory"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Darwinism:",
+    "concepts": [
+      "evolution",
+      "natural selection",
+      "intermediate forms"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Mutation Theory:",
+    "concepts": [
+      "mutation",
+      "discontinuous variation",
+      "genetic diversity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Modern Synthetic Theory of Evolution:",
+    "concepts": [
+      "natural selection",
+      "gene frequencies",
+      "speciation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Mechanism of organic evolution:",
+    "concepts": [
+      "mutation",
+      "gene recombination",
+      "genetic drift",
+      "natural selection",
+      "speciation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_8_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Hardy-Weinberg's principle:",
+    "concepts": [
+      "Hardy-Weinberg equilibrium",
+      "allele frequencies",
+      "genotype frequencies",
+      "population genetics",
+      "diploid species",
+      "sexually reproducing",
+      "large number of individuals",
+      "random mating",
+      "no evolutionary forces"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_9_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Adaptive Radiation:",
+    "concepts": [
+      "adaptive radiation",
+      "Darwin's finches",
+      "Australian marsupials"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Evidences of organic evolution:",
+    "concepts": [
+      "evolutionary biology",
+      "fossil record",
+      "transitional fossils"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH05_S5_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Evidences of organic evolution:",
+    "concepts": [
+      "homologous organs",
+      "divergent evolution",
+      "convergent evolution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_11_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Speciation:",
+    "concepts": [
+      "speciation",
+      "species",
+      "interbreeding",
+      "fertile offspring",
+      "intraspecific",
+      "interspecific",
+      "allopatric speciation",
+      "adaptive radiation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_12_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Geological time scale:",
+    "concepts": [
+      "evolutionary biology",
+      "geological time scale",
+      "biological diversity"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH05_S5_13_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Human Evolution:",
+    "concepts": [
+      "human evolution",
+      "tree dwelling shrew-like animal",
+      "Palaeocene epoch",
+      "arboreal mammals",
+      "DNA comparison",
+      "chimpanzee-human relationship",
+      "gibbons",
+      "chimp-chimp relationship",
+      "gorilla-human relationship"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH05_S5_13_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Human Evolution:",
+    "concepts": [
+      "cranial capacity",
+      "ancestral humans",
+      "evolutionary history"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH05_S5_13_003",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Origin Of Life: (Protobiogenesis)",
+    "section": "Human Evolution:",
+    "concepts": [
+      "human evolution",
+      "theory of natural selection",
+      "mutation theory"
+    ]
+  }
+]

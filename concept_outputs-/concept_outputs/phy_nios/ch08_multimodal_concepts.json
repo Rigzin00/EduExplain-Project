@@ -1,0 +1,355 @@
+[
+  {
+    "resource_id": "TXT_12_CH08_X_001",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": null,
+    "concepts": [
+      "elasticity",
+      "force",
+      "material strength"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_X_002",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": null,
+    "concepts": [
+      "stress",
+      "strain",
+      "elasticity",
+      "pressure",
+      "density",
+      "fluid dynamics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_1_001",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "MOLECULAR THEORY OF MATTER: INTER-MOLECULAR FORCES",
+    "concepts": [
+      "inter-molecular forces",
+      "molecules",
+      "equilibrium separation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_001",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "ELASTICITY",
+    "concepts": [
+      "elasticity",
+      "deformability",
+      "force",
+      "material properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_002",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "ELASTICITY",
+    "concepts": [
+      "elasticity",
+      "plastic deformation",
+      "inter-molecular forces"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_003",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "ELASTICITY",
+    "concepts": [
+      "inter-atomic forces",
+      "stable equilibrium positions",
+      "deformation",
+      "overcome",
+      "atoms",
+      "move",
+      "restoring forces",
+      "original shape"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_004",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "ELASTICITY",
+    "concepts": [
+      "stress",
+      "restoring force",
+      "strain"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_005",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "ELASTICITY",
+    "concepts": [
+      "strain",
+      "volume strain",
+      "shearing strain"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_006",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "ELASTICITY",
+    "concepts": [
+      "elasticity",
+      "stress-strain curve",
+      "breaking stress",
+      "working stress",
+      "factor of safety"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_007",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "ELASTICITY",
+    "concepts": [
+      "elasticity",
+      "stress-strain curve",
+      "proportional region"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_008",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "ELASTICITY",
+    "concepts": [
+      "elasticity",
+      "stress",
+      "strain",
+      "restoring force",
+      "internal restoring force"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH08_S8_2_001",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "ELASTICITY",
+    "concepts": [
+      "tensile stress",
+      "strain",
+      "wire",
+      "load",
+      "tension"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH08_S8_2_002",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "ELASTICITY",
+    "concepts": [
+      "stress",
+      "strain",
+      "breaking stress"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_3_001",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "HOOKE'S LAW",
+    "concepts": [
+      "stress",
+      "strain",
+      "Hooke's law",
+      "modulus of elasticity",
+      "spring"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_3_002",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "HOOKE'S LAW",
+    "concepts": [
+      "resistance to deformation",
+      "Young's modulus",
+      "bulk modulus"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH08_S8_3_001",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "HOOKE'S LAW",
+    "concepts": [
+      "Young's modulus",
+      "Hooke's Law",
+      "elastic properties"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH08_S8_3_002",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "HOOKE'S LAW",
+    "concepts": [
+      "bulk modulus",
+      "mechanism of elasticity",
+      "Hooke's Law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_3_003",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "HOOKE'S LAW",
+    "concepts": [
+      "Poisson's ratio",
+      "lateral strain",
+      "longitudinal strain"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH08_S8_3_003",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "HOOKE'S LAW",
+    "concepts": [
+      "modulus of rigidity",
+      "shear stress",
+      "Poisson's ratio"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH08_S8_3_004",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "HOOKE'S LAW",
+    "concepts": [
+      "Young's modulus",
+      "Poisson's ratio",
+      "extension",
+      "strain",
+      "force",
+      "deformation",
+      "wire"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_3_004",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "HOOKE'S LAW",
+    "concepts": [
+      "elastic energy",
+      "spring constant",
+      "displacement",
+      "equilibrium position",
+      "potential energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_3_005",
+    "document_id": "NIOS_PHY_CH08",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Elastic Properties Of Solids",
+    "section": "HOOKE'S LAW",
+    "concepts": [
+      "photosynthesis",
+      "chloroplasts",
+      "mitosis"
+    ]
+  }
+]

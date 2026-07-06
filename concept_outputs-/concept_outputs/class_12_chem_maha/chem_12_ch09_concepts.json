@@ -1,0 +1,578 @@
+[
+  {
+    "resource_id": "TXT_12_CH09_S9_1_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Introduction: A coordination compound consists of central metal atom or ion surrounded by ions or molecules. For example, a chemotherapy drug, cisplatin, Pt(NH&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;Cl&lt;sub&gt;2&lt;/sub&gt;, is a coordination compound in which the central platinum metal ion is surrounded by two ammonia molecules and two chloride ions. The species surrounding the central metal atom or ion are called ligands. The ligands are linked directly to central metal ion through coordinate bonds. A formation of coordinate bond occurs when the shared electron pair is contributed by ligands. A coordinate bond is conveniently represented by an arrow \\rightarrow, where the arrow head points to electron acceptor. The central metal atom or ion usually an electron deficient species, accepts an electron pair while the ligands serve as electron donors. Coordination compounds having a metal ion in the centre are common. In cisplatin two ammonia molecules and two chloride ligands utilize their lone pairs of electrons to form bonds with the Pt(II).",
+    "concepts": [
+      "coordination compound",
+      "ligand",
+      "coordinate bond",
+      "metal ion",
+      "ammonia molecule",
+      "chloride ion",
+      "Pt(II)",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_1_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Introduction: A coordination compound consists of central metal atom or ion surrounded by ions or molecules. For example, a chemotherapy drug, cisplatin, Pt(NH&lt;sub&gt;2&lt;/sub&gt;)&lt;sub&gt;2&lt;/sub&gt;Cl&lt;sub&gt;2&lt;/sub&gt;, is a coordination compound in which the central platinum metal ion is surrounded by two ammonia molecules and two chloride ions. The species surrounding the central metal atom or ion are called ligands. The ligands are linked directly to central metal ion through coordinate bonds. A formation of coordinate bond occurs when the shared electron pair is contributed by ligands. A coordinate bond is conveniently represented by an arrow \\rightarrow, where the arrow head points to electron acceptor. The central metal atom or ion usually an electron deficient species, accepts an electron pair while the ligands serve as electron donors. Coordination compounds having a metal ion in the centre are common. In cisplatin two ammonia molecules and two chloride ligands utilize their lone pairs of electrons to form bonds with the Pt(II).",
+    "concepts": [
+      "Lewis acid",
+      "Lewis base",
+      "coordinate bond"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Types of ligands: The ligands can be classified as monodentate and polydentate",
+    "concepts": [
+      "monodentate ligand",
+      "coordinate bond",
+      "ligand"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Types of ligands: The ligands can be classified as monodentate and polydentate",
+    "concepts": [
+      "polydentate ligands",
+      "bidentate ligands",
+      "hexadentate ligand"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_2_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Types of ligands: The ligands can be classified as monodentate and polydentate",
+    "concepts": [
+      "monodentate",
+      "polydentate",
+      "ambidentate ligand"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Terms used in coordination chemistry: The following terms are used for describing coordination compounds.",
+    "concepts": [
+      "coordination sphere",
+      "counter ions",
+      "complex ion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_3_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Terms used in coordination chemistry: The following terms are used for describing coordination compounds.",
+    "concepts": [
+      "net charge on a complex ion",
+      "charge number of complex ion",
+      "oxidation state of metal ion"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Terms used in coordination chemistry: The following terms are used for describing coordination compounds.",
+    "concepts": [
+      "charge number of complex ion",
+      "oxidation state of metal ion",
+      "complex ion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_3_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Terms used in coordination chemistry: The following terms are used for describing coordination compounds.",
+    "concepts": [
+      "coordination number",
+      "ligand",
+      "metal ion",
+      "octahedral arrangement"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_3_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Terms used in coordination chemistry: The following terms are used for describing coordination compounds.",
+    "concepts": [
+      "coordination number",
+      "metal ion",
+      "ligand"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_3_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Terms used in coordination chemistry: The following terms are used for describing coordination compounds.",
+    "concepts": [
+      "coordination number",
+      "ligand",
+      "metal ion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_3_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Terms used in coordination chemistry: The following terms are used for describing coordination compounds.",
+    "concepts": [
+      "double salt",
+      "coordination complex",
+      "counter ions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_3_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Terms used in coordination chemistry: The following terms are used for describing coordination compounds.",
+    "concepts": [
+      "primary valency",
+      "secondary valency",
+      "coordination number"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_3_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Terms used in coordination chemistry: The following terms are used for describing coordination compounds.",
+    "concepts": [
+      "coordination compound",
+      "Werner theory",
+      "octahedral structure",
+      "square planar structure",
+      "tetrahedral structure"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Classification of complexes: The coordination complexes are classified according to types of ligands and sign of charge on the complex ion.",
+    "concepts": [
+      "homoleptic",
+      "heteroleptic",
+      "ligand"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Classification of complexes: The coordination complexes are classified according to types of ligands and sign of charge on the complex ion.",
+    "concepts": []
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_4_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Classification of complexes: The coordination complexes are classified according to types of ligands and sign of charge on the complex ion.",
+    "concepts": [
+      "cationic",
+      "anionic",
+      "neutral"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "IUPAC nomenclature of coordination compounds: Tables 9.1, 9.2 and 9.3 summarize the IUPAC nomenclature of coordination compounds.",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Effective Atomic Number (EAN) Rule:",
+    "concepts": [
+      "effective atomic number (EAN)",
+      "coordination compound",
+      "electron configuration"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Effective Atomic Number (EAN) Rule:",
+    "concepts": [
+      "effective atomic number (EAN)",
+      "coordination compounds",
+      "complexes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Isomerism in coordination compounds:",
+    "concepts": [
+      "isomers",
+      "stereoisomers",
+      "constitutional isomers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_7_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Isomerism in coordination compounds:",
+    "concepts": [
+      "cis-isomers",
+      "trans-isomers",
+      "optical-isomers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_7_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Isomerism in coordination compounds:",
+    "concepts": [
+      "linkage isomers",
+      "chemical formulae",
+      "structural isomers"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Isomerism in coordination compounds:",
+    "concepts": [
+      "structural isomers",
+      "ionic isomers",
+      "coordination compounds"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_7_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Isomerism in coordination compounds:",
+    "concepts": [
+      "coordination isomers",
+      "structural isomers",
+      "solvate isomers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Stability of the coordination compounds:",
+    "concepts": [
+      "stability constants",
+      "metal-ligand interactions",
+      "Lewis acid-base interactions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_8_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Stability of the coordination compounds:",
+    "concepts": [
+      "charge-to-size ratio",
+      "nature of the ligand",
+      "stability of a complex"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Stability of the coordination compounds:",
+    "concepts": [
+      "charge_to_size_ratio",
+      "nature_of_ligand",
+      "stability_constant_K"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Theories of bonding in complexes:",
+    "concepts": [
+      "coordination compound",
+      "valence bond theory",
+      "crystal field theory"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Theories of bonding in complexes:",
+    "concepts": [
+      "Valence Bond Theory",
+      "Hybridization",
+      "Complex Structure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_9_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Theories of bonding in complexes:",
+    "concepts": [
+      "octahedral structure",
+      "unpaired electrons",
+      "paramagnetic nature"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_9_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Theories of bonding in complexes:",
+    "concepts": [
+      "sp³ hybridization",
+      "paramagnetism",
+      "unpaired electrons"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_9_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Theories of bonding in complexes:",
+    "concepts": [
+      "dsp² hybridization",
+      "coordinate bonds",
+      "fully paired electron configuration",
+      "diamagnetic",
+      "same valence bond theory (VBT)",
+      "similar coordination geometry"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_9_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Theories of bonding in complexes:",
+    "concepts": [
+      "high spin",
+      "low spin",
+      "strong field ligands",
+      "weak field ligands",
+      "color of coordination compounds",
+      "crystal field theory",
+      "valence bond theory",
+      "electronic configuration",
+      "structural aspects",
+      "complexes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_9_006",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Theories of bonding in complexes:",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_9_007",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Theories of bonding in complexes:",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_9_008",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Theories of bonding in complexes:",
+    "concepts": [
+      "tetravalence rule",
+      "d-orbitals splitting",
+      "octahedral environment"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_10_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Coordination Compounds",
+    "section": "Applications coordination of compounds",
+    "concepts": [
+      "chlorophyll",
+      "hemoglobin",
+      "nitrate ions",
+      "potassium amminetrichloroplatinate",
+      "dicyanoaurate(I)",
+      "chromium(II)",
+      "octahedral complex"
+    ]
+  }
+]

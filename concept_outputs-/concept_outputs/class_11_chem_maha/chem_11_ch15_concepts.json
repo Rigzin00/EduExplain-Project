@@ -1,0 +1,559 @@
+[
+  {
+    "resource_id": "RCL_11_CH15_X_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": null,
+    "concepts": [
+      "hydrocarbons",
+      "unsaturated",
+      "saturated",
+      "cyclic",
+      "alkanes",
+      "paraffins"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkanes",
+    "concepts": [
+      "aliphatic structure",
+      "carbon-carbon bonds",
+      "carbon-hydrogen bonds",
+      "general formula C_nH_(2n+2)",
+      "covalent bonds"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_1_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkanes",
+    "concepts": [
+      "chain isomerism",
+      "molecular formula",
+      "carbon atom arrangement"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH15_S15_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkanes",
+    "concepts": [
+      "isomerism",
+      "number of possible structural isomers",
+      "increase in the number of carbon atoms"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkanes",
+    "concepts": [
+      "conformations",
+      "stereoisomerism",
+      "conformational isomerism"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_1_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkanes",
+    "concepts": [
+      "crude petroleum",
+      "natural gas",
+      "dead plants",
+      "buried underground",
+      "million years",
+      "high temperature and pressure",
+      "crude oil",
+      "fractional distillation",
+      "alkanes"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_1_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkanes",
+    "concepts": [
+      "hydrogenation",
+      "catalyst",
+      "chemical reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_1_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkanes",
+    "concepts": [
+      "nonpolar covalent bonds",
+      "van der Waals forces",
+      "melting and boiling points"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_1_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkanes",
+    "concepts": [
+      "insolubility_in_water",
+      "solubility_in_organic_solvents",
+      "aliphatic_hydrocarbon"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_1_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkanes",
+    "concepts": [
+      "halogenation",
+      "free radical mechanism",
+      "alkyl halides"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_1_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkanes",
+    "concepts": [
+      "poisonous substance",
+      "air pollution",
+      "pyrolysis",
+      "cracking",
+      "reforming",
+      "aromatization",
+      "gasoline"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_1_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkanes",
+    "concepts": [
+      "alkane",
+      "methyl benzene",
+      "reforming"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH15_S15_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkenes : Alkenes are unsaturated hydrocarbons containing at least one carbon-carbon double bond. Alkenes with one carbon-carbon double bond, contain two hydrogen atoms less than corresponding alkanes. They have general formula C_nH_{2n} where n=2,3,4... etc. You have also learnt about the IUPAC names of alkenes in Chapter 14.",
+    "concepts": [
+      "hydrocarbon",
+      "unsaturated hydrocarbon",
+      "carbon-carbon double bond",
+      "IUPAC names",
+      "chain isomerism",
+      "position isomerism",
+      "geometrical isomerism",
+      "cis-isomer",
+      "trans-isomer"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Preparation of alkenes",
+    "concepts": [
+      "alkene",
+      "dehydrohalogenation",
+      "Saytzeff rule"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Preparation of alkenes",
+    "concepts": [
+      "dehydration",
+      "alcohol",
+      "OH group",
+      "H atom",
+      "beta-elimination",
+      "ease of dehydration",
+      "order",
+      "H₃C-CH=CH₂"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_2_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Preparation of alkenes",
+    "concepts": [
+      "dehalogenation",
+      "vicinal dihalides",
+      "alkenes",
+      "partial reduction",
+      "Lindlar's catalyst",
+      "cis isomer",
+      "alkyne"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_2_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Preparation of alkenes",
+    "concepts": [
+      "π electrons",
+      "electrophilic addition reactions",
+      "dihydrogen"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_2_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Preparation of alkenes",
+    "concepts": [
+      "hydrogen bonding",
+      "alcohol dehydration synthesis",
+      "oxygen atom"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_2_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Preparation of alkenes",
+    "concepts": [
+      "alkene",
+      "diborane",
+      "trialkylborane",
+      "anti-Markovnikov's product"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_2_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Preparation of alkenes",
+    "concepts": [
+      "monomer",
+      "polymer",
+      "alkenes",
+      "glycol",
+      "hydroxylation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_2_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Preparation of alkenes",
+    "concepts": [
+      "alkyne",
+      "dehydrohalogenation",
+      "vicinal dihalides"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_2_006",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Preparation of alkenes",
+    "concepts": [
+      "hydrogen_acid_base_reaction",
+      "terminal_alkyne",
+      "metal_acetylide"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_2_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Preparation of alkenes",
+    "concepts": [
+      "alkynes",
+      "melting points",
+      "boiling points",
+      "intermolecular forces",
+      "molecular mass",
+      "carbon atoms"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_2_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Preparation of alkenes",
+    "concepts": [
+      "electronegativity",
+      "proton donation",
+      "lithium acetylides"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_2_007",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Preparation of alkenes",
+    "concepts": [
+      "acidic character",
+      "terminal alkynes",
+      "non-terminal alkynes",
+      "dihydrogen",
+      "tetrabromoethane",
+      "tetrahalokane"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Aromatic Hydrocarbons:",
+    "concepts": [
+      "aromatic compounds",
+      "hydrocarbons",
+      "benzene"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Aromatic Hydrocarbons:",
+    "concepts": [
+      "hydrocarbon",
+      "benzene",
+      "aromatic compound"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_4_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Aromatic Hydrocarbons:",
+    "concepts": [
+      "cyclic structure",
+      "Kekulé structure",
+      "resonance"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_4_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Aromatic Hydrocarbons:",
+    "concepts": [
+      "delocalization",
+      "π electrons",
+      "Hückel's rule",
+      "cyclic, planar structure",
+      "benzene",
+      "naphthalene",
+      "pyridine"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_4_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Aromatic Hydrocarbons:",
+    "concepts": [
+      "trimerization",
+      "benzene",
+      "decarboxylation",
+      "soda-lime"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_4_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Aromatic Hydrocarbons:",
+    "concepts": [
+      "addition reactions",
+      "substitution reactions",
+      "chlorination",
+      "nitration",
+      "electrophiles",
+      "chlorobenzene",
+      "bromobenzene",
+      "nitrobenzene",
+      "sulfonation",
+      "Friedel-Crafts alkylation",
+      "acylation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_4_006",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Aromatic Hydrocarbons:",
+    "concepts": [
+      "toxicity",
+      "carcinogenicity",
+      "metabolism",
+      "epoxy diols",
+      "DNA",
+      "mutations",
+      "cell growth",
+      "cancer"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH15_S15_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Hydrocarbons",
+    "section": "Aromatic Hydrocarbons:",
+    "concepts": [
+      "hydrocarbon",
+      "aromatic compound",
+      "carcinogenicity",
+      "toxicity",
+      "benzene",
+      "IUPAC name",
+      "Lewis structure",
+      "molecular orbital theory"
+    ]
+  }
+]

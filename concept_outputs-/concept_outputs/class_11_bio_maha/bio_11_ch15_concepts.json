@@ -1,0 +1,329 @@
+[
+  {
+    "resource_id": "TXT_11_CH15_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": null,
+    "concepts": [
+      "excretion",
+      "waste products",
+      "cellular function",
+      "fluid balance",
+      "osmolarity",
+      "homeostasis",
+      "blood"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": null,
+    "concepts": [
+      "metabolism",
+      "catabolic",
+      "anabolic",
+      "by-products",
+      "metabolic waste products"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Excretion and excretory products:",
+    "concepts": [
+      "metabolic waste products",
+      "fluids",
+      "carbon dioxide",
+      "ammonia",
+      "urea",
+      "uric acid",
+      "mineral salts",
+      "pigments",
+      "vitamins",
+      "hormones",
+      "drugs",
+      "volatile substances"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Excretion and excretory products:",
+    "concepts": [
+      "deamination",
+      "ammonia formation",
+      "urea conversion",
+      "uric acid excretion",
+      "excretion mechanism",
+      "nitrogenous waste classification"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_1_002",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Excretion and excretory products:",
+    "concepts": [
+      "ammonotelism",
+      "ureotelism",
+      "excretory products"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_1_003",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Excretion and excretory products:",
+    "concepts": [
+      "guanotelism",
+      "excretion",
+      "ammonia"
+    ]
+  },
+  {
+    "resource_id": "ACT_11_CH15_S15_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Excretion and excretory products:",
+    "concepts": [
+      "uric acid",
+      "purines",
+      "catabolism",
+      "pulmonary ventilation",
+      "osmotic pressure"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_1_004",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Excretion and excretory products:",
+    "concepts": [
+      "salt balance",
+      "excretory products",
+      "endocrine system"
+    ]
+  },
+  {
+    "resource_id": "ACT_11_CH15_S15_1_002",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Excretion and excretory products:",
+    "concepts": [
+      "osmoregulation",
+      "conformers",
+      "regulators",
+      "creatinine",
+      "kidney function",
+      "blood",
+      "waste products"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Excretory system in human being:",
+    "concepts": [
+      "kidney",
+      "renal artery",
+      "ureter"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH15_S15_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Excretory system in human being:",
+    "concepts": [
+      "micturition reflex center",
+      "spinal cord",
+      "bladder muscles",
+      "internal urethral sphincter",
+      "external sphincter",
+      "kidney",
+      "renal capsule",
+      "adipose capsule"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH15_S15_2_002",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Excretory system in human being:",
+    "concepts": [
+      "nephron",
+      "glomerulus",
+      "malpighian body"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Urine formation:",
+    "concepts": [
+      "glomerular filtration",
+      "selective reabsorption",
+      "proximal convoluted tubule"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_4_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Concentration of urine:",
+    "concepts": [
+      "concentration of urine",
+      "countercurrent multiplier mechanism",
+      "renal medulla"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_5_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Composition of Urine:",
+    "concepts": [
+      "urine color determination",
+      "urochrome",
+      "diet and fluid intake influence",
+      "body regulation mechanism",
+      "antidiuretic hormone (ADH)",
+      "posterior pituitary gland",
+      "blood osmolarity",
+      "renin-angiotensin-aldosterone system (RAAS)",
+      "blood pressure and volume"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_5_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Composition of Urine:",
+    "concepts": [
+      "composition of urine",
+      "ADH",
+      "RAAS",
+      "atrial natriuretic peptide (ANP)",
+      "natriuresis",
+      "diuresis"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH15_S15_7_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Disorders and diseases:",
+    "concepts": [
+      "albuminuria",
+      "ketones",
+      "leukocytes",
+      "kidney stones",
+      "uremia"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH15_S15_7_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Disorders and diseases:",
+    "concepts": [
+      "immunosuppressant",
+      "transplantation",
+      "disorder"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH15_S15_7_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 15,
+    "chapter_title": "Excretion And Osmoregulation",
+    "section": "Disorders and diseases:",
+    "concepts": [
+      "nitrogenous_waste_production",
+      "metabolism_of_nucleic_acids",
+      "minor_calyx",
+      "glomerulus",
+      "specific_gravity_increase_with_ADH"
+    ]
+  }
+]

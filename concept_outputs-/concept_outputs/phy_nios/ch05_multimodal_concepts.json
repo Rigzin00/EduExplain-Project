@@ -1,0 +1,350 @@
+[
+  {
+    "resource_id": "TXT_12_CH05_X_001",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": null,
+    "concepts": [
+      "gravitational force",
+      "acceleration due to gravity",
+      "Kepler's laws"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_X_002",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "chemical energy",
+      "carbon dioxide",
+      "oxygen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_1_001",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "LAW OF GRAVITATION",
+    "concepts": [
+      "gravitational force",
+      "proportionality",
+      "inverse square law"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH05_S5_1_001",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "LAW OF GRAVITATION",
+    "concepts": [
+      "gravitational force",
+      "inverse-square law",
+      "Kepler's third law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_2_001",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "ACCELERATION DUE TO GRAVITY",
+    "concepts": [
+      "force",
+      "acceleration",
+      "gravitational force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_001",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "VARIATION IN THE VALUE OF G",
+    "concepts": [
+      "gravitational acceleration",
+      "Earth's radius",
+      "altitude",
+      "gravitational force",
+      "significant effect",
+      "comparable"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH05_S5_3_001",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "VARIATION IN THE VALUE OF G",
+    "concepts": [
+      "gravitational acceleration",
+      "altitude",
+      "radius of the Earth"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_002",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "VARIATION IN THE VALUE OF G",
+    "concepts": [
+      "gravitational field",
+      "acceleration due to gravity",
+      "mass distribution",
+      "radius reduction",
+      "effective radius",
+      "decrease in gravitational field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_003",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "VARIATION IN THE VALUE OF G",
+    "concepts": [
+      "gravitational acceleration",
+      "centrifugal effect",
+      "gravitational pull"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH05_S5_3_002",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "VARIATION IN THE VALUE OF G",
+    "concepts": [
+      "gravitational acceleration",
+      "universal law of gravitation",
+      "physics problem"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH05_S5_3_003",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "VARIATION IN THE VALUE OF G",
+    "concepts": [
+      "gravitational acceleration",
+      "latitude",
+      "Earth's rotational effects"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_4_001",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "WEIGHT AND MASS",
+    "concepts": [
+      "weight",
+      "mass",
+      "gravitational force",
+      "location-dependent variations",
+      "acceleration due to gravity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_4_002",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "WEIGHT AND MASS",
+    "concepts": [
+      "gravitational potential energy",
+      "potential energy",
+      "conservative force field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_5_001",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "KEPLER'S LAWS OF PLANETARY MOTION",
+    "concepts": [
+      "Kepler's Laws of Planetary Motion",
+      "Elliptical Orbits",
+      "Sun at One Focus",
+      "Square of Orbital Period Proportional to Cube of Mean Distance",
+      "Heliocentric Model",
+      "Galileo's Support",
+      "Tycho Brahe's Observational Data"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH05_S5_5_001",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "KEPLER'S LAWS OF PLANETARY MOTION",
+    "concepts": [
+      "Kepler's third law",
+      "orbital period",
+      "semi-major axis"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH05_S5_5_002",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "KEPLER'S LAWS OF PLANETARY MOTION",
+    "concepts": [
+      "orbital mechanics",
+      "Kepler's third law",
+      "geosynchronous satellite"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_5_002",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "KEPLER'S LAWS OF PLANETARY MOTION",
+    "concepts": [
+      "gravitational force",
+      "centripetal force",
+      "Kepler's laws"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_6_001",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "ESCAPE VELOCITY",
+    "concepts": [
+      "escape velocity",
+      "gravitational constant",
+      "mass of the Earth"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_7_001",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "ARTIFICIAL SATELLITES",
+    "concepts": [
+      "Kepler's laws of planetary motion",
+      "orbital mechanics",
+      "gravitational potential energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_7_002",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "ARTIFICIAL SATELLITES",
+    "concepts": [
+      "launch vehicle",
+      "satellite",
+      "communication",
+      "meteorology",
+      "scientific research"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_7_003",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "ARTIFICIAL SATELLITES",
+    "concepts": [
+      "gravitational force",
+      "Newton's law of universal gravitation",
+      "gravitational constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_7_004",
+    "document_id": "NIOS_PHY_CH05",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "ARTIFICIAL SATELLITES",
+    "concepts": [
+      "gravitational force",
+      "centripetal acceleration",
+      "angular momentum"
+    ]
+  }
+]

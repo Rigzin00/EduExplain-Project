@@ -1,0 +1,631 @@
+[
+  {
+    "resource_id": "TXT_12_CH11_X_001",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": null,
+    "concepts": [
+      "chemical equilibrium",
+      "forward and reverse reactions",
+      "equilibrium constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_X_002",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": null,
+    "concepts": [
+      "chemical dynamics",
+      "rates of chemical reactions",
+      "reactant-to-product movement"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_1_001",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "STATIC AND DYNAMIC EQUILIBRIUM",
+    "concepts": [
+      "static equilibrium",
+      "dynamic equilibrium",
+      "book on a table"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_2_001",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "REVERSIBLE AND IRREVERSIBLE REACTIONS",
+    "concepts": [
+      "reversibility",
+      "irreversibility",
+      "products",
+      "reactants"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_2_002",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "REVERSIBLE AND IRREVERSIBLE REACTIONS",
+    "concepts": [
+      "reversible reaction",
+      "equilibrium",
+      "dynamic balance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_2_003",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "REVERSIBLE AND IRREVERSIBLE REACTIONS",
+    "concepts": [
+      "irreversible reactions",
+      "chemical equilibrium",
+      "neutralization reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_3_001",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "CHARACTERISTICS OF EQUILIBRIUM STATE",
+    "concepts": [
+      "chemical equilibrium",
+      "dynamic state",
+      "forward and reverse reactions",
+      "equilibrium constant",
+      "closed system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_4_001",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "EQUILIBRIUM IN PHYSICAL PROCESSES; PHASE EQUILIBRIUM",
+    "concepts": [
+      "equilibrium",
+      "opposing forces",
+      "net change",
+      "stability"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_4_002",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "EQUILIBRIUM IN PHYSICAL PROCESSES; PHASE EQUILIBRIUM",
+    "concepts": [
+      "vapor pressure",
+      "evaporation",
+      "condensation",
+      "equilibrium",
+      "saturated vapor pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_4_003",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "EQUILIBRIUM IN PHYSICAL PROCESSES; PHASE EQUILIBRIUM",
+    "concepts": [
+      "sublimation",
+      "equilibrium",
+      "vaporization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_4_004",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "EQUILIBRIUM IN PHYSICAL PROCESSES; PHASE EQUILIBRIUM",
+    "concepts": [
+      "solid-liquid equilibrium",
+      "melting point",
+      "freezing point"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_4_005",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "EQUILIBRIUM IN PHYSICAL PROCESSES; PHASE EQUILIBRIUM",
+    "concepts": [
+      "solute-solution equilibria",
+      "dynamic equilibrium",
+      "solubility equilibrium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_4_006",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "EQUILIBRIUM IN PHYSICAL PROCESSES; PHASE EQUILIBRIUM",
+    "concepts": [
+      "phase",
+      "homogeneous",
+      "composition",
+      "properties",
+      "equilibrium",
+      "dynamic exchange",
+      "common component"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_5_001",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "EQUILIBRIUM IN HOMOGENEOUS AND HETEROGENEOUS SYSTEMS",
+    "concepts": [
+      "homogeneous system",
+      "heterogeneous system",
+      "phase"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_5_002",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "EQUILIBRIUM IN HOMOGENEOUS AND HETEROGENEOUS SYSTEMS",
+    "concepts": [
+      "equilibrium",
+      "phase",
+      "homogeneous",
+      "heterogeneous"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_5_003",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "EQUILIBRIUM IN HOMOGENEOUS AND HETEROGENEOUS SYSTEMS",
+    "concepts": [
+      "homogeneous chemical equilibrium system",
+      "gas-phase homogeneous system",
+      "liquid-phase homogeneous system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_5_004",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "EQUILIBRIUM IN HOMOGENEOUS AND HETEROGENEOUS SYSTEMS",
+    "concepts": [
+      "heterogeneous reaction",
+      "iron reacting with water",
+      "magnetite formation",
+      "hydrogen production",
+      "limestone decomposition",
+      "lime formation",
+      "carbon dioxide emission"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_6_001",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "LAW OF MASS ACTION",
+    "concepts": [
+      "equilibrium constant",
+      "law of mass action",
+      "rate constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_7_001",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "QUANTITATIVE ASPECT OF EQUILIBRIUM STATE",
+    "concepts": [
+      "concentration equilibrium constant",
+      "equilibrium constant expression",
+      "reversible reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_7_002",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "QUANTITATIVE ASPECT OF EQUILIBRIUM STATE",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_7_003",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "QUANTITATIVE ASPECT OF EQUILIBRIUM STATE",
+    "concepts": [
+      "equilibrium constant",
+      "partial pressures",
+      "molar concentrations"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_7_004",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "QUANTITATIVE ASPECT OF EQUILIBRIUM STATE",
+    "concepts": [
+      "equilibrium constant",
+      "expressions of equilibrium constant",
+      "reaction quotient"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_8_001",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "HOMOGENEOUS EQUILIBRIA",
+    "concepts": [
+      "equilibrium constant",
+      "reaction quotient",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_8_002",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "HOMOGENEOUS EQUILIBRIA",
+    "concepts": [
+      "equilibrium constant",
+      "concentration of pure solids",
+      "partial pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_9_001",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "CHARACTERISTICS OF EQUILIBRIUM CONSTANT",
+    "concepts": [
+      "equilibrium constant",
+      "chemical equation",
+      "reaction quotient"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_9_002",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "CHARACTERISTICS OF EQUILIBRIUM CONSTANT",
+    "concepts": [
+      "units of equilibrium constant",
+      "change in moles of gas",
+      "equilibrium constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_9_003",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "CHARACTERISTICS OF EQUILIBRIUM CONSTANT",
+    "concepts": [
+      "equilibrium constant",
+      "magnitude of K",
+      "products favored"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_9_004",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "CHARACTERISTICS OF EQUILIBRIUM CONSTANT",
+    "concepts": [
+      "equilibrium constant",
+      "reaction direction",
+      "reaction completeness"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH11_S11_9_001",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "CHARACTERISTICS OF EQUILIBRIUM CONSTANT",
+    "concepts": [
+      "equilibrium constant",
+      "concentrations of reactants and products",
+      "determination of Kc"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH11_S11_9_002",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "CHARACTERISTICS OF EQUILIBRIUM CONSTANT",
+    "concepts": [
+      "equilibrium constant",
+      "calculation",
+      "reaction system"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH11_S11_9_003",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "CHARACTERISTICS OF EQUILIBRIUM CONSTANT",
+    "concepts": [
+      "equilibrium constant",
+      "dissociation",
+      "concentration"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH11_S11_9_004",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "CHARACTERISTICS OF EQUILIBRIUM CONSTANT",
+    "concepts": [
+      "equilibrium constant",
+      "partial pressures",
+      "conversion factor"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH11_S11_9_005",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "CHARACTERISTICS OF EQUILIBRIUM CONSTANT",
+    "concepts": [
+      "equilibrium constant",
+      "reaction stoichiometry",
+      "extent of reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_10_001",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "FACTORS AFFECTING EQUILIBRIUM STATE",
+    "concepts": [
+      "equilibrium",
+      "dynamic balance",
+      "Le Chatelier's principle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_10_002",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "FACTORS AFFECTING EQUILIBRIUM STATE",
+    "concepts": [
+      "Le Chatelier's Principle",
+      "equilibrium state",
+      "perturbation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_10_003",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "FACTORS AFFECTING EQUILIBRIUM STATE",
+    "concepts": [
+      "equilibrium",
+      "concentration",
+      "reactants",
+      "products"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_10_004",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "FACTORS AFFECTING EQUILIBRIUM STATE",
+    "concepts": [
+      "equilibrium state",
+      "pressure effect on equilibrium",
+      "reactant shift"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_10_005",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "FACTORS AFFECTING EQUILIBRIUM STATE",
+    "concepts": [
+      "equilibrium shift",
+      "exothermic reactions",
+      "endothermic reactions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_10_006",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "FACTORS AFFECTING EQUILIBRIUM STATE",
+    "concepts": [
+      "endothermic",
+      "vaporization",
+      "melting ice",
+      "forward reaction",
+      "Le Chatelier's Principle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_10_007",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "FACTORS AFFECTING EQUILIBRIUM STATE",
+    "concepts": [
+      "equilibrium constant",
+      "Le Chatelier's Principle",
+      "stoichiometry"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_10_008",
+    "document_id": "NIOS_CHEM_CH11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "FACTORS AFFECTING EQUILIBRIUM STATE",
+    "concepts": [
+      "reversible reaction",
+      "Le Chatelier's Principle",
+      "equilibrium state"
+    ]
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "resource_id": "TXT_11_CH12_S12_1_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Magnetism",
+    "section": "Introduction:",
+    "concepts": [
+      "magnetic fields",
+      "dipoles",
+      "electromagnetic induction"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH12_S12_1_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Magnetism",
+    "section": "Introduction:",
+    "concepts": [
+      "magnetism",
+      "elementary aspects",
+      "terrestrial magnetism"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Magnetism",
+    "section": "Magnetic Lines of Force and Magnetic Field:",
+    "concepts": [
+      "magnetic lines of force",
+      "north pole",
+      "south pole",
+      "bar magnet",
+      "density",
+      "magnetic field",
+      "webers",
+      "magnetic flux",
+      "magnetic field strength",
+      "electromagnetic induction"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Magnetism",
+    "section": "The Bar magnet:",
+    "concepts": [
+      "magnetic dipole",
+      "magnetic dipole moment",
+      "magnetic length"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_3_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Magnetism",
+    "section": "The Bar magnet:",
+    "concepts": [
+      "magnetic field",
+      "equatorial line",
+      "magnetic dipole moment"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_3_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Magnetism",
+    "section": "The Bar magnet:",
+    "concepts": [
+      "magnetic field",
+      "axial point",
+      "equatorial point",
+      "magnetic moment",
+      "components",
+      "total magnetic field",
+      "angle"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_4_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Magnetism",
+    "section": "Gauss' Law of Magnetism:",
+    "concepts": [
+      "net magnetic flux through any closed surface is zero",
+      "magnetic monopoles do not exist",
+      "net electric flux through a closed surface is proportional to the enclosed electric charge"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Magnetism",
+    "section": "Earth's Magnetism:",
+    "concepts": [
+      "magnetic declination",
+      "angle of dip",
+      "magnetic meridians"
+    ]
+  }
+]

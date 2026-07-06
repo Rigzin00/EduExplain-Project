@@ -1,0 +1,305 @@
+[
+  {
+    "resource_id": "TXT_12_CH13_X_001",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": null,
+    "concepts": [
+      "periodic motion",
+      "restoring force",
+      "displacement"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_X_002",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "glucose"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_1_001",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "PERIODIC MOTION",
+    "concepts": [
+      "periodic motion",
+      "oscillatory motion",
+      "partial differential equations"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_1_002",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "PERIODIC MOTION",
+    "concepts": [
+      "periodic motion",
+      "displacement as a function of time",
+      "oscillations",
+      "waves"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_2_001",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "SIMPLE HARMONIC MOTION: CIRCLE OF REFERENCE",
+    "concepts": [
+      "simple harmonic motion",
+      "equilibrium position",
+      "displacement"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_2_002",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "SIMPLE HARMONIC MOTION: CIRCLE OF REFERENCE",
+    "concepts": [
+      "displacement",
+      "amplitude",
+      "time period",
+      "frequency",
+      "phase",
+      "angular frequency"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH13_S13_2_001",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "SIMPLE HARMONIC MOTION: CIRCLE OF REFERENCE",
+    "concepts": [
+      "simple harmonic motion",
+      "period",
+      "mass",
+      "spring"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH13_S13_2_002",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "SIMPLE HARMONIC MOTION: CIRCLE OF REFERENCE",
+    "concepts": [
+      "simple harmonic motion",
+      "frequency",
+      "maximum acceleration",
+      "maximum speed"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_3_001",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "EXAMPLES OF SHM",
+    "concepts": [
+      "simple harmonic motion",
+      "displacement",
+      "equilibrium position",
+      "restoring force",
+      "periodic nature",
+      "amplitude",
+      "frequency"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_3_002",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "EXAMPLES OF SHM",
+    "concepts": [
+      "simple harmonic motion",
+      "restoring force",
+      "equation F = -kx",
+      "period T = 2π√(m/k)",
+      "angular momentum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_3_003",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "EXAMPLES OF SHM",
+    "concepts": [
+      "angular frequency",
+      "spring-mass system",
+      "simple harmonic motion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_3_004",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "EXAMPLES OF SHM",
+    "concepts": [
+      "simple harmonic motion",
+      "restoring force",
+      "period"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH13_S13_3_001",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "EXAMPLES OF SHM",
+    "concepts": [
+      "angular frequency",
+      "forces acting on masses",
+      "reduced mass"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_4_001",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "ENERGY OF SIMPLE HARMONIC OSCILLATOR",
+    "concepts": [
+      "simple harmonic motion",
+      "equation",
+      "velocity",
+      "kinetic energy",
+      "potential energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_5_001",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "DAMPED HARMONIC OSCILLATIONS",
+    "concepts": [
+      "damping",
+      "amplitude",
+      "energy loss"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_6_001",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "FREE AND FORCED VIBRATIONS: RESONANCE",
+    "concepts": [
+      "oscillation",
+      "equilibrium position",
+      "periodic movement",
+      "forced oscillation",
+      "external force",
+      "resonance",
+      "natural frequency"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_6_002",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "FREE AND FORCED VIBRATIONS: RESONANCE",
+    "concepts": [
+      "angular frequency",
+      "amplitude",
+      "initial phase angle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_6_003",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "FREE AND FORCED VIBRATIONS: RESONANCE",
+    "concepts": [
+      "periodic motion",
+      "oscillatory motion",
+      "resonance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_6_004",
+    "document_id": "NIOS_PHY_CH13",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Simple Harmonic Motion",
+    "section": "FREE AND FORCED VIBRATIONS: RESONANCE",
+    "concepts": [
+      "magnitude",
+      "direction",
+      "resultant vector"
+    ]
+  }
+]

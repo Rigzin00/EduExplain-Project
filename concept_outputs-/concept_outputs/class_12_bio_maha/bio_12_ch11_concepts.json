@@ -1,0 +1,469 @@
+[
+  {
+    "resource_id": "TXT_12_CH11_X_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "crop yields"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Improvement In Food Production:",
+    "concepts": [
+      "photosynthesis",
+      "breeding",
+      "population increase"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Plant breeding:",
+    "concepts": [
+      "plant breeding",
+      "genetics",
+      "physiology",
+      "traits",
+      "yield",
+      "quality",
+      "pests",
+      "diseases",
+      "Green Revolution"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH11_S11_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Plant breeding:",
+    "concepts": [
+      "plant breeding",
+      "Introduction",
+      "Selection",
+      "Hybridization",
+      "Mutation breeding",
+      "Polyploidy breeding",
+      "Molecular plant breeding",
+      "Tissue culture"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH11_S11_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Plant breeding:",
+    "concepts": [
+      "hybridization",
+      "germplasm collection",
+      "evaluation and selection of parents"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Tissue culture:",
+    "concepts": [
+      "totipotency",
+      "MS medium",
+      "callus culture",
+      "suspension culture"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH11_S11_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Tissue culture:",
+    "concepts": [
+      "high-yielding",
+      "varieties",
+      "banana"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Single cell protein (SCP):",
+    "concepts": [
+      "single-cell protein",
+      "microorganisms",
+      "substrate conversion",
+      "high-quality proteins",
+      "human diet",
+      "animal diet",
+      "essential nutrients"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Biofortification",
+    "concepts": [
+      "vitamins",
+      "minerals",
+      "fats",
+      "biofortification",
+      "crop nutrition",
+      "selective breeding",
+      "genetic engineering"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Animal husbandry:",
+    "concepts": [
+      "milk production",
+      "egg production",
+      "meat production"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH11_S11_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Animal husbandry:",
+    "concepts": [
+      "common breeds of cattle and poultry",
+      "breeding",
+      "inbreeding",
+      "outbreeding",
+      "outcrossing",
+      "crossbreeding",
+      "interspecific hybridization",
+      "artificial insemination"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH11_S11_6_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Animal husbandry:",
+    "concepts": [
+      "breed selection",
+      "farm management",
+      "poultry diseases"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH11_S11_6_003",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Animal husbandry:",
+    "concepts": [
+      "Apis dorsata",
+      "Apis florea",
+      "Apis mellifera",
+      "Apis indica",
+      "domesticated species",
+      "polymorphism in honey bee",
+      "bee keeping",
+      "bees",
+      "honey",
+      "pollination",
+      "sunflower",
+      "mustard",
+      "safflower",
+      "chilly",
+      "cabbage",
+      "cucumber",
+      "legumes",
+      "fruits",
+      "apple",
+      "mango",
+      "citrus"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH11_S11_6_004",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Animal husbandry:",
+    "concepts": [
+      "estuary",
+      "ponds",
+      "hatchery tank",
+      "nursery tank",
+      "rearing tank",
+      "stocking tank",
+      "water source",
+      "manure",
+      "supplementary feed",
+      "fish spoilage",
+      "preservation methods",
+      "chilling",
+      "freezing",
+      "freeze-drying",
+      "sun-drying",
+      "smoke-drying",
+      "salting",
+      "canning",
+      "by-products",
+      "fish oil",
+      "fish meal",
+      "fertilizers",
+      "fish guano",
+      "fish glue",
+      "isinglass",
+      "sericulture",
+      "silkworm",
+      "production of silk"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH11_S11_6_005",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Animal husbandry:",
+    "concepts": [
+      "lac culture",
+      "Trachardia lacca",
+      "Dermal glands",
+      "pink coloured resin",
+      "natural lac contamination",
+      "shellac production",
+      "artificial inoculation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Microbes in human welfare:",
+    "concepts": [
+      "fermentation",
+      "carbon dioxide",
+      "dough"
+    ]
+  },
+  {
+    "resource_id": "ACT_12_CH11_S11_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Microbes in human welfare:",
+    "concepts": [
+      "microbes",
+      "single-cell proteins (SCP)",
+      "fermentation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_8_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Role of Microbes in Industrial Production:",
+    "concepts": [
+      "fermentation",
+      "microorganisms",
+      "Saccharomyces cerevisiae",
+      "Aspergillus niger",
+      "citric acid",
+      "vitamins",
+      "Neurospora gossypii",
+      "Eremothecium ashbyi",
+      "antibiotics",
+      "secondary metabolites"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH11_S11_8_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Role of Microbes in Industrial Production:",
+    "concepts": [
+      "antibiotics",
+      "viruses",
+      "microbes"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH11_S11_8_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Role of Microbes in Industrial Production:",
+    "concepts": [
+      "metabolic reactions",
+      "enzymes",
+      "biocatalysts",
+      "microbes",
+      "commercially",
+      "enzyme production",
+      "industrial sectors"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_9_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Microbes in Sewage Treatment:",
+    "concepts": [
+      "sewage",
+      "screening",
+      "grit chamber",
+      "primary treatment",
+      "sedimentation",
+      "secondary treatment",
+      "aeration",
+      "biochemical oxygen demand",
+      "tertiary treatment",
+      "anaerobic digestion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Microbes in Energy Generation:",
+    "concepts": [
+      "hydrolysis",
+      "acidogenesis",
+      "methanogenesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_11_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Role of Microbes as Biocontrol Agents:",
+    "concepts": [
+      "microbes",
+      "biocontrol agents",
+      "biological enemies"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_12_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Role of Microbes as Biofertilizers:",
+    "concepts": [
+      "nitrogen-fixing bacteria",
+      "phosphate-solubilizing bacteria",
+      "mycorrhizal fungi"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH11_S11_12_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Improvement In Food Production:",
+    "section": "Role of Microbes as Biofertilizers:",
+    "concepts": [
+      "biofertilizer microorganisms",
+      "benefits of Biofertilizers",
+      "local name",
+      "scientific name",
+      "fermenter"
+    ]
+  }
+]

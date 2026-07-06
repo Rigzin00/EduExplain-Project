@@ -1,0 +1,290 @@
+[
+  {
+    "resource_id": "TXT_12_CH24_X_001",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": null,
+    "concepts": [
+      "gene cloning",
+      "recombinant DNA",
+      "DNA fingerprinting",
+      "genetically modified organisms",
+      "biopiracy",
+      "biosafety",
+      "biopatents"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_1_001",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "GENETICS THROUGH AGES",
+    "concepts": [
+      "genetics",
+      "epigenesis",
+      "pangenesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_2_001",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "GENE CLONING AND GENE BANK",
+    "concepts": [
+      "cloning",
+      "gene cloning",
+      "recombinant DNA technology",
+      "gene bank"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_4_001",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "IMPORTANCE OF GENETIC ENGINEERING",
+    "concepts": [
+      "genetic engineering",
+      "transfer specific genes",
+      "organism-to-another",
+      "human insulin",
+      "bacteria",
+      "crops resistant to pests",
+      "practical applications",
+      "medicine",
+      "agriculture"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_5_001",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "TRANSGENIC MICROBES, PLANTS AND ANIMALS",
+    "concepts": [
+      "genetic modification",
+      "foreign genes",
+      "recombinant DNA technology"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_5_002",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "TRANSGENIC MICROBES, PLANTS AND ANIMALS",
+    "concepts": [
+      "genetic modification",
+      "plasmid",
+      "transgenic bacteria",
+      "insulin production",
+      "human growth hormone extraction",
+      "environmental cleanup",
+      "pollutant decomposition"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_5_003",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "TRANSGENIC MICROBES, PLANTS AND ANIMALS",
+    "concepts": [
+      "genetic modification",
+      "transgenic plants",
+      "pesticide use"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_5_004",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "TRANSGENIC MICROBES, PLANTS AND ANIMALS",
+    "concepts": [
+      "transgenic animals",
+      "blood-clotting protein",
+      "hemophilia"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_5_005",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "TRANSGENIC MICROBES, PLANTS AND ANIMALS",
+    "concepts": [
+      "genetic modification",
+      "pest resistance",
+      "growth enhancement",
+      "biosafety protocol",
+      "Department of Biotechnology"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_5_006",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "TRANSGENIC MICROBES, PLANTS AND ANIMALS",
+    "concepts": [
+      "biopiracy",
+      "medicinal plants",
+      "traditional knowledge",
+      "genetic resources",
+      "patenting",
+      "commercialization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_5_007",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "TRANSGENIC MICROBES, PLANTS AND ANIMALS",
+    "concepts": [
+      "patents",
+      "biotechnology",
+      "genetic modification"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_6_001",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "POLYMERASE CHAIN REACTION",
+    "concepts": [
+      "polymerase chain reaction",
+      "DNA replication",
+      "primers",
+      "Taq polymerase"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_7_001",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "DNA FINGER PRINTING",
+    "concepts": [
+      "specific repeated sequences",
+      "DNA profiling",
+      "crime scene investigation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_8_001",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "GENOMICS",
+    "concepts": [
+      "haploid set of chromosomes",
+      "genes",
+      "genetic disorders",
+      "gene therapy",
+      "chromosomes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_9_001",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "GENETIC COUNSELLING",
+    "concepts": [
+      "heterozygous condition",
+      "dominant and recessive genes",
+      "recessive gene expression",
+      "genetic counseling",
+      "pedigree chart",
+      "genetic disorder",
+      "risk assessment"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_9_002",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "GENETIC COUNSELLING",
+    "concepts": [
+      "DNA",
+      "genes",
+      "meiosis",
+      "fertilization",
+      "genetic diversity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_9_003",
+    "document_id": "NIOS_BIO_CH24",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Genetics And Society",
+    "section": "GENETIC COUNSELLING",
+    "concepts": [
+      "genetic inheritance",
+      "traits",
+      "offspring",
+      "ethical considerations",
+      "genetic testing",
+      "environmental factors",
+      "health outcomes"
+    ]
+  }
+]

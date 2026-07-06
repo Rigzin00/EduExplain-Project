@@ -1,0 +1,245 @@
+[
+  {
+    "resource_id": "TXT_11_CH11_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Study Of Animal Type - Cockroach",
+    "section": null,
+    "concepts": [
+      "exoskeleton",
+      "respiratory system",
+      "digestive process"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Study Of Animal Type - Cockroach",
+    "section": "Habit and habitat:",
+    "concepts": [
+      "omnivorous",
+      "night activity",
+      "swift movement"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Study Of Animal Type - Cockroach",
+    "section": "Systematic Position:",
+    "concepts": [
+      "cell walls",
+      "heterotrophy",
+      "arthropod",
+      "chitin",
+      "exoskeleton",
+      "jointed appendages",
+      "segmented body",
+      "two pairs of wings",
+      "three pairs of walking legs",
+      "Periplaneta americana"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Study Of Animal Type - Cockroach",
+    "section": "External morphology:",
+    "concepts": [
+      "elongated",
+      "bilaterally symmetrical",
+      "dorso-ventrally flattened",
+      "three regions",
+      "head",
+      "thorax",
+      "abdomen",
+      "compound eyes",
+      "mouthparts",
+      "chewing",
+      "fused segments",
+      "antennae",
+      "legs",
+      "wings",
+      "reproductive structures",
+      "exoskeleton",
+      "chitin",
+      "protection",
+      "attachment points"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_5_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Study Of Animal Type - Cockroach",
+    "section": "Digestive system of cockroach:",
+    "concepts": [
+      "mouthparts",
+      "alimentary canal",
+      "foregut",
+      "midgut",
+      "hindgut",
+      "salivary glands",
+      "pharynx",
+      "esophagus",
+      "crop",
+      "gizzard",
+      "chitinous teeth",
+      "bristles",
+      "stomach",
+      "hepatic caeca",
+      "secreted enzymes"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_6_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Study Of Animal Type - Cockroach",
+    "section": "Circulatory system or blood vascular system:",
+    "concepts": [
+      "circulatory system",
+      "haemolymph",
+      "dorsal blood vessel"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH11_S11_6_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Study Of Animal Type - Cockroach",
+    "section": "Circulatory system or blood vascular system:",
+    "concepts": [
+      "body cavity",
+      "haemocoel",
+      "sinuses",
+      "diaphragms",
+      "alary muscles",
+      "ventral diaphragm",
+      "pericardial sinus",
+      "perivisceral sinus",
+      "perineural sinus"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_7_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Study Of Animal Type - Cockroach",
+    "section": "Respiratory system or tracheal system:",
+    "concepts": [
+      "trachea",
+      "spiracle",
+      "tracheole"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_8_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Study Of Animal Type - Cockroach",
+    "section": "Excretory System:",
+    "concepts": [
+      "excretory system",
+      "malpighian tubules",
+      "hindgut",
+      "uric acid",
+      "ileum"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_9_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Study Of Animal Type - Cockroach",
+    "section": "Nervous system:",
+    "concepts": [
+      "nervous system",
+      "ganglia",
+      "autonomous nervous system"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_10_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Study Of Animal Type - Cockroach",
+    "section": "Reproduction system:",
+    "concepts": [
+      "dioecious",
+      "reproductive system",
+      "copulation",
+      "fertilization",
+      "ovaries",
+      "ovotestis",
+      "ovum",
+      "egg"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_11_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Study Of Animal Type - Cockroach",
+    "section": "Interactions with mankind:",
+    "concepts": [
+      "sanitation",
+      "cockroach population control",
+      "chemical controls"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH11_S11_11_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Study Of Animal Type - Cockroach",
+    "section": "Interactions with mankind:",
+    "concepts": [
+      "bioindicators",
+      "unhygienic conditions",
+      "techniques for rearing cockroaches"
+    ]
+  }
+]

@@ -1,0 +1,551 @@
+[
+  {
+    "resource_id": "TXT_12_CH26_X_001",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": null,
+    "concepts": [
+      "conservation",
+      "over-exploitation",
+      "sustainable practices"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_X_002",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts",
+      "plant cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_1_001",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "NATURAL RESOURCES",
+    "concepts": [
+      "natural resources",
+      "soil",
+      "air",
+      "water",
+      "minerals",
+      "sunlight",
+      "biogas",
+      "plastics",
+      "petroleum",
+      "construction",
+      "energy production"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_1_002",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "NATURAL RESOURCES",
+    "concepts": [
+      "inexhaustible resources",
+      "exhaustible resources",
+      "renewable resources",
+      "non-renewable resources"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_2_001",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "CONSERVATION OF NATURAL RESOURCES",
+    "concepts": [
+      "conservation",
+      "population growth",
+      "industrialization",
+      "ecological balance",
+      "resource management"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_2_002",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "CONSERVATION OF NATURAL RESOURCES",
+    "concepts": [
+      "conservation",
+      "natural resources",
+      "ecosystems",
+      "vital services",
+      "purifying water",
+      "producing oxygen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_2_003",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "CONSERVATION OF NATURAL RESOURCES",
+    "concepts": [
+      "dedication of sacred groves and forests",
+      "prohibiting activities like cutting trees and hunting",
+      "declaring water bodies as sacred",
+      "Chipko movement",
+      "physically protecting trees",
+      "vital water catchment areas"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_001",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "SOIL",
+    "concepts": [
+      "soil composition",
+      "humus formation",
+      "microscopic life"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_002",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "SOIL",
+    "concepts": [
+      "erosion",
+      "soil erosion",
+      "nutrient loss"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_003",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "SOIL",
+    "concepts": [
+      "wind erosion",
+      "water erosion",
+      "deforestation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_004",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "SOIL",
+    "concepts": [
+      "soil conservation",
+      "prevent soil erosion",
+      "enhance soil fertility",
+      "specific techniques",
+      "maintain soil health",
+      "sustainable agricultural practices"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_4_001",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "WATER – A PRECIOUS RESOURCE",
+    "concepts": [
+      "crucial",
+      "regulating climate",
+      "supporting ecosystems",
+      "marine and terrestrial environments",
+      "fresh water",
+      "saltwater",
+      "hydrological cycle",
+      "population growth",
+      "industrial expansion",
+      "environmental concerns"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_4_002",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "WATER – A PRECIOUS RESOURCE",
+    "concepts": [
+      "conservation",
+      "water management",
+      "sustainable practices"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_5_001",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "BIODIVERSITY",
+    "concepts": [
+      "biotic diversity",
+      "microscopic organisms",
+      "ecosystems"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_5_002",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "BIODIVERSITY",
+    "concepts": [
+      "regulating gaseous composition",
+      "controlling climate",
+      "facilitating pollination",
+      "conserving soil and water",
+      "hot spots",
+      "unique plant and animal species",
+      "successful community-driven water conservation projects",
+      "Rajasthan",
+      "Gandhigram"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_5_003",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "BIODIVERSITY",
+    "concepts": [
+      "water hyacinth",
+      "aquatic life",
+      "conservation efforts",
+      "sustainable use",
+      "ecosystem health"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_5_004",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "BIODIVERSITY",
+    "concepts": [
+      "protected areas",
+      "sustainable practices",
+      "ecological balance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_6_001",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "ENDANGERED SPECIES",
+    "concepts": [
+      "endangerment",
+      "IUCN's Red Data Book",
+      "conservation efforts",
+      "ecological balance",
+      "environmental health"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_7_001",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "WILDLIFE",
+    "concepts": [
+      "wildlife",
+      "ecosystem",
+      "recreation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_7_002",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "WILDLIFE",
+    "concepts": [
+      "wildlife conservation",
+      "ecosystem health",
+      "genetic diversity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_7_003",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "WILDLIFE",
+    "concepts": [
+      "conservation",
+      "management practices",
+      "natural heritage"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_7_004",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "WILDLIFE",
+    "concepts": [
+      "national parks and sanctuaries",
+      "protected areas",
+      "diverse species",
+      "tigers",
+      "elephants",
+      "bird species",
+      "survival",
+      "ecological balance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_7_005",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "WILDLIFE",
+    "concepts": [
+      "conservation",
+      "policies",
+      "research",
+      "public awareness campaigns"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_8_001",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "LEGISLATION FOR CONSERVATION",
+    "concepts": [
+      "legislation",
+      "sustainable use",
+      "ecological preservation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_9_001",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "SUSTAINABLE DEVELOPMENT",
+    "concepts": [
+      "sustainable development",
+      "environmental conservation",
+      "economic and social progress"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_10_001",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "ENERGY RESOURCES",
+    "concepts": [
+      "firewood",
+      "kerosene",
+      "coal",
+      "electricity",
+      "LPG",
+      "animal power",
+      "Persian wheel",
+      "kolhu"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_10_002",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "ENERGY RESOURCES",
+    "concepts": [
+      "renewable",
+      "non-renewable",
+      "solar",
+      "wind",
+      "hydro",
+      "biomass",
+      "coal",
+      "oil",
+      "natural gas",
+      "nuclear fuels"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_10_003",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "ENERGY RESOURCES",
+    "concepts": [
+      "coal",
+      "oil",
+      "natural gas"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_10_004",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "ENERGY RESOURCES",
+    "concepts": [
+      "photovoltaic cells",
+      "solar thermal systems",
+      "hydropower",
+      "wind energy",
+      "tidal energy",
+      "geothermal energy",
+      "biogas",
+      "biofuels"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_10_005",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "ENERGY RESOURCES",
+    "concepts": [
+      "energy sources",
+      "finite energy resources",
+      "sufficient energy availability"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_10_006",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "ENERGY RESOURCES",
+    "concepts": [
+      "environmental factors",
+      "human health",
+      "clean and safe living conditions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_10_007",
+    "document_id": "NIOS_BIO_CH26",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Conservation And Use Of Natural Resources",
+    "section": "ENERGY RESOURCES",
+    "concepts": [
+      "renewable resources",
+      "non-renewable resources",
+      "conservation efforts",
+      "soil erosion",
+      "techniques",
+      "water conservation"
+    ]
+  }
+]

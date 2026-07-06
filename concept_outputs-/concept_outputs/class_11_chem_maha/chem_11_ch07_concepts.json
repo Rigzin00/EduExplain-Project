@@ -1,0 +1,248 @@
+[
+  {
+    "resource_id": "TXT_11_CH07_S7_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Introduction",
+    "concepts": [
+      "periodic law",
+      "atomic mass",
+      "atomic number",
+      "modern periodic table"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Structure of the Modern Periodic Table",
+    "concepts": [
+      "periodic table",
+      "atomic structure",
+      "electron configurations"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH07_S7_3_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Periodic Table and Electronic configuration",
+    "concepts": [
+      "periodicity",
+      "atomic structure",
+      "quantum mechanical model of atom",
+      "electronic configuration",
+      "aufbau principle",
+      "Pauli exclusion principle",
+      "Hund's rule of maximum multiplicity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_3_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Periodic Table and Electronic configuration",
+    "concepts": [
+      "periodic table",
+      "principal quantum number",
+      "outermost shell",
+      "electronic configuration",
+      "octet rule",
+      "duplet rule"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_3_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Periodic Table and Electronic configuration",
+    "concepts": [
+      "outer electron configuration",
+      "subshells",
+      "groups"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_3_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Periodic Table and Electronic configuration",
+    "concepts": [
+      "s-block",
+      "p-block",
+      "d-block"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Blockwise characteristics of elements",
+    "concepts": [
+      "block",
+      "electronic configuration",
+      "elemental properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_4_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Blockwise characteristics of elements",
+    "concepts": [
+      "reactivity",
+      "ionization enthalpy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_4_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Blockwise characteristics of elements",
+    "concepts": [
+      "p-block elements",
+      "group 18",
+      "noble gases",
+      "fully filled valence shells",
+      "highly reactive nonmetals",
+      "gain electrons",
+      "stable electron configuration"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_4_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Blockwise characteristics of elements",
+    "concepts": [
+      "d-block elements",
+      "transition metals",
+      "oxidation states",
+      "paramagnetism",
+      "colored ions",
+      "catalysts",
+      "zinc",
+      "cadmium",
+      "mercury"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_4_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Blockwise characteristics of elements",
+    "concepts": [
+      "f-block elements",
+      "lanthanoids",
+      "actinoids",
+      "inner-transition elements",
+      "s-block metal",
+      "d-block metal",
+      "transuranium elements"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_5_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Periodic trends in elemental properties",
+    "concepts": [
+      "periodic trends",
+      "effective nuclear charge",
+      "screening effect"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_5_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Periodic trends in elemental properties",
+    "concepts": [
+      "effective nuclear charge",
+      "screening effect",
+      "periodic trends"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_5_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Periodic trends in elemental properties",
+    "concepts": [
+      "atomic radius",
+      "ionization energy",
+      "electron affinity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_5_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Modern Periodic Table",
+    "section": "Periodic trends in elemental properties",
+    "concepts": [
+      "oxidation states",
+      "chemical reactivity",
+      "periodic trends"
+    ]
+  }
+]

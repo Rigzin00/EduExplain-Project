@@ -1,0 +1,230 @@
+[
+  {
+    "resource_id": "TXT_12_CH09_S9_1_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Current Electricity",
+    "section": "Introduction:",
+    "concepts": [
+      "current electricity",
+      "Kirchhoff's laws",
+      "junction",
+      "loop"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_2_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Current Electricity",
+    "section": "Kirchhoff's Laws of Electrical Network:",
+    "concepts": [
+      "junction",
+      "Kirchhoff's Laws",
+      "resistors"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_2_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Current Electricity",
+    "section": "Kirchhoff's Laws of Electrical Network:",
+    "concepts": [
+      "Kirchhoff's First Law",
+      "algebraic sum",
+      "currents entering/exiting",
+      "sign convention",
+      "equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_2_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Current Electricity",
+    "section": "Kirchhoff's Laws of Electrical Network:",
+    "concepts": [
+      "conservation of electrical charge",
+      "conservation of energy",
+      "Kirchhoff's Voltage Law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Current Electricity",
+    "section": "Wheatstone Bridge:",
+    "concepts": [
+      "resistance measurement",
+      "galvanometer",
+      "Wheatstone bridge"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_3_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Current Electricity",
+    "section": "Wheatstone Bridge:",
+    "concepts": [
+      "resistance measurement",
+      "Wheatstone Bridge",
+      "metre bridge",
+      "specific resistance",
+      "current calculation"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH09_S9_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Current Electricity",
+    "section": "Wheatstone Bridge:",
+    "concepts": [
+      "resistance measurement",
+      "operational amplifier",
+      "temperature measurement"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Current Electricity",
+    "section": "Potentiometer:",
+    "concepts": [
+      "potentiometer",
+      "voltmeter",
+      "potential difference"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Current Electricity",
+    "section": "Potentiometer:",
+    "concepts": [
+      "potential difference",
+      "potentiometer principle",
+      "constant potential gradient"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Current Electricity",
+    "section": "Potentiometer:",
+    "concepts": [
+      "potentiometer",
+      "null point",
+      "emfs",
+      "cell",
+      "jockey",
+      "wire segments",
+      "internal resistance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Current Electricity",
+    "section": "Potentiometer:",
+    "concepts": [
+      "potentiometer",
+      "least count",
+      "portable use"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Current Electricity",
+    "section": "Galvanometer:",
+    "concepts": [
+      "galvanometer",
+      "deflection",
+      "coil",
+      "magnet",
+      "current",
+      "amperes",
+      "voltages"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Current Electricity",
+    "section": "Galvanometer:",
+    "concepts": [
+      "galvanometer",
+      "ammeter",
+      "shunt resistance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Current Electricity",
+    "section": "Galvanometer:",
+    "concepts": [
+      "galvanometer",
+      "voltmeter",
+      "high resistance",
+      "moving coil galvanometer",
+      "series connection",
+      "potential difference",
+      "accuracy",
+      "formula"
+    ]
+  }
+]

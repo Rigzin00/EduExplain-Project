@@ -1,0 +1,455 @@
+[
+  {
+    "resource_id": "TXT_12_CH10_X_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": null,
+    "concepts": [
+      "magnetic fields",
+      "right-hand rule",
+      "Ampère's circuital law"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH10_X_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": null,
+    "concepts": [
+      "high tension power transmission lines",
+      "strong magnetic fields",
+      "care for reducing exposure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_1_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Introduction:",
+    "concepts": [
+      "electric currents",
+      "magnetic fields",
+      "electrostatic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_2_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Force:",
+    "concepts": [
+      "charge",
+      "velocity",
+      "magnetic field",
+      "Lorentz force law",
+      "perpendicularity",
+      "directional change",
+      "total force"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH10_S10_2_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Force:",
+    "concepts": [
+      "superconducting coil electromagnet",
+      "Earth's magnetic field",
+      "magnetic force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Cyclotron Motion:",
+    "concepts": [
+      "cyclotron formula",
+      "magnetic field",
+      "electric current"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH10_S10_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Cyclotron Motion:",
+    "concepts": [
+      "centripetal force",
+      "magnetic field",
+      "cyclotron motion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_3_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Cyclotron Motion:",
+    "concepts": [
+      "cyclotron motion",
+      "magnetic fields",
+      "electric fields"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Helical Motion:",
+    "concepts": [
+      "helical motion",
+      "magnetic force",
+      "circular motion"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH10_S10_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Helical Motion:",
+    "concepts": [
+      "accelerator",
+      "particle research",
+      "radiation source"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_5_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Force on a Wire Carrying a Current:",
+    "concepts": [
+      "current-carrying wire",
+      "magnetic field",
+      "force",
+      "unit vector"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_6_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Force on a Closed Circuit in a Magnetic Field \\vec{R}:",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_7_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Torque on a Current Loop:",
+    "concepts": [
+      "torque",
+      "magnetic field",
+      "current loop"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH10_S10_7_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Torque on a Current Loop:",
+    "concepts": [
+      "torque",
+      "current loop",
+      "commutator"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_7_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Torque on a Current Loop:",
+    "concepts": [
+      "torque",
+      "current-carrying coil",
+      "magnetic field",
+      "uniform magnetic field",
+      "angular momentum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_8_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Dipole Moment:",
+    "concepts": [
+      "magnetic dipole moment",
+      "current-carrying coil",
+      "torque"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_9_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Potential Energy of a Dipole:",
+    "concepts": [
+      "magnetic dipole",
+      "potential energy",
+      "angle between vectors"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_10_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Field due to a Current : Biot-Savart Law:",
+    "concepts": [
+      "magnetic field",
+      "current-carrying wire",
+      "Biot-Savart law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_11_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Force of Attraction between two Long Parallel Wires:",
+    "concepts": [
+      "magnetic fields due to electric current",
+      "force of attraction between two long parallel wires",
+      "currents in the same/different directions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_12_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Field Produced by a Current in a Circular Arc of a Wire:",
+    "concepts": [
+      "magnetic field",
+      "current",
+      "wire",
+      "infinitesimal segment",
+      "arc",
+      "center",
+      "angle",
+      "subtended",
+      "field",
+      "B"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH10_S10_12_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Field Produced by a Current in a Circular Arc of a Wire:",
+    "concepts": [
+      "magnetic field",
+      "current",
+      "wire",
+      "Biot-Savart law",
+      "Lorentz force law",
+      "Newton's third law"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH10_S10_12_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Field Produced by a Current in a Circular Arc of a Wire:",
+    "concepts": [
+      "permeability of free space",
+      "electromagnetic induction",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_14_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Lines for a Current Loop:",
+    "concepts": [
+      "magnetic field",
+      "current loop",
+      "Magnetic Lines",
+      "angular momentum"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH10_S10_14_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Lines for a Current Loop:",
+    "concepts": [
+      "magnetic moment",
+      "magnetic lines",
+      "electrostatic analogy"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH10_S10_14_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Lines for a Current Loop:",
+    "concepts": [
+      "current loop",
+      "magnetic field",
+      "magnetic lines"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_15_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Ampere's Law:",
+    "concepts": [
+      "magnetic field",
+      "current",
+      "closed loop",
+      "electricity",
+      "symmetric distribution",
+      "long straight wire",
+      "coaxial cable"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_16_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Field of a Solenoid and a Toroid: (a) Solenoid:",
+    "concepts": [
+      "magnetic field",
+      "solenoid",
+      "toroid"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH10_S10_16_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Field of a Solenoid and a Toroid: (a) Solenoid:",
+    "concepts": [
+      "magnetic field",
+      "solenoid",
+      "toroid"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH10_S10_16_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Magnetic Fields Due To Electric Current",
+    "section": "Magnetic Field of a Solenoid and a Toroid: (a) Solenoid:",
+    "concepts": [
+      "magnetic field",
+      "solenoid",
+      "toroid"
+    ]
+  }
+]

@@ -1,0 +1,770 @@
+[
+  {
+    "resource_id": "TXT_12_CH04_S4_1_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Introduction:",
+    "concepts": [
+      "work",
+      "heat",
+      "energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_2_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Thermal Equilibrium:",
+    "concepts": [
+      "thermal equilibrium",
+      "Zeroth Law of Thermodynamics",
+      "heat transfer"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH04_S4_2_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Thermal Equilibrium:",
+    "concepts": [
+      "thermal equilibrium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Zeroth Law of Thermodynamics:",
+    "concepts": [
+      "thermal equilibrium",
+      "temperature scales",
+      "thermometry"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH04_S4_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Zeroth Law of Thermodynamics:",
+    "concepts": [
+      "zeroth law of thermodynamics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Heat, Internal Energy and Work:",
+    "concepts": [
+      "heat transfer",
+      "internal energy",
+      "work"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Heat, Internal Energy and Work:",
+    "concepts": [
+      "internal energy",
+      "translational kinetic energy",
+      "rotational kinetic energy",
+      "vibrational kinetic energy",
+      "potential energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Heat, Internal Energy and Work:",
+    "concepts": [
+      "thermodynamic system",
+      "closed system",
+      "isolated system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Heat, Internal Energy and Work:",
+    "concepts": [
+      "heat",
+      "internal energy",
+      "work"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_005",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Heat, Internal Energy and Work:",
+    "concepts": [
+      "heat transfer",
+      "work",
+      "internal energy"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH04_S4_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Heat, Internal Energy and Work:",
+    "concepts": [
+      "internal energy",
+      "work",
+      "First Law of Thermodynamics"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH04_S4_4_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Heat, Internal Energy and Work:",
+    "concepts": [
+      "mechanical equivalent of heat",
+      "equivalence",
+      "W = J × H"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_5_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "First Law of Thermodynamics: (Work and Heat are related)",
+    "concepts": [
+      "conservation of energy",
+      "first law of thermodynamics",
+      "heat",
+      "work",
+      "energy transformation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_5_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "First Law of Thermodynamics: (Work and Heat are related)",
+    "concepts": [
+      "ideal gas",
+      "volume changes",
+      "work done",
+      "internal energy",
+      "first law of thermodynamics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_6_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Thermodynamic state variables",
+    "concepts": [
+      "intensive_variables",
+      "extensive_variables",
+      "measurable_characteristics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_6_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Thermodynamic state variables",
+    "concepts": [
+      "mechanical equilibrium",
+      "chemical equilibrium",
+      "thermal equilibrium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_6_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Thermodynamic state variables",
+    "concepts": [
+      "equilibrium state",
+      "macroscopic variables",
+      "thermodynamic state variables"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_6_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Thermodynamic state variables",
+    "concepts": [
+      "work done by a gas",
+      "pressure-volume (p-V) curve",
+      "area under the p-V curve"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH04_S4_6_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Thermodynamic state variables",
+    "concepts": [
+      "work",
+      "p-V curve",
+      "volume",
+      "pressure",
+      "gas",
+      "displacement",
+      "compression",
+      "integration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_7_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Thermodynamic Process:",
+    "concepts": [
+      "quasi-statically",
+      "thermodynamic equilibrium",
+      "pressure-volume (p-V) diagram"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_7_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Thermodynamic Process:",
+    "concepts": [
+      "work done",
+      "p-V diagram",
+      "thermodynamic process"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_7_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Thermodynamic Process:",
+    "concepts": [
+      "isothermal expansion",
+      "free expansion",
+      "heat added"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_7_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Thermodynamic Process:",
+    "concepts": [
+      "thermodynamic process",
+      "reversible process",
+      "irreversible process"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S0_5_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "mole of gas at temp 300 K expands isothermally from an initial volume of 2.0L to final volume of 6.0L. (a) What is the work done by the gas ? (R = 8.319 \\text{ J mol}^{-1} \\text{ K}^{-1}),",
+    "concepts": [
+      "work done by the gas",
+      "isothermal expansion",
+      "first law of thermodynamics"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH04_S0_5_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "mole of gas at temp 300 K expands isothermally from an initial volume of 2.0L to final volume of 6.0L. (a) What is the work done by the gas ? (R = 8.319 \\text{ J mol}^{-1} \\text{ K}^{-1}),",
+    "concepts": [
+      "isothermal work",
+      "p-V diagram",
+      "isobaric process"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH04_S0_5_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "mole of gas at temp 300 K expands isothermally from an initial volume of 2.0L to final volume of 6.0L. (a) What is the work done by the gas ? (R = 8.319 \\text{ J mol}^{-1} \\text{ K}^{-1}),",
+    "concepts": [
+      "adiabatic process",
+      "isothermal process",
+      "p-V curve"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH04_S0_5_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "mole of gas at temp 300 K expands isothermally from an initial volume of 2.0L to final volume of 6.0L. (a) What is the work done by the gas ? (R = 8.319 \\text{ J mol}^{-1} \\text{ K}^{-1}),",
+    "concepts": [
+      "adiabatic heating or cooling",
+      "transfer of heat",
+      "p-V diagram",
+      "internal energy",
+      "first law of thermodynamics",
+      "cyclic process",
+      "total change in internal energy",
+      "work done",
+      "heat transferred"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH04_S0_5_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "mole of gas at temp 300 K expands isothermally from an initial volume of 2.0L to final volume of 6.0L. (a) What is the work done by the gas ? (R = 8.319 \\text{ J mol}^{-1} \\text{ K}^{-1}),",
+    "concepts": [
+      "adiabatic expansion",
+      "uncontrolled change",
+      "instantaneous change"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_8_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Heat Engines:",
+    "concepts": [
+      "heat engines",
+      "practical machines",
+      "efficiently transforms"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_8_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Heat Engines:",
+    "concepts": [
+      "heat_engine",
+      "cyclic_process",
+      "exhaust",
+      "external_combustion_type",
+      "internal_combustion_type",
+      "working_substance",
+      "absorbing_heat",
+      "converting_work",
+      "rejecting_heat",
+      "quantifying_efficiency"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH04_S4_8_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Heat Engines:",
+    "concepts": [
+      "RPM",
+      "Revolutions Per Minute",
+      "Heat Engine",
+      "Net Work Done",
+      "First Law of Thermodynamics",
+      "Thermal Efficiency",
+      "Work Done",
+      "Heat Absorbed",
+      "Efficiency of Heat Engine"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_8_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Heat Engines:",
+    "concepts": [
+      "p-V diagram",
+      "work done in one complete cycle",
+      "heat engine cycle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_9_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Refrigerators and Heat Pumps:",
+    "concepts": [
+      "heat engine",
+      "energy flow diagram",
+      "refrigerator",
+      "heat pump"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_9_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Refrigerators and Heat Pumps:",
+    "concepts": [
+      "heat flow",
+      "refrigerator",
+      "heat pump"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_9_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Refrigerators and Heat Pumps:",
+    "concepts": [
+      "adiabatic expansion",
+      "isobaric heating",
+      "adiabatic compression"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_9_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Refrigerators and Heat Pumps:",
+    "concepts": [
+      "coefficient of performance",
+      "refrigerator cycle",
+      "work done"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_9_005",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Refrigerators and Heat Pumps:",
+    "concepts": [
+      "coefficient of performance",
+      "heat pump",
+      "evaporator coil",
+      "condenser coil",
+      "refrigerator"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH04_S4_9_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Refrigerators and Heat Pumps:",
+    "concepts": [
+      "tonne",
+      "ice melting",
+      "equivalent amount"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_9_006",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Refrigerators and Heat Pumps:",
+    "concepts": [
+      "heat flow",
+      "energy input",
+      "reverse process"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_10_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Second Law of Thermodynamics:",
+    "concepts": [
+      "Second Law of Thermodynamics",
+      "Limitations of the First Law of Thermodynamics",
+      "Heat Transfer"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_10_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Second Law of Thermodynamics:",
+    "concepts": [
+      "heat engine",
+      "refrigerator",
+      "Kelvin-Planck statement",
+      "Clausius statement",
+      "second law of thermodynamics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Carnot Cycle and Carnot Engine:",
+    "concepts": [
+      "reversibility",
+      "maximum efficiency",
+      "second law of thermodynamics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Carnot Cycle and Carnot Engine:",
+    "concepts": [
+      "reversible process",
+      "irreversible process",
+      "thermodynamic equilibrium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Carnot Cycle and Carnot Engine:",
+    "concepts": [
+      "carnot cycle",
+      "maximum efficiency",
+      "heat engine",
+      "adiabatic process",
+      "isothermal process"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH04_S4_11_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Carnot Cycle and Carnot Engine:",
+    "concepts": [
+      "maximum efficiency",
+      "Carnot cycle",
+      "heat engine"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Carnot Cycle and Carnot Engine:",
+    "concepts": [
+      "coefficient of performance",
+      "Carnot cycle",
+      "efficiency"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_005",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Carnot Cycle and Carnot Engine:",
+    "concepts": [
+      "efficiency",
+      "Carnot cycle",
+      "second law of thermodynamics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_12_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Sterling Cycle:",
+    "concepts": [
+      "isothermal expansion",
+      "isobaric process",
+      "reversible processes"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH04_S4_12_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "internet_task",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Thermodynamics",
+    "section": "Sterling Cycle:",
+    "concepts": [
+      "work done",
+      "p-V diagram",
+      "p-T diagram"
+    ]
+  }
+]

@@ -1,0 +1,551 @@
+[
+  {
+    "resource_id": "TXT_12_CH02_S2_1_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Introduction",
+    "concepts": [
+      "homogeneous",
+      "heterogeneous",
+      "colloids",
+      "true solutions"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_1_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Introduction",
+    "concepts": [
+      "colloids",
+      "true solutions",
+      "body fluids"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_1_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Introduction",
+    "concepts": [
+      "solute",
+      "solvent",
+      "homogeneous mixture"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Types of solutions",
+    "concepts": [
+      "solid-dissolution-in-liquid",
+      "gas-dissolution-in-liquid",
+      "concentration-units"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Capacity of solution to dissolve solute",
+    "concepts": [
+      "solute",
+      "solvent",
+      "dynamic equilibrium",
+      "supersaturated solution",
+      "crystallization",
+      "precipitation",
+      "intermolecular interactions"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Capacity of solution to dissolve solute",
+    "concepts": [
+      "types of force between molecules",
+      "nonpolar organic compounds",
+      "dissolution process"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_3_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Capacity of solution to dissolve solute",
+    "concepts": [
+      "dissolution",
+      "enthalpy of solution",
+      "Le-Chatelier's principle"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_3_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Capacity of solution to dissolve solute",
+    "concepts": [
+      "exothermic",
+      "endothermic",
+      "solubility"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH02_S2_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Capacity of solution to dissolve solute",
+    "concepts": [
+      "solubility",
+      "Henry's law",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Vapour pressure of solutions of liquids in liquids: Consider a binary solution of two volatile liquids A_1 and A_2. When the solution is placed in a closed container, both the liquids vaporize. Eventually an equilibrium is established between vapor and liquid phases. Both the components are present in the vapour phase. The partial pressure of the components are related to their mole fractions in the solution. This realationship is given by Raoult's law.",
+    "concepts": [
+      "partial pressure",
+      "mole fraction",
+      "Raoult's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_5_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Vapour pressure of solutions of liquids in liquids: Consider a binary solution of two volatile liquids A_1 and A_2. When the solution is placed in a closed container, both the liquids vaporize. Eventually an equilibrium is established between vapor and liquid phases. Both the components are present in the vapour phase. The partial pressure of the components are related to their mole fractions in the solution. This realationship is given by Raoult's law.",
+    "concepts": [
+      "Raoult's law",
+      "vapor pressure",
+      "partial pressure",
+      "mole fraction",
+      "intermolecular attraction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Colligative properties of nonelectrolyte solutions: The physical properties of solutions that depend on the number of solute particles in solutions and not on their nature are called colligative properties. These are",
+    "concepts": [
+      "colligative properties",
+      "solute particles",
+      "vapor pressure depression",
+      "boiling point elevation",
+      "freezing point depression",
+      "osmotic pressure"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Vapour pressure lowering : When a liquid in a closed container is in equilibrium with its vapours, the pressure exerted by the vapour on the liquid is its vapour pressure.",
+    "concepts": [
+      "vapour pressure",
+      "equilibrium",
+      "surface tension",
+      "nonvolatile solute",
+      "solution",
+      "vapour pressure lowering"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Vapour pressure lowering : When a liquid in a closed container is in equilibrium with its vapours, the pressure exerted by the vapour on the liquid is its vapour pressure.",
+    "concepts": [
+      "vapor pressure",
+      "Raoult's Law",
+      "mole fraction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_7_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Vapour pressure lowering : When a liquid in a closed container is in equilibrium with its vapours, the pressure exerted by the vapour on the liquid is its vapour pressure.",
+    "concepts": [
+      "relative lowering of vapour pressure",
+      "mole fraction of the solute",
+      "colligative property"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_7_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Vapour pressure lowering : When a liquid in a closed container is in equilibrium with its vapours, the pressure exerted by the vapour on the liquid is its vapour pressure.",
+    "concepts": [
+      "mole fraction",
+      "Raoult's law",
+      "vapor pressure lowering"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Boiling point elevation : Recall that the boiling point of liquid is the temperature at which its vapour pressure equals the applied pressure. For liquids in open containers the applied pressure is atmospheric pressure.",
+    "concepts": [
+      "boiling point elevation",
+      "mole concept",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_8_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Boiling point elevation : Recall that the boiling point of liquid is the temperature at which its vapour pressure equals the applied pressure. For liquids in open containers the applied pressure is atmospheric pressure.",
+    "concepts": [
+      "vapour pressure",
+      "solution",
+      "pure solvent",
+      "boiling point",
+      "atmospheric pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_8_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Boiling point elevation : Recall that the boiling point of liquid is the temperature at which its vapour pressure equals the applied pressure. For liquids in open containers the applied pressure is atmospheric pressure.",
+    "concepts": [
+      "molality",
+      "boiling point elevation constant",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_8_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Boiling point elevation : Recall that the boiling point of liquid is the temperature at which its vapour pressure equals the applied pressure. For liquids in open containers the applied pressure is atmospheric pressure.",
+    "concepts": [
+      "molar mass",
+      "boiling point elevation",
+      "solute"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Depression in freezing point",
+    "concepts": [
+      "depression in freezing point",
+      "vapor pressure",
+      "freezing point",
+      "solution",
+      "equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_9_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Depression in freezing point",
+    "concepts": [
+      "depression in freezing point",
+      "vapor pressure lowering",
+      "freezing point depression",
+      "solution curve",
+      "pure solvent",
+      "attractive forces",
+      "reduced vapor pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_9_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Depression in freezing point",
+    "concepts": [
+      "freezing_point_depression",
+      "molality",
+      "K_f"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_9_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Depression in freezing point",
+    "concepts": [
+      "molar mass",
+      "freezing point depression",
+      "molality"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_10_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Osmotic pressure : Besides the boiling point elevation and freezing point depression, the osmotic pressure is associated with vapour pressure lowering and can be used to determine molar masses of dissolved solutes.",
+    "concepts": [
+      "osmotic pressure",
+      "semipermeable membrane",
+      "selective permeability"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_10_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Osmotic pressure : Besides the boiling point elevation and freezing point depression, the osmotic pressure is associated with vapour pressure lowering and can be used to determine molar masses of dissolved solutes.",
+    "concepts": [
+      "osmosis",
+      "semipermeable membrane",
+      "vapor pressure",
+      "solute concentration",
+      "dilution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_10_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Osmotic pressure : Besides the boiling point elevation and freezing point depression, the osmotic pressure is associated with vapour pressure lowering and can be used to determine molar masses of dissolved solutes.",
+    "concepts": [
+      "osmotic pressure",
+      "hydrostatic pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_10_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Osmotic pressure : Besides the boiling point elevation and freezing point depression, the osmotic pressure is associated with vapour pressure lowering and can be used to determine molar masses of dissolved solutes.",
+    "concepts": [
+      "osmotic pressure",
+      "semipermeable membrane",
+      "hypertonic",
+      "hypotonic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_10_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Osmotic pressure : Besides the boiling point elevation and freezing point depression, the osmotic pressure is associated with vapour pressure lowering and can be used to determine molar masses of dissolved solutes.",
+    "concepts": [
+      "osmotic pressure",
+      "equation",
+      "molarity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_10_006",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Osmotic pressure : Besides the boiling point elevation and freezing point depression, the osmotic pressure is associated with vapour pressure lowering and can be used to determine molar masses of dissolved solutes.",
+    "concepts": [
+      "osmotic pressure",
+      "molar mass",
+      "gas constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_10_007",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Osmotic pressure : Besides the boiling point elevation and freezing point depression, the osmotic pressure is associated with vapour pressure lowering and can be used to determine molar masses of dissolved solutes.",
+    "concepts": [
+      "osmotic pressure",
+      "vapour pressure lowering",
+      "semipermeable membrane"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_11_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Collgative properties of electrolytes",
+    "concepts": [
+      "colligative properties",
+      "electrolytes",
+      "nonelectrolytes",
+      "molar mass",
+      "ionization",
+      "dissociation",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_11_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Collgative properties of electrolytes",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_11_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Collgative properties of electrolytes",
+    "concepts": [
+      "colligative properties",
+      "molality",
+      "osmotic pressure",
+      "molarity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_11_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Solutions",
+    "section": "Collgative properties of electrolytes",
+    "concepts": [
+      "van't Hoff factor",
+      "degree of dissociation",
+      "colligative properties"
+    ]
+  }
+]

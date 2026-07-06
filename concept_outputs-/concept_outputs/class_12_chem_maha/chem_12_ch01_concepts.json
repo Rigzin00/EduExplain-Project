@@ -1,0 +1,589 @@
+[
+  {
+    "resource_id": "RCL_12_CH01_X_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": null,
+    "concepts": [
+      "crystalline solids",
+      "particle 1",
+      "particle 2"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH01_X_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": null,
+    "concepts": [
+      "amorphous solids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_X_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": null,
+    "concepts": [
+      "isomorphism",
+      "polymorphism",
+      "crystal structure"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH01_X_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": null,
+    "concepts": [
+      "isomorphism",
+      "polymorphism",
+      "crystalline form"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Classification of crystalline solids:",
+    "concepts": [
+      "crystalline solids",
+      "bonding",
+      "structure",
+      "electrostatic forces",
+      "covalent bonds",
+      "intermolecular forces",
+      "metallic solids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Classification of crystalline solids:",
+    "concepts": [
+      "ionic crystals",
+      "positive and negative ions",
+      "electrons",
+      "metal and non-metal atoms",
+      "high melting points",
+      "solubility in water"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Classification of crystalline solids:",
+    "concepts": [
+      "covalent bond",
+      "three-dimensional network",
+      "extensive covalent bonding"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH01_S1_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Classification of crystalline solids:",
+    "concepts": [
+      "hardness",
+      "covalent solid",
+      "conductor"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH01_S1_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Classification of crystalline solids:",
+    "concepts": [
+      "covalent network crystals",
+      "conductivity",
+      "melting point"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH01_S1_3_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Classification of crystalline solids:",
+    "concepts": [
+      "covalent bond",
+      "metallic bond",
+      "ionic bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Classification of crystalline solids:",
+    "concepts": [
+      "unit cell",
+      "crystal system",
+      "macroscopic shape"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Classification of crystalline solids:",
+    "concepts": [
+      "number_of_particles_in_cubic_unit_cells",
+      "body-centered_cubic_unit_cell",
+      "face-centered_cubic_unit_cell"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH01_S1_3_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Classification of crystalline solids:",
+    "concepts": [
+      "Cubic",
+      "Orthorhombic",
+      "Tetragonal"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_006",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Classification of crystalline solids:",
+    "concepts": [
+      "density",
+      "unit cell",
+      "crystalline solids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Packing of particles in crystal lattice",
+    "concepts": [
+      "coordination number",
+      "hexagonal close packing (hcp)",
+      "cubic close packing (ccp)"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_6_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Packing of particles in crystal lattice",
+    "concepts": [
+      "coordination number",
+      "close-packed structure",
+      "hexagonal close-packing",
+      "face-centered cubic",
+      "simple cubic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_6_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Packing of particles in crystal lattice",
+    "concepts": [
+      "tetrahedral voids",
+      "octahedral voids",
+      "hcp",
+      "fcc",
+      "crystal lattice"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Packing efficiency: Like coordination number, the magnitude of packing efficiency gives a measure of how tightly particles are packed together.",
+    "concepts": [
+      "packing efficiency",
+      "unit cell",
+      "volume",
+      "particle",
+      "fraction",
+      "percentage"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_7_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Packing efficiency: Like coordination number, the magnitude of packing efficiency gives a measure of how tightly particles are packed together.",
+    "concepts": [
+      "packing efficiency",
+      "simple cubic lattice",
+      "atomic radius"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_7_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Packing efficiency: Like coordination number, the magnitude of packing efficiency gives a measure of how tightly particles are packed together.",
+    "concepts": [
+      "packing efficiency",
+      "body-centered cubic lattice",
+      "Pythagorean theorem"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_7_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Packing efficiency: Like coordination number, the magnitude of packing efficiency gives a measure of how tightly particles are packed together.",
+    "concepts": [
+      "packing efficiency",
+      "fcc lattice",
+      "right-angled triangle",
+      "Pythagorean theorem",
+      "radius",
+      "volume"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH01_S1_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Packing efficiency: Like coordination number, the magnitude of packing efficiency gives a measure of how tightly particles are packed together.",
+    "concepts": [
+      "packing efficiency",
+      "coordination number",
+      "fcc"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_7_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Packing efficiency: Like coordination number, the magnitude of packing efficiency gives a measure of how tightly particles are packed together.",
+    "concepts": [
+      "metal's crystal structure",
+      "density",
+      "molar mass",
+      "unit cell parameters",
+      "face-centered cubic (fcc)",
+      "atomic radius",
+      "fcc structures",
+      "bcc structures",
+      "compounds",
+      "formula deduction",
+      "unit cell volume",
+      "atom occupancy",
+      "empty space"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Crystal defects or imperfections: The real, naturally occurring crystalline substances do not have perfect crystal structures. They have some disorders or irregularities in the stacking of atoms. Such irregularities in the arrangement of constituent particles of a solid crystal are called defects or imperfections.",
+    "concepts": [
+      "crystal defects",
+      "electrical neutrality",
+      "point defects"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_8_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Crystal defects or imperfections: The real, naturally occurring crystalline substances do not have perfect crystal structures. They have some disorders or irregularities in the stacking of atoms. Such irregularities in the arrangement of constituent particles of a solid crystal are called defects or imperfections.",
+    "concepts": [
+      "vacancy defects",
+      "self-interstitial defects",
+      "Schottky defects"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH01_S1_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Crystal defects or imperfections: The real, naturally occurring crystalline substances do not have perfect crystal structures. They have some disorders or irregularities in the stacking of atoms. Such irregularities in the arrangement of constituent particles of a solid crystal are called defects or imperfections.",
+    "concepts": [
+      "point defects",
+      "vacancy defect",
+      "interstitial defect"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH01_S1_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Electrical properites of solids",
+    "concepts": [
+      "conductors",
+      "insulators",
+      "semiconductors"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH01_S1_9_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Electrical properites of solids",
+    "concepts": [
+      "MO theory",
+      "interaction of atomic orbitals",
+      "formation of molecular orbitals (MOs)",
+      "electronic configuration",
+      "energy levels of electrons",
+      "band theory",
+      "conduction band",
+      "valence band",
+      "band gap"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH01_S1_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Electrical properites of solids",
+    "concepts": [
+      "band gap energy",
+      "solid state",
+      "electrical properties",
+      "band theory"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Electrical properites of solids",
+    "concepts": [
+      "conduction band",
+      "metallic crystal",
+      "electrons",
+      "conductivity",
+      "metal ions",
+      "cations",
+      "lattice positions",
+      "vibration",
+      "electron flow"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH01_S1_9_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Electrical properites of solids",
+    "concepts": [
+      "conductor",
+      "metallic sodium",
+      "electronic configuration",
+      "interaction",
+      "MOs",
+      "band gap",
+      "conduction band",
+      "molecular orbital"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_9_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Electrical properites of solids",
+    "concepts": [
+      "insulators",
+      "valence band",
+      "conduction band",
+      "forbidden zone",
+      "electrons",
+      "thermal energy",
+      "band gap"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_9_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Electrical properites of solids",
+    "concepts": [
+      "semiconductor",
+      "conduction band",
+      "free electrons"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_9_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Electrical properites of solids",
+    "concepts": [
+      "doping",
+      "extrinsic semiconductor",
+      "n-type semiconductor"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH01_S1_9_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Electrical properites of solids",
+    "concepts": [
+      "doping",
+      "conduction band",
+      "semiconductor"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_10_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Solid State",
+    "section": "Magnetic properties of solids: Magnetic properties of solids can be understood easily in terms of classical picture of electron. The electrons spin about their own axis. The spinning electrons act like tiny magnets because their spinning action generates induced magnetic field.",
+    "concepts": [
+      "magnetic properties",
+      "electrons",
+      "magnetic field"
+    ]
+  }
+]

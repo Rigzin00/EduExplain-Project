@@ -1,0 +1,296 @@
+[
+  {
+    "resource_id": "TXT_12_CH08_S8_1_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Introduction:",
+    "concepts": [
+      "electricity",
+      "charge",
+      "electric field",
+      "closed surface",
+      "proportional",
+      "symmetric charge distribution",
+      "electrostatics",
+      "Gauss's Law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Application of Gauss' Law:",
+    "concepts": [
+      "symmetric charge distribution",
+      "Gauss's Law",
+      "electric field intensity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Application of Gauss' Law:",
+    "concepts": [
+      "electric field intensity",
+      "superposition",
+      "symmetry"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Application of Gauss' Law:",
+    "concepts": [
+      "linear charge density",
+      "Gauss's law",
+      "electric field intensity",
+      "permittivity of free space"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Application of Gauss' Law:",
+    "concepts": [
+      "surface charge density",
+      "permittivity of free space",
+      "electric field",
+      "gravitational potential"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Electric Potential and Potential Energy:",
+    "concepts": [
+      "work done against electrostatic forces",
+      "electrostatic potential energy",
+      "electric field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Electric Potential due to a Point Charge,a Dipole and a System of Charges:a) Electric potential due to a point charge:",
+    "concepts": [
+      "electric potential",
+      "point charge",
+      "dipole",
+      "system of charges",
+      "total potential",
+      "potential due to an electric dipole"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Electric Potential due to a Point Charge,a Dipole and a System of Charges:a) Electric potential due to a point charge:",
+    "concepts": [
+      "electric potential",
+      "point charge",
+      "dipole",
+      "system of charges"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_5_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Equipotential Surfaces:",
+    "concepts": [
+      "equipotential surface",
+      "concentric spheres",
+      "cylinders",
+      "electric field",
+      "perpendicular",
+      "intersection",
+      "work"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Electrostatic Potential Energy of Two Point Charges and of a Dipole in an Electrostatic Field:",
+    "concepts": [
+      "electrostatic potential energy",
+      "potential energy of two point charges",
+      "dipole in an electrostatic field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_7_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Conductors and Insulators, Free Charges and Bound Charges Inside a Conductor:a) Conductors and Insulators:",
+    "concepts": [
+      "conductors",
+      "insulators",
+      "free charges",
+      "bound charges"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_8_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Dielectrics and Electric Polarisation:",
+    "concepts": [
+      "dielectric",
+      "polarization",
+      "net dipole moment"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_9_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Capacitors and Capacitance, Combination of Capacitors in Series and Parallel:",
+    "concepts": [
+      "capacitor",
+      "electricity",
+      "charge",
+      "potential difference",
+      "farad",
+      "series connection",
+      "parallel connection"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_10_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Capacitance of a Parallel Plate Capacitor Without and With Dielectric Medium Between the Plates:",
+    "concepts": [
+      "capacitance",
+      "dielectric constant",
+      "permittivity of free space"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_11_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Displacement Current:",
+    "concepts": [
+      "displacement current",
+      "dielectric polarization",
+      "conduction current"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_12_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Energy Stored in a Capacitor:",
+    "concepts": [
+      "energy",
+      "capacitance",
+      "electrostatic potential energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_13_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Van de Graaff Generator:",
+    "concepts": [
+      "high potentials",
+      "charged particles",
+      "insulating belt",
+      "dome-shaped conductor",
+      "evacuated tube",
+      "protons",
+      "centrifugal force"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH08_S8_13_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "internet_task",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Electrostatics",
+    "section": "Van de Graaff Generator:",
+    "concepts": [
+      "charge",
+      "work",
+      "potential"
+    ]
+  }
+]

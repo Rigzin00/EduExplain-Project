@@ -1,0 +1,289 @@
+[
+  {
+    "resource_id": "TXT_12_CH14_X_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": null,
+    "concepts": [
+      "wave-like properties",
+      "particle-like properties",
+      "de Broglie's equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_1_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "Introduction:",
+    "concepts": [
+      "quantization of energy",
+      "Planck's constant",
+      "discrete packets"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "The Photoelectric Effect:",
+    "concepts": [
+      "photoelectric effect",
+      "ultraviolet radiation",
+      "visible light"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "The Photoelectric Effect:",
+    "concepts": [
+      "accelerating potential difference",
+      "monochromatic light",
+      "photoelectrons"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "The Photoelectric Effect:",
+    "concepts": [
+      "photocurrent",
+      "accelerating potential",
+      "saturation current",
+      "light intensity",
+      "threshold frequency"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "The Photoelectric Effect:",
+    "concepts": [
+      "work function",
+      "threshold frequency",
+      "photoelectric effect"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_005",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "The Photoelectric Effect:",
+    "concepts": [
+      "photons",
+      "energy",
+      "frequency"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH14_S14_2_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "The Photoelectric Effect:",
+    "concepts": [
+      "Planck's constant",
+      "quantization of energy",
+      "Photoelectric effect",
+      "Einstein's postulates",
+      "energy of a photon",
+      "photons",
+      "incident energy",
+      "light beam"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "Wave-Particle Duality of Electromagnetic Radiation:",
+    "concepts": [
+      "wave-particle duality",
+      "quantum",
+      "momentum"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH14_S14_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "Wave-Particle Duality of Electromagnetic Radiation:",
+    "concepts": [
+      "wave-particle duality",
+      "X-ray scattering",
+      "Compton shift"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "Photo Cell:",
+    "concepts": [
+      "photoelectric effect",
+      "photocurrent",
+      "microammeter"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_5_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "De Broglie Hypothesis:",
+    "concepts": [
+      "matter",
+      "wave-particle duality",
+      "de Broglie relation"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH14_S14_5_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "De Broglie Hypothesis:",
+    "concepts": [
+      "momentum",
+      "photon",
+      "electron",
+      "proton",
+      "wave",
+      "de broglie hypothesis",
+      "diffraction",
+      "matter waves"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_6_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "Davisson and Germer Experiment:",
+    "concepts": [
+      "wave-particle duality",
+      "de Broglie's hypothesis",
+      "diffraction pattern"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH14_S14_6_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "Davisson and Germer Experiment:",
+    "concepts": [
+      "diffraction",
+      "electron diffraction tube",
+      "phosphor screen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_7_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "Wave-Particle Duality of Matter:",
+    "concepts": [
+      "wave-particle duality",
+      "frequency",
+      "wavelength"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH14_S14_7_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "Wave-Particle Duality of Matter:",
+    "concepts": [
+      "wave-nature-of-matter",
+      "Newtonian-mechanics",
+      "wavelength",
+      "slits-or-obstacles",
+      "momentum"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH14_S14_7_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "Wave-Particle Duality of Matter:",
+    "concepts": [
+      "wave-particle duality",
+      "electrons",
+      "work function",
+      "electron microscope",
+      "de Broglie wavelength",
+      "angular momentum"
+    ]
+  }
+]

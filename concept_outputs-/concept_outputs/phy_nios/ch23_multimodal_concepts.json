@@ -1,0 +1,283 @@
+[
+  {
+    "resource_id": "TXT_12_CH23_X_001",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": null,
+    "concepts": [
+      "magnification",
+      "resolution",
+      "telescopic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_X_002",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "chemical energy",
+      "oxygen balance",
+      "carbon dioxide balance",
+      "food production"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_1_001",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "MICROSCOPE",
+    "concepts": [
+      "convex lens",
+      "magnifying glass",
+      "near point"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_1_002",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "MICROSCOPE",
+    "concepts": [
+      "magnification",
+      "virtual image",
+      "erect image",
+      "least distance of distinct vision",
+      "angular displacement"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH23_S23_1_001",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "MICROSCOPE",
+    "concepts": [
+      "magnifying power",
+      "focal length",
+      "near point of distinct vision"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_1_003",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "MICROSCOPE",
+    "concepts": [
+      "magnification",
+      "objective lens",
+      "eye piece",
+      "least distance of distinct vision",
+      "compound microscope",
+      "magnifying power"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH23_S23_1_002",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "MICROSCOPE",
+    "concepts": [
+      "magnification",
+      "compound microscope",
+      "objective lens",
+      "eyepiece lens",
+      "overall magnification"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_2_001",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "TELESCOPES",
+    "concepts": [
+      "telescope",
+      "refracting telescope",
+      "reflecting telescope"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_2_002",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "TELESCOPES",
+    "concepts": [
+      "objective lens",
+      "eye lens",
+      "focal plane",
+      "least distance of distinct vision",
+      "magnifying power",
+      "angular momentum"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH23_S23_2_001",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "TELESCOPES",
+    "concepts": [
+      "magnifying power",
+      "focal length",
+      "least distance of distinct vision"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_2_003",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "TELESCOPES",
+    "concepts": [
+      "concave mirror",
+      "large aperture",
+      "objective",
+      "magnifying power",
+      "brightness",
+      "focal length",
+      "diameter",
+      "eyepiece"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_001",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "RESOLVING POWER: THE RAYLEIGH'S CRITERION",
+    "concepts": [
+      "resolving power",
+      "Rayleigh's criterion",
+      "pupil size"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_002",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "RESOLVING POWER: THE RAYLEIGH'S CRITERION",
+    "concepts": [
+      "resolving power",
+      "limit of resolution",
+      "Rayleigh's criterion"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH23_S23_3_001",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "RESOLVING POWER: THE RAYLEIGH'S CRITERION",
+    "concepts": [
+      "resolving power",
+      "telescope",
+      "wire mesh",
+      "objective lens"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_003",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "RESOLVING POWER: THE RAYLEIGH'S CRITERION",
+    "concepts": [
+      "resolving power",
+      "limit of resolution",
+      "wavelength",
+      "refractive index",
+      "half-angle",
+      "formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_004",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "RESOLVING POWER: THE RAYLEIGH'S CRITERION",
+    "concepts": [
+      "magnification",
+      "telescope",
+      "microscope",
+      "resolving power",
+      "Rayleigh's criterion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_005",
+    "document_id": "NIOS_PHY_CH23",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Optical Instruments",
+    "section": "RESOLVING POWER: THE RAYLEIGH'S CRITERION",
+    "concepts": [
+      "resolving power",
+      "lenses",
+      "mirrors"
+    ]
+  }
+]

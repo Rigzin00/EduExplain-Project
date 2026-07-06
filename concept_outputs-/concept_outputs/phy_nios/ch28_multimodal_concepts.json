@@ -1,0 +1,477 @@
+[
+  {
+    "resource_id": "TXT_12_CH28_X_001",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": null,
+    "concepts": [
+      "semiconductor",
+      "electrical properties",
+      "Zener diode",
+      "solar cell",
+      "photodiode",
+      "LED",
+      "transistor"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_X_002",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": null,
+    "concepts": [
+      "energy bands",
+      "conductors",
+      "insulators"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_1_001",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "ENERGY BANDS IN SOLIDS",
+    "concepts": [
+      "energy bands in solids",
+      "bonding states",
+      "antibonding states"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_1_002",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "ENERGY BANDS IN SOLIDS",
+    "concepts": [
+      "conductor",
+      "semiconductor",
+      "insulator"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_2_001",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "INTRINSIC AND EXTRINSIC SEMICONDUCTORS",
+    "concepts": [
+      "intrinsic semiconductors",
+      "extrinsic semiconductors",
+      "impurities"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_2_002",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "INTRINSIC AND EXTRINSIC SEMICONDUCTORS",
+    "concepts": [
+      "electrons",
+      "free electrons",
+      "holes",
+      "thermal energy",
+      "electron-hole pairs",
+      "crystal lattice",
+      "conductivity",
+      "resistivity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_2_003",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "INTRINSIC AND EXTRINSIC SEMICONDUCTORS",
+    "concepts": [
+      "doping",
+      "extrinsic semiconductors",
+      "impurities"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_2_004",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "INTRINSIC AND EXTRINSIC SEMICONDUCTORS",
+    "concepts": [
+      "covalent bonding",
+      "doping",
+      "n-type semiconductor",
+      "p-type semiconductor"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_3_001",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "A p-n JUNCTION",
+    "concepts": [
+      "p-n junction",
+      "depletion region",
+      "potential barrier"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_3_002",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "A p-n JUNCTION",
+    "concepts": [
+      "p-n junction",
+      "donor impurities",
+      "acceptor impurities",
+      "depletion region",
+      "electric field",
+      "barrier potential"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_4_001",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "FORWARD AND REVERSE BIASED p-n JUNCTION",
+    "concepts": [
+      "p-n junction",
+      "forward biased",
+      "reverse biased",
+      "diode",
+      "AC"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_5_001",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "CHARACTERISTICS OF p-n JUNCTION DIODES",
+    "concepts": [
+      "current-voltage relationship",
+      "circuit design",
+      "electronic circuits"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_5_002",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "CHARACTERISTICS OF p-n JUNCTION DIODES",
+    "concepts": [
+      "p-n junction diode",
+      "forward bias characteristics",
+      "knee voltage"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_5_003",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "CHARACTERISTICS OF p-n JUNCTION DIODES",
+    "concepts": [
+      "p-n junction diode",
+      "reverse bias characteristics",
+      "breakdown voltage"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_6_001",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TYPES OF DIODES",
+    "concepts": [
+      "p-n junction diode",
+      "Zener diodes",
+      "photo-diodes",
+      "LED diodes",
+      "solar cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_6_002",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TYPES OF DIODES",
+    "concepts": [
+      "depletion layer",
+      "reverse bias voltage",
+      "breakdown voltage"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_6_003",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TYPES OF DIODES",
+    "concepts": [
+      "LEDs",
+      "forward current",
+      "light intensity",
+      "threshold voltage",
+      "reverse breakdown voltage"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_6_004",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TYPES OF DIODES",
+    "concepts": [
+      "photovoltage",
+      "external load",
+      "I-V characteristics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_6_005",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TYPES OF DIODES",
+    "concepts": [
+      "electrons",
+      "holes",
+      "depletion layer"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_7_001",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TRANSISTORS – pnp AND npn",
+    "concepts": [
+      "BJT",
+      "semiconductor device",
+      "pnp",
+      "npn",
+      "transistor",
+      "current flow",
+      "control",
+      "base region"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_7_002",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TRANSISTORS – pnp AND npn",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_7_003",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TRANSISTORS – pnp AND npn",
+    "concepts": [
+      "transistor",
+      "configuration",
+      "characteristics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_8_001",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TRANSISTOR CHARACTERISTICS",
+    "concepts": [
+      "amplifying behavior",
+      "electronic circuits",
+      "transistor characteristics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_8_002",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TRANSISTOR CHARACTERISTICS",
+    "concepts": [
+      "base-emitter voltage",
+      "collector current",
+      "collector-emitter voltage"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_8_003",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TRANSISTOR CHARACTERISTICS",
+    "concepts": [
+      "base current",
+      "base-emitter voltage",
+      "base-emitter junction",
+      "transistor characteristics",
+      "input resistance",
+      "output characteristics"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH28_S28_8_001",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TRANSISTOR CHARACTERISTICS",
+    "concepts": [
+      "current gain",
+      "transistor characteristics",
+      "electromagnetic induction"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH28_S28_8_002",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TRANSISTOR CHARACTERISTICS",
+    "concepts": [
+      "a.c. current gain",
+      "emitter current",
+      "collector current"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_8_004",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TRANSISTOR CHARACTERISTICS",
+    "concepts": [
+      "semiconductor",
+      "diode",
+      "transistor"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_8_005",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TRANSISTOR CHARACTERISTICS",
+    "concepts": [
+      "electrostatics",
+      "charges",
+      "electric field",
+      "electric forces",
+      "electric fields"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_8_006",
+    "document_id": "NIOS_PHY_CH28",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Semiconductors And Semiconducting Devices",
+    "section": "TRANSISTOR CHARACTERISTICS",
+    "concepts": [
+      "semiconductor device",
+      "terminal current",
+      "electronic circuits"
+    ]
+  }
+]

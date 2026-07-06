@@ -1,0 +1,148 @@
+[
+  {
+    "resource_id": "RCL_11_CH08_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Plant Tissues And Anatomy",
+    "section": null,
+    "concepts": [
+      "mitosis",
+      "chloroplast",
+      "transpiration"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Plant Tissues And Anatomy",
+    "section": "Tissue :",
+    "concepts": [
+      "tissue",
+      "organism",
+      "meristematic"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Plant Tissues And Anatomy",
+    "section": "Meristematic Tissue:",
+    "concepts": [
+      "meristem",
+      "apical meristem",
+      "lateral meristem",
+      "intercalary meristem"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Plant Tissues And Anatomy",
+    "section": "Permanent tissue:",
+    "concepts": [
+      "simple permanent tissues",
+      "complex permanent tissues",
+      "xylem",
+      "phloem"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_4_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Plant Tissues And Anatomy",
+    "section": "Tissue Systems: Plant tissues are derived from meristems and their structure and functions depend on the position. On the basis of their structure and location, three types of tissue systems are present viz. Epidermal tissue system, ground tissue system and vascular tissue system.",
+    "concepts": [
+      "epidermal tissue",
+      "ground tissue",
+      "vascular tissue"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_5_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Plant Tissues And Anatomy",
+    "section": "Secondary growth in plants:",
+    "concepts": [
+      "secondary growth",
+      "cambium ring",
+      "xylem",
+      "phloem"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_6_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Plant Tissues And Anatomy",
+    "section": "Wood:",
+    "concepts": [
+      "duramen",
+      "heartwood",
+      "sap wood"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_7_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Plant Tissues And Anatomy",
+    "section": "Cork cambium and secondary growth:",
+    "concepts": [
+      "vascular cambium",
+      "phellogen",
+      "periderm",
+      "lenticels",
+      "monocots"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_8_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Plant Tissues And Anatomy",
+    "section": "Anatomy of Root, Stem and Leaf:",
+    "concepts": [
+      "epiblema",
+      "cortex",
+      "endodermis",
+      "Casparian strip",
+      "stele",
+      "xylem",
+      "phloem",
+      "central pith",
+      "secondary growth"
+    ]
+  }
+]

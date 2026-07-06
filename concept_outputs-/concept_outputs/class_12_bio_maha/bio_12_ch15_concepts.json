@@ -1,0 +1,551 @@
+[
+  {
+    "resource_id": "RCL_12_CH15_X_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": null,
+    "concepts": [
+      "diversity",
+      "species",
+      "ecosystem",
+      "adaptation",
+      "survival"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Levels of Biodiversity:",
+    "concepts": [
+      "genetic diversity",
+      "species diversity",
+      "ecosystem diversity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Patterns of Biodiversity:",
+    "concepts": [
+      "species diversity",
+      "equator",
+      "intermediate elevations",
+      "species-area relationship"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH15_S15_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Patterns of Biodiversity:",
+    "concepts": [
+      "latitudinal gradient",
+      "altitudinal gradient",
+      "species richness"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH15_S15_2_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Patterns of Biodiversity:",
+    "concepts": [
+      "species diversity",
+      "ecosystem stability",
+      "biomass production",
+      "productivity-stability hypothesis",
+      "rivet popper hypothesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Biodiversity Current Scenario",
+    "concepts": [
+      "species",
+      "documented",
+      "temperate regions",
+      "tropical rainforests",
+      "unexplored",
+      "megadiverse countries",
+      "contribution",
+      "formally identified"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH15_S15_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Biodiversity Current Scenario",
+    "concepts": [
+      "DNA profiling",
+      "number of glands and scales",
+      "Hemidactylus varadgirii"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Loss of Biodiversity:",
+    "concepts": [
+      "mass extinction",
+      "species extinction",
+      "anthropogenic types"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH15_S15_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Loss of Biodiversity:",
+    "concepts": [
+      "flagship species",
+      "local extinction",
+      "overexploitation",
+      "extinction",
+      "alien species invasion",
+      "co-existence"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH15_S15_4_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Loss of Biodiversity:",
+    "concepts": [
+      "man-animals-conflict",
+      "forest-department-measures",
+      "elephants"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH15_S15_4_003",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Loss of Biodiversity:",
+    "concepts": [
+      "quantitative criteria for assessing extinction risk",
+      "species evaluation process",
+      "categories for placing species"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Conservation of Biodiversity:",
+    "concepts": [
+      "conservation",
+      "sustainability",
+      "species",
+      "habitats",
+      "traditional varieties"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH15_S15_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Conservation of Biodiversity:",
+    "concepts": [
+      "sacred groves",
+      "endangered species",
+      "tribal protection",
+      "ex situ conservation",
+      "seed banks"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Biological diversity Act 2002:",
+    "concepts": [
+      "biological diversity",
+      "Convention on Biological Diversity",
+      "National Biodiversity Authority"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH15_S15_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Biological diversity Act 2002:",
+    "concepts": [
+      "seed bank",
+      "wild varieties",
+      "seed selection"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Environmental issues:",
+    "concepts": [
+      "air pollution",
+      "greenhouse effect",
+      "carbon monoxide"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH15_S15_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Environmental issues:",
+    "concepts": [
+      "effects of CO on human body",
+      "nitrogen dioxide (NO₂) and nitrogen monoxide (NO)",
+      "combines with water vapours forms nitric acid",
+      "irritation to eyes and lungs",
+      "high concentration, injury to lungs, liver and kidneys",
+      "electrostatic precipitator",
+      "removes particulate matter like soot and dust",
+      "free electrons in the ionised air get attached to the gaseous/dust particles moving up the stack",
+      "negatively charged particles move towards the positive electrode and settle down there",
+      "reservoir",
+      "carbon foot print",
+      "measures to reduce your own carbon foot print",
+      "exhaust gas scrubbers"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH15_S15_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Environmental issues:",
+    "concepts": [
+      "air pollution",
+      "smog",
+      "winds"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH15_S15_7_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Environmental issues:",
+    "concepts": [
+      "noise pollution",
+      "sound absorption",
+      "decibel levels",
+      "public functions",
+      "festival"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH15_S15_7_003",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Environmental issues:",
+    "concepts": [
+      "water pollution",
+      "turbidity",
+      "pathogens"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH15_S15_7_004",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Environmental issues:",
+    "concepts": [
+      "domestic sewage",
+      "industrial effluents",
+      "water pollution",
+      "biodegradable organic matter",
+      "Biochemical Oxygen Demand (BOD)",
+      "microorganisms",
+      "planktonic free-floating algae",
+      "algal bloom"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH15_S15_7_005",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Environmental issues:",
+    "concepts": [
+      "thermal pollution",
+      "sudden rise in temperature",
+      "loss of flora and fauna"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH15_S15_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Environmental issues:",
+    "concepts": [
+      "ecosan",
+      "closed system",
+      "composting",
+      "organic manure",
+      "reverse osmosis"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH15_S15_7_006",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Environmental issues:",
+    "concepts": [
+      "solid waste management",
+      "environmental issues",
+      "mitosis"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH15_S15_7_007",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Environmental issues:",
+    "concepts": [
+      "solid waste",
+      "municipality",
+      "open dumps",
+      "sanitary landfills",
+      "chemical percolation",
+      "ground water contamination",
+      "biodegradable materials",
+      "non-biodegradable wastes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_8_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Greenhouse effect and Global warming:",
+    "concepts": [
+      "greenhouse effect",
+      "global warming",
+      "carbon dioxide",
+      "methane"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH15_S15_8_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Greenhouse effect and Global warming:",
+    "concepts": [
+      "global_warming",
+      "artificial_glaciers",
+      "ground_water_recharge"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_9_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Ozone depletion:",
+    "concepts": [
+      "ozone layer",
+      "ultraviolet radiation",
+      "chlorofluorocarbons (CFCs)",
+      "climatic change",
+      "ozone hole"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Deforestation:",
+    "concepts": [
+      "deforestation",
+      "tropical regions",
+      "agricultural expansion",
+      "timber",
+      "firewood"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH15_S15_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Deforestation:",
+    "concepts": [
+      "reforestation",
+      "deforestation",
+      "plantation",
+      "biodiversity",
+      "Saalumara Thimmakka",
+      "National Citizens Award",
+      "Padma Shri"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH15_S15_10_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Deforestation:",
+    "concepts": [
+      "chipko movement",
+      "conservation of forests",
+      "local communities"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_11_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Mission Harit Maharashtra:",
+    "concepts": [
+      "tree-planting project",
+      "forest cover",
+      "National Forest Policy",
+      "helpline",
+      "mobile apps",
+      "pilot programs",
+      "Miyawaki technique"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH15_S15_11_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Levels Of Biodiversity:",
+    "section": "Mission Harit Maharashtra:",
+    "concepts": [
+      "flooded areas",
+      "problems faced",
+      "types of problems"
+    ]
+  }
+]

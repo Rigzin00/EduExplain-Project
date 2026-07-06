@@ -1,0 +1,195 @@
+[
+  {
+    "resource_id": "TXT_11_CH03_S3_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Kingdom Plantae",
+    "section": "Kingdom plantae:",
+    "concepts": [
+      "seed presence",
+      "vascular tissue development",
+      "plant body differentiation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH03_S3_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Kingdom Plantae",
+    "section": "Salient features of major plant groups under Cryptogamae :",
+    "concepts": [
+      "thalloid structure",
+      "alternation of generations",
+      "Chlorella",
+      "Chlamydomonas",
+      "Spirogyra",
+      "Chara"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH03_S3_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Kingdom Plantae",
+    "section": "Salient features of major plant groups under Cryptogamae :",
+    "concepts": [
+      "plant body",
+      "photosynthetic pigments",
+      "chlorophyll-a",
+      "fucoxanthin",
+      "mannitol",
+      "starch",
+      "holdfast",
+      "frond",
+      "marine algae",
+      "hydrocolloids",
+      "agar-agar"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH03_S3_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Kingdom Plantae",
+    "section": "Salient features of major plant groups under Cryptogamae :",
+    "concepts": [
+      "kelp",
+      "sargasso sea",
+      "cryptogam"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH03_S3_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Kingdom Plantae",
+    "section": "Salient features of major plant groups under Cryptogamae :",
+    "concepts": [
+      "amphibious plants",
+      "life cycle of Bryophytes",
+      "gametophytic and sporophytic generations",
+      "rhizoids",
+      "liverworts",
+      "mosses"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH03_S3_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Kingdom Plantae",
+    "section": "Salient features of major plant groups under Phanerogamae:",
+    "concepts": [
+      "sporangia",
+      "gametophyte",
+      "megaspore",
+      "microspore"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH03_S3_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Kingdom Plantae",
+    "section": "Salient features of major plant groups under Phanerogamae:",
+    "concepts": [
+      "living fossil",
+      "Ginkgo biloba",
+      "Sequoia sempervirens",
+      "Taxodium mucronatum",
+      "Zamia pygmaea",
+      "Hibiscus",
+      "Peepal",
+      "Canna",
+      "Grass",
+      "Tulsi"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH03_S3_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Kingdom Plantae",
+    "section": "Salient features of major plant groups under Phanerogamae:",
+    "concepts": [
+      "heteromorphic alternation of generation",
+      "diploid",
+      "autotrophic",
+      "haploid",
+      "parasitic",
+      "megaspore",
+      "microspore"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH03_S3_3_002",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Kingdom Plantae",
+    "section": "Salient features of major plant groups under Phanerogamae:",
+    "concepts": [
+      "Angiosperm",
+      "Dicotyledonae",
+      "Monocotyledonae",
+      "cotyledon",
+      "tap root system",
+      "stem",
+      "reticulate venation",
+      "tetra- or pentamerous symmetry",
+      "vascular bundles",
+      "conjoint",
+      "collateral",
+      "open type",
+      "Cambium",
+      "secondary growth",
+      "Helianthus annuus",
+      "Hibiscus rosa-sinensis",
+      "Xylem",
+      "Phloem",
+      "Zeal mays",
+      "Sorghum vulgare"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH03_S3_4_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Kingdom Plantae",
+    "section": "Plant life cycle and alternation of generations:",
+    "concepts": [
+      "alternation of generations",
+      "sporophyte",
+      "gametophyte"
+    ]
+  }
+]

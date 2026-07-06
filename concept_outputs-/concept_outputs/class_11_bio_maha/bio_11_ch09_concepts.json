@@ -1,0 +1,96 @@
+[
+  {
+    "resource_id": "TXT_11_CH09_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Morphology Of Flowering Plants",
+    "section": null,
+    "concepts": [
+      "morphology",
+      "classification",
+      "identification"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH09_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Morphology Of Flowering Plants",
+    "section": null,
+    "concepts": [
+      "mitosis",
+      "chloroplast",
+      "transpiration"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Morphology Of Flowering Plants",
+    "section": "Angiosperms:",
+    "concepts": [
+      "seed germination",
+      "seedling growth",
+      "new plant development"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Morphology Of Flowering Plants",
+    "section": "Morphology:",
+    "concepts": [
+      "roots",
+      "stems",
+      "leaves",
+      "flowers",
+      "fruits",
+      "seeds"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH09_S9_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Morphology Of Flowering Plants",
+    "section": "Morphology:",
+    "concepts": [
+      "prop roots/columnar roots",
+      "stilt roots",
+      "climbing roots"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Morphology Of Flowering Plants",
+    "section": "Study of some important families:",
+    "concepts": [
+      "zygomorphic",
+      "diadelphous stamen",
+      "marginal placenta",
+      "legume fruit"
+    ]
+  }
+]

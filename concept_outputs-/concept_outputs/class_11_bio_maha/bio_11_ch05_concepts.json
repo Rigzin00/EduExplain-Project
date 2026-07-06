@@ -1,0 +1,181 @@
+[
+  {
+    "resource_id": "TXT_11_CH05_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Cell Structure And Organization",
+    "section": null,
+    "concepts": [
+      "cell structure",
+      "metabolism",
+      "growth"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Cell Structure And Organization",
+    "section": "Cell:",
+    "concepts": [
+      "cell",
+      "microscope",
+      "compound microscope",
+      "electron microscope"
+    ]
+  },
+  {
+    "resource_id": "ACT_11_CH05_S5_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Cell Structure And Organization",
+    "section": "Cell:",
+    "concepts": [
+      "totipotency",
+      "stem cells",
+      "mitosis"
+    ]
+  },
+  {
+    "resource_id": "SCI_11_CH05_S5_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "scientist_box",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Cell Structure And Organization",
+    "section": "Cell:",
+    "concepts": [
+      "cells",
+      "membrane",
+      "cell wall"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Cell Structure And Organization",
+    "section": "Kinds of cells:",
+    "concepts": [
+      "prokaryotic cells",
+      "cell envelope",
+      "motile bacteria",
+      "flagella",
+      "pili",
+      "fimbriae",
+      "mesosomes"
+    ]
+  },
+  {
+    "resource_id": "ACT_11_CH05_S5_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Cell Structure And Organization",
+    "section": "Kinds of cells:",
+    "concepts": [
+      "basal body",
+      "motor",
+      "cell membrane",
+      "ATP",
+      "mechanical energy"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH05_S5_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Cell Structure And Organization",
+    "section": "Kinds of cells:",
+    "concepts": [
+      "DNA replication",
+      "plasmids",
+      "extrachromosomal DNA"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH05_S5_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Cell Structure And Organization",
+    "section": "Kinds of cells:",
+    "concepts": [
+      "nucleus",
+      "cell organelles",
+      "plasma membrane"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Cell Structure And Organization",
+    "section": "Components of Eukaryotic cell:",
+    "concepts": [
+      "cell wall",
+      "cytoplasm",
+      "endoplasmic reticulum"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH05_S5_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Cell Structure And Organization",
+    "section": "Components of Eukaryotic cell:",
+    "concepts": [
+      "mitochondria",
+      "chloroplast",
+      "ATP synthase",
+      "proton pump",
+      "ATP synthesis"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH05_S5_3_002",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Cell Structure And Organization",
+    "section": "Components of Eukaryotic cell:",
+    "concepts": [
+      "chromatin material",
+      "DNA",
+      "histone",
+      "non-histone proteins",
+      "RNA",
+      "euchromatin",
+      "heterochromatin",
+      "mitosis"
+    ]
+  }
+]

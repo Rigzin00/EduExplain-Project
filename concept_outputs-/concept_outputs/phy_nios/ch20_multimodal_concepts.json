@@ -1,0 +1,435 @@
+[
+  {
+    "resource_id": "TXT_12_CH20_X_001",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": null,
+    "concepts": [
+      "light",
+      "ray",
+      "reflection",
+      "refraction",
+      "optical instrument",
+      "mirror",
+      "lens"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_X_002",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": null,
+    "concepts": [
+      "reflection",
+      "curved surface",
+      "spherical mirror",
+      "focal length",
+      "radius of curvature",
+      "optics",
+      "principle of reflection"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_1_001",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "REFLECTION OF LIGHT FROM SPHERICAL SURFACES",
+    "concepts": [
+      "laws of reflection",
+      "incident ray",
+      "reflected ray",
+      "normal",
+      "angle of incidence",
+      "angle of reflection",
+      "spherical surface",
+      "center of curvature",
+      "pole",
+      "principal axis",
+      "aperture",
+      "focal point",
+      "parallel rays",
+      "converge",
+      "appear to diverge",
+      "focal length",
+      "focal plane"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_1_002",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "REFLECTION OF LIGHT FROM SPHERICAL SURFACES",
+    "concepts": [
+      "real images",
+      "virtual images",
+      "ray diagrams"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_1_003",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "REFLECTION OF LIGHT FROM SPHERICAL SURFACES",
+    "concepts": [
+      "radius of curvature",
+      "focal length",
+      "Cartesian coordinate system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_2_001",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "DERIVATION OF MIRROR FORMULA",
+    "concepts": [
+      "mirror formula",
+      "magnification",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_3_001",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "REFRACTION OF LIGHT",
+    "concepts": [
+      "refraction",
+      "Snell's Law",
+      "refractive index"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_3_002",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "REFRACTION OF LIGHT",
+    "concepts": []
+  },
+  {
+    "resource_id": "EXP_12_CH20_S20_3_001",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "REFRACTION OF LIGHT",
+    "concepts": [
+      "Snell's Law",
+      "refractive index",
+      "angle of refraction"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH20_S20_3_002",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "REFRACTION OF LIGHT",
+    "concepts": [
+      "refractive index",
+      "speed of light",
+      "vacuum"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH20_S20_3_003",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "REFRACTION OF LIGHT",
+    "concepts": [
+      "relative refractive index",
+      "determination of optical density",
+      "optical density comparison"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_4_001",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "TOTAL INTERNAL REFLECTION",
+    "concepts": [
+      "total internal reflection",
+      "critical angle",
+      "angular momentum"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH20_S20_4_001",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "TOTAL INTERNAL REFLECTION",
+    "concepts": [
+      "critical angle",
+      "total internal reflection",
+      "refractive indices"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_4_002",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "TOTAL INTERNAL REFLECTION",
+    "concepts": [
+      "total internal reflection",
+      "prism",
+      "refraction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_5_001",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "REFRACTION AT A SPHERICAL SURFACE",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_5_002",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "REFRACTION AT A SPHERICAL SURFACE",
+    "concepts": [
+      "lens",
+      "refractive index",
+      "principal axis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_5_003",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "REFRACTION AT A SPHERICAL SURFACE",
+    "concepts": [
+      "refractive index",
+      "radii of curvature",
+      "principal axis",
+      "virtual image",
+      "lens maker's formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_5_004",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "REFRACTION AT A SPHERICAL SURFACE",
+    "concepts": [
+      "Newton's formula",
+      "similar triangles",
+      "focal length"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_5_005",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "REFRACTION AT A SPHERICAL SURFACE",
+    "concepts": [
+      "image formation by lenses",
+      "displacement method",
+      "lens formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_6_001",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "FORMATION OF IMAGES BY LENSES",
+    "concepts": [
+      "image formation by lenses",
+      "lens formula",
+      "object distance",
+      "focal length",
+      "image distance",
+      "focal point",
+      "ray diagram",
+      "lens equation"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH20_S20_6_001",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "FORMATION OF IMAGES BY LENSES",
+    "concepts": [
+      "focal length",
+      "lens maker's formula",
+      "refractive index"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_7_001",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "POWER OF A LENS",
+    "concepts": [
+      "dioptre",
+      "power of a lens",
+      "focal length",
+      "convex lens",
+      "concave lens",
+      "lens maker's formula"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH20_S20_7_001",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "POWER OF A LENS",
+    "concepts": [
+      "radius of curvature",
+      "lens maker's formula",
+      "optical power"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_8_001",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "COMBINATION OF LENSES",
+    "concepts": [
+      "combined effect",
+      "equivalent lens",
+      "focal length"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH20_S20_8_001",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "COMBINATION OF LENSES",
+    "concepts": [
+      "focal length",
+      "power",
+      "lens formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_8_002",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "COMBINATION OF LENSES",
+    "concepts": [
+      "object distance",
+      "image distance",
+      "magnification",
+      "Snell's law",
+      "total internal reflection",
+      "power of a lens",
+      "focal length"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_8_003",
+    "document_id": "NIOS_PHY_CH20",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Reflection And Refraction Of Light",
+    "section": "COMBINATION OF LENSES",
+    "concepts": [
+      "focal length",
+      "lens formula",
+      "optical instruments"
+    ]
+  }
+]

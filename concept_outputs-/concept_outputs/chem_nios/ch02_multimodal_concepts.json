@@ -1,0 +1,507 @@
+[
+  {
+    "resource_id": "TXT_12_CH02_X_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": null,
+    "concepts": [
+      "atomic theory",
+      "chemical properties",
+      "redox reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_X_002",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": null,
+    "concepts": [
+      "electrons",
+      "atoms",
+      "chemical bonding",
+      "half-filled orbitals",
+      "noble gas",
+      "elemental behavior"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_1_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "DISCOVERY OF FUNDAMENTAL PARTICLES OF ATOM",
+    "concepts": [
+      "electron",
+      "proton",
+      "neutron"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_2_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "ATOMIC NUMBER, MASS NUMBER, ISOTOPES AND ISOBARS",
+    "concepts": [
+      "atomic number",
+      "mass number",
+      "isotopes"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_2_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "ATOMIC NUMBER, MASS NUMBER, ISOTOPES AND ISOBARS",
+    "concepts": [
+      "atomic number",
+      "mass number",
+      "isotopes",
+      "isobars"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "EARLIER MODELS",
+    "concepts": [
+      "plum pudding model",
+      "atomic structure",
+      "electron"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_002",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "EARLIER MODELS",
+    "concepts": [
+      "positively charged sphere",
+      "embedded negatively charged electrons",
+      "plums in a pudding"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_003",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "EARLIER MODELS",
+    "concepts": [
+      "nucleus",
+      "electron",
+      "model"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "ELECTROMAGNETIC RADIATIONS",
+    "concepts": [
+      "electromagnetic radiation",
+      "oscillating electric and magnetic fields",
+      "traveling as waves",
+      "perpendicular to each other",
+      "direction of propagation",
+      "speed of light",
+      "visible light",
+      "heat",
+      "radio waves",
+      "X-rays",
+      "gamma rays"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_002",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "ELECTROMAGNETIC RADIATIONS",
+    "concepts": [
+      "amplitude",
+      "wavelength",
+      "frequency",
+      "wave number",
+      "velocity",
+      "quanta",
+      "photons"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_4_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "ELECTROMAGNETIC RADIATIONS",
+    "concepts": [
+      "characteristic parameters of electromagnetic radiation",
+      "Planck's equation",
+      "microwave radiation"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_4_002",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "ELECTROMAGNETIC RADIATIONS",
+    "concepts": [
+      "energy",
+      "photon",
+      "wavelength"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_003",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "ELECTROMAGNETIC RADIATIONS",
+    "concepts": [
+      "electromagnetic radiation",
+      "wavelength",
+      "frequency",
+      "wave number",
+      "visible spectrum",
+      "atomic structure",
+      "electron",
+      "nucleus",
+      "chemical bonding",
+      "molecule",
+      "shared electron",
+      "transferred electron"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_5_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "LINE SPECTRUM",
+    "concepts": [
+      "continuous spectrum",
+      "line spectrum",
+      "flame test"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_5_002",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "LINE SPECTRUM",
+    "concepts": [
+      "line spectrum",
+      "hydrogen line spectrum",
+      "Rydberg formula"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_5_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "LINE SPECTRUM",
+    "concepts": [
+      "Balmer formula",
+      "hydrogen atom",
+      "electronic transition",
+      "wavelength",
+      "spectral line"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_6_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "BOHR'S MODEL",
+    "concepts": [
+      "quantization",
+      "angular momentum",
+      "Bohr model"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_6_002",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "BOHR'S MODEL",
+    "concepts": [
+      "energy difference",
+      "stationary states",
+      "hydrogen electron",
+      "Planck's constant",
+      "frequency",
+      "emitted photon",
+      "Bohr's model",
+      "observed discrete line spectrum",
+      "specific energy transitions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_7_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "WAVE - PARTICLE DUALITY",
+    "concepts": [
+      "wave-like properties",
+      "particle-like properties",
+      "Louis de Broglie",
+      "Planck's constant",
+      "wavelength",
+      "de Broglie relation"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_7_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "WAVE - PARTICLE DUALITY",
+    "concepts": [
+      "wave-particle duality",
+      "de Broglie equation",
+      "cricket ball"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_8_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "HEISENBERG'S UNCERTAINTY PRINCIPLE",
+    "concepts": [
+      "position",
+      "momentum",
+      "Planck's constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_9_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "WAVE MECHANICAL MODEL OF ATOM",
+    "concepts": [
+      "wave function",
+      "Schrödinger wave equation",
+      "quantum numbers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_9_002",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "WAVE MECHANICAL MODEL OF ATOM",
+    "concepts": [
+      "principal quantum number",
+      "azimuthal quantum number",
+      "magnetic quantum number"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_9_003",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "WAVE MECHANICAL MODEL OF ATOM",
+    "concepts": [
+      "orbital",
+      "radial probability curve",
+      "spherical distribution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_10_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "ELECTRONIC CONFIGURATION OF ELEMENTS",
+    "concepts": [
+      "electronic configuration",
+      "quantum numbers",
+      "chemical reactions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_10_002",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "ELECTRONIC CONFIGURATION OF ELEMENTS",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_10_003",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "ELECTRONIC CONFIGURATION OF ELEMENTS",
+    "concepts": [
+      "Pauli's Exclusion Principle",
+      "quantum numbers",
+      "electronic configuration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_10_004",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "ELECTRONIC CONFIGURATION OF ELEMENTS",
+    "concepts": [
+      "electronic configuration",
+      "Hund's Rule",
+      "electron repulsion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_11_001",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "STABILITY OF COMPLETELY FILLED AND HALF FILLED SUBSHELLS",
+    "concepts": [
+      "stability_of_completely_filled_and_half_filled_subshells",
+      "exchange_energy",
+      "configuration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_11_002",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "STABILITY OF COMPLETELY FILLED AND HALF FILLED SUBSHELLS",
+    "concepts": [
+      "electrons",
+      "protons",
+      "neutrons",
+      "Planck's constant",
+      "wavelength",
+      "particle",
+      "velocity",
+      "momentum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_11_003",
+    "document_id": "NIOS_CHEM_CH02",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Atomic Structure",
+    "section": "STABILITY OF COMPLETELY FILLED AND HALF FILLED SUBSHELLS",
+    "concepts": [
+      "proton",
+      "electron",
+      "electromagnetic radiation",
+      "wavelength",
+      "Heisenberg's Uncertainty Principle",
+      "atomic orbital"
+    ]
+  }
+]

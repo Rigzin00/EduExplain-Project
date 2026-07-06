@@ -1,0 +1,267 @@
+[
+  {
+    "resource_id": "TXT_12_CH25_X_001",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": null,
+    "concepts": [
+      "halogen atoms",
+      "synthetic compounds",
+      "industrial applications"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_X_002",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": null,
+    "concepts": [
+      "halogen",
+      "haloalkane",
+      "halorena"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_1_001",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": "NOMENCLATURE OF HALOALKANES AND HALOARENES",
+    "concepts": [
+      "nomenclature",
+      "halogenation",
+      "parent alkane",
+      "halogen prefix"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_2_001",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": "PREPARATION OF HALOALKANES AND HALOARENES",
+    "concepts": [
+      "halogenation",
+      "sunlight",
+      "high temperatures",
+      "iodination",
+      "fluorination"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_2_002",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": "PREPARATION OF HALOALKANES AND HALOARENES",
+    "concepts": [
+      "halogenation",
+      "iron catalyst",
+      "oxidizing agent",
+      "diazonium salt",
+      "Sandmeyer reaction",
+      "Gattermann reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_3_001",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": "PROPERTIES OF HALOALKANES AND HALOARENES",
+    "concepts": [
+      "C—X bond",
+      "reactivity",
+      "stability"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_3_002",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": "PROPERTIES OF HALOALKANES AND HALOARENES",
+    "concepts": [
+      "polarization",
+      "bond lengthening",
+      "electronegativity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_3_003",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": "PROPERTIES OF HALOALKANES AND HALOARENES",
+    "concepts": [
+      "boiling points",
+      "halogen atoms",
+      "intermolecular van der Waals forces",
+      "monohalobenzenes",
+      "para-dihalobenzenes",
+      "enhanced molecular packing",
+      "symmetry"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_3_004",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": "PROPERTIES OF HALOALKANES AND HALOARENES",
+    "concepts": [
+      "nucleophilic substitution",
+      "halogen atom displacement",
+      "carbon atom bonding"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_3_005",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": "PROPERTIES OF HALOALKANES AND HALOARENES",
+    "concepts": [
+      "S<sub>N</sub>1",
+      "S<sub>N</sub>2",
+      "nucleophilic substitution reactions",
+      "haloalkanes",
+      "haloarenes",
+      "primary alkyl halides",
+      "tertiary alkyl halides",
+      "leaving group",
+      "carbocation intermediate"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_001",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": "SOME USEFUL POLY HALOGEN COMPOUNDS",
+    "concepts": [
+      "polyhalogen aliphatic and aromatic halogen compounds",
+      "chloroform (CHCl₃)",
+      "iodoform (CHI₃)",
+      "carbon tetrachloride (CCl₄)",
+      "benzene hexachloride (BHC)",
+      "DDT"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_002",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": "SOME USEFUL POLY HALOGEN COMPOUNDS",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_003",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": "SOME USEFUL POLY HALOGEN COMPOUNDS",
+    "concepts": [
+      "halogenation reaction",
+      "iodoform test",
+      "antiseptic property"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_004",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": "SOME USEFUL POLY HALOGEN COMPOUNDS",
+    "concepts": [
+      "DDT",
+      "mosquitoes",
+      "malaria",
+      "agricultural insecticides",
+      "environmental pollution",
+      "DDT accumulation",
+      "DDT toxicity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_005",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": "SOME USEFUL POLY HALOGEN COMPOUNDS",
+    "concepts": [
+      "substitution reactions",
+      "electrophilic aromatic substitution",
+      "halogen atoms"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_006",
+    "document_id": "NIOS_CHEM_CH25",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Compounds Of Carbon Containing Halogens (Haloalkanes And Haloarenes)",
+    "section": "SOME USEFUL POLY HALOGEN COMPOUNDS",
+    "concepts": [
+      "substitution reactions",
+      "halogen atoms",
+      "chlorine",
+      "nitrobenzene",
+      "copper chloride",
+      "chlorobenzene",
+      "hydrolysis",
+      "alcohol",
+      "olefin"
+    ]
+  }
+]

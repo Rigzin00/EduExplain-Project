@@ -1,0 +1,258 @@
+[
+  {
+    "resource_id": "TXT_12_CH08_X_001",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": null,
+    "concepts": [
+      "colloids",
+      "particles",
+      "intermediate size"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_X_002",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "conversion of light energy",
+      "chemical energy",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts",
+      "plant cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_1_001",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": "DISTINCTION BETWEEN A TRUE SOLUTION, COLLOIDAL SOLUTION AND SUSPENSION",
+    "concepts": [
+      "solute particles",
+      "true solutions",
+      "colloidal solutions",
+      "suspending particles",
+      "homogeneous mixture"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_001",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": "PHASES OF COLLOIDS SOLUTION",
+    "concepts": [
+      "colloids",
+      "dispersed phase",
+      "dispersion medium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_3_001",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": "CLASSIFICATION OF COLLOIDS",
+    "concepts": [
+      "colloidal solution",
+      "dispersed particle size",
+      "classification of colloids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_3_002",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": "CLASSIFICATION OF COLLOIDS",
+    "concepts": [
+      "colloid",
+      "affinity",
+      "stability"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_3_003",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": "CLASSIFICATION OF COLLOIDS",
+    "concepts": [
+      "macromolecular colloid",
+      "size range",
+      "natural occurrence"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_4_001",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": "PREPARATION OF COLLOIDAL SOLUTIONS",
+    "concepts": [
+      "lyophilic sols",
+      "lyophobic sols",
+      "colloidal solutions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_5_001",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": "PURIFICATION OF COLLOIDAL SOLUTION",
+    "concepts": [
+      "dialysis",
+      "semipermeable membrane",
+      "ion exchange",
+      "electrodialysis",
+      "electric field",
+      "oppositely charged electrodes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_001",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": "PROPERTIES OF COLLOIDS",
+    "concepts": [
+      "Brownian motion",
+      "Tyndall effect",
+      "electrostatic repulsion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_7_001",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": "COAGULATION OR PRECIPITATION",
+    "concepts": [
+      "coagulation",
+      "precipitation",
+      "coagulating ions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_7_002",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": "COAGULATION OR PRECIPITATION",
+    "concepts": [
+      "coagulation",
+      "lyophilic sols",
+      "electrolytes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_8_001",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": "APPLICATIONS OF COLLOIDAL SOLUTIONS",
+    "concepts": [
+      "colloidal solutions",
+      "sewage purification",
+      "alum treatment",
+      "Cottrell precipitator",
+      "smoke treatment",
+      "blue sky phenomenon"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_8_002",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": "EMULSION AND GEL",
+    "concepts": [
+      "emulsification",
+      "gel formation",
+      "nano materials"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_8_003",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": "EMULSION AND GEL",
+    "concepts": [
+      "solutions",
+      "homogeneous mixing",
+      "stability"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_8_004",
+    "document_id": "NIOS_CHEM_CH08",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Objectives",
+    "section": "EMULSION AND GEL",
+    "concepts": [
+      "colloids",
+      "true solutions",
+      "gel"
+    ]
+  }
+]

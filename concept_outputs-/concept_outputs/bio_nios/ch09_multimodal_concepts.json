@@ -1,0 +1,239 @@
+[
+  {
+    "resource_id": "TXT_12_CH09_X_001",
+    "document_id": "NIOS_BIO_CH09",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "",
+    "section": null,
+    "concepts": [
+      "essential nutrients",
+      "mineral nutrition",
+      "soil"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_1_001",
+    "document_id": "NIOS_BIO_CH09",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "",
+    "section": "WHAT IS PLANT NUTRITION",
+    "concepts": [
+      "photosynthesis",
+      "autotrophs",
+      "heterotrophs"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_2_001",
+    "document_id": "NIOS_BIO_CH09",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "",
+    "section": "MINERAL NUTRITION",
+    "concepts": [
+      "photosynthesis",
+      "mineral nutrition",
+      "deficiency symptoms"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_3_001",
+    "document_id": "NIOS_BIO_CH09",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "",
+    "section": "METHODS TO DETERMINE THE REQUIREMENT OF MINERALS FOR PLANT",
+    "concepts": [
+      "hydroponics",
+      "aeroponics",
+      "nutrient solution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_001",
+    "document_id": "NIOS_BIO_CH09",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "",
+    "section": "ESSENTIAL MINERAL ELEMENTS",
+    "concepts": [
+      "essentiality",
+      "metabolic processes",
+      "life cycle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_002",
+    "document_id": "NIOS_BIO_CH09",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "",
+    "section": "ESSENTIAL MINERAL ELEMENTS",
+    "concepts": [
+      "chlorophyll",
+      "essentiality",
+      "root absorption"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_003",
+    "document_id": "NIOS_BIO_CH09",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "",
+    "section": "ESSENTIAL MINERAL ELEMENTS",
+    "concepts": [
+      "essential elements",
+      "microelements",
+      "macroelements",
+      "nitrogen",
+      "potassium",
+      "calcium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_004",
+    "document_id": "NIOS_BIO_CH09",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "",
+    "section": "ESSENTIAL MINERAL ELEMENTS",
+    "concepts": [
+      "essential elements",
+      "photosynthesis",
+      "nitrogen fixation",
+      "mineral elements"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_001",
+    "document_id": "NIOS_BIO_CH09",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "",
+    "section": "ROLE OF MACRO AND MICRO NUTRIENTS",
+    "concepts": [
+      "chlorophyll synthesis",
+      "ferredoxin",
+      "cytochromes",
+      "catalase",
+      "photosynthesis",
+      "respiration",
+      "nitrogen metabolism",
+      "electron transfer",
+      "nitrogen fixation",
+      "nitrate reductase",
+      "water and calcium uptake",
+      "meristem activity",
+      "pollen tube growth",
+      "oxidase enzymes",
+      "plastocyanin"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_6_001",
+    "document_id": "NIOS_BIO_CH09",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "",
+    "section": "SYMPTOMS OF MINERAL DEFICIENCY IN PLANTS",
+    "concepts": [
+      "stunted growth",
+      "yellowing leaves",
+      "reduced fruit production"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_7_001",
+    "document_id": "NIOS_BIO_CH09",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "",
+    "section": "UPTAKE OF MINERAL ELEMENTS",
+    "concepts": [
+      "uptake",
+      "mineral elements",
+      "passive process",
+      "active process",
+      "xylem vessels"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_8_001",
+    "document_id": "NIOS_BIO_CH09",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "",
+    "section": "MODE OF NUTRITION IN PLANTS",
+    "concepts": [
+      "photosynthesis",
+      "autotrophs",
+      "heterotrophs",
+      "saprophytes",
+      "parasites",
+      "insects",
+      "pitcher plant",
+      "sundew"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_8_002",
+    "document_id": "NIOS_BIO_CH09",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "",
+    "section": "MODE OF NUTRITION IN PLANTS",
+    "concepts": [
+      "minerals",
+      "roots",
+      "metabolic processes",
+      "animals",
+      "food",
+      "nutrients",
+      "ingestion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_8_003",
+    "document_id": "NIOS_BIO_CH09",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "",
+    "section": "MODE OF NUTRITION IN PLANTS",
+    "concepts": [
+      "absorption",
+      "photosynthesis",
+      "respiration"
+    ]
+  }
+]

@@ -1,0 +1,334 @@
+[
+  {
+    "resource_id": "TXT_11_CH09_X_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": null,
+    "concepts": [
+      "covalent bond",
+      "four valence electrons",
+      "five valence electrons"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH09_X_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": null,
+    "concepts": [
+      "valence shell electronic configuration",
+      "periodic table",
+      "block"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Introduction: You have learnt in Chapter 7 that in the p-block elements the diffrentiating electron (the last filling electron) enters the outermost p orbital. You also know that maximum six electrons can be accommodated in p-subshell (or three p orbitals). This gives rise to six groups, group 13 to 18, in the p-block. The p-block elements show greater variation in the properties than 's' block, which you learnt in the previous chapter. In this chapter you are going to study the elements of the groups 13, 14 and 15 in some details.",
+    "concepts": [
+      "boron family",
+      "carbon family",
+      "nitrogen family"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Electronic configuration of elements of groups 13, 14 and 15",
+    "concepts": [
+      "electronic configuration",
+      "ionic radii",
+      "atomic radius"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_3_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Trends in atomic and physical properties of elements of groups 13, 14 and 15. : The elements of group 13 show a wide variation in properties. In group 13 boron is a metalloid. It is glossy and hard solid like metal but a poor electrical conductor (like nonmetals). The other elements in this group are fairly reactive metals. Aluminium is the third most abundant element in the earth's crust. Some physical and atomic propeties of group 13 elements are given in Table 9.2",
+    "concepts": [
+      "ionization enthalpy",
+      "nuclear charge",
+      "attraction between nucleus and valence electrons",
+      "carbon family",
+      "metalloids",
+      "reactivity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Chemical properties of the elements of the groups 13,14 and 15",
+    "concepts": [
+      "oxidation state",
+      "inert pair effect",
+      "thallium"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_4_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Chemical properties of the elements of the groups 13,14 and 15",
+    "concepts": [
+      "reactivity towards air/oxygen",
+      "chemical properties of elements",
+      "oxidation states"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_4_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Chemical properties of the elements of the groups 13,14 and 15",
+    "concepts": [
+      "reacts with water",
+      "forms aluminum hydroxide",
+      "produces hydrogen gas",
+      "protective oxide layer",
+      "requires storage under water"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_4_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Chemical properties of the elements of the groups 13,14 and 15",
+    "concepts": [
+      "trihalides",
+      "tetrahalides",
+      "d orbital"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_5_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Catenation : The property of self linking of atoms of an element by covalent bonds to form chains and rings is called catenation. The catenation tendency of an element depends upon the strength of the bond formed.",
+    "concepts": [
+      "catenation",
+      "covalent bond",
+      "carbon"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_6_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Allotropy: When a solid element exists in different crystalline forms with different physical properties such as colour, density, melting point, etc. the phenomenon is called allotropy and individual crystalline forms are called allotropes. Diamond and graphite are well known allotropes of carbon. Fullerenes, graphene and carbon nanotubes are other allotropes of carbon. Elements such as boron, bismuth, silicon, etc. of group 13, 14, and 15 exhibit allotropy. In this chapter we are going to look at some aspects of allotropes of carbon and phosphorous.",
+    "concepts": [
+      "allotropy",
+      "diamond",
+      "graphite",
+      "fullerenes",
+      "carbon nanotubes"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_6_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Allotropy: When a solid element exists in different crystalline forms with different physical properties such as colour, density, melting point, etc. the phenomenon is called allotropy and individual crystalline forms are called allotropes. Diamond and graphite are well known allotropes of carbon. Fullerenes, graphene and carbon nanotubes are other allotropes of carbon. Elements such as boron, bismuth, silicon, etc. of group 13, 14, and 15 exhibit allotropy. In this chapter we are going to look at some aspects of allotropes of carbon and phosphorous.",
+    "concepts": [
+      "allotropy",
+      "allotropes of carbon",
+      "allotropes of phosphorus"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH09_S9_7_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Molecular structures of some important compounds of the group 13, 14 and 15 elements",
+    "concepts": [
+      "covalent bond",
+      "molecular structure",
+      "bond length"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_7_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Molecular structures of some important compounds of the group 13, 14 and 15 elements",
+    "concepts": [
+      "sp² hybridization",
+      "vacant p orbital",
+      "aluminum chloride",
+      "dimer",
+      "lone pair of electrons",
+      "chlorine"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_7_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Molecular structures of some important compounds of the group 13, 14 and 15 elements",
+    "concepts": [
+      "trigonal planar units",
+      "layered crystal structure",
+      "hydrogen bonds"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_7_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Molecular structures of some important compounds of the group 13, 14 and 15 elements",
+    "concepts": [
+      "sp³ hybridization",
+      "banana bond",
+      "three-center-two-electron bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_7_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Molecular structures of some important compounds of the group 13, 14 and 15 elements",
+    "concepts": [
+      "covalent bond",
+      "tetrahedral arrangement",
+      "eight-membered rings"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_7_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Molecular structures of some important compounds of the group 13, 14 and 15 elements",
+    "concepts": [
+      "resonance",
+      "hybridisation",
+      "nitric acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_8_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Chemistry of notable compounds of elements of groups 13, 14 and 15 9.8.1 Borax (Na_2B_4O_7): It is one of the most important boron compound. The crystalline borax has formula Na_2B_4O_7. 10H_2O or Na_2[B_4O_5(OH)_4].8H_2O.",
+    "concepts": [
+      "hydrated sodium borate",
+      "chemical reaction",
+      "borax bead test",
+      "volatilization",
+      "qualitative analysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_8_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Chemistry of notable compounds of elements of groups 13, 14 and 15 9.8.1 Borax (Na_2B_4O_7): It is one of the most important boron compound. The crystalline borax has formula Na_2B_4O_7. 10H_2O or Na_2[B_4O_5(OH)_4].8H_2O.",
+    "concepts": [
+      "silicone polymers",
+      "ketone structure",
+      "hydrolysis",
+      "condensation polymerization",
+      "chain length control"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_8_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Elements Of Groups 13, 14 And 15",
+    "section": "Chemistry of notable compounds of elements of groups 13, 14 and 15 9.8.1 Borax (Na_2B_4O_7): It is one of the most important boron compound. The crystalline borax has formula Na_2B_4O_7. 10H_2O or Na_2[B_4O_5(OH)_4].8H_2O.",
+    "concepts": [
+      "ammonia production",
+      "Haber process",
+      "basic properties",
+      "reactivity",
+      "precipitation",
+      "complexation"
+    ]
+  }
+]

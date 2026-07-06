@@ -1,0 +1,436 @@
+[
+  {
+    "resource_id": "TXT_12_CH06_X_001",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": null,
+    "concepts": [
+      "work",
+      "energy",
+      "power"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_X_002",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": null,
+    "concepts": [
+      "work",
+      "energy",
+      "power",
+      "conservation of energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_1_001",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "WORK",
+    "concepts": [
+      "work",
+      "force",
+      "displacement"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH06_S6_1_001",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "WORK",
+    "concepts": [
+      "dimensional analysis",
+      "fundamental dimensions",
+      "work"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH06_S6_1_002",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "WORK",
+    "concepts": [
+      "work",
+      "force",
+      "displacement"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH06_S6_1_003",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "WORK",
+    "concepts": [
+      "work",
+      "force",
+      "gravity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_1_002",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "WORK",
+    "concepts": [
+      "work",
+      "force",
+      "displacement"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_1_003",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "WORK",
+    "concepts": [
+      "work done by the force of gravity",
+      "distinguishing work done by external forces vs gravitational force",
+      "sign of work"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_2_001",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "WORK DONE BY A VARIABLE FORCE",
+    "concepts": [
+      "displacement",
+      "force",
+      "work",
+      "variable force",
+      "integral",
+      "graph",
+      "interval"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_2_002",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "WORK DONE BY A VARIABLE FORCE",
+    "concepts": [
+      "spring constant",
+      "displacement",
+      "work done by a spring"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH06_S6_2_001",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "WORK DONE BY A VARIABLE FORCE",
+    "concepts": [
+      "work done by a variable force",
+      "Hooke's Law",
+      "stretching a spring"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_3_001",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "POWER",
+    "concepts": [
+      "power",
+      "watt",
+      "horsepower"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH06_S6_3_001",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "POWER",
+    "concepts": [
+      "dimensions",
+      "power",
+      "fundamental physical quantities"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_4_001",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "WORK AND KINETIC ENERGY",
+    "concepts": [
+      "work",
+      "kinetic energy",
+      "work-energy theorem"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH06_S6_4_001",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "WORK AND KINETIC ENERGY",
+    "concepts": [
+      "Newton's second law",
+      "work-energy theorem",
+      "kinetic energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_5_001",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "POTENTIAL ENERGY",
+    "concepts": [
+      "potential energy",
+      "gravitational potential energy",
+      "kinetic energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_5_002",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "POTENTIAL ENERGY",
+    "concepts": [
+      "gravitational potential energy",
+      "work-energy theorem",
+      "reference point"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH06_S6_5_001",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "POTENTIAL ENERGY",
+    "concepts": [
+      "gravitational field",
+      "work done",
+      "power output",
+      "average power"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH06_S6_5_002",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "POTENTIAL ENERGY",
+    "concepts": [
+      "potential_energy",
+      "gravitational_field",
+      "work_done",
+      "power_generation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_5_003",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "POTENTIAL ENERGY",
+    "concepts": [
+      "elastic potential energy",
+      "work-energy theorem",
+      "kinetic energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_5_004",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "POTENTIAL ENERGY",
+    "concepts": [
+      "conservation of energy",
+      "law of conservation of energy",
+      "thermal power station"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH06_S6_5_003",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "POTENTIAL ENERGY",
+    "concepts": [
+      "conservation of energy",
+      "potential energy",
+      "kinetic energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_5_005",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "POTENTIAL ENERGY",
+    "concepts": [
+      "conservative forces",
+      "non-conservative forces",
+      "friction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_6_001",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "ELASTIC AND INELASTIC COLLISIONS",
+    "concepts": [
+      "conservation of momentum",
+      "kinetic energy",
+      "elastic collisions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_6_002",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "ELASTIC AND INELASTIC COLLISIONS",
+    "concepts": [
+      "momentum",
+      "kinetic energy",
+      "velocities swapping",
+      "transfer of kinetic energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_6_003",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "ELASTIC AND INELASTIC COLLISIONS",
+    "concepts": [
+      "work-energy-theorem",
+      "elastic-potential-energy",
+      "conservative-force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_6_004",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "ELASTIC AND INELASTIC COLLISIONS",
+    "concepts": [
+      "work done by gravity",
+      "dot product of force and displacement vectors",
+      "spring constant",
+      "restoring force per unit displacement",
+      "work stored in a compressed or stretched spring",
+      "power",
+      "rate of doing work",
+      "kinetic energy",
+      "external forces"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_6_005",
+    "document_id": "NIOS_PHY_CH06",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Work Energy And Power",
+    "section": "ELASTIC AND INELASTIC COLLISIONS",
+    "concepts": [
+      "kinetic energy",
+      "work done",
+      "centripetal force"
+    ]
+  }
+]

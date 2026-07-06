@@ -1,0 +1,336 @@
+[
+  {
+    "resource_id": "TXT_12_CH12_S12_1_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Introduction:",
+    "concepts": [
+      "electromagnetic induction",
+      "Faraday's law of induction",
+      "induced current"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_2_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Faraday's Laws of Electromagnetic Induction: On the basis of experimental evidences, Faraday enunciated following laws concerning electromagnetic induction.",
+    "concepts": [
+      "Faraday's Law of Electromagnetic Induction",
+      "Lenz's Law",
+      "Magnetic Flux"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Lenz's Law:",
+    "concepts": [
+      "Lenz's Law",
+      "induced current",
+      "magnetic flux",
+      "induced emf",
+      "conservation of energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_3_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Lenz's Law:",
+    "concepts": [
+      "Lenz's Law",
+      "induced current",
+      "magnetic dipole",
+      "opposing motion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_3_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Lenz's Law:",
+    "concepts": [
+      "Lenz's Law",
+      "energy conservation",
+      "induced current"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_3_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Lenz's Law:",
+    "concepts": [
+      "electromagnetic induction",
+      "Lenz's Law",
+      "Faraday's Law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Flux of the Field:",
+    "concepts": [
+      "flux",
+      "magnetic field",
+      "area element",
+      "Faraday's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_5_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Motional Electromotive Force:",
+    "concepts": [
+      "motional electromotive force",
+      "Lorentz force",
+      "induced emf"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_6_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Induced emf in a Stationary Coil in a Changing Magnetic Field:",
+    "concepts": [
+      "induced emf",
+      "magnetic flux",
+      "coercivity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_7_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Generators:",
+    "concepts": [
+      "electromagnetic induction",
+      "conductor rotating in a magnetic field",
+      "cutting the magnetic lines of force",
+      "induced electromotive force (emf)",
+      "proportional to the speed of rotation",
+      "sinusoidal current",
+      "peak emf",
+      "frequency of the coil's rotation",
+      "commutator reversing connections",
+      "steady direct current (DC)",
+      "matching the reversals in current"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_8_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Back emf and back torque:",
+    "concepts": [
+      "electromotive force",
+      "induced emf",
+      "back emf"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_9_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Induction and Energy Transfer:",
+    "concepts": [
+      "Faraday's law",
+      "Lenz's law",
+      "magnetic flux"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_10_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Eddy Currents:",
+    "concepts": [
+      "eddy current",
+      "mechanical energy",
+      "heat"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_11_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Self-Inductance:",
+    "concepts": [
+      "self-inductance",
+      "magnetic flux",
+      "current",
+      "inductance",
+      "Henry"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_12_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Energy Stored in a Magnetic Field:",
+    "concepts": [
+      "energy",
+      "magnetic field",
+      "induction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_13_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Energy Density of a Magnetic Field:",
+    "concepts": [
+      "energy_density_of_magnetic_field",
+      "self-inductance",
+      "magnetic_field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_14_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Mutual Inductance (M):",
+    "concepts": [
+      "mutual inductance",
+      "magnetic flux",
+      "current",
+      "coefficient of coupling"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_14_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Mutual Inductance (M):",
+    "concepts": [
+      "mutual inductance",
+      "self inductance",
+      "coefficient of coupling"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_15_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Transformer:",
+    "concepts": [
+      "mutual inductance",
+      "transformer",
+      "alternating current",
+      "primary coil",
+      "secondary coil",
+      "turns ratio",
+      "ideal transformer"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH12_S12_15_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Transformer:",
+    "concepts": [
+      "electromagnetic induction",
+      "transformer",
+      "back emf"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH12_S12_15_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Electromagnetic Induction",
+    "section": "Transformer:",
+    "concepts": [
+      "induced emf",
+      "mutual inductance",
+      "magnetic flux linkage"
+    ]
+  }
+]

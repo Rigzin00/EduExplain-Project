@@ -1,0 +1,287 @@
+[
+  {
+    "resource_id": "TXT_11_CH02_X_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": null,
+    "concepts": [
+      "substance identification",
+      "composition determination",
+      "sample analysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Introduction: Analytical chemistry facilitates investigation chemical composition of substances. It uses the instruments and methods to separate, identify and quantify the matter under study. The analysis thus provides chemical or physical information about a sample. Analysis may be qualitative or quantitative. Qualitative analysis is concerned with the detection of the presence or absence of elements in compounds and mixture of compounds. Quantitative analysis deals with the determination of the relative proportions of elements in compounds and mixture compounds.",
+    "concepts": [
+      "qualitative analysis",
+      "quantitative analysis",
+      "instrumental techniques"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Analysis: Analysis is carried out on a small sample of the material to be tested, and not on the entire bulk. When the amount of a solid or liquid sample is a few grams, the analysis is called semi-microanalysis. It is of two types: qualitative and quantitative. Classical qualitative analysis methods include separations such as precipitation, extraction and distillation. Identification may be based on differences in colour, odour, melting point, boiling point, and reactivity. Classical quantitative methods consist of volumetric analysis, gravimetric analysis, etc.",
+    "concepts": [
+      "separation techniques",
+      "identification methods",
+      "quantitative analysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_3_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Mathematical operation and error analysis: The accuracy of measurement is of a great concern in analytical chemistry. Also there can be intrinsic errors in the analytical measurement. The numerical data, obtained experimentally, are treated mathematically to reach some quantitative conclusion. Therefore, an anlytical chemist has to know how to report the quantitative analytical data, indicating the extent of the accuracy of measurement, perform the mathematical operation and properly express the quatitative error in the result. In the following subsection we will consider these aspects related to measurements and calculation.",
+    "concepts": [
+      "scientific notation",
+      "coefficient adjustment",
+      "arithmetic operations"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_3_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Mathematical operation and error analysis: The accuracy of measurement is of a great concern in analytical chemistry. Also there can be intrinsic errors in the analytical measurement. The numerical data, obtained experimentally, are treated mathematically to reach some quantitative conclusion. Therefore, an anlytical chemist has to know how to report the quantitative analytical data, indicating the extent of the accuracy of measurement, perform the mathematical operation and properly express the quatitative error in the result. In the following subsection we will consider these aspects related to measurements and calculation.",
+    "concepts": [
+      "accuracy",
+      "precision",
+      "error analysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_3_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Mathematical operation and error analysis: The accuracy of measurement is of a great concern in analytical chemistry. Also there can be intrinsic errors in the analytical measurement. The numerical data, obtained experimentally, are treated mathematically to reach some quantitative conclusion. Therefore, an anlytical chemist has to know how to report the quantitative analytical data, indicating the extent of the accuracy of measurement, perform the mathematical operation and properly express the quatitative error in the result. In the following subsection we will consider these aspects related to measurements and calculation.",
+    "concepts": [
+      "significant figures",
+      "precision",
+      "measuring instruments",
+      "accuracy",
+      "measurement",
+      "error analysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_3_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Mathematical operation and error analysis: The accuracy of measurement is of a great concern in analytical chemistry. Also there can be intrinsic errors in the analytical measurement. The numerical data, obtained experimentally, are treated mathematically to reach some quantitative conclusion. Therefore, an anlytical chemist has to know how to report the quantitative analytical data, indicating the extent of the accuracy of measurement, perform the mathematical operation and properly express the quatitative error in the result. In the following subsection we will consider these aspects related to measurements and calculation.",
+    "concepts": [
+      "significant figures",
+      "rounding off",
+      "measurement precision"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Determination of molecular formula:",
+    "concepts": [
+      "molecular formula",
+      "percent elemental composition",
+      "molar mass"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_4_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Determination of molecular formula:",
+    "concepts": [
+      "percent composition",
+      "empirical formula",
+      "molecular formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_5_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Chemical reactions and stoichiometric calculations",
+    "concepts": [
+      "stoichiometry",
+      "balanced chemical equation",
+      "moles"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_5_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Chemical reactions and stoichiometric calculations",
+    "concepts": [
+      "stoichiometry",
+      "chemical reactions",
+      "reactants",
+      "products",
+      "carbon dioxide",
+      "water",
+      "calcium carbonate",
+      "decomposition",
+      "calculated amounts",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_2_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "g of propane will require",
+    "concepts": [
+      "stoichiometry",
+      "mass-to-volume conversion",
+      "chemical equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_6_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Limiting reagent",
+    "concepts": [
+      "limiting reagent",
+      "reactant stoichiometry",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_6_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Limiting reagent",
+    "concepts": [
+      "mole fraction",
+      "solution concentration",
+      "substance A",
+      "substance B"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_6_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Limiting reagent",
+    "concepts": [
+      "molarity",
+      "solution preparation",
+      "temperature effect on molarity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_6_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Limiting reagent",
+    "concepts": [
+      "molality",
+      "mole concept",
+      "density"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_8_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Use of graph in analysis: Analytical chemistry also involves deducing some relation, if any, between two or more properties of matter under study. One of the classic example in the relation between temperature and volume of a given amount of gas. A set of experimentally measured values of volume and temperature of a definite mass of a gas upon plotting on a graph paper appeared as in the figure (Fig. 2.2 (a. When the points are directly connected, a zig zag pattern results (Fig. 2.2 (b. From this pattern no meaningful result can be deduced. A zig zag pattern results due to many types of errors that incur in many measurements involved an experiment. Figure 2.2 (c) shows a smooth curve which may be called an average curve passing through these",
+    "concepts": [
+      "graphing",
+      "empirical formula determination",
+      "stoichiometry"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH02_S2_8_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Introduction To Analytical Chemistry",
+    "section": "Use of graph in analysis: Analytical chemistry also involves deducing some relation, if any, between two or more properties of matter under study. One of the classic example in the relation between temperature and volume of a given amount of gas. A set of experimentally measured values of volume and temperature of a definite mass of a gas upon plotting on a graph paper appeared as in the figure (Fig. 2.2 (a. When the points are directly connected, a zig zag pattern results (Fig. 2.2 (b. From this pattern no meaningful result can be deduced. A zig zag pattern results due to many types of errors that incur in many measurements involved an experiment. Figure 2.2 (c) shows a smooth curve which may be called an average curve passing through these",
+    "concepts": [
+      "graph",
+      "temperature",
+      "volume",
+      "gas",
+      "zigzag pattern",
+      "smooth curve",
+      "average curve"
+    ]
+  }
+]

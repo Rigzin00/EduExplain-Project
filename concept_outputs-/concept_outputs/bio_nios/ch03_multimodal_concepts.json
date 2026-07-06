@@ -1,0 +1,237 @@
+[
+  {
+    "resource_id": "TXT_12_CH03_X_001",
+    "document_id": "NIOS_BIO_CH03",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kingdoms Plantae And Animalia",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "multicellular",
+      "consumption"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_X_002",
+    "document_id": "NIOS_BIO_CH03",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kingdoms Plantae And Animalia",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts",
+      "plant cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_1_001",
+    "document_id": "NIOS_BIO_CH03",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kingdoms Plantae And Animalia",
+    "section": "MAIN DIVISIONS OF KINGDOM PLANTAE (PLANTS)",
+    "concepts": [
+      "photosynthesis",
+      "cellulose",
+      "divisions of plantae"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_2_001",
+    "document_id": "NIOS_BIO_CH03",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kingdoms Plantae And Animalia",
+    "section": "BRYOPHYTA (BRYOPHYTES)",
+    "concepts": [
+      "alternation of generations",
+      "gametophyte",
+      "sporophyte"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_3_001",
+    "document_id": "NIOS_BIO_CH03",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kingdoms Plantae And Animalia",
+    "section": "PTERIDOPHYTA (PTERIDOPHYTES)",
+    "concepts": [
+      "alternation of generations",
+      "gametophyte",
+      "sporophyte"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_4_001",
+    "document_id": "NIOS_BIO_CH03",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kingdoms Plantae And Animalia",
+    "section": "GYMSOSPERMAE (GYMNOS; NAKED, SPERMA; SEED)",
+    "concepts": [
+      "gymnosperm",
+      "ovule",
+      "cones",
+      "chilgoza",
+      "turpentine"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_5_001",
+    "document_id": "NIOS_BIO_CH03",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kingdoms Plantae And Animalia",
+    "section": "ANGIOSPERMAE",
+    "concepts": [
+      "dicotyledons",
+      "monocotyledons",
+      "gymnosperms"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_5_002",
+    "document_id": "NIOS_BIO_CH03",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kingdoms Plantae And Animalia",
+    "section": "ANGIOSPERMAE",
+    "concepts": [
+      "zygomorphic",
+      "complete flower",
+      "sepals",
+      "petals",
+      "papilionaceous pattern",
+      "gynoecium",
+      "superior gynoecium",
+      "marginal placenta"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_6_001",
+    "document_id": "NIOS_BIO_CH03",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kingdoms Plantae And Animalia",
+    "section": "KINGDOM ANIMALIA",
+    "concepts": [
+      "fundamental characteristics",
+      "evolutionary relationships",
+      "common features"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_6_002",
+    "document_id": "NIOS_BIO_CH03",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kingdoms Plantae And Animalia",
+    "section": "KINGDOM ANIMALIA",
+    "concepts": [
+      "symmetry",
+      "body cavity",
+      "embryo development"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_6_003",
+    "document_id": "NIOS_BIO_CH03",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kingdoms Plantae And Animalia",
+    "section": "KINGDOM ANIMALIA",
+    "concepts": [
+      "simple body structure",
+      "radially symmetrical body",
+      "digestive cavity",
+      "gastrovascular cavity",
+      "flatworms",
+      "free-living species",
+      "parasitic forms"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_9_001",
+    "document_id": "NIOS_BIO_CH03",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kingdoms Plantae And Animalia",
+    "section": "PHYLUM CHORDATA",
+    "concepts": [
+      "Urochordata",
+      "Vertebrata",
+      "Cephalochordata"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_9_002",
+    "document_id": "NIOS_BIO_CH03",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kingdoms Plantae And Animalia",
+    "section": "PHYLUM CHORDATA",
+    "concepts": [
+      "evolution",
+      "natural selection",
+      "genetic variation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_9_003",
+    "document_id": "NIOS_BIO_CH03",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kingdoms Plantae And Animalia",
+    "section": "PHYLUM CHORDATA",
+    "concepts": [
+      "reproductive structures",
+      "gills",
+      "pairs of gills",
+      "cartilaginous fishes",
+      "bony fishes",
+      "animal kingdom",
+      "phylum",
+      "Cnidaria",
+      "Arthropoda",
+      "Annelida",
+      "Platyhelminthes"
+    ]
+  }
+]

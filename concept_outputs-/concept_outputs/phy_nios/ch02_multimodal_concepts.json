@@ -1,0 +1,503 @@
+[
+  {
+    "resource_id": "TXT_12_CH02_X_001",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": null,
+    "concepts": [
+      "motion",
+      "straight line",
+      "comprehending"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_X_002",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "chemical energy",
+      "glucose production",
+      "glucose storage"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_1_001",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "SPEED AND VELOCITY",
+    "concepts": [
+      "displacement",
+      "vector quantity",
+      "scalar quantity",
+      "velocity",
+      "rate of change",
+      "distance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_1_002",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "SPEED AND VELOCITY",
+    "concepts": [
+      "average velocity",
+      "displacement",
+      "time",
+      "change in position",
+      "change in time",
+      "distance traveled",
+      "total time"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_1_001",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "SPEED AND VELOCITY",
+    "concepts": [
+      "average velocity",
+      "position function",
+      "time interval"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_1_002",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "SPEED AND VELOCITY",
+    "concepts": [
+      "average speed",
+      "average velocity",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_1_003",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "SPEED AND VELOCITY",
+    "concepts": [
+      "relative velocity",
+      "simplification of two-body motion problems",
+      "position and velocity changes"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_1_003",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "SPEED AND VELOCITY",
+    "concepts": [
+      "relative velocity",
+      "constant speed",
+      "opposite directions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_1_004",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "SPEED AND VELOCITY",
+    "concepts": [
+      "acceleration",
+      "velocity",
+      "time rate of change of velocity",
+      "vector quantity",
+      "meters per second squared"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_1_004",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "SPEED AND VELOCITY",
+    "concepts": [
+      "acceleration",
+      "velocity",
+      "time period"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_2_001",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "POSITION - TIME GRAPH",
+    "concepts": [
+      "position",
+      "time",
+      "graph"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_2_002",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "POSITION - TIME GRAPH",
+    "concepts": [
+      "uniform motion",
+      "position-time graph",
+      "straight line"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_2_003",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "POSITION - TIME GRAPH",
+    "concepts": [
+      "acceleration",
+      "deceleration",
+      "instantaneous velocity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_2_004",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "POSITION - TIME GRAPH",
+    "concepts": [
+      "rest",
+      "uniform motion",
+      "average velocity"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_2_001",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "POSITION - TIME GRAPH",
+    "concepts": [
+      "instantaneous velocity",
+      "average velocity",
+      "non-uniform motion"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_2_002",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "POSITION - TIME GRAPH",
+    "concepts": [
+      "distance traveled",
+      "average speed",
+      "uniform motion",
+      "non-uniform motion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_001",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "VELOCITY - TIME GRAPH",
+    "concepts": [
+      "velocity-time graph",
+      "time axis",
+      "y-axis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_002",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "VELOCITY - TIME GRAPH",
+    "concepts": [
+      "velocity-time graph",
+      "uniform motion",
+      "varying acceleration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_003",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "VELOCITY - TIME GRAPH",
+    "concepts": [
+      "constant acceleration",
+      "velocity-time graph",
+      "area under curve"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_3_001",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "VELOCITY - TIME GRAPH",
+    "concepts": [
+      "velocity-time graph",
+      "acceleration",
+      "distance traveled"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_001",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "EQUATIONS OF MOTION",
+    "concepts": [
+      "distance",
+      "velocity",
+      "acceleration",
+      "equations of motion",
+      "constant acceleration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_002",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "EQUATIONS OF MOTION",
+    "concepts": [
+      "average velocity",
+      "change in position",
+      "elapsed time",
+      "initial position",
+      "final position"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_003",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "EQUATIONS OF MOTION",
+    "concepts": [
+      "equation_of_motion",
+      "velocity",
+      "acceleration"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_4_001",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "EQUATIONS OF MOTION",
+    "concepts": [
+      "acceleration",
+      "uniformly accelerated motion",
+      "kinematics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_004",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "EQUATIONS OF MOTION",
+    "concepts": [
+      "equation_of_motion",
+      "second_equation_of_uniform_acceleration_motion",
+      "constant_acceleration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_005",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "EQUATIONS OF MOTION",
+    "concepts": [
+      "equation",
+      "displacement",
+      "acceleration"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_4_002",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "EQUATIONS OF MOTION",
+    "concepts": [
+      "kinematic equations",
+      "constant acceleration",
+      "motorcyclist",
+      "straight road",
+      "position",
+      "velocity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_5_001",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "MOTION UNDER GRAVITY",
+    "concepts": [
+      "gravitational force",
+      "acceleration due to gravity",
+      "Galileo Galilei"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH02_S2_5_001",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "MOTION UNDER GRAVITY",
+    "concepts": [
+      "kinematic equations",
+      "gravitational acceleration",
+      "free fall motion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_6_001",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "CONCEPT OF DIFFERENTIATION AND INTEGRATION",
+    "concepts": [
+      "differentiation",
+      "integration",
+      "work"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_6_002",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "CONCEPT OF DIFFERENTIATION AND INTEGRATION",
+    "concepts": [
+      "differentiation",
+      "integration",
+      "calculus"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_6_003",
+    "document_id": "NIOS_PHY_CH02",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Motion In A Straight Line",
+    "section": "CONCEPT OF DIFFERENTIATION AND INTEGRATION",
+    "concepts": [
+      "kinematic equations",
+      "average acceleration",
+      "displacement"
+    ]
+  }
+]

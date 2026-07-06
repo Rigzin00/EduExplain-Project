@@ -1,0 +1,654 @@
+[
+  {
+    "resource_id": "TXT_12_CH05_X_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": null,
+    "concepts": [
+      "solid",
+      "liquid",
+      "gas",
+      "distance between molecules",
+      "intermolecular forces",
+      "temperature",
+      "pressure",
+      "Boyle's law",
+      "Charles' law",
+      "Avogadro's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_X_002",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": null,
+    "concepts": [
+      "solids",
+      "liquids",
+      "gases",
+      "plasma",
+      "ionization",
+      "temperature",
+      "extremely high"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_1_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "THE THREE STATES OF MATTER",
+    "concepts": [
+      "solid",
+      "liquid",
+      "gas"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_2_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "INTERMOLECULAR INTERACTIONS",
+    "concepts": [
+      "intermolecular interactions",
+      "intramolecular bonds",
+      "condensed phases"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_2_002",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "INTERMOLECULAR INTERACTIONS",
+    "concepts": [
+      "London forces",
+      "dipole-dipole forces",
+      "hydrogen bonding"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "GENERAL BEHAVIOUR OF GASES: THE GAS LAWS",
+    "concepts": [
+      "directly proportional",
+      "inversely proportional",
+      "ideal gas law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_002",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "GENERAL BEHAVIOUR OF GASES: THE GAS LAWS",
+    "concepts": [
+      "pressure",
+      "volume",
+      "temperature",
+      "Boyle's law"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH05_S5_3_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "GENERAL BEHAVIOUR OF GASES: THE GAS LAWS",
+    "concepts": [
+      "pressure",
+      "volume",
+      "temperature",
+      "Boyle's law"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH05_S5_3_002",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "GENERAL BEHAVIOUR OF GASES: THE GAS LAWS",
+    "concepts": [
+      "pressure",
+      "volume",
+      "temperature",
+      "Boyle's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_003",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "GENERAL BEHAVIOUR OF GASES: THE GAS LAWS",
+    "concepts": [
+      "volume",
+      "absolute temperature",
+      "temperature increase",
+      "gas law",
+      "Charles' Law",
+      "directly proportional",
+      "absolute zero",
+      "Kelvin scale"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_004",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "GENERAL BEHAVIOUR OF GASES: THE GAS LAWS",
+    "concepts": [
+      "pressure",
+      "temperature",
+      "gas law"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH05_S5_3_003",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "GENERAL BEHAVIOUR OF GASES: THE GAS LAWS",
+    "concepts": [
+      "Charles's Law",
+      "temperature",
+      "pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_005",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "GENERAL BEHAVIOUR OF GASES: THE GAS LAWS",
+    "concepts": [
+      "volume",
+      "number of molecules",
+      "Avogadro's number"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH05_S5_3_004",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "GENERAL BEHAVIOUR OF GASES: THE GAS LAWS",
+    "concepts": [
+      "Avogadro's Law",
+      "equal volumes of gases",
+      "temperature and pressure",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH05_S5_3_005",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "GENERAL BEHAVIOUR OF GASES: THE GAS LAWS",
+    "concepts": [
+      "Avogadro's Law",
+      "equal volumes of gases",
+      "temperature and pressure",
+      "molecules",
+      "equal numbers of molecules"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_006",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "THE IDEAL GAS EQUATION",
+    "concepts": [
+      "volume",
+      "pressure",
+      "temperature",
+      "number of moles",
+      "Kelvin",
+      "ideal gas equation"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH05_S5_3_006",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "THE IDEAL GAS EQUATION",
+    "concepts": [
+      "ideal gas law",
+      "pressure calculation",
+      "moles"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_4_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "DALTONS' LAW OF PARTIAL PRESSURE",
+    "concepts": [
+      "Dalton's Law of partial pressures",
+      "partial pressure",
+      "mole fraction",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH05_S5_4_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "DALTONS' LAW OF PARTIAL PRESSURE",
+    "concepts": [
+      "partial pressure",
+      "mole fraction",
+      "Dalton's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_5_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "GRAHAM'S LAW OF DIFFUSION",
+    "concepts": [
+      "diffusion",
+      "Graham's law",
+      "density",
+      "effusion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_6_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "GAY LUSSAC'S LAW OF COMBINING VOLUMES",
+    "concepts": [
+      "Gay Lussac's law of combining volumes",
+      "Dalton's atomic theory",
+      "Avogadro's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_7_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "KINETIC MOLECULAR THEOY OF GASES (ACCOUNTING FOR THE GAS LAWS)",
+    "concepts": [
+      "kinetic molecular theory of gases",
+      "root mean square velocity",
+      "gas laws"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_7_002",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "KINETIC MOLECULAR THEOY OF GASES (ACCOUNTING FOR THE GAS LAWS)",
+    "concepts": [
+      "root mean square velocity",
+      "molecular speed distribution",
+      "gas law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_7_003",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "KINETIC MOLECULAR THEOY OF GASES (ACCOUNTING FOR THE GAS LAWS)",
+    "concepts": [
+      "average velocity",
+      "kinetic molecular theory",
+      "gas law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_8_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "DISTRIBUTION OF MOLECULAR SPEEDS",
+    "concepts": [
+      "molecular motion",
+      "Maxwell-Boltzmann Distribution Law",
+      "speed distribution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_9_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "DEVIATION FROM IDEAL GAS BAHAVIOUR",
+    "concepts": [
+      "ideal gas law",
+      "compressibility factor Z",
+      "van der Waals' equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_10_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "LIQUEFACTION OF GAS",
+    "concepts": [
+      "liquefaction",
+      "critical temperature",
+      "pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_11_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "NATURE OF LIQUIDS",
+    "concepts": [
+      "gaseous state",
+      "liquid state",
+      "solid state",
+      "intermolecular forces",
+      "fixed, ordered structure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_12_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "PROPERTIES OF LIQUIDS",
+    "concepts": [
+      "hydrogen bonding",
+      "van der Waals forces",
+      "surface tension",
+      "viscosity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_12_002",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "PROPERTIES OF LIQUIDS",
+    "concepts": [
+      "definite volume",
+      "intermolecular forces",
+      "flowability"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_12_003",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "PROPERTIES OF LIQUIDS",
+    "concepts": [
+      "compressibility",
+      "liquid state",
+      "gas state"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_12_004",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "PROPERTIES OF LIQUIDS",
+    "concepts": [
+      "diffusion",
+      "molecules",
+      "liquid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_12_005",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "PROPERTIES OF LIQUIDS",
+    "concepts": [
+      "evaporation",
+      "kinetic energy",
+      "intermolecular forces"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_13_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "VAPOUR PRESSURE AND BOILING POINT",
+    "concepts": [
+      "vapour pressure",
+      "boiling point",
+      "atmospheric pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_13_002",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "VAPOUR PRESSURE AND BOILING POINT",
+    "concepts": [
+      "equilibrium",
+      "vapor pressure",
+      "saturated vapor pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_13_003",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "VAPOUR PRESSURE AND BOILING POINT",
+    "concepts": [
+      "vapor pressure",
+      "boiling point",
+      "atmospheric pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_13_004",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "VAPOUR PRESSURE AND BOILING POINT",
+    "concepts": [
+      "evaporation",
+      "boiling",
+      "vapor pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_14_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "SURFACE TENSION",
+    "concepts": [
+      "surface tension",
+      "minimizes surface area",
+      "wetting",
+      "non-wetting properties",
+      "capillary action",
+      "curved menisci"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_15_001",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "VISCOSITY",
+    "concepts": [
+      "viscosity",
+      "coefficient of viscosity",
+      "poise"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_15_002",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "VISCOSITY",
+    "concepts": [
+      "kinetic energy",
+      "fixed shape",
+      "container",
+      "volume"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_15_003",
+    "document_id": "NIOS_CHEM_CH05",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "The Gaseous And Liquid State",
+    "section": "VISCOSITY",
+    "concepts": [
+      "Boyle's Law",
+      "Avogadro's Law",
+      "dispersion forces",
+      "dipole-dipole interactions",
+      "ideal gas law",
+      "compressibility factor"
+    ]
+  }
+]

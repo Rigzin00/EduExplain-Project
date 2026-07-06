@@ -1,0 +1,360 @@
+[
+  {
+    "resource_id": "TXT_12_CH07_S7_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Plant growth:",
+    "concepts": [
+      "meristem",
+      "apical meristem",
+      "intercalary meristem",
+      "lateral meristem"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Plant growth:",
+    "concepts": [
+      "indeterminate growth",
+      "determinate growth",
+      "genetically destined size"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_1_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Plant growth:",
+    "concepts": [
+      "apical meristem",
+      "intercalary meristem",
+      "lateral meristem"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Phases of growth:",
+    "concepts": [
+      "meristem",
+      "mitosis",
+      "cell division",
+      "turgidity",
+      "growth rate",
+      "enzymes",
+      "photosynthesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Conditions for Growth:",
+    "concepts": [
+      "cell turgidity",
+      "biochemical reactions",
+      "microelements",
+      "macroelements",
+      "optimal temperature",
+      "metabolic activities",
+      "oxygen",
+      "respiration",
+      "energy release",
+      "light"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Growth Rate and types of growth : Growth rate :",
+    "concepts": [
+      "absolute growth rate",
+      "relative growth rate",
+      "arithmetic growth",
+      "geometric growth"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Growth curve:",
+    "concepts": [
+      "growth curve",
+      "lag phase",
+      "exponential phase",
+      "sigmoid curve",
+      "S-shaped curve"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Differentiation, De-Differentiation, Re-Differentiation:",
+    "concepts": [
+      "differentiation",
+      "dedifferentiation",
+      "re-differentiation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Development:",
+    "concepts": [
+      "development",
+      "germination",
+      "morphogenesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_8_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Plasticity:",
+    "concepts": [
+      "heterophylly",
+      "environmental heterophylly",
+      "Ranunculus flabellatus"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_9_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Growth Hormones:",
+    "concepts": [
+      "auxins",
+      "gibberellins",
+      "cytokinins"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_9_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Growth Hormones:",
+    "concepts": [
+      "ethylene",
+      "ripening",
+      "lateral roots",
+      "dormancy",
+      "bud",
+      "seed",
+      "abscission layer",
+      "senescence",
+      "chlorophyllase enzyme"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH07_S7_9_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Growth Hormones:",
+    "concepts": [
+      "degreening",
+      "ethylene",
+      "trickle degreening",
+      "abscisic acid",
+      "carns and Addicott (1961-65)",
+      "wareing (1963)",
+      "dormin",
+      "sesquiterpenoid",
+      "mevalonic acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Photoperiodism:",
+    "concepts": [
+      "photoperiodism",
+      "flowering",
+      "light",
+      "temperature",
+      "daylength",
+      "phytochromes"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH07_S7_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Photoperiodism:",
+    "concepts": [
+      "chilling treatment",
+      "hypothetical floral hormone",
+      "vernalin"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_11_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Vernalization (Yarovization):",
+    "concepts": [
+      "vernalization",
+      "shoot apical meristem",
+      "chemical stimulus",
+      "vernalin"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_12_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Mineral nutrition:",
+    "concepts": [
+      "minerals",
+      "roots",
+      "periodic table"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_12_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Mineral nutrition:",
+    "concepts": [
+      "carbon",
+      "organic compounds"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH07_S7_12_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Mineral nutrition:",
+    "concepts": [
+      "toxicity",
+      "antagonism",
+      "mineral absorption"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_12_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Mineral nutrition:",
+    "concepts": [
+      "active absorption",
+      "carrier hypothesis",
+      "protein-conjugated lecithin"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_13_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Plant Growth:",
+    "section": "Nitrogen cycle:",
+    "concepts": [
+      "nitrogen fixation",
+      "atmospheric nitrogen",
+      "nitrates",
+      "nitrites",
+      "usable forms",
+      "reductive amination",
+      "transamination",
+      "soil bacteria",
+      "nitrification",
+      "denitrification",
+      "amino acids",
+      "proteins",
+      "chemical conversion",
+      "biological process",
+      "mechanism",
+      "cycle"
+    ]
+  }
+]

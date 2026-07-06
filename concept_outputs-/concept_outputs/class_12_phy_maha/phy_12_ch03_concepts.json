@@ -1,0 +1,440 @@
+[
+  {
+    "resource_id": "TXT_12_CH03_X_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": null,
+    "concepts": [
+      "kinetic theory of gases",
+      "molecular collisions",
+      "average kinetic energy"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH03_X_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": null,
+    "concepts": [
+      "ideal_gas_equation",
+      "universal_gas_constant",
+      "Avogadro_number"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_2_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Behaviour of a Gas:",
+    "concepts": [
+      "kinetic theory of gases",
+      "macroscopic properties",
+      "average motion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Ideal Gas and Real Gas:",
+    "concepts": [
+      "intermolecular interactions",
+      "real gas",
+      "low pressure",
+      "high temperature"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Mean Free Path:",
+    "concepts": [
+      "mean free path",
+      "molecular diameter",
+      "ideal gas"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_5_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Pressure of Ideal Gas:",
+    "concepts": [
+      "kinetic energy",
+      "molecular speed",
+      "average force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_6_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Root Mean Square (rms) Speed:",
+    "concepts": [
+      "root mean square speed",
+      "universal gas constant",
+      "temperature",
+      "molar mass",
+      "rms speed estimation",
+      "average speed of molecules"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_8_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Law of Equipartition of Energy:",
+    "concepts": [
+      "kinetic energy",
+      "equipartition of energy",
+      "Boltzmann constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_8_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Law of Equipartition of Energy:",
+    "concepts": [
+      "degrees of freedom",
+      "coordinates",
+      "configuration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_8_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Law of Equipartition of Energy:",
+    "concepts": [
+      "translational degrees of freedom",
+      "rotational degrees of freedom",
+      "vibrational degrees of freedom"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_9_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Specific Heat Capacity:",
+    "concepts": [
+      "specific heat capacity",
+      "Mayer's relation",
+      "thermodynamic processes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_9_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Specific Heat Capacity:",
+    "concepts": [
+      "specific heat capacity",
+      "mayer's relation",
+      "ideal gas law"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH03_S3_9_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Specific Heat Capacity:",
+    "concepts": [
+      "heat",
+      "temperature",
+      "vacuum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_10_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Absorption, Reflection and Transmission of Heat Radiation:",
+    "concepts": [
+      "radiation",
+      "electromagnetic waves",
+      "absorption",
+      "transmission",
+      "heat radiation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_10_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Absorption, Reflection and Transmission of Heat Radiation:",
+    "concepts": [
+      "absorption",
+      "reflection",
+      "transmission"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_11_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Perfect Blackbody:",
+    "concepts": [
+      "absorption coefficient",
+      "radiant energy",
+      "incident radiant heat"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH03_S3_11_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Perfect Blackbody:",
+    "concepts": [
+      "black body",
+      "emission",
+      "absorption"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_11_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Perfect Blackbody:",
+    "concepts": [
+      "perfect blackbody",
+      "Ferry's Blackbody",
+      "cavity radiator"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_12_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Emission of Heat Radiation:",
+    "concepts": [
+      "emission of heat radiation",
+      "thermal equilibrium",
+      "absorption and emission rates"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_12_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Emission of Heat Radiation:",
+    "concepts": [
+      "emissivity",
+      "blackbody",
+      "coefficient"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH03_S3_12_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Emission of Heat Radiation:",
+    "concepts": [
+      "emissivity",
+      "coefficient of emission",
+      "surface properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_13_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Kirchhoff's Law of Heat Radiation and its Theoretical Proof:",
+    "concepts": [
+      "emissive power",
+      "absorptive power",
+      "proportionality constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_14_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Spectral Distribution of Blackbody Radiation:",
+    "concepts": [
+      "blackbody",
+      "spectrum",
+      "temperature",
+      "radiant energy",
+      "Lummer and Pringsheim's experiments",
+      "Planck's model"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH03_S3_14_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Spectral Distribution of Blackbody Radiation:",
+    "concepts": [
+      "quantization",
+      "blackbody radiation",
+      "Planck's constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_14_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Spectral Distribution of Blackbody Radiation:",
+    "concepts": [
+      "wien's constant",
+      "wein's displacement law",
+      "blackbody radiation"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH03_S3_14_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Spectral Distribution of Blackbody Radiation:",
+    "concepts": [
+      "wien's displacement law",
+      "spectral distribution",
+      "blackbody radiation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S33_15_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Stefan-Boltzmann Law of Radiation:",
+    "concepts": [
+      "Stefan-Boltzmann law",
+      "power radiated per unit area",
+      "absolute temperature",
+      "emissivity",
+      "energy transfer",
+      "thermal equilibrium"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH03_S33_15_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "internet_task",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Kinetic Theory Of Gases And Radiation",
+    "section": "Stefan-Boltzmann Law of Radiation:",
+    "concepts": [
+      "n",
+      "d",
+      "emissive power",
+      "perfect blackbody",
+      "ratio",
+      "rms speed",
+      "kinetic energy",
+      "molecular mass",
+      "Avogadro's number"
+    ]
+  }
+]

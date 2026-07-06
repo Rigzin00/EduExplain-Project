@@ -1,0 +1,173 @@
+[
+  {
+    "resource_id": "TXT_12_CH24_X_001",
+    "document_id": "NIOS_PHY_CH24",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Structure Of Atom",
+    "section": null,
+    "concepts": [
+      "fundamental units of matter",
+      "nucleus",
+      "electronic structure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_X_002",
+    "document_id": "NIOS_PHY_CH24",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Structure Of Atom",
+    "section": null,
+    "concepts": [
+      "electrons",
+      "plum pudding model",
+      "atomic structure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_1_001",
+    "document_id": "NIOS_PHY_CH24",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Structure Of Atom",
+    "section": "RUTHERFORD'S EXPERIMENT ON SCATTERING OF A-PARTICLES",
+    "concepts": [
+      "nuclear model",
+      "Rutherford scattering experiment",
+      "atomic mass distribution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_1_002",
+    "document_id": "NIOS_PHY_CH24",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Structure Of Atom",
+    "section": "RUTHERFORD'S EXPERIMENT ON SCATTERING OF A-PARTICLES",
+    "concepts": [
+      "nuclear model of the atom",
+      "positively charged nucleus",
+      "electrons"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_2_001",
+    "document_id": "NIOS_PHY_CH24",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Structure Of Atom",
+    "section": "BOHR'S MODEL OF HYDROGEN ATOM",
+    "concepts": [
+      "quantized electron orbits",
+      "stationary states",
+      "hydrogen atom's spectral lines"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_2_002",
+    "document_id": "NIOS_PHY_CH24",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Structure Of Atom",
+    "section": "BOHR'S MODEL OF HYDROGEN ATOM",
+    "concepts": [
+      "radius",
+      "energy level",
+      "quantization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_3_001",
+    "document_id": "NIOS_PHY_CH24",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Structure Of Atom",
+    "section": "HYDROGEN SPECTRUM",
+    "concepts": [
+      "electron transitions",
+      "Lyman series",
+      "Balmer series"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_4_001",
+    "document_id": "NIOS_PHY_CH24",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Structure Of Atom",
+    "section": "X-RAYS",
+    "concepts": [
+      "x-rays",
+      "vacuum tube",
+      "filament current",
+      "accelerating voltage",
+      "mosley's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_4_002",
+    "document_id": "NIOS_PHY_CH24",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Structure Of Atom",
+    "section": "X-RAYS",
+    "concepts": [
+      "quantized orbits",
+      "energy levels",
+      "Rydberg formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_4_003",
+    "document_id": "NIOS_PHY_CH24",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Structure Of Atom",
+    "section": "X-RAYS",
+    "concepts": [
+      "quantization",
+      "energy levels",
+      "hydrogen atoms",
+      "principal quantum number",
+      "wavelength",
+      "emitted or absorbed light",
+      "equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_4_004",
+    "document_id": "NIOS_PHY_CH24",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Structure Of Atom",
+    "section": "X-RAYS",
+    "concepts": [
+      "wavelength",
+      "frequency",
+      "Rydberg formula"
+    ]
+  }
+]

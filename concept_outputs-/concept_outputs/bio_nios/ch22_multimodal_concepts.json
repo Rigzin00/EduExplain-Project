@@ -1,0 +1,372 @@
+[
+  {
+    "resource_id": "TXT_12_CH22_X_001",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": null,
+    "concepts": [
+      "transmission",
+      "traits",
+      "seeds",
+      "mango trees",
+      "dog puppies",
+      "genetics",
+      "inherited traits",
+      "blood group inheritance",
+      "human genome"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_X_002",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_1_001",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "HEREDITY AND VARIATION",
+    "concepts": [
+      "transmission",
+      "genes",
+      "new individuals",
+      "features",
+      "parents",
+      "siblings",
+      "identical twins",
+      "genetic recombination",
+      "mutation",
+      "populations",
+      "environments"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_2_001",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "MENDEL'S EXPERIMENTS ON THE GARDEN PEA AND PRINCIPLES OF INHERITANCE",
+    "concepts": [
+      "dominant",
+      "recessive",
+      "allele",
+      "genetics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_2_002",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "MENDEL'S EXPERIMENTS ON THE GARDEN PEA AND PRINCIPLES OF INHERITANCE",
+    "concepts": [
+      "monohybrid crosses",
+      "pure tall pea plants",
+      "pure dwarf pea plants",
+      "self-pollination",
+      "third filial (F3)",
+      "third filial (F3) generation",
+      "third filial (F3) plants"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_2_003",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "MENDEL'S EXPERIMENTS ON THE GARDEN PEA AND PRINCIPLES OF INHERITANCE",
+    "concepts": [
+      "law of segregation",
+      "law of dominance",
+      "law of independent assortment"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_3_001",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "IMPORTANT TERMS IN GENETICS",
+    "concepts": [
+      "phenotypic ratio",
+      "Mendelian inheritance",
+      "F2 generation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_3_002",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "DEVIATION FROM MENDEL'S LAWS INCOMPLETE DOMINANCE",
+    "concepts": [
+      "codominance",
+      "multiple alleles",
+      "ABO blood group system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_4_001",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "CHROMOSOMAL THEORY OF INHERITANCE",
+    "concepts": [
+      "chromosome",
+      "gamete",
+      "meiosis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_5_001",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "LINKAGE AND CROSSING OVER",
+    "concepts": [
+      "linkage",
+      "crossing over",
+      "chromosome"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_6_001",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "CHROMOSOMES AND SEX DETERMINATION",
+    "concepts": [
+      "sex chromosomes",
+      "heterogametic",
+      "homogametic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_6_002",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "CHROMOSOMES AND SEX DETERMINATION",
+    "concepts": [
+      "chromosomes",
+      "gametes",
+      "sperm",
+      "egg"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_6_003",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "CHROMOSOMES AND SEX DETERMINATION",
+    "concepts": [
+      "sex determination in humans",
+      "chromosomes",
+      "birds",
+      "insects"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_6_004",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "CHROMOSOMES AND SEX DETERMINATION",
+    "concepts": [
+      "haplodiploid system",
+      "sex determination",
+      "chromosomes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_7_001",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "CRIS-CROSS INHERITANCE X-LINKED INHERITANCE",
+    "concepts": [
+      "sex-linked genes",
+      "X chromosome",
+      "criss-cross inheritance",
+      "defective sex-linked genes",
+      "daughters",
+      "females",
+      "sons",
+      "carriers",
+      "homozygous"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_8_001",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "MITOCHONDRIAL INHERITANCE AS A CASE OF MATERNAL INHERITANCE",
+    "concepts": [
+      "mitochondrial inheritance",
+      "maternal inheritance",
+      "mitochondrial DNA"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_9_001",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "HUMAN KARYOTYPE",
+    "concepts": [
+      "chromosome",
+      "autosomal",
+      "sex chromosome",
+      "Y chromosome",
+      "X chromosome"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_10_001",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "CHROMOSOMAL ABNORMALITIES AND GENETIC DISORDERS IN HUMANS",
+    "concepts": [
+      "chromosomal abnormalities",
+      "genetic disorders",
+      "Down's syndrome",
+      "Klinefelter's syndrome",
+      "Turner's syndrome",
+      "sex-linked disorders",
+      "autosomal disorders"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_11_001",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "AMNIOCENTESIS",
+    "concepts": [
+      "amniocentesis",
+      "fetus",
+      "gene defects",
+      "genetic abnormalities",
+      "prenatal testing"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_12_001",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "THE HUMAN GENOME",
+    "concepts": [
+      "human genome",
+      "coding and non-coding regions",
+      "gene therapy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_12_002",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "THE HUMAN GENOME",
+    "concepts": [
+      "law of segregation",
+      "law of independent assortment",
+      "law of dominance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_12_003",
+    "document_id": "NIOS_BIO_CH22",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Principles Of Genetics",
+    "section": "THE HUMAN GENOME",
+    "concepts": [
+      "phenotypes",
+      "reproduction",
+      "heredity"
+    ]
+  }
+]

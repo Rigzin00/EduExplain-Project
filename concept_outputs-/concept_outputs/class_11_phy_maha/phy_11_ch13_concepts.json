@@ -1,0 +1,382 @@
+[
+  {
+    "resource_id": "TXT_11_CH13_X_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": null,
+    "concepts": [
+      "electromagnetic waves",
+      "communication systems",
+      "antennas"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_1_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Introduction:",
+    "concepts": [
+      "electromagnetic waves",
+      "communication system",
+      "solar energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "EM wave:",
+    "concepts": [
+      "electricity",
+      "magnetism",
+      "displacement current"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_2_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "EM wave:",
+    "concepts": [
+      "oscillating electric and magnetic fields",
+      "regeneration of fields",
+      "sinusoidal waves",
+      "traveling through space"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH13_S13_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "EM wave:",
+    "concepts": [
+      "sources_of_EM_waves",
+      "EM_wave",
+      "energy_transportation_in_the_form_of_EM_waves",
+      "maxwell_equations_for_charges_and_currents_in_vacuum",
+      "gauress_law",
+      "magnetic_flux",
+      "faradays_law_with_lenz_slaw"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_2_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "EM wave:",
+    "concepts": [
+      "speed",
+      "velocity",
+      "wave propagation"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH13_S13_2_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "EM wave:",
+    "concepts": [
+      "quantum theory",
+      "electromagnetic waves",
+      "electric field",
+      "magnetic field",
+      "oscillating charge",
+      "amplitude",
+      "intensity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Electromagnetic Spectrum:",
+    "concepts": [
+      "electromagnetic spectrum",
+      "wavelengths/frequencies",
+      "unique properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_3_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Electromagnetic Spectrum:",
+    "concepts": [
+      "frequency",
+      "inductance",
+      "capacitance",
+      "high-frequency notation",
+      "kilohertz",
+      "megahertz",
+      "gigahertz",
+      "micrometer",
+      "angstrom",
+      "nanometer"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_3_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Electromagnetic Spectrum:",
+    "concepts": [
+      "microwaves",
+      "capacitors",
+      "inductors",
+      "crystal detectors"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_3_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Electromagnetic Spectrum:",
+    "concepts": [
+      "hot objects emit infrared rays",
+      "solar radiation consists of infrared energy",
+      "thermocouples, thermopiles, bolometers"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_3_005",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Electromagnetic Spectrum:",
+    "concepts": [
+      "electromagnetic spectrum",
+      "visible light",
+      "radio waves"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_3_006",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Electromagnetic Spectrum:",
+    "concepts": [
+      "electromagnetic spectrum",
+      "ultraviolet rays",
+      "mercury vapor lamps"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_3_007",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Electromagnetic Spectrum:",
+    "concepts": [
+      "high-energy electromagnetic waves",
+      "penetrating materials",
+      "discovered by W.C. Rontgen",
+      "stream of electrons",
+      "abrupt halt by an obstacle",
+      "diagnostic imaging",
+      "medical imaging",
+      "security screening"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_3_008",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Electromagnetic Spectrum:",
+    "concepts": [
+      "high-energy electromagnetic radiation",
+      "radioactive elements",
+      "cancer treatment",
+      "material testing",
+      "sterilization"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_4_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Propagation of EM Waves:",
+    "concepts": [
+      "propagation",
+      "Earth's atmosphere",
+      "ionization",
+      "ground wave propagation",
+      "radio waves",
+      "currents",
+      "energy loss",
+      "absorption",
+      "frequency",
+      "range"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_4_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Propagation of EM Waves:",
+    "concepts": [
+      "space wave propagation",
+      "radio waves",
+      "antenna height",
+      "Earth's radius",
+      "total range",
+      "enhanced coverage"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_4_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Propagation of EM Waves:",
+    "concepts": [
+      "sky wave propagation",
+      "ionosphere",
+      "critical frequency",
+      "skip distance"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Introduction to Communication System:",
+    "concepts": [
+      "communication",
+      "electrical signals",
+      "digital technologies"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_5_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Introduction to Communication System:",
+    "concepts": [
+      "transmitter",
+      "communication channel",
+      "receiver"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_5_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Introduction to Communication System:",
+    "concepts": [
+      "signals",
+      "electromagnetic waves",
+      "communication system"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH13_S13_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Introduction to Communication System:",
+    "concepts": [
+      "antenna",
+      "wavelength",
+      "signal"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_6_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Electromagnetic Waves and Communication System",
+    "section": "Modulation:",
+    "concepts": [
+      "modulation",
+      "carrier wave",
+      "signal mixing"
+    ]
+  }
+]

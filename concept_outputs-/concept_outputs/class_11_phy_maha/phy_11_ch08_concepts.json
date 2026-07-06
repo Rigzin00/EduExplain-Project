@@ -1,0 +1,378 @@
+[
+  {
+    "resource_id": "TXT_11_CH08_S8_1_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Introduction:",
+    "concepts": [
+      "waves",
+      "disturbance",
+      "energy transfer",
+      "material particle motion",
+      "travelling wave",
+      "progressive wave",
+      "wave propagation",
+      "source",
+      "obstacle",
+      "vacuum"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Common Properties of all Waves:",
+    "concepts": [
+      "phase",
+      "wavelength",
+      "double periodicity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Transverse Waves and Longitudinal Waves:",
+    "concepts": [
+      "transverse waves",
+      "longitudinal waves",
+      "particle vibration"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_4_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Mathematical Expression of a Wave:",
+    "concepts": [
+      "amplitude",
+      "wave number",
+      "angular frequency",
+      "phase constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "The Speed of Travelling Waves",
+    "concepts": [
+      "elasticity",
+      "density",
+      "transverse waves",
+      "longitudinal waves",
+      "velocity",
+      "modes of vibration"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_5_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "The Speed of Travelling Waves",
+    "concepts": [
+      "speed of travelling waves",
+      "tension in the string",
+      "linear mass density",
+      "wave's wavelength",
+      "wave's frequency"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_5_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "The Speed of Travelling Waves",
+    "concepts": [
+      "longitudinal waves",
+      "compression",
+      "rarefaction",
+      "sound speed",
+      "Newton's formula",
+      "ideal gases"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_5_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "The Speed of Travelling Waves",
+    "concepts": [
+      "elasticity",
+      "density",
+      "velocity",
+      "medium",
+      "compression",
+      "rarefaction",
+      "formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_5_005",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "The Speed of Travelling Waves",
+    "concepts": [
+      "compression",
+      "rarefaction",
+      "adiabatic modulus of elasticity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_5_006",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "The Speed of Travelling Waves",
+    "concepts": [
+      "sound waves",
+      "atmospheric conditions",
+      "speed of sound"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH08_S8_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "The Speed of Travelling Waves",
+    "concepts": [
+      "specific heat",
+      "sound wave",
+      "pressure",
+      "volume",
+      "temperature",
+      "heat capacity",
+      "Laplace's formula",
+      "Boyle's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_6_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Principle of Superposition of Waves:",
+    "concepts": [
+      "superposition",
+      "reflection",
+      "laws of reflection"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_7_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Echo, reverberation and acoustics:",
+    "concepts": [
+      "echo",
+      "sound waves",
+      "refraction",
+      "speed of sound",
+      "distance",
+      "acoustics"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_7_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Echo, reverberation and acoustics:",
+    "concepts": [
+      "reverberation",
+      "absorb sound",
+      "porous cardboard"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_7_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Echo, reverberation and acoustics:",
+    "concepts": [
+      "sound absorption",
+      "sound reflection",
+      "audience clarity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_8_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Qualities of sound:",
+    "concepts": [
+      "pitch",
+      "timbre",
+      "loudness"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_9_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Doppler Effect:",
+    "concepts": [
+      "Doppler effect",
+      "frequency",
+      "motion",
+      "sound"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH08_S8_9_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Doppler Effect:",
+    "concepts": [
+      "exposure to unsafe levels of sound",
+      "potentially damaging sound levels",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_9_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Doppler Effect:",
+    "concepts": [
+      "source moving",
+      "listener stationary",
+      "Doppler effect"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_9_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Doppler Effect:",
+    "concepts": [
+      "speed of sound",
+      "period",
+      "frequency",
+      "emitted frequency"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_9_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Doppler Effect:",
+    "concepts": [
+      "frequency",
+      "Doppler effect",
+      "source",
+      "listener"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_9_005",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Doppler Effect:",
+    "concepts": [
+      "relative velocity",
+      "speed of light",
+      "proportional relationship"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH08_S8_9_006",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 8,
+    "chapter_title": "Sound",
+    "section": "Doppler Effect:",
+    "concepts": [
+      "Doppler Effect",
+      "Relative Motion",
+      "Frequency Change"
+    ]
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "resource_id": "RCL_11_CH04_X_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Laws Of Motion",
+    "section": null,
+    "concepts": [
+      "motion",
+      "mechanics",
+      "kinematics",
+      "dynamics",
+      "force",
+      "acceleration",
+      "momentum"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH04_X_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Laws Of Motion",
+    "section": null,
+    "concepts": [
+      "force",
+      "momentum",
+      "acceleration"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_X_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Laws Of Motion",
+    "section": null,
+    "concepts": [
+      "action-reaction-forces",
+      "motion-relative-to-frame-of-reference",
+      "newtons-first-law"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH04_X_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Laws Of Motion",
+    "section": null,
+    "concepts": [
+      "Newton's Third Law of Motion",
+      "Inertial Frame of Reference",
+      "Pseudo Force"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Laws Of Motion",
+    "section": "Types of Forces:",
+    "concepts": [
+      "gravitational force",
+      "electromagnetic forces",
+      "weak forces"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH04_S4_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Laws Of Motion",
+    "section": "Types of Forces:",
+    "concepts": [
+      "gravitational force",
+      "electric force",
+      "magnetic force",
+      "electromagnetic induction",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_5_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Laws Of Motion",
+    "section": "Types of Forces:",
+    "concepts": [
+      "coefficient of restitution",
+      "angular momentum",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH04_S4_5_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Laws Of Motion",
+    "section": "Types of Forces:",
+    "concepts": [
+      "coefficient of restitution",
+      "momentum",
+      "kinetic energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_5_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Laws Of Motion",
+    "section": "Types of Forces:",
+    "concepts": [
+      "equilibrium types",
+      "potential energy",
+      "center of mass",
+      "center of gravity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S17_7_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Laws Of Motion",
+    "section": "cm]",
+    "concepts": [
+      "center of mass",
+      "collision types",
+      "ball collision"
+    ]
+  }
+]

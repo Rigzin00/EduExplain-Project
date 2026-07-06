@@ -1,0 +1,413 @@
+[
+  {
+    "resource_id": "TXT_12_CH01_X_001",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": null,
+    "concepts": [
+      "life_origin",
+      "evolutionary_processes",
+      "classification"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_1_001",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "ORIGIN OF LIFE",
+    "concepts": [
+      "origin_of_life",
+      "evolution",
+      "simplest_primal_life"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_1_002",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "ORIGIN OF LIFE",
+    "concepts": [
+      "origin_of_life",
+      "chemical_reactions",
+      "organic_molecules",
+      "complex_ones",
+      "emergence_of_life",
+      "species",
+      "natural_selection",
+      "adaptation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_1_003",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "ORIGIN OF LIFE",
+    "concepts": [
+      "complex organic compounds",
+      "amino acids",
+      "electric discharge",
+      "peptides",
+      "proteins",
+      "simple organic molecules",
+      "larger molecules",
+      "coacervate droplets",
+      "first living cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_2_001",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "ORGANIC EVOLUTION",
+    "concepts": [
+      "evolution",
+      "ancestral forms",
+      "complex organisms",
+      "geological time",
+      "common ancestor",
+      "modular transformation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_2_002",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "ORGANIC EVOLUTION",
+    "concepts": [
+      "homologous organs",
+      "vestigial organs",
+      "analogous organs"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_2_003",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "ORGANIC EVOLUTION",
+    "concepts": [
+      "natural selection",
+      "genetic mutations",
+      "adaptation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_2_004",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "ORGANIC EVOLUTION",
+    "concepts": [
+      "variation",
+      "population",
+      "evolution",
+      "favorable trait",
+      "differential reproduction",
+      "natural selection",
+      "survival",
+      "reproduction",
+      "reproductive isolation",
+      "species",
+      "gene flow"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_2_001",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "example",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "ORGANIC EVOLUTION",
+    "concepts": [
+      "natural selection",
+      "genetic variation",
+      "DDT resistance"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_2_002",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "example",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "ORGANIC EVOLUTION",
+    "concepts": [
+      "natural selection",
+      "genetic variation",
+      "resistant grasses"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_2_003",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "example",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "ORGANIC EVOLUTION",
+    "concepts": [
+      "natural selection",
+      "genetic variation",
+      "reproductive isolation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_2_005",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "ORGANIC EVOLUTION",
+    "concepts": [
+      "allopatric speciation",
+      "sympatric speciation",
+      "punctuated equilibrium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_2_006",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "ORGANIC EVOLUTION",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_001",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "CLASSIFICATION",
+    "concepts": [
+      "classification",
+      "taxonomy",
+      "evolutionary relationships"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_002",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "CLASSIFICATION",
+    "concepts": [
+      "classification",
+      "evolutionary relationships",
+      "species",
+      "genus",
+      "family",
+      "order",
+      "class",
+      "phylum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_003",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "CLASSIFICATION",
+    "concepts": [
+      "binomial nomenclature",
+      "genus",
+      "species",
+      "scientific naming"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_004",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "CLASSIFICATION",
+    "concepts": [
+      "prokaryotes",
+      "eukaryotes",
+      "cell wall",
+      "nucleus",
+      "genetic material",
+      "complexity of cellular structures"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_005",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "CLASSIFICATION",
+    "concepts": [
+      "nucleus",
+      "cell structure",
+      "mode of nutrition",
+      "prokaryotes",
+      "eukaryotes",
+      "unicellular",
+      "multicellular",
+      "diverse nutritional strategies"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_001",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "VIRUSES - AN INTRODUCTION",
+    "concepts": [
+      "size",
+      "virus",
+      "nanometers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_002",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "VIRUSES - AN INTRODUCTION",
+    "concepts": [
+      "capsid",
+      "genetic material",
+      "virus particle",
+      "host cell"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_003",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "VIRUSES - AN INTRODUCTION",
+    "concepts": [
+      "specificity",
+      "host-targeting",
+      "mutations",
+      "cure development",
+      "annual mutation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_004",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "VIRUSES - AN INTRODUCTION",
+    "concepts": [
+      "genetic material",
+      "reverse transcription",
+      "RNA virus"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_005",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "VIRUSES - AN INTRODUCTION",
+    "concepts": [
+      "viroid",
+      "plant cells",
+      "enzymes",
+      "regulatory systems"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_006",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "VIRUSES - AN INTRODUCTION",
+    "concepts": [
+      "viroid",
+      "transduction",
+      "replication"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_007",
+    "document_id": "NIOS_BIO_CH01",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Modulf - 1",
+    "section": "VIRUSES - AN INTRODUCTION",
+    "concepts": [
+      "viroid",
+      "transduction",
+      "replication"
+    ]
+  }
+]

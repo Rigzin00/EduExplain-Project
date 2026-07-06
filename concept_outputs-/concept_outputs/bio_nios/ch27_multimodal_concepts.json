@@ -1,0 +1,297 @@
+[
+  {
+    "resource_id": "TXT_12_CH27_X_001",
+    "document_id": "NIOS_BIO_CH27",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Pollution",
+    "section": null,
+    "concepts": [
+      "pollution",
+      "over-exploitation",
+      "resources",
+      "deforestation",
+      "wildlife destruction",
+      "health issues",
+      "respiratory diseases",
+      "cardiovascular diseases"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_X_002",
+    "document_id": "NIOS_BIO_CH27",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Pollution",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_1_001",
+    "document_id": "NIOS_BIO_CH27",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Pollution",
+    "section": "POLLUTION",
+    "concepts": [
+      "pollution",
+      "substances",
+      "environmental",
+      "physical",
+      "chemical",
+      "biological",
+      "changes",
+      "human",
+      "wildlife",
+      "cultural",
+      "assets",
+      "industrial",
+      "processes",
+      "residues",
+      "soaps",
+      "detergents",
+      "smoke",
+      "cooking",
+      "fires",
+      "fertilizers",
+      "pesticides"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_2_001",
+    "document_id": "NIOS_BIO_CH27",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Pollution",
+    "section": "TYPES OF POLLUTION",
+    "concepts": [
+      "air pollution",
+      "water pollution",
+      "soil pollution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_2_002",
+    "document_id": "NIOS_BIO_CH27",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Pollution",
+    "section": "TYPES OF POLLUTION",
+    "concepts": [
+      "air pollution",
+      "carbon dioxide",
+      "sulfur dioxide",
+      "carbon monoxide",
+      "acid rain",
+      "electrostatic precipitators",
+      "wet scrubbers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_2_003",
+    "document_id": "NIOS_BIO_CH27",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Pollution",
+    "section": "TYPES OF POLLUTION",
+    "concepts": [
+      "water pollution",
+      "eutrophication",
+      "DDT"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_2_004",
+    "document_id": "NIOS_BIO_CH27",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Pollution",
+    "section": "TYPES OF POLLUTION",
+    "concepts": [
+      "industrial waste",
+      "agricultural chemicals",
+      "urban waste",
+      "wind erosion",
+      "sheet erosion",
+      "gully erosion",
+      "afforestation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_2_005",
+    "document_id": "NIOS_BIO_CH27",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Pollution",
+    "section": "TYPES OF POLLUTION",
+    "concepts": [
+      "noise pollution",
+      "sound intensity",
+      "decibels",
+      "major sources of noise pollution",
+      "hearing loss",
+      "stress"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_3_001",
+    "document_id": "NIOS_BIO_CH27",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Pollution",
+    "section": "GREENHOUSE EFFECT AND GLOBAL WARMING",
+    "concepts": [
+      "greenhouse effect",
+      "global warming",
+      "carbon dioxide",
+      "methane",
+      "nitrous oxides",
+      "industrial processes",
+      "agricultural practices",
+      "refrigerants"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_3_002",
+    "document_id": "NIOS_BIO_CH27",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Pollution",
+    "section": "GREENHOUSE EFFECT AND GLOBAL WARMING",
+    "concepts": [
+      "ozone layer",
+      "ultraviolet radiation",
+      "chlorofluorocarbons (CFCs)",
+      "depletion",
+      "protective capacity",
+      "polar regions",
+      "UV radiation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_3_003",
+    "document_id": "NIOS_BIO_CH27",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Pollution",
+    "section": "GREENHOUSE EFFECT AND GLOBAL WARMING",
+    "concepts": [
+      "acid rain",
+      "sulfur dioxide",
+      "nitrogen oxides",
+      "clouds",
+      "water droplets",
+      "pH",
+      "surface waters",
+      "aquatic life",
+      "soil fertility",
+      "buildings",
+      "historical structures",
+      "corrosion",
+      "fine particles",
+      "human health"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_3_004",
+    "document_id": "NIOS_BIO_CH27",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Pollution",
+    "section": "GREENHOUSE EFFECT AND GLOBAL WARMING",
+    "concepts": [
+      "radiation",
+      "exposure",
+      "short-term",
+      "long-term",
+      "effects",
+      "molecular",
+      "changes",
+      "metabolic",
+      "alterations",
+      "cell",
+      "damage",
+      "death",
+      "cancer",
+      "health",
+      "issues",
+      "nuclear",
+      "waste",
+      "radioactivity",
+      "environmental",
+      "risks",
+      "food",
+      "chain"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_3_005",
+    "document_id": "NIOS_BIO_CH27",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Pollution",
+    "section": "GREENHOUSE EFFECT AND GLOBAL WARMING",
+    "concepts": [
+      "soil pollution",
+      "pesticides",
+      "radioactive wastes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_3_006",
+    "document_id": "NIOS_BIO_CH27",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Pollution",
+    "section": "GREENHOUSE EFFECT AND GLOBAL WARMING",
+    "concepts": [
+      "exposure",
+      "air pollution",
+      "respiratory health",
+      "cardiovascular health",
+      "conditions",
+      "asthma",
+      "heart disease",
+      "environmental management",
+      "pollution levels",
+      "public health outcomes"
+    ]
+  }
+]

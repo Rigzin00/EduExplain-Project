@@ -1,0 +1,199 @@
+[
+  {
+    "resource_id": "RCL_12_CH14_X_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Ecosystem:",
+    "section": null,
+    "concepts": [
+      "ecosystem",
+      "biotic components",
+      "abiotic components",
+      "Tansley",
+      "natural ecosystems",
+      "artificial ecosystems",
+      "energy flow",
+      "net productivity",
+      "food chain/web",
+      "nutrient cycling"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Ecosystem:",
+    "section": "Ecosystem:",
+    "concepts": [
+      "biotic",
+      "abiotic",
+      "ecosystem",
+      "productivity",
+      "decomposition",
+      "nutrient cycling",
+      "energy flow"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Ecosystem:",
+    "section": "Energy Flow:",
+    "concepts": [
+      "photosynthesis",
+      "energy flow",
+      "autotrophs"
+    ]
+  },
+  {
+    "resource_id": "ACT_12_CH14_S14_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Ecosystem:",
+    "section": "Energy Flow:",
+    "concepts": [
+      "primary consumers",
+      "secondary consumers",
+      "detritus food chain"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH14_S14_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Ecosystem:",
+    "section": "Energy Flow:",
+    "concepts": [
+      "trophic level",
+      "food chain",
+      "energy flow",
+      "10% Law"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH14_S14_2_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Ecosystem:",
+    "section": "Energy Flow:",
+    "concepts": [
+      "trophic levels",
+      "food web",
+      "ecosystem"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Ecosystem:",
+    "section": "Ecological Pyramids:",
+    "concepts": [
+      "ecological pyramid",
+      "trophic levels",
+      "energy pyramid"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH14_S14_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Ecosystem:",
+    "section": "Ecological Pyramids:",
+    "concepts": [
+      "pyramid",
+      "ecosystem",
+      "biomass"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH14_S14_3_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Ecosystem:",
+    "section": "Ecological Pyramids:",
+    "concepts": [
+      "pyramid of energy",
+      "trophic level",
+      "net energy",
+      "heat loss",
+      "ecosystem"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Ecosystem:",
+    "section": "Nutrient Cycles:",
+    "concepts": [
+      "carbon cycle",
+      "phosphorus cycle",
+      "eutrophication"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Ecosystem:",
+    "section": "Ecological Succession:",
+    "concepts": [
+      "ecological succession",
+      "climax community",
+      "primary succession",
+      "secondary succession"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Ecosystem:",
+    "section": "Ecosystem Services:",
+    "concepts": [
+      "photosynthesis",
+      "autotrophs",
+      "chloroplast",
+      "mitosis",
+      "covalent bond"
+    ]
+  }
+]

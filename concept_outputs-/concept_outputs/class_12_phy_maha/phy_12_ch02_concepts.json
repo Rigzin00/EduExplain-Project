@@ -1,0 +1,583 @@
+[
+  {
+    "resource_id": "TXT_12_CH02_X_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": null,
+    "concepts": [
+      "pressure",
+      "depth",
+      "weight",
+      "fluid flow",
+      "Bernoulli's principle",
+      "velocity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_1_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Introduction:",
+    "concepts": [
+      "solids",
+      "fluids",
+      "viscosity",
+      "surface tension"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_2_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Fluid:",
+    "concepts": [
+      "fluid",
+      "liquid",
+      "gas"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH02_S2_2_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Fluid:",
+    "concepts": [
+      "plasma",
+      "shear modulus",
+      "ideal fluid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_2_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Fluid:",
+    "concepts": [
+      "hydrostatics",
+      "pressure distribution",
+      "density relationships"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Pressure:",
+    "concepts": [
+      "pressure",
+      "force",
+      "area",
+      "surface area",
+      "concentration",
+      "smaller surface area",
+      "higher pressure"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Pressure:",
+    "concepts": [
+      "pressure",
+      "hydrostatics",
+      "hydrodynamics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Pressure:",
+    "concepts": [
+      "pressure",
+      "density",
+      "acceleration due to gravity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Pressure:",
+    "concepts": [
+      "atmospheric pressure",
+      "sea level",
+      "altitude",
+      "air density",
+      "vacuum",
+      "gas pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Pressure:",
+    "concepts": [
+      "pressure",
+      "depth",
+      "atmospheric pressure",
+      "density",
+      "gravity",
+      "acceleration",
+      "equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_005",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Pressure:",
+    "concepts": [
+      "hydrostatics paradox",
+      "pressure at any point in a static fluid",
+      "height of the liquid column"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_006",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Pressure:",
+    "concepts": [
+      "pascal's law",
+      "pressure transmission",
+      "fluid mechanics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_007",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Pressure:",
+    "concepts": [
+      "atmospheric pressure measurement",
+      "mercury column",
+      "standard sea level pressure"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_3_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Pressure:",
+    "concepts": [
+      "atmospheric pressure",
+      "manometer",
+      "Pascal's principle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Surface Tension:",
+    "concepts": [
+      "surface tension",
+      "cohesive forces",
+      "liquid resistance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Surface Tension:",
+    "concepts": [
+      "cohesive forces",
+      "surface tension",
+      "molecular theory"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Surface Tension:",
+    "concepts": [
+      "surface tension",
+      "cohesive forces",
+      "force per unit length"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Surface Tension:",
+    "concepts": [
+      "surface_tension",
+      "surface_energy",
+      "work"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Surface Tension:",
+    "concepts": [
+      "angle of contact",
+      "cohesive forces",
+      "adhesive forces"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH02_S2_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Surface Tension:",
+    "concepts": [
+      "concave meniscus",
+      "acute angle of contact",
+      "convex meniscus",
+      "obtuse angle of contact"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_005",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Surface Tension:",
+    "concepts": [
+      "impurities",
+      "surface tension",
+      "temperature"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_006",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Surface Tension:",
+    "concepts": [
+      "surface tension",
+      "excess pressure",
+      "internal pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_007",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Surface Tension:",
+    "concepts": [
+      "surface tension",
+      "excess pressure",
+      "radius"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_008",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Surface Tension:",
+    "concepts": [
+      "surface tension",
+      "capillary action",
+      "meniscus"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH02_S2_4_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Surface Tension:",
+    "concepts": [
+      "capillary action",
+      "surface tension",
+      "liquid adhesion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_5_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Fluids in Motion:",
+    "concepts": [
+      "steady flow",
+      "streamlines",
+      "flow tubes",
+      "laminar flow",
+      "turbulent flow"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_5_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Fluids in Motion:",
+    "concepts": [
+      "streamline flow",
+      "turbulent flow",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_6_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Critical Velocity and Reynolds number:",
+    "concepts": [
+      "critical velocity",
+      "Reynolds number",
+      "fluid dynamics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_6_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Critical Velocity and Reynolds number:",
+    "concepts": [
+      "viscosity",
+      "centripetal force",
+      "reynolds number"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_6_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Critical Velocity and Reynolds number:",
+    "concepts": [
+      "viscosity",
+      "coefficient of viscosity",
+      "Newton's law of viscosity"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_6_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Critical Velocity and Reynolds number:",
+    "concepts": [
+      "viscosity",
+      "molecular motion",
+      "coefficient of viscosity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_7_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Stokes' Law:",
+    "concepts": [
+      "Stokes' Law",
+      "viscous force",
+      "sphere's radius",
+      "velocity",
+      "fluid's viscosity",
+      "equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_7_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Stokes' Law:",
+    "concepts": [
+      "terminal velocity",
+      "Stokes' Law",
+      "gravitational force",
+      "buoyant force",
+      "viscous force",
+      "net downward force",
+      "constant terminal velocity",
+      "formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_8_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Equation of Continuity:",
+    "concepts": [
+      "equation of continuity",
+      "velocity",
+      "cross-sectional area",
+      "fluid",
+      "volume rate of flow"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH02_S2_8_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Equation of Continuity:",
+    "concepts": [
+      "flow rate",
+      "equation of continuity",
+      "piston pressure"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_8_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Equation of Continuity:",
+    "concepts": [
+      "equation_of_continuity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_9_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Mechanical Properties Of Fluids",
+    "section": "Bernoulli's Equation:",
+    "concepts": [
+      "Bernoulli's principle",
+      "conservation of energy",
+      "fluid dynamics"
+    ]
+  }
+]

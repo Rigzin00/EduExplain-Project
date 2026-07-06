@@ -1,0 +1,357 @@
+[
+  {
+    "resource_id": "RCL_12_CH02_X_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": null,
+    "concepts": [
+      "reproduction",
+      "life processes",
+      "species survival",
+      "vital process",
+      "continuity of species",
+      "new life forms",
+      "pre-existing similar life",
+      "human reproductive system",
+      "gametogenesis",
+      "fertilization",
+      "early embryology",
+      "parturition",
+      "reproductive health"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Asexual Reproduction in animals:",
+    "concepts": [
+      "gemmule formation",
+      "bud development",
+      "regeneration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Sexual reproduction in animals:",
+    "concepts": [
+      "amphimixis",
+      "gametogenesis",
+      "fertilization"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH02_S2_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Sexual reproduction in animals:",
+    "concepts": [
+      "rete testis",
+      "vasa efferentia",
+      "epididymis",
+      "vas deferens",
+      "ejaculatory duct",
+      "urethra",
+      "prostatic gland"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH02_S2_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Sexual reproduction in animals:",
+    "concepts": [
+      "prostaglandin",
+      "semen",
+      "external genitalia"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Menstrual cycle (Ovarian cycle):",
+    "concepts": [
+      "menstrual cycle",
+      "ovarian cycle",
+      "endometrial lining",
+      "estrogen",
+      "ovulation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Gametogenesis:",
+    "concepts": [
+      "gametogenesis",
+      "spermatogenesis",
+      "oogenesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Fertilization / Syngamy:",
+    "concepts": [
+      "fertilization",
+      "syngamy",
+      "zygote"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Embryonic development:",
+    "concepts": [
+      "zygote formation",
+      "syngamy",
+      "mitotic divisions",
+      "cleavage",
+      "blastomeres",
+      "holoblastic cleavage",
+      "meroblastic cleavage",
+      "morula",
+      "blastocyst",
+      "blastulation"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Embryonic development:",
+    "concepts": [
+      "Monozygotic",
+      "Dizygotic",
+      "Conjoined Twins",
+      "Embryo Implantation",
+      "Trophoblast Cells",
+      "Syncytiotrophoblast",
+      "Cytotrophoblast",
+      "Gastrulation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Pregnancy:",
+    "concepts": [
+      "fertilization",
+      "embryo",
+      "fetus",
+      "trimester",
+      "hormone level"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_8_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Placenta:",
+    "concepts": [
+      "placenta",
+      "fetus",
+      "chorionic villi",
+      "maternal part",
+      "blood vessels"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_9_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Parturition:",
+    "concepts": [
+      "parturition",
+      "uterine contractions",
+      "cervical dilation",
+      "placental signaling",
+      "amniotic sac rupture"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Lactation:",
+    "concepts": [
+      "lactation",
+      "prolactin",
+      "colostrum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_11_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Reproductive Health:",
+    "concepts": [
+      "reproductive health",
+      "national-level action plans",
+      "maternal and neonatal mortality rates",
+      "population growth"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_12_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Birth control:",
+    "concepts": [
+      "contraceptive methods",
+      "fertilization inhibition",
+      "implantation prevention",
+      "barrier methods",
+      "hormonal IUDs",
+      "oral contraceptives",
+      "ovulation alteration",
+      "cervical mucus modification",
+      "vasectomy",
+      "tubectomy",
+      "gamete blocking",
+      "medical termination of pregnancy",
+      "alcohol effects on fetal development",
+      "smoking effects on fetal development"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_13_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Sexually Transmitted Diseases (STDs):",
+    "concepts": [
+      "syphilis",
+      "gonorrhea",
+      "chlamydia",
+      "HIV/AIDS",
+      "herpes",
+      "human papillomavirus (HPV)",
+      "trichomoniasis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_14_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Infertility:",
+    "concepts": [
+      "infertility",
+      "conception",
+      "reproductive issues",
+      "fertility drugs",
+      "in vitro fertilization",
+      "zygote intrafallopian transfer",
+      "gamete intrafallopian transfer",
+      "intra-cytoplasmic sperm injection"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_14_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Infertility:",
+    "concepts": [
+      "infertility",
+      "surrogacy",
+      "adoption"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH02_S2_14_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "Asexual Reproduction In Animals:",
+    "section": "Infertility:",
+    "concepts": [
+      "spermatogenesis",
+      "oogenesis",
+      "fertilization"
+    ]
+  }
+]

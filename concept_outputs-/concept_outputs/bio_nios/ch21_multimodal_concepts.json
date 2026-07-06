@@ -1,0 +1,324 @@
+[
+  {
+    "resource_id": "TXT_12_CH21_X_001",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": null,
+    "concepts": [
+      "reproduction",
+      "gamete",
+      "fertilization",
+      "sexual reproduction",
+      "asexual reproduction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_X_002",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": null,
+    "concepts": [
+      "sexual reproduction",
+      "mitosis",
+      "transcription"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_1_001",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "A SEXUAL REPRODUCTION IN ANIMALS",
+    "concepts": [
+      "gemmules",
+      "sponges",
+      "archaeocytes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_1_002",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "REPRODUCTION IN HUMANS",
+    "concepts": [
+      "puberty",
+      "hormonal changes",
+      "adolescence"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_2_001",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "b (iii) Organs associated with human male reproduction system",
+    "concepts": [
+      "accessory glands",
+      "seminal vesicles",
+      "prostate gland",
+      "Cowper's glands",
+      "sperm maturation",
+      "semen",
+      "testes",
+      "spermatogenesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_2_002",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "b (iii) Organs associated with human male reproduction system",
+    "concepts": [
+      "ovaries",
+      "fallopian tubes",
+      "uterus"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_2_003",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "b (iii) Organs associated with human male reproduction system",
+    "concepts": [
+      "menstrual cycle",
+      "hormonal changes",
+      "physiological changes",
+      "uterine lining",
+      "ovum",
+      "corpus luteum",
+      "progesterone"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_2_004",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "FERTILIZATION, PREGNANCY AND DEVELOPMENT OF THE EMBRYO",
+    "concepts": [
+      "fertilization",
+      "implantation",
+      "zygote"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_2_005",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "FERTILIZATION, PREGNANCY AND DEVELOPMENT OF THE EMBRYO",
+    "concepts": [
+      "placenta",
+      "fertilization",
+      "embryo"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_2_006",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "FERTILIZATION, PREGNANCY AND DEVELOPMENT OF THE EMBRYO",
+    "concepts": [
+      "mammary glands",
+      "colostrum",
+      "IgA",
+      "passive immunity",
+      "pituitary gland",
+      "prolactin",
+      "oxytocin"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_2_007",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "FERTILIZATION, PREGNANCY AND DEVELOPMENT OF THE EMBRYO",
+    "concepts": [
+      "fraternal twins",
+      "identical twins",
+      "Siamese twins"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_3_001",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "NEW MEDICAL TECHNIQUES IN REPRODUCTION",
+    "concepts": [
+      "ovaries",
+      "fertilization",
+      "embryo",
+      "uterus",
+      "ovulation",
+      "Follicle Stimulating Hormone"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_4_001",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "POPULATION-PROBLEMS AND CONTROL",
+    "concepts": [
+      "human population",
+      "demographic trends",
+      "resources"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_4_002",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "POPULATION-PROBLEMS AND CONTROL",
+    "concepts": [
+      "reproduction",
+      "heredity",
+      "population dynamics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_4_003",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "POPULATION-PROBLEMS AND CONTROL",
+    "concepts": [
+      "agricultural advancements",
+      "medical progress",
+      "social customs",
+      "religious beliefs",
+      "industrialization",
+      "illiteracy",
+      "economic pressures"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_4_004",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "POPULATION-PROBLEMS AND CONTROL",
+    "concepts": [
+      "financial strain",
+      "medical care",
+      "education",
+      "cost",
+      "overpopulation",
+      "reduced per capita income",
+      "depletion of natural resources",
+      "food",
+      "land",
+      "fuel"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_4_005",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "POPULATION-PROBLEMS AND CONTROL",
+    "concepts": [
+      "birth control",
+      "families",
+      "society"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_4_006",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "POPULATION-PROBLEMS AND CONTROL",
+    "concepts": [
+      "reproduction",
+      "offspring",
+      "sexual reproduction",
+      "asexual reproduction",
+      "heredity",
+      "genetic traits",
+      "species characteristics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_4_007",
+    "document_id": "NIOS_BIO_CH21",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Reproduction And Population Control",
+    "section": "POPULATION-PROBLEMS AND CONTROL",
+    "concepts": [
+      "reproduction",
+      "offspring",
+      "species",
+      "heredity",
+      "genetic traits",
+      "genes",
+      "chromosomes"
+    ]
+  }
+]

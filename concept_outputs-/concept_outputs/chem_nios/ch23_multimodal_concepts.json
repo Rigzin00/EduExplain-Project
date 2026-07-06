@@ -1,0 +1,436 @@
+[
+  {
+    "resource_id": "TXT_12_CH23_X_001",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": null,
+    "concepts": [
+      "hydrocarbons",
+      "carbon",
+      "bond fission",
+      "isomerism",
+      "IUPAC system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_X_002",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": null,
+    "concepts": [
+      "functional groups",
+      "carbon chain structure",
+      "organic molecules"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_1_001",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "CLASSIFICATION OF HYDROCARBONS",
+    "concepts": [
+      "aliphatic compounds",
+      "closed-chain compounds",
+      "cyclic compounds"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_2_001",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "NOMENCLATURE OF ORGANIC COMPOUNDS",
+    "concepts": [
+      "homologous series",
+      "nomenclature system",
+      "IUPAC"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_2_002",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "NOMENCLATURE OF ORGANIC COMPOUNDS",
+    "concepts": [
+      "nomenclature",
+      "IUPAC nomenclature",
+      "straight chain hydrocarbons",
+      "branched chain hydrocarbons",
+      "word root",
+      "saturated",
+      "unsaturated"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_2_003",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "NOMENCLATURE OF ORGANIC COMPOUNDS",
+    "concepts": [
+      "nomenclature",
+      "ring structure",
+      "alkane",
+      "alkene",
+      "alkyne",
+      "substitution",
+      "aromatic compound",
+      "carbon atom numbering"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_2_004",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "NOMENCLATURE OF ORGANIC COMPOUNDS",
+    "concepts": [
+      "parent chain",
+      "longest continuous carbon chain",
+      "substituents",
+      "positions",
+      "IUPAC rules",
+      "structural formula"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH23_S23_2_001",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "NOMENCLATURE OF ORGANIC COMPOUNDS",
+    "concepts": [
+      "IUPAC name",
+      "hydrocarbon",
+      "structural formula",
+      "parent chain",
+      "functional group",
+      "substituent",
+      "tetravalency"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH23_S23_2_002",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "NOMENCLATURE OF ORGANIC COMPOUNDS",
+    "concepts": [
+      "hydrocarbon chain",
+      "double bonds",
+      "IUPAC name"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_2_005",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "NOMENCLATURE OF ORGANIC COMPOUNDS",
+    "concepts": [
+      "functional groups",
+      "IUPAC nomenclature",
+      "parent alkane"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_001",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "TYPES OF REACTIONS IN ORGANIC COMPOUNDS",
+    "concepts": [
+      "substitution",
+      "elimination",
+      "addition"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_002",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "TYPES OF REACTIONS IN ORGANIC COMPOUNDS",
+    "concepts": [
+      "homolytic fission",
+      "heterolytic fission",
+      "free radicals",
+      "carbocation",
+      "carbanion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_003",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "TYPES OF REACTIONS IN ORGANIC COMPOUNDS",
+    "concepts": [
+      "polarity",
+      "inductive effects",
+      "electromeric effects"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_004",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "TYPES OF REACTIONS IN ORGANIC COMPOUNDS",
+    "concepts": [
+      "steric hinderance",
+      "substituents",
+      "-COOH",
+      "-CONH₂",
+      "-CHO",
+      "-NH₂",
+      "alkyl groups",
+      "reactivity",
+      "aliphatic carboxylic acids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_005",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "TYPES OF REACTIONS IN ORGANIC COMPOUNDS",
+    "concepts": [
+      "nucleophilic substitution",
+      "electrophilic substitution",
+      "haloalkane"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_006",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "TYPES OF REACTIONS IN ORGANIC COMPOUNDS",
+    "concepts": [
+      "unsaturated hydrocarbons",
+      "alkenes",
+      "alkynes",
+      "carbon-carbon double and triple bonds",
+      "electrophilic reagents",
+      "addition reaction",
+      "dibromoethane",
+      "bronsted-lowry acid-base theory",
+      "hydrogenation",
+      "alkanes",
+      "stepwise process"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_007",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "TYPES OF REACTIONS IN ORGANIC COMPOUNDS",
+    "concepts": [
+      "elimination reaction",
+      "saturated compound",
+      "double bond",
+      "ethanol",
+      "ethene",
+      "sulfuric acid",
+      "catalyst"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_008",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "TYPES OF REACTIONS IN ORGANIC COMPOUNDS",
+    "concepts": [
+      "molecular rearrangement",
+      "Lewis acid",
+      "structural change",
+      "organic molecule"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_4_001",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "ISOMERISM",
+    "concepts": [
+      "isomerism",
+      "functional isomerism",
+      "positional isomerism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_5_001",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "QUALITATIVE ANALYSIS OF ORGANIC COMPOUNDS",
+    "concepts": [
+      "carbon and hydrogen composition",
+      "additional elements like oxygen, nitrogen, sulfur, halogens, and phosphorus",
+      "wide range of properties and functionalities"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_5_002",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "QUALITATIVE ANALYSIS OF ORGANIC COMPOUNDS",
+    "concepts": [
+      "carbon",
+      "hydrogen",
+      "sooty flames",
+      "char",
+      "copper oxide",
+      "oxidation",
+      "lime water",
+      "anhydrous copper sulfate"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_5_003",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "QUALITATIVE ANALYSIS OF ORGANIC COMPOUNDS",
+    "concepts": [
+      "fusing",
+      "organic compounds",
+      "sodium metal",
+      "nitrogen",
+      "halogens",
+      "hexacyanoferrate(II)",
+      "sulfur",
+      "sodium nitroprusside",
+      "silver nitrate",
+      "precipitates",
+      "phosphorus",
+      "natrium peroxide"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_6_001",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "QUANTITATIVE ANALYSIS",
+    "concepts": [
+      "carbon",
+      "hydrogen",
+      "halogens",
+      "sulphur",
+      "phosphorus",
+      "nitrogen",
+      "Kjeldahl's method"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_6_002",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "QUANTITATIVE ANALYSIS",
+    "concepts": [
+      "aliphatic",
+      "homocyclic",
+      "carbocyclic",
+      "heterocyclic",
+      "nomenclature"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_6_003",
+    "document_id": "NIOS_CHEM_CH23",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Nomenclature And General Principles",
+    "section": "QUANTITATIVE ANALYSIS",
+    "concepts": [
+      "alkyl group",
+      "halogenation",
+      "addition reaction"
+    ]
+  }
+]

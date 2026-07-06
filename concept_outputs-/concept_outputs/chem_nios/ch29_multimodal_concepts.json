@@ -1,0 +1,431 @@
+[
+  {
+    "resource_id": "TXT_12_CH29_X_001",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": null,
+    "concepts": [
+      "carbohydrates",
+      "proteins",
+      "lipids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_X_002",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "conversion of light energy",
+      "chemical energy",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts",
+      "plant cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_1_001",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "CARBOHYDRATES",
+    "concepts": [
+      "carbohydrate",
+      "photosynthesis",
+      "glucose",
+      "fructose",
+      "sucrose",
+      "starch",
+      "cellulose"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_1_002",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "CARBOHYDRATES",
+    "concepts": [
+      "monosaccharides",
+      "polyhydroxy aldehydes/ketones",
+      "hydrolysis",
+      "classification",
+      "aldoses",
+      "ketoses",
+      "aldehyde group",
+      "keto group"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_1_003",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "CARBOHYDRATES",
+    "concepts": [
+      "monosaccharide",
+      "carbohydrate",
+      "glyceraldehyde",
+      "anomer",
+      "glucose"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_1_004",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "CARBOHYDRATES",
+    "concepts": [
+      "disaccharide",
+      "monosaccharide",
+      "glycoside linkage",
+      "maltose",
+      "sucrose",
+      "lactose",
+      "polysaccharide",
+      "amylose",
+      "amylopectin",
+      "cellulose"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_2_001",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "PROTEINS",
+    "concepts": [
+      "protein",
+      "macromolecule",
+      "amino acid structure",
+      "biological process",
+      "dietary source"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_2_002",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "PROTEINS",
+    "concepts": [
+      "classification",
+      "prosthetic group",
+      "functional role"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_2_003",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "PROTEINS",
+    "concepts": [
+      "amino acid",
+      "peptide bond",
+      "polypeptide",
+      "quaternary",
+      "primary"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_2_004",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "PROTEINS",
+    "concepts": [
+      "denaturation",
+      "hydrogen bonds",
+      "globules",
+      "helices",
+      "milk curdling",
+      "boiled eggs"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_001",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "LIPIDS",
+    "concepts": [
+      "lipid",
+      "insoluble",
+      "soluble",
+      "crucial role",
+      "biological process"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_002",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "LIPIDS",
+    "concepts": [
+      "fats",
+      "phospholipids",
+      "steroids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_003",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "LIPIDS",
+    "concepts": [
+      "triglyceride",
+      "fatty acid",
+      "ester",
+      "wax",
+      "phospholipid",
+      "glycolipid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_004",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "LIPIDS",
+    "concepts": [
+      "functional groups",
+      "reaction mechanisms",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_4_001",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "NUCLEIC ACIDS",
+    "concepts": [
+      "nucleic acids",
+      "DNA",
+      "RNA",
+      "chromosomes",
+      "protein synthesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_4_002",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "NUCLEIC ACIDS",
+    "concepts": [
+      "nucleotide unit",
+      "pentose sugar",
+      "phosphate group",
+      "deoxyribose",
+      "ribose",
+      "adenine-thymine",
+      "guanine-cytosine",
+      "double-stranded helix",
+      "complementary strands",
+      "specific hydrogen bonds",
+      "base pairing",
+      "RNA folding",
+      "three main types"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_4_003",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "NUCLEIC ACIDS",
+    "concepts": [
+      "replication",
+      "double helix",
+      "template",
+      "complementary strand",
+      "nucleotides",
+      "mitosis",
+      "transcription",
+      "messenger RNA",
+      "amino acids",
+      "peptide bonds"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_5_001",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "ENZYMES",
+    "concepts": [
+      "enzymes",
+      "catalysts",
+      "biochemical reactions",
+      "food digestion",
+      "maltase",
+      "esterase"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_5_002",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "ENZYMES",
+    "concepts": [
+      "enzyme",
+      "substrate",
+      "active site"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_5_003",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "ENZYMES",
+    "concepts": [
+      "enzymes",
+      "biochemical reactions",
+      "catalysis",
+      "rate increase",
+      "ten million times"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_6_001",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "HORMONES",
+    "concepts": [
+      "hormones",
+      "endocrine glands",
+      "bloodstream",
+      "target tissues",
+      "steroid hormones",
+      "androgens",
+      "testosterone",
+      "estrogens",
+      "estradiol",
+      "adrenocortical hormones",
+      "aldosterone",
+      "hydrocortisone",
+      "metabolic processes",
+      "fluid balance",
+      "polypeptide hormones",
+      "vasopressin",
+      "oxytocin",
+      "insulin",
+      "pancreas",
+      "blood pressure",
+      "childbirth",
+      "glucose metabolism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_7_001",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "VITAMINS : CLASSIFICATION AND THEIR FUNCTIONS",
+    "concepts": [
+      "vitamin classification",
+      "water-soluble vitamins",
+      "fat-soluble vitamins"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_7_002",
+    "document_id": "NIOS_CHEM_CH29",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Biomolecules",
+    "section": "VITAMINS : CLASSIFICATION AND THEIR FUNCTIONS",
+    "concepts": [
+      "α-amino acid",
+      "side chain",
+      "nucleic acids",
+      "sugar component",
+      "DNA",
+      "RNA"
+    ]
+  }
+]

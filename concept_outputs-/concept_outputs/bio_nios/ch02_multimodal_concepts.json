@@ -1,0 +1,268 @@
+[
+  {
+    "resource_id": "TXT_12_CH02_X_001",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": null,
+    "concepts": [
+      "fundamental characteristics",
+      "life forms",
+      "microorganisms"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_X_002",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": null,
+    "concepts": [
+      "evolution",
+      "natural selection",
+      "speciation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_1_001",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": "KINGDOM MONERA",
+    "concepts": [
+      "cell wall",
+      "chromosome",
+      "ribosomes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_1_002",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": "KINGDOM MONERA",
+    "concepts": [
+      "metabolic needs",
+      "mesosomes",
+      "binary fission",
+      "genetic diversity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_1_003",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": "KINGDOM MONERA",
+    "concepts": [
+      "beneficial and harmful bacteria",
+      "Clostridium tetani",
+      "tetanus",
+      "Corynebacterium diphtheriae",
+      "diphtheria",
+      "Mycobacterium tuberculosis",
+      "tuberculosis",
+      "Rhizobium bacteria",
+      "legume roots",
+      "fix atmospheric nitrogen",
+      "amino acids",
+      "Azotobacter",
+      "soil fertility",
+      "nitrogen",
+      "streptomycin",
+      "lactic acid",
+      "lactose"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_1_004",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": "KINGDOM MONERA",
+    "concepts": [
+      "photosynthesis",
+      "oxygenic photosynthesis",
+      "anoxic photosynthesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_1_005",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": "KINGDOM MONERA",
+    "concepts": [
+      "thermophiles",
+      "halophiles",
+      "acidophiles"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_2_001",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": "KINGDOM PROTOCTISTA (UNICELLULAR EUKARYOTES)",
+    "concepts": [
+      "flagellates",
+      "ciliates",
+      "Plasmodium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_2_002",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": "KINGDOM PROTOCTISTA (UNICELLULAR EUKARYOTES)",
+    "concepts": [
+      "binary fission",
+      "Entamoeba histolytica",
+      "Plasmodium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_2_003",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": "KINGDOM PROTOCTISTA (UNICELLULAR EUKARYOTES)",
+    "concepts": [
+      "unicellular eukaryotes",
+      "amoeboidysentery",
+      "plasmodium",
+      "binary fission",
+      "mitochondria",
+      "osmoregulation",
+      "pseudopodia",
+      "flagella"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_001",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": "KINGDOM FUNGI",
+    "concepts": [
+      "fungi",
+      "kingdom",
+      "powdery layer",
+      "mushrooms"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_002",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": "KINGDOM FUNGI",
+    "concepts": [
+      "unicellular",
+      "multicellular",
+      "saprotrophs",
+      "hyphae",
+      "nutrients"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_003",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": "KINGDOM FUNGI",
+    "concepts": [
+      "kingdoms",
+      "fungi",
+      "yeasts",
+      "myxomycetes",
+      "basidiomycetes",
+      "lichen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_004",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": "KINGDOM FUNGI",
+    "concepts": [
+      "harmful fungi causing disease",
+      "Rhizopus growth and characteristics",
+      "beneficial fungi including Penicillium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_005",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": "KINGDOM FUNGI",
+    "concepts": [
+      "economic importance",
+      "mechanisms of evolution",
+      "species diversity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH02_S2_3_006",
+    "document_id": "NIOS_BIO_CH02",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 2,
+    "chapter_title": "The Kingdoms Monera, Protoctista And Fungi",
+    "section": "KINGDOM FUNGI",
+    "concepts": [
+      "economic importance",
+      "fungi",
+      "mechanisms of evolution"
+    ]
+  }
+]

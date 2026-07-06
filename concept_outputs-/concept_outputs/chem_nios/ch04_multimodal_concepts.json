@@ -1,0 +1,351 @@
+[
+  {
+    "resource_id": "TXT_12_CH04_X_001",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": null,
+    "concepts": [
+      "atomic structure",
+      "periodic trends",
+      "chemical bonding"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_X_002",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "light-dependent reactions",
+      "light-independent reactions",
+      "chlorophyll",
+      "pigments",
+      "carbon dioxide",
+      "glucose"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_1_001",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "VALENCE ELECTRONS",
+    "concepts": [
+      "valence electrons",
+      "bond formation",
+      "combining capacity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_2_001",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "WHAT IS A CHEMICAL BOND?",
+    "concepts": [
+      "chemical bonding",
+      "electronic configuration",
+      "noble gases"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_3_001",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "IONIC OR ELECTOVALENT BOND",
+    "concepts": [
+      "ionization energy",
+      "electrostatic forces",
+      "ionic bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_3_002",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "IONIC OR ELECTOVALENT BOND",
+    "concepts": [
+      "ionization energy",
+      "electron affinity",
+      "Born-Haber cycle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_3_003",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "IONIC OR ELECTOVALENT BOND",
+    "concepts": [
+      "ionic bond",
+      "covalent bond",
+      "Lewis theory"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_001",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "COVALENT BOND",
+    "concepts": [
+      "covalent bond",
+      "Lewis model",
+      "hydrogen molecule"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_002",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "COVALENT BOND",
+    "concepts": [
+      "Lewis structure",
+      "octet rule",
+      "bonding"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_003",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "COVALENT BOND",
+    "concepts": [
+      "coordinate covalent bond",
+      "electron deficiency",
+      "electron rich species"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_004",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "COVALENT BOND",
+    "concepts": [
+      "polar covalent bond",
+      "electronegativity",
+      "partial ionic character"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_005",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "COVALENT BOND",
+    "concepts": [
+      "covalent bond",
+      "polarity",
+      "dipole moment"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_006",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "COVALENT BOND",
+    "concepts": [
+      "covalent bond",
+      "polarization",
+      "electron cloud"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_007",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "COVALENT BOND",
+    "concepts": [
+      "bond order",
+      "bond length",
+      "bond angle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_5_001",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "HYDROGEN BONDING",
+    "concepts": [
+      "hydrogen_bonding",
+      "electronegativity",
+      "unshared_electron_pair",
+      "high_boiling_points",
+      "water",
+      "hydrogen_fluoride"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_6_001",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "VALENCE SHELL ELECTRON PAIR REPULSION (VSEPR) THEORY",
+    "concepts": [
+      "vsepr theory",
+      "electron pairs",
+      "central atom",
+      "minimize repulsion",
+      "molecular shape",
+      "bonding pairs",
+      "lone pairs",
+      "repulsion between"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_7_001",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "MODERN THEORIES OF CHEMICAL BONDING",
+    "concepts": [
+      "Valence Bond Theory",
+      "Molecular Orbital Theory",
+      "Quantum mechanical"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_7_002",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "MODERN THEORIES OF CHEMICAL BONDING",
+    "concepts": [
+      "overlap of atomic orbitals",
+      "formation of a strong bond",
+      "hybridization of orbitals"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_6_002",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "The C-C bond so formed is along the internuclear axis. Such a bond is called a ó bond.",
+    "concepts": [
+      "sp² hybridization",
+      "sigma bond",
+      "pi bond",
+      "resonance",
+      "Lewis structures"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_6_003",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "The C-C bond so formed is along the internuclear axis. Such a bond is called a ó bond.",
+    "concepts": [
+      "bond order",
+      "molecular orbital theory",
+      "bonding"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_6_004",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "The C-C bond so formed is along the internuclear axis. Such a bond is called a ó bond.",
+    "concepts": [
+      "covalent bond",
+      "redox reaction",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_6_005",
+    "document_id": "NIOS_CHEM_CH04",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Bonding",
+    "section": "The C-C bond so formed is along the internuclear axis. Such a bond is called a ó bond.",
+    "concepts": [
+      "electrovalent bond",
+      "electron interaction",
+      "lone pair",
+      "bond pair",
+      "molecular orbital theory",
+      "carbonate ion",
+      "sulphur dioxide",
+      "oxygen₂"
+    ]
+  }
+]

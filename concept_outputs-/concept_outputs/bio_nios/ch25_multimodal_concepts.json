@@ -1,0 +1,418 @@
+[
+  {
+    "resource_id": "TXT_12_CH25_X_001",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": null,
+    "concepts": [
+      "soil",
+      "water",
+      "air",
+      "ecosystem",
+      "interconnectedness",
+      "environmental interactions",
+      "complex relationships"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_1_001",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "ENVIRONMENT, ECOLOGY AND BIOSPHERE",
+    "concepts": [
+      "environment",
+      "abiotic",
+      "biotic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_1_002",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "ENVIRONMENT, ECOLOGY AND BIOSPHERE",
+    "concepts": [
+      "ecosystem",
+      "biotic interactions",
+      "abiotic factors"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_1_003",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "ENVIRONMENT, ECOLOGY AND BIOSPHERE",
+    "concepts": [
+      "molecular-level",
+      "cells",
+      "organisms",
+      "species",
+      "populations",
+      "communities",
+      "ecosystems",
+      "biomes",
+      "biosphere"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_1_004",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "ENVIRONMENT, ECOLOGY AND BIOSPHERE",
+    "concepts": [
+      "habitat",
+      "ecosystem",
+      "niche",
+      "adaptation",
+      "environment"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_001",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "POPULATION",
+    "concepts": [
+      "density",
+      "age structure",
+      "sex ratio",
+      "birth rate",
+      "death rate",
+      "immigration",
+      "emigration",
+      "J-shaped curve",
+      "S-shaped curve"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_3_001",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "ECOSYSTEM",
+    "concepts": [
+      "ecosystem",
+      "components",
+      "sunlight penetration",
+      "nutrient-rich sediment substrate",
+      "diverse plant life",
+      "range of animal life"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_3_002",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "ECOSYSTEM",
+    "concepts": [
+      "amino acids",
+      "humic acids",
+      "decomposition"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_002",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "ECOSYSTEM: STRUCTURE AND FUNCTION",
+    "concepts": [
+      "ecosystem",
+      "biotic",
+      "abiotic",
+      "stratification",
+      "species",
+      "composition",
+      "trophic",
+      "feeding",
+      "food",
+      "chains",
+      "webs",
+      "standing",
+      "crops",
+      "functionality",
+      "processes",
+      "productivity",
+      "energy",
+      "flow",
+      "nutrient",
+      "cycling"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_003",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "ECOSYSTEM: STRUCTURE AND FUNCTION",
+    "concepts": [
+      "species composition",
+      "ecosystem structure",
+      "ecosystem function"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_004",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "ECOSYSTEM: STRUCTURE AND FUNCTION",
+    "concepts": [
+      "ecosystem stratification",
+      "vertical distribution",
+      "horizontal distribution",
+      "canopy layer",
+      "forest floor",
+      "distinct layers",
+      "desert ecosystem",
+      "sparse vegetation",
+      "bare patches",
+      "interspersed plants"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_005",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "ECOSYSTEM: STRUCTURE AND FUNCTION",
+    "concepts": [
+      "food chain",
+      "trophic levels",
+      "energy flow",
+      "gross primary productivity (GPP)",
+      "net primary productivity (NPP)",
+      "respiration (R)",
+      "consumers",
+      "feeding levels",
+      "ecosystem"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_006",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "ECOSYSTEM: STRUCTURE AND FUNCTION",
+    "concepts": [
+      "food web",
+      "trophic level",
+      "feeding relationship",
+      "ecosystem"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_007",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "ECOSYSTEM: STRUCTURE AND FUNCTION",
+    "concepts": [
+      "energy flow",
+      "trophic levels",
+      "food chain",
+      "metabolic processes",
+      "10% law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_008",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "ECOSYSTEM: STRUCTURE AND FUNCTION",
+    "concepts": [
+      "ecosystem",
+      "pyramid",
+      "quantity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_5_001",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "TYPES OF ECOSYSTEMS – NATURAL AND HUMAN MODIFIED",
+    "concepts": [
+      "natural ecosystems",
+      "human-modified ecosystems",
+      "biotic interactions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_6_001",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "BIOMES",
+    "concepts": [
+      "biome",
+      "ecosystem",
+      "adaptation",
+      "climate",
+      "soil type",
+      "topography"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_6_002",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "BIOMES",
+    "concepts": [
+      "temperate deciduous forests",
+      "coniferous forests",
+      "grasslands"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_6_003",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "BIOMES",
+    "concepts": [
+      "aquatic ecosystem",
+      "ecotone",
+      "marine ecosystem",
+      "salinity",
+      "temperature",
+      "pressure",
+      "adaptation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_7_001",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "ECOLOGICAL SUCCESSION",
+    "concepts": [
+      "ecological succession",
+      "primary succession",
+      "secondary succession"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_7_002",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "BIOGEOCHEMICAL CYCLES",
+    "concepts": [
+      "biogeochemical cycles",
+      "photosynthesis",
+      "respiration",
+      "decomposition",
+      "combustion",
+      "phosphorus cycling",
+      "water cycle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_7_003",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "BIOGEOCHEMICAL CYCLES",
+    "concepts": [
+      "ecosystem",
+      "biotic factors",
+      "abiotic factors",
+      "carbon cycle",
+      "nitrogen cycle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_7_004",
+    "document_id": "NIOS_BIO_CH25",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Principles Of Ecology",
+    "section": "BIOGEOCHEMICAL CYCLES",
+    "concepts": [
+      "environmental factors",
+      "pollution",
+      "climate change",
+      "ecosystem degradation",
+      "public health",
+      "diseases",
+      "well-being"
+    ]
+  }
+]

@@ -1,0 +1,229 @@
+[
+  {
+    "resource_id": "TXT_12_CH03_S3_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Chromosomes And Mechanism Of Inheritance.",
+    "section": "Chromosomes and Mechanism of inheritance.",
+    "concepts": [
+      "genetic terms",
+      "Mendelian genetics",
+      "chromosome"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Chromosomes And Mechanism Of Inheritance.",
+    "section": "Genetic Terminology:",
+    "concepts": [
+      "genetic terminology",
+      "traits",
+      "genes",
+      "alleles",
+      "phenotype",
+      "genotype"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH03_S3_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Chromosomes And Mechanism Of Inheritance.",
+    "section": "Genetic Terminology:",
+    "concepts": [
+      "phenotypes",
+      "genotypic ratios",
+      "phenotypic ratios"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Chromosomes And Mechanism Of Inheritance.",
+    "section": "Mendel's Laws of Inheritance:",
+    "concepts": [
+      "dominant",
+      "recessive",
+      "Law of Dominance",
+      "Law of Segregation",
+      "Law of Independent Assortment"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Chromosomes And Mechanism Of Inheritance.",
+    "section": "Back Cross and Test Cross:",
+    "concepts": [
+      "backcross",
+      "test cross",
+      "homozygous",
+      "heterozygous"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Chromosomes And Mechanism Of Inheritance.",
+    "section": "Deviations from Mendel's findings:",
+    "concepts": [
+      "deviations from Mendel's findings",
+      "Neo-Mendelism",
+      "genetic inheritance"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH03_S3_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Chromosomes And Mechanism Of Inheritance.",
+    "section": "Deviations from Mendel's findings:",
+    "concepts": [
+      "co-dominance",
+      "genotypic ratio",
+      "phenotypic ratio"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Chromosomes And Mechanism Of Inheritance.",
+    "section": "Chromosomal Theory of Inheritance:",
+    "concepts": [
+      "discrete genetic factors",
+      "segregation during reproduction",
+      "chromosomal theory of inheritance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Chromosomes And Mechanism Of Inheritance.",
+    "section": "Chromosomes:",
+    "concepts": [
+      "chromosome",
+      "metaphase",
+      "centromere"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_8_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Chromosomes And Mechanism Of Inheritance.",
+    "section": "Linkage and Crossing Over:",
+    "concepts": [
+      "linkage",
+      "chromosome",
+      "crossing over"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_9_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Chromosomes And Mechanism Of Inheritance.",
+    "section": "Autosomal Inheritance:",
+    "concepts": [
+      "chromosomes",
+      "autosomal inheritance",
+      "phenotypic expression",
+      "genetic disorder",
+      "dominant gene",
+      "recessive gene",
+      "phenylketonuria"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Chromosomes And Mechanism Of Inheritance.",
+    "section": "Sex Linked Inheritance:",
+    "concepts": [
+      "sex-linked inheritance",
+      "X-linked inheritance",
+      "Y-linked inheritance"
+    ]
+  },
+  {
+    "resource_id": "ACT_12_CH03_S3_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Chromosomes And Mechanism Of Inheritance.",
+    "section": "Sex Linked Inheritance:",
+    "concepts": [
+      "X-linked recessive inheritance",
+      "affected X chromosome",
+      "carrier status",
+      "hemophilia"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_11_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Chromosomes And Mechanism Of Inheritance.",
+    "section": "Sex Determination:",
+    "concepts": [
+      "sex determination",
+      "chromosomes",
+      "X and Y sex chromosomes",
+      "females",
+      "males",
+      "reproduction",
+      "sperm",
+      "egg",
+      "offspring"
+    ]
+  }
+]

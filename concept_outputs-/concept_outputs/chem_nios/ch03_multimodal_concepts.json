@@ -1,0 +1,289 @@
+[
+  {
+    "resource_id": "TXT_12_CH03_X_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": null,
+    "concepts": [
+      "classification",
+      "periodic table",
+      "atomic structure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_X_002",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "conversion of light energy",
+      "chemical energy",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts",
+      "plant cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_1_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "EARLY ATTEMPTS",
+    "concepts": [
+      "atomic weights",
+      "triads",
+      "octaves",
+      "periodic trends"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_2_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "MENDELEEV'S PERIODIC TABLE",
+    "concepts": [
+      "atomic weights",
+      "periodic law",
+      "discovered elements"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_3_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "MODERN APPROACH",
+    "concepts": [
+      "atomic number",
+      "Modern Periodic Table",
+      "increasing atomic number"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_4_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "LONG FORM OF PERIODIC TABLE",
+    "concepts": [
+      "atomic numbers",
+      "outer electron configurations",
+      "periodic reoccurrence",
+      "similar physical and chemical properties",
+      "shared characteristics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_5_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "STRUCTURAL FEATURES OF THE LONG FORM OF PERIODIC TABLE",
+    "concepts": [
+      "atomic structure",
+      "chemical bonding",
+      "periodic table"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_6_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "POSITION OF METALS, NON-METALS AND METALLOIDS",
+    "concepts": [
+      "atomic numbers",
+      "metals",
+      "non-metals",
+      "metalloids",
+      "diagonal line"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_7_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "CATAGORISATION OF ELEMENTS INTO 's', 'p', 'd', AND 'f' BLOCKS",
+    "concepts": [
+      "classification",
+      "atomic number",
+      "named elements"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_8_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "PERIODICITY IN ATOMIC PROPERTIES",
+    "concepts": [
+      "periodicity",
+      "recurring trends",
+      "atomic properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_9_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "ATOMIC SIZE",
+    "concepts": [
+      "bond length",
+      "atomic radius",
+      "nuclear charge",
+      "electrons",
+      "distance",
+      "periodic table",
+      "atomic size"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_10_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "IONIC SIZE",
+    "concepts": [
+      "cation",
+      "anion",
+      "nuclear attraction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_11_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "IONIZATION ENTHALPY",
+    "concepts": [
+      "ionization enthalpy",
+      "nuclear charge",
+      "distance of valence electrons"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_12_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "ELECTRON GAIN ENTHALPY",
+    "concepts": [
+      "electron gain enthalpy",
+      "nuclear attraction",
+      "atomic size"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_13_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "ELECTRONEGATIVITY",
+    "concepts": [
+      "electronegativity",
+      "covalent bond",
+      "polarization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_14_001",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "CONCEPT OF VALENCE OR VALENCY",
+    "concepts": [
+      "valence electron",
+      "combining capacity",
+      "octet rule"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_14_002",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "CONCEPT OF VALENCE OR VALENCY",
+    "concepts": [
+      "electron configurations",
+      "periodic table",
+      "noble gases"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_14_003",
+    "document_id": "NIOS_CHEM_CH03",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Periodic Table And Periodicity In Properties",
+    "section": "CONCEPT OF VALENCE OR VALENCY",
+    "concepts": [
+      "electron configurations",
+      "periodic table",
+      "covalent bond"
+    ]
+  }
+]

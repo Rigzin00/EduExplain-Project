@@ -1,0 +1,869 @@
+[
+  {
+    "resource_id": "TXT_12_CH12_X_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": null,
+    "concepts": [
+      "functional groups",
+      "carbonyl group",
+      "alkyl or aryl group",
+      "ketone",
+      "carboxyl group",
+      "salt formation",
+      "ester formation"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_X_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": null,
+    "concepts": [
+      "functional group",
+      "aldehyde",
+      "ketone",
+      "carboxylic acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Classification of aldehydes, ketones and carboxylic acids: Aldehydes, ketones and carboxylic acids are classified as per the nature of carbon skeleton bonded to (&gt;C=O).",
+    "concepts": [
+      "aliphatic aldehydes",
+      "aromatic aldehydes",
+      "formyl group"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_2_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Classification of aldehydes, ketones and carboxylic acids: Aldehydes, ketones and carboxylic acids are classified as per the nature of carbon skeleton bonded to (&gt;C=O).",
+    "concepts": [
+      "aliphatic ketones",
+      "aromatic ketones",
+      "ketone classification"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH12_S12_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Classification of aldehydes, ketones and carboxylic acids: Aldehydes, ketones and carboxylic acids are classified as per the nature of carbon skeleton bonded to (&gt;C=O).",
+    "concepts": [
+      "classification of aldehydes and ketones",
+      "ketones classification",
+      "carbonyl moiety"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_2_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Classification of aldehydes, ketones and carboxylic acids: Aldehydes, ketones and carboxylic acids are classified as per the nature of carbon skeleton bonded to (&gt;C=O).",
+    "concepts": [
+      "aliphatic carboxylic acids",
+      "carboxylic acids classification",
+      "mono-, di-, tri-carboxylic acids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Nomenclature of aldehydes, ketones and carboxylic acids :",
+    "concepts": [
+      "nomenclature",
+      "substituent labeling",
+      "IUPAC system"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Nomenclature of aldehydes, ketones and carboxylic acids :",
+    "concepts": [
+      "IUPAC",
+      "trivial",
+      "nomenclature"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH12_S12_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Nomenclature of aldehydes, ketones and carboxylic acids :",
+    "concepts": [
+      "trivial names",
+      "IUPAC system",
+      "carboxylic acids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_3_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Nomenclature of aldehydes, ketones and carboxylic acids :",
+    "concepts": [
+      "naming conventions for aliphatic ketones",
+      "substituent naming rules",
+      "IUPAC nomenclature"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Preparation of aldehydes and ketones: 12.4.1 General methods of preparation of aldehydes and ketones:",
+    "concepts": [
+      "alcohol molecules",
+      "carbonyl compounds",
+      "oxidation"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Preparation of aldehydes and ketones: 12.4.1 General methods of preparation of aldehydes and ketones:",
+    "concepts": [
+      "oxidizing agent",
+      "dehydrogenation process",
+      "hot copper powder"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_4_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Preparation of aldehydes and ketones: 12.4.1 General methods of preparation of aldehydes and ketones:",
+    "concepts": [
+      "palladium catalyst",
+      "barium sulfate poisoning",
+      "Rosenmund reduction"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_4_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Preparation of aldehydes and ketones: 12.4.1 General methods of preparation of aldehydes and ketones:",
+    "concepts": [
+      "alcohol formation",
+      "palladium catalysis",
+      "stannous chloride reduction"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_4_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Preparation of aldehydes and ketones: 12.4.1 General methods of preparation of aldehydes and ketones:",
+    "concepts": [
+      "aldehyde",
+      "ketone",
+      "carboxylic acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_4_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Preparation of aldehydes and ketones: 12.4.1 General methods of preparation of aldehydes and ketones:",
+    "concepts": [
+      "reduction",
+      "diisobutylaluminiumhydride",
+      "DIBAl-H"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Preparation of carboxylic acids:",
+    "concepts": [
+      "hydrolysis",
+      "amide",
+      "carboxylic acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_5_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Preparation of carboxylic acids:",
+    "concepts": [
+      "acyl chloride",
+      "water",
+      "carboxylic acid",
+      "anhydride",
+      "hydrolysis",
+      "aliphatic",
+      "aromatic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_5_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Preparation of carboxylic acids:",
+    "concepts": [
+      "acid hydrolysis",
+      "alkaline hydrolysis",
+      "saponification"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_5_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Preparation of carboxylic acids:",
+    "concepts": [
+      "oxidation",
+      "alkyl chain",
+      "carboxyl group"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_5_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Preparation of carboxylic acids:",
+    "concepts": [
+      "oxidation",
+      "alkenes",
+      "KMnO₄",
+      "dilute H₂SO₄",
+      "benzoic acid",
+      "cyclohexene",
+      "adipic acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_5_006",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Preparation of carboxylic acids:",
+    "concepts": [
+      "carboxylic_acid",
+      "alkyl_halides",
+      "magnesium",
+      "dry_ether",
+      "carbon_dioxide",
+      "acid_hydrolysis"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH12_S12_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Preparation of carboxylic acids:",
+    "concepts": [
+      "covalent bond",
+      "redox reaction",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Preparation of carboxylic acids:",
+    "concepts": [
+      "carboxylic_acid",
+      "acid_hydrolysis",
+      "Grignard_reagent"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Physical properties:",
+    "concepts": [
+      "polar covalent carbonyl bond",
+      "dipole-dipole forces",
+      "hydrogen bonding"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_6_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Physical properties:",
+    "concepts": [
+      "boiling points",
+      "chain length",
+      "pleasant smell"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_6_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Physical properties:",
+    "concepts": [
+      "hydrogen bonding",
+      "molecular mass",
+      "water solubility"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_6_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Physical properties:",
+    "concepts": [
+      "boiling points",
+      "solubilities",
+      "carboxylic acids"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH12_S12_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Physical properties:",
+    "concepts": [
+      "boiling_points",
+      "solubilities",
+      "carboxylic_acids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Polarity of carbonyl group : The polarity of a carbonyl group originates from higher electronegativity of oxygen relative to carbon as well as resonance effects as shown in Fig. 12.4.",
+    "concepts": [
+      "electronegativity",
+      "resonance effects",
+      "polarity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_7_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Polarity of carbonyl group : The polarity of a carbonyl group originates from higher electronegativity of oxygen relative to carbon as well as resonance effects as shown in Fig. 12.4.",
+    "concepts": [
+      "electronegativity",
+      "resonance effect",
+      "polarization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "aldehydes",
+      "ketones",
+      "carboxylic acids",
+      "reducing agents",
+      "oxidation",
+      "Fehling test",
+      "Tollens reagent"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "reducing agent",
+      "oxidation",
+      "mild oxidizing agent"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_8_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "reducing agent",
+      "ketonic group",
+      "red coloration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_8_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "aldehydes",
+      "ketones",
+      "carbonyl group",
+      "electrophilic carbonyl carbon",
+      "Schiff's reagent",
+      "cyanohydrins",
+      "hydrogen cyanide",
+      "nucleophilic attack",
+      "crystalline precipitates"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_8_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "chemical reactions",
+      "nucleophilic attack",
+      "electrophilic carbonyl carbon"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH12_S12_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "chemical reactions",
+      "nucleophilic attack",
+      "hemiacetal",
+      "acetal"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH12_S12_8_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "protecting group",
+      "ketal",
+      "multifunctional compound"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_8_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "aldehydes",
+      "ketones",
+      "carboxylic acids",
+      "nucleophilic attack",
+      "intramolecular reaction",
+      "hemiacetals",
+      "hemiketals",
+      "imines"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_8_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "chemical reactions",
+      "alcohol",
+      "ketone",
+      "alkoxide"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_8_006",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "chemical reaction",
+      "nucleophilic attack",
+      "electrophilic carbonyl carbon"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_8_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "oxidation",
+      "reduction",
+      "aldehydes",
+      "ketones",
+      "carboxylic acids",
+      "dilute nitric acid",
+      "potassium permanganate",
+      "potassium dichromate",
+      "acidic conditions",
+      "Clemmensen reduction",
+      "Wolf-Kishner reduction",
+      "methane",
+      "gaseous nitrogen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_8_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "electrophilic substitution reactions",
+      "nitration",
+      "sulfonation",
+      "halogenation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_8_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "carboxyl group",
+      "hydrogen atom",
+      "resonance stabilization",
+      "acidity"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_8_007",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "acidic_character_of_carboxylic_acids",
+      "electronic_effects_on_acidity",
+      "halogenation_effect"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_8_008",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "acidic character",
+      "conjugate base",
+      "inductive effect",
+      "sp^2 hybrid carbon",
+      "aromatic ring",
+      "electron withdrawing",
+      "increases acidity",
+      "electronegative groups"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_8_006",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "litmus test",
+      "sodium bicarbonate test",
+      "concentration of hydrochloric acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_8_007",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "carboxylic_acid",
+      "phosphorus_trichloride",
+      "thionyl_chloride",
+      "acetyl_chloride"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_8_009",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "aldehyde",
+      "ketone",
+      "carboxylic acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_8_008",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "carboxylic_acid",
+      "ammonia",
+      "ammonium_carboxylate",
+      "decomposition",
+      "acid_amide"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH12_S12_8_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "aldehyde",
+      "ketone",
+      "ammonia",
+      "carboxylic_acid",
+      "ammonium_carboxylate_salt",
+      "acid_amide"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH12_S12_8_010",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "dehydrating agent",
+      "acid anhydride",
+      "hydrolysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_8_009",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "decomposition",
+      "hydrocarbons",
+      "soda lime",
+      "methane"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_8_010",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Aldehydes, Ketones And Carboxylic Acids",
+    "section": "Chemical properties of aldehydes and ketones:",
+    "concepts": [
+      "reduction",
+      "carboxylic_acid",
+      "ketone"
+    ]
+  }
+]

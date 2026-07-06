@@ -1,0 +1,444 @@
+[
+  {
+    "resource_id": "TXT_12_CH11_X_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": null,
+    "concepts": [
+      "alcohols",
+      "phenols",
+      "ethers"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH11_X_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": null,
+    "concepts": [
+      "homologous series",
+      "hydroxyl group",
+      "phenol",
+      "aromatic alcohol",
+      "ether",
+      "epoxy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Classification: Let us first consider classification of alcohols, phenols and then ethers.",
+    "concepts": [
+      "classification",
+      "alcohols",
+      "phenols",
+      "ethers"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH11_S11_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Classification: Let us first consider classification of alcohols, phenols and then ethers.",
+    "concepts": [
+      "classification",
+      "hydroxyl group",
+      "sp<sup>2</sup> hybridized carbon atom",
+      "vinyl alcohol"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_2_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Classification: Let us first consider classification of alcohols, phenols and then ethers.",
+    "concepts": [
+      "classification",
+      "ethers",
+      "substituents"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Nomenclature:",
+    "concepts": [
+      "alcohol",
+      "hydration reaction",
+      "hydroxyl group"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH11_S11_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Nomenclature:",
+    "concepts": [
+      "alcohol",
+      "nomenclature",
+      "IUPAC system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_3_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Nomenclature:",
+    "concepts": [
+      "nomenclature",
+      "alcohol",
+      "ether",
+      "molecular formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Alcohols and Phenols:",
+    "concepts": [
+      "hydrolysis",
+      "Markownikoff's rule",
+      "oxidation"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH11_S11_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Alcohols and Phenols:",
+    "concepts": [
+      "alcohol formation",
+      "reduction mechanism",
+      "ketone reduction",
+      "primary alcohol",
+      "secondary alcohol",
+      "carbonyl compound reduction"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH11_S11_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Alcohols and Phenols:",
+    "concepts": [
+      "epoxide",
+      "Girgenrard reagent",
+      "acidic hydolysis",
+      "primary alcohol",
+      "Mg X",
+      "R-CH₂CH₂-OH"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_4_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Alcohols and Phenols:",
+    "concepts": [
+      "phenol",
+      "cumene hydroperoxide",
+      "benzene sulfonic acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_4_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Alcohols and Phenols:",
+    "concepts": [
+      "bond polarity",
+      "hydrogen bonding",
+      "branching effect on boiling points",
+      "solubility of phenols and lower alcohols"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_4_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Alcohols and Phenols:",
+    "concepts": [
+      "litmus paper",
+      "phenolic property",
+      "sodium phenoxide"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH11_S11_4_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Alcohols and Phenols:",
+    "concepts": [
+      "increasingly strong bases",
+      "qualitative tests",
+      "reactivity towards bases",
+      "phenols",
+      "chemical properties of Alcohols and Phenols",
+      "reactions with NaOH",
+      "strong acid",
+      "high reactivity",
+      "reaction with NaHCO₃",
+      "alcohols",
+      "aqueous NaHCO₃",
+      "aqueous NaOH",
+      "characteristic test for phenols",
+      "neutral ferric chloride solution",
+      "ferric phenoxide"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH11_S11_4_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Alcohols and Phenols:",
+    "concepts": [
+      "electronic effects",
+      "acid strength",
+      "esterification"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH11_S11_4_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Alcohols and Phenols:",
+    "concepts": [
+      "dehydration",
+      "chemical properties",
+      "alcohols"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH11_S11_4_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Alcohols and Phenols:",
+    "concepts": [
+      "oxidation",
+      "dehydrogenation",
+      "alkene formation",
+      "pyridinium chlorochromate",
+      "chromic anhydride",
+      "nitric acid",
+      "potassium permanganate",
+      "potassium dichromate",
+      "aldehyde formation",
+      "ketone formation",
+      "common oxidizing agents",
+      "alcohol oxidation",
+      "carboxylic acid formation",
+      "tertiary alcohol oxidation",
+      "strong oxidizing agents",
+      "high temperature",
+      "C-C bond breaking"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH11_S11_4_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Alcohols and Phenols:",
+    "concepts": [
+      "reactivity",
+      "electrophilic substitution",
+      "Kolbe reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Ethers",
+    "concepts": [
+      "dehydration",
+      "ethanol dehydration",
+      "ethoxyethane formation",
+      "ethene formation",
+      "higher temperatures",
+      "secondary alcohols"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH11_S11_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Ethers",
+    "concepts": [
+      "dehydration",
+      "SN<sup>2</sup>",
+      "backside attack",
+      "second molecule",
+      "slow step",
+      "fast deprotonation",
+      "formation of ether"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_5_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Ethers",
+    "concepts": [
+      "net dipole moment",
+      "bond dipoles",
+      "polarization",
+      "weakly polar",
+      "hydrogen bonding",
+      "solubility",
+      "water"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_5_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Ethers",
+    "concepts": [
+      "neutral compounds",
+      "bases",
+      "acids",
+      "oxidizing agents",
+      "concentrated sulfuric acid",
+      "oxonium salts",
+      "hydrocarbons",
+      "peroxides",
+      "phosphorus pentachloride",
+      "alkyl chlorides",
+      "phosphorus oxychloride",
+      "HI",
+      "HBr"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH11_S11_5_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Ethers",
+    "concepts": [
+      "protonation",
+      "nucleophilic substitution",
+      "SN2 mechanism",
+      "electrophilic substitution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Alcohols, Phenols And Ethers",
+    "section": "Uses of alcohols, phenols and ethers",
+    "concepts": [
+      "nucleophilic substitution reactions",
+      "thionyl chloride (SOCl₂)",
+      "phosphorus pentachloride (PCl₅)",
+      "ethers",
+      "reagents",
+      "alcohols",
+      "HI",
+      "hydrolysis",
+      "oxidation"
+    ]
+  }
+]

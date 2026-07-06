@@ -1,0 +1,604 @@
+[
+  {
+    "resource_id": "TXT_12_CH14_X_001",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": null,
+    "concepts": [
+      "wave propagation",
+      "particle oscillation",
+      "wave travel"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_X_002",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": null,
+    "concepts": [
+      "fundamental properties of oscillations and waves",
+      "periodic nature",
+      "frequency",
+      "wavelength",
+      "wave speed",
+      "reflection",
+      "refraction",
+      "interference",
+      "diffraction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_1_001",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "WAVE PROPAGATION",
+    "concepts": [
+      "wave propagation",
+      "tidal waves",
+      "tsunamis",
+      "slinky",
+      "transverse waves",
+      "longitudinal waves"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_1_002",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "WAVE PROPAGATION",
+    "concepts": [
+      "wave propagation",
+      "transverse waves",
+      "energy transfer"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_1_003",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "WAVE PROPAGATION",
+    "concepts": [
+      "longitudinal waves",
+      "particle displacement",
+      "compressions",
+      "rarefactions",
+      "alternating regions",
+      "displacement-time graph"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_1_004",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "WAVE PROPAGATION",
+    "concepts": [
+      "amplitude",
+      "period",
+      "wavelength"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH14_S14_1_001",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "WAVE PROPAGATION",
+    "concepts": [
+      "frequency",
+      "wavelength",
+      "wave velocity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_1_005",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "WAVE PROPAGATION",
+    "concepts": [
+      "transverse waves",
+      "longitudinal waves",
+      "displacement-distance graph"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_001",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "VELOCITY OF LONGITUDINAL AND TRANSVERSE WAVES IN AN ELASTIC MEDIUM",
+    "concepts": [
+      "velocity of longitudinal and transverse waves in an elastic medium",
+      "Newton's formula for velocity of sound in a gas",
+      "isothermal condition",
+      "actual velocity of sound",
+      "significant discrepancy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_002",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "VELOCITY OF LONGITUDINAL AND TRANSVERSE WAVES IN AN ELASTIC MEDIUM",
+    "concepts": [
+      "speed of sound",
+      "adiabatic conditions",
+      "Laplace's correction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_003",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "VELOCITY OF LONGITUDINAL AND TRANSVERSE WAVES IN AN ELASTIC MEDIUM",
+    "concepts": [
+      "directly proportional",
+      "absolute temperature",
+      "sound velocity",
+      "gas density",
+      "oxygen",
+      "hydrogen",
+      "humidity"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH14_S14_2_001",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "VELOCITY OF LONGITUDINAL AND TRANSVERSE WAVES IN AN ELASTIC MEDIUM",
+    "concepts": [
+      "temperature",
+      "speed of sound",
+      "gas"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_004",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "VELOCITY OF LONGITUDINAL AND TRANSVERSE WAVES IN AN ELASTIC MEDIUM",
+    "concepts": [
+      "velocity of waves in stretched strings",
+      "elasticity of materials",
+      "density of materials"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_3_001",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "SUPERPOSITION OF WAVES",
+    "concepts": [
+      "superposition",
+      "interference",
+      "beats"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_3_002",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "SUPERPOSITION OF WAVES",
+    "concepts": [
+      "reflection",
+      "phase reversal",
+      "wave pulse",
+      "fixed end",
+      "equal and opposite reaction force",
+      "transmission",
+      "denser medium",
+      "rare medium",
+      "change in direction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_4_001",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "SUPERPOSITION OF WAVES TRAVELLING IN THE SAME DIRECTION",
+    "concepts": [
+      "interference patterns",
+      "beats",
+      "constructive/destructive interferences"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_4_002",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "SUPERPOSITION OF WAVES TRAVELLING IN THE SAME DIRECTION",
+    "concepts": [
+      "superposition",
+      "wave interference",
+      "amplitude addition/subtraction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_4_003",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "SUPERPOSITION OF WAVES TRAVELLING IN THE SAME DIRECTION",
+    "concepts": [
+      "beats",
+      "frequency",
+      "tuning forks"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH14_S14_4_001",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "SUPERPOSITION OF WAVES TRAVELLING IN THE SAME DIRECTION",
+    "concepts": [
+      "beats",
+      "frequency determination",
+      "unknown tuning fork"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH14_S14_4_002",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "SUPERPOSITION OF WAVES TRAVELLING IN THE SAME DIRECTION",
+    "concepts": [
+      "superposition",
+      "waves",
+      "intensity ratio",
+      "amplitude ratio",
+      "interference pattern",
+      "maxima",
+      "minima"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_5_001",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "SUPERPOSITION OF WAVES OF SAME FREQUENCY TRAVELLING IN THE OPPOSITE DIRECTIONS",
+    "concepts": [
+      "superposition",
+      "stationary waves",
+      "crests and troughs"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_5_002",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "SUPERPOSITION OF WAVES OF SAME FREQUENCY TRAVELLING IN THE OPPOSITE DIRECTIONS",
+    "concepts": [
+      "superposition",
+      "stationary waves",
+      "standing waves"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_5_003",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "SUPERPOSITION OF WAVES OF SAME FREQUENCY TRAVELLING IN THE OPPOSITE DIRECTIONS",
+    "concepts": [
+      "angular frequency",
+      "amplitude",
+      "nodes",
+      "antinodes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_5_004",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "SUPERPOSITION OF WAVES OF SAME FREQUENCY TRAVELLING IN THE OPPOSITE DIRECTIONS",
+    "concepts": [
+      "travelling waves",
+      "standing waves",
+      "particles",
+      "energy transfer",
+      "wave speed",
+      "particle motion",
+      "nodes",
+      "antinodes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_6_001",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "CHARACTERISTICS OF MUSICAL SOUND",
+    "concepts": [
+      "pitch",
+      "loudness",
+      "quality"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_6_002",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "CHARACTERISTICS OF MUSICAL SOUND",
+    "concepts": [
+      "frequency",
+      "pitch",
+      "sound wave"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_6_003",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "CHARACTERISTICS OF MUSICAL SOUND",
+    "concepts": [
+      "decibel scale",
+      "sensitivity of the human ear",
+      "sones"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_6_004",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "CHARACTERISTICS OF MUSICAL SOUND",
+    "concepts": [
+      "harmonics",
+      "amplitude",
+      "phase"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_6_005",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "CHARACTERISTICS OF MUSICAL SOUND",
+    "concepts": [
+      "fundamental note",
+      "overtone",
+      "harmonic",
+      "open pipe",
+      "closed pipe",
+      "first overtone",
+      "odd harmonic"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH14_S14_6_001",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "CHARACTERISTICS OF MUSICAL SOUND",
+    "concepts": [
+      "fundamental frequencies",
+      "resonance",
+      "wave properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_7_001",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "ELECTROMAGNETIC WAVES",
+    "concepts": [
+      "electromagnetic waves",
+      "oscillating electric and magnetic fields",
+      "visible light"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_7_002",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "ELECTROMAGNETIC WAVES",
+    "concepts": [
+      "speed of light",
+      "velocity in a medium",
+      "frequency or wavelength",
+      "electromagnetic spectrum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_7_003",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "ELECTROMAGNETIC WAVES",
+    "concepts": [
+      "electromagnetic waves",
+      "wavelengths and frequencies",
+      "electromagnetic spectrum",
+      "energy of electromagnetic waves",
+      "gamma rays",
+      "power frequencies",
+      "radio waves"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_8_001",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "DOPPLER EFFECT",
+    "concepts": [
+      "Doppler effect",
+      "frequency",
+      "sound",
+      "light waves",
+      "motion",
+      "observer",
+      "source"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH14_S14_8_001",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "DOPPLER EFFECT",
+    "concepts": [
+      "redshift",
+      "Doppler effect",
+      "recessional velocity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_8_002",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "DOPPLER EFFECT",
+    "concepts": [
+      "oscillations",
+      "wave phenomena",
+      "propagation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_8_003",
+    "document_id": "NIOS_PHY_CH14",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Wave Phenomena",
+    "section": "DOPPLER EFFECT",
+    "concepts": [
+      "frequency",
+      "wavelength",
+      "temperature"
+    ]
+  }
+]

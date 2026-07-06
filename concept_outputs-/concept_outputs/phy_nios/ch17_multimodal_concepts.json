@@ -1,0 +1,552 @@
+[
+  {
+    "resource_id": "TXT_12_CH17_X_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": null,
+    "concepts": [
+      "electricity",
+      "current",
+      "conductors",
+      "potential difference",
+      "Kirchhoff's laws",
+      "primary cell",
+      "secondary cell",
+      "potentiometer"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_X_002",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": null,
+    "concepts": [
+      "electrons",
+      "Coulomb forces",
+      "outermost orbit",
+      "loosely bound electrons",
+      "free movement",
+      "electric current"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_1_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "ELECTRIC CURRENT",
+    "concepts": [
+      "current",
+      "coulomb",
+      "electron",
+      "hole",
+      "drift velocity",
+      "thermal energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_2_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "OHM'S LAW",
+    "concepts": [
+      "electricity",
+      "current",
+      "potential difference",
+      "resistance",
+      "electrical resistance",
+      "Ohm's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_2_002",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "OHM'S LAW",
+    "concepts": [
+      "resistance",
+      "ohm's law",
+      "resistivity"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH17_S17_2_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "OHM'S LAW",
+    "concepts": [
+      "Ohm's Law",
+      "resistance",
+      "resistivity"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH17_S17_2_002",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "OHM'S LAW",
+    "concepts": [
+      "electricity",
+      "current",
+      "resistance",
+      "conductors"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH17_S17_2_003",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "OHM'S LAW",
+    "concepts": [
+      "resistance",
+      "resistivity",
+      "Ohm's Law"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH17_S17_2_004",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "OHM'S LAW",
+    "concepts": [
+      "resistivity",
+      "Ohm's law",
+      "resistance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_3_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "GROUPING OF RESISTORS",
+    "concepts": [
+      "resistor",
+      "capacitor",
+      "inductor"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_3_002",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "GROUPING OF RESISTORS",
+    "concepts": [
+      "series combination",
+      "equivalent resistance",
+      "total current"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_3_003",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "GROUPING OF RESISTORS",
+    "concepts": [
+      "potential difference",
+      "current splitting",
+      "equivalent resistance",
+      "parallel combination",
+      "formula",
+      "coefficient"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH17_S17_3_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "GROUPING OF RESISTORS",
+    "concepts": [
+      "parallel combination",
+      "Ohm's law",
+      "resistance",
+      "current"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH17_S17_3_002",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "GROUPING OF RESISTORS",
+    "concepts": [
+      "equivalent resistance",
+      "parallel combination",
+      "series connection"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH17_S17_3_003",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "GROUPING OF RESISTORS",
+    "concepts": [
+      "equivalent resistance",
+      "series configuration",
+      "parallel combination"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_4_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "TYPES OF RESISTORS",
+    "concepts": [
+      "resistor types",
+      "color coding",
+      "tolerance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_5_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "TEMPERATURE DEPENDENCE OF RESISTANCE",
+    "concepts": [
+      "resistivity",
+      "temperature coefficient of resistivity",
+      "superconductors",
+      "semiconductors",
+      "negative temperature coefficient of resistance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_6_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "ELECTROMOTIVE FORCE (EMF) AND POTENTIAL DIFFERENCE",
+    "concepts": [
+      "electromotive force",
+      "terminal voltage",
+      "internal resistance",
+      "potential drop",
+      "voltage measurement"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH17_S17_6_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "ELECTROMOTIVE FORCE (EMF) AND POTENTIAL DIFFERENCE",
+    "concepts": [
+      "electromotive force",
+      "potential difference",
+      "internal resistance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_6_002",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "ELECTROMOTIVE FORCE (EMF) AND POTENTIAL DIFFERENCE",
+    "concepts": [
+      "primary cells",
+      "secondary cells",
+      "electromotive force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_7_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "KIRCHHOFF'S RULES",
+    "concepts": [
+      "conservation of charge",
+      "conservation of energy",
+      "algebraic sum"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH17_S17_7_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "KIRCHHOFF'S RULES",
+    "concepts": [
+      "Kirchhoff's laws",
+      "linear equations",
+      "circuit analysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_7_002",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "KIRCHHOFF'S RULES",
+    "concepts": [
+      "resistance measurement",
+      "Wheatstone bridge",
+      "Ohm's law"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH17_S17_7_002",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "KIRCHHOFF'S RULES",
+    "concepts": [
+      "resistance",
+      "Wheatstone bridge",
+      "balance",
+      "current flow",
+      "known resistance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_8_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "POTENTIOMETER",
+    "concepts": [
+      "electromotive force",
+      "potential difference",
+      "voltmeter",
+      "potentiometer",
+      "null method",
+      "internal resistance",
+      "current flow",
+      "resistance comparison"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_8_002",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "POTENTIOMETER",
+    "concepts": [
+      "potentiometer",
+      "potential difference",
+      "electromotive force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_8_003",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "POTENTIOMETER",
+    "concepts": [
+      "potential difference",
+      "null point",
+      "potentiometer"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_8_004",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "POTENTIOMETER",
+    "concepts": [
+      "electromotive force",
+      "potentiometer",
+      "balance point",
+      "cell",
+      "EMF",
+      "ratio",
+      "length"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_8_005",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "POTENTIOMETER",
+    "concepts": [
+      "internal resistance",
+      "potentiometer",
+      "cell",
+      "potential difference",
+      "resistance box",
+      "lengths"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH17_S17_8_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "POTENTIOMETER",
+    "concepts": [
+      "potential gradient",
+      "potentiometer wire",
+      "null point"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_9_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "DRIFT VELOCITY OF ELECTRONS",
+    "concepts": [
+      "drift velocity",
+      "electric field",
+      "electrons",
+      "metal heating",
+      "current"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_10_001",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "POWER CONSUMED IN AN ELECTRICAL CIRCUIT",
+    "concepts": [
+      "power_consumed_in_an_electrical_circuit"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_10_002",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "POWER CONSUMED IN AN ELECTRICAL CIRCUIT",
+    "concepts": [
+      "Ohm's law",
+      "power dissipation formula",
+      "Kirchhoff's laws"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_10_003",
+    "document_id": "NIOS_PHY_CH17",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Electric Current",
+    "section": "POWER CONSUMED IN AN ELECTRICAL CIRCUIT",
+    "concepts": [
+      "equivalent resistance",
+      "resistors",
+      "series connection",
+      "parallel connection",
+      "circuit",
+      "current"
+    ]
+  }
+]

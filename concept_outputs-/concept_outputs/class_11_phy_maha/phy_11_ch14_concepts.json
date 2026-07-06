@@ -1,0 +1,225 @@
+[
+  {
+    "resource_id": "TXT_11_CH14_S14_1_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Semiconductors",
+    "section": "Introduction:",
+    "concepts": [
+      "semiconductor",
+      "conductivity",
+      "temperature"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Semiconductors",
+    "section": "Electrical conduction in solids:",
+    "concepts": [
+      "charge carriers",
+      "temperature",
+      "carrier density",
+      "mobility",
+      "crystal structure",
+      "defect presence"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH14_S14_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Semiconductors",
+    "section": "Electrical conduction in solids:",
+    "concepts": [
+      "charge carrier density",
+      "mobility of carriers",
+      "temperature dependence of electrical conductivity",
+      "electronic configuration of elemental semiconductors"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Semiconductors",
+    "section": "Band theory of solids, a brief introduction:",
+    "concepts": [
+      "energy bands",
+      "band gap",
+      "electronic properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_4_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Semiconductors",
+    "section": "Intrinsic Semiconductor:",
+    "concepts": [
+      "intrinsic semiconductor",
+      "thermal agitation",
+      "conduction band",
+      "holes",
+      "electric conduction"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Semiconductors",
+    "section": "Extrinsic semiconductors:",
+    "concepts": [
+      "dopants",
+      "extrinsic semiconductors",
+      "n-type semiconductors"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH14_S14_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Semiconductors",
+    "section": "Extrinsic semiconductors:",
+    "concepts": [
+      "free electrons",
+      "holes",
+      "impurities",
+      "donor impurity",
+      "pentavalent dopant",
+      "electrical conductivity",
+      "centrifugal force"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH14_S14_5_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Semiconductors",
+    "section": "Extrinsic semiconductors:",
+    "concepts": [
+      "transportation of holes",
+      "electrons attracting holes",
+      "holes capturing electrons"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_6_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Semiconductors",
+    "section": "p-n junction:",
+    "concepts": [
+      "p-n junction",
+      "depletion region",
+      "electric field"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_7_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Semiconductors",
+    "section": "A p-n junction diode:",
+    "concepts": [
+      "p-n junction",
+      "diode",
+      "forward bias",
+      "reverse bias",
+      "knee voltage",
+      "conduction"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_8_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Semiconductors",
+    "section": "Semiconductor devices:",
+    "concepts": [
+      "semiconductor devices",
+      "temperature changes",
+      "precise manufacturing processes"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_9_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Semiconductors",
+    "section": "Applications of semiconductors and p-n junction diode:",
+    "concepts": [
+      "p-n junction diode",
+      "concentration of dopants",
+      "semiconductor devices"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_10_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Semiconductors",
+    "section": "Thermistor:",
+    "concepts": [
+      "thermistor",
+      "NTC thermistors",
+      "PTC thermistors"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH14_S14_10_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Semiconductors",
+    "section": "Thermistor:",
+    "concepts": [
+      "semiconductor",
+      "electronic circuit",
+      "nano-ampere"
+    ]
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "resource_id": "TXT_11_CH13_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Respiration And Energy Transfer",
+    "section": null,
+    "concepts": [
+      "respiration",
+      "cellular metabolism",
+      "glucose",
+      "ATP",
+      "aerobic respiration",
+      "anaerobic respiration",
+      "oxygen"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Respiration And Energy Transfer",
+    "section": "Formation of ATP:",
+    "concepts": [
+      "ATP formation",
+      "mitochondrial membrane",
+      "respiratory process"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Respiration And Energy Transfer",
+    "section": "Angerobic respiration:",
+    "concepts": [
+      "anaerobic respiration",
+      "fermentation",
+      "glycolysis"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH13_S13_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Respiration And Energy Transfer",
+    "section": "Angerobic respiration:",
+    "concepts": [
+      "glycolysis",
+      "erythrocytes",
+      "renal medulla"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Respiration And Energy Transfer",
+    "section": "Aerobic Respiration:",
+    "concepts": [
+      "aerobic respiration",
+      "glycolysis",
+      "pyruvate dehydrogenase complex",
+      "mitochondria",
+      "prokaryotes"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH13_S13_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Respiration And Energy Transfer",
+    "section": "Aerobic Respiration:",
+    "concepts": [
+      "thiamin deficiency",
+      "pyruvic acidosis",
+      "lactic acidosis",
+      "balanced diet",
+      "Krebs Cycle",
+      "mitochondrial matrix",
+      "decarboxylation",
+      "coenzyme A"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH13_S13_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Respiration And Energy Transfer",
+    "section": "Aerobic Respiration:",
+    "concepts": [
+      "cytochrome",
+      "Kreb's cycle",
+      "aerobic respiration"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_4_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Respiration And Energy Transfer",
+    "section": "Utility of stepwise oxidation:",
+    "concepts": [
+      "respiratory quotient",
+      "anaerobic respiration",
+      "photosynthesis"
+    ]
+  }
+]

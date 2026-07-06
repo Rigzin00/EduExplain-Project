@@ -1,0 +1,206 @@
+[
+  {
+    "resource_id": "TXT_12_CH15_X_001",
+    "document_id": "NIOS_BIO_CH15",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Circulation Of Body Fluids",
+    "section": null,
+    "concepts": [
+      "circulation",
+      "vessels",
+      "nutrients",
+      "oxygen",
+      "waste products",
+      "carbon dioxide",
+      "cells",
+      "substances",
+      "metabolic wastes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_X_002",
+    "document_id": "NIOS_BIO_CH15",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Circulation Of Body Fluids",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "chemical energy",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts",
+      "plant cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_1_001",
+    "document_id": "NIOS_BIO_CH15",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Circulation Of Body Fluids",
+    "section": "CIRCULATORY SYSTEM",
+    "concepts": [
+      "cells require nutrients",
+      "circulatory system",
+      "closed circulatory system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_2_001",
+    "document_id": "NIOS_BIO_CH15",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Circulation Of Body Fluids",
+    "section": "CIRCULATORY SYSTEM OF COCKROACH",
+    "concepts": [
+      "circulatory system",
+      "heart",
+      "sinuses",
+      "haemolymph",
+      "blood circulation",
+      "nutrients",
+      "hydrostatic pressure",
+      "water reservoir"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_3_001",
+    "document_id": "NIOS_BIO_CH15",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Circulation Of Body Fluids",
+    "section": "ORGANS OF HUMAN CIRCULATORY SYSTEM",
+    "concepts": [
+      "muscular organ",
+      "chambers",
+      "atria",
+      "ventricles",
+      "specific functions",
+      "valves",
+      "unidirectional blood flow",
+      "electrocardiogram",
+      "pacemaker"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_3_002",
+    "document_id": "NIOS_BIO_CH15",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Circulation Of Body Fluids",
+    "section": "ORGANS OF HUMAN CIRCULATORY SYSTEM",
+    "concepts": [
+      "blood vessels",
+      "arteries",
+      "capillaries",
+      "veins",
+      "heart",
+      "double circulation",
+      "plasma",
+      "cells",
+      "red blood corpuscles",
+      "white blood corpuscles",
+      "platelets"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_3_003",
+    "document_id": "NIOS_BIO_CH15",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Circulation Of Body Fluids",
+    "section": "ORGANS OF HUMAN CIRCULATORY SYSTEM",
+    "concepts": [
+      "blood pressure",
+      "ventricles",
+      "arteries"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_5_001",
+    "document_id": "NIOS_BIO_CH15",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Circulation Of Body Fluids",
+    "section": "IMMUNITY",
+    "concepts": [
+      "antigen",
+      "lymphocyte",
+      "antibody",
+      "immunization",
+      "T-cell",
+      "B-cell"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_6_001",
+    "document_id": "NIOS_BIO_CH15",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Circulation Of Body Fluids",
+    "section": "DISORDERS RELATED TO BLOOD AND HEART",
+    "concepts": [
+      "hypertension",
+      "blood pressure",
+      "arterial wall",
+      "atherosclerosis",
+      "atheroma",
+      "arteriosclerosis",
+      "heart function"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_6_002",
+    "document_id": "NIOS_BIO_CH15",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Circulation Of Body Fluids",
+    "section": "DISORDERS RELATED TO BLOOD AND HEART",
+    "concepts": [
+      "ecological roles",
+      "physiological processes",
+      "survival"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_6_003",
+    "document_id": "NIOS_BIO_CH15",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Circulation Of Body Fluids",
+    "section": "DISORDERS RELATED TO BLOOD AND HEART",
+    "concepts": [
+      "absorption",
+      "photosynthesis",
+      "respiratory system"
+    ]
+  }
+]

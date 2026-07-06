@@ -1,0 +1,271 @@
+[
+  {
+    "resource_id": "RCL_11_CH12_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "carbon dioxide",
+      "oxygen",
+      "carbohydrate"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": "Chloroplast:",
+    "concepts": [
+      "chloroplast",
+      "stroma",
+      "thylakoid membranes",
+      "pigments",
+      "ATP",
+      "NADPH",
+      "light energy",
+      "chemical energy"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH12_S12_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": "Chloroplast:",
+    "concepts": [
+      "chloroplast",
+      "photosynthesis",
+      "transmitted light"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH12_S12_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": "Chloroplast:",
+    "concepts": [
+      "pigment",
+      "photosynthetic plants",
+      "chloroplasts",
+      "carotenoids",
+      "light absorption",
+      "photo-oxidation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": "Nature of Light:",
+    "concepts": [
+      "light",
+      "photons",
+      "quantum theory",
+      "electromagnetic radiation",
+      "visible spectrum",
+      "photosynthetic pigments",
+      "chlorophyll a and b",
+      "action spectrum",
+      "absorption spectrum"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH12_S12_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": "Nature of Light:",
+    "concepts": [
+      "photosystem",
+      "chlorophyll",
+      "light-dependent reactions",
+      "carbon fixation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": "Mechanism of Photosynthesis:",
+    "concepts": [
+      "photosynthesis",
+      "carbon dioxide",
+      "water",
+      "glucose",
+      "oxygen",
+      "light energy",
+      "Van Niel",
+      "Ruben",
+      "Hill reaction"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH12_S12_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": "Mechanism of Photosynthesis:",
+    "concepts": [
+      "light energy conversion",
+      "ATP formation",
+      "NADPH formation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_4_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": "Light reaction:",
+    "concepts": [
+      "chlorophyll",
+      "ATP",
+      "NADPH",
+      "light reactions",
+      "photosynthetic pigments",
+      "water splitting",
+      "oxygen production",
+      "proton gradient",
+      "electron transport chain"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_5_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": "Photophosphorylation:",
+    "concepts": [
+      "cyclic photophosphorylation",
+      "non-cyclic photophosphorylation",
+      "ATP",
+      "NADPH"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_6_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": "Dark reaction:",
+    "concepts": [
+      "carbon fixation",
+      "Calvin cycle",
+      "enzyme-catalyzed steps",
+      "rubisco",
+      "carboxylation",
+      "ribulose-1,5-bisphosphate",
+      "CO₂",
+      "ATP",
+      "NADPH",
+      "glucose"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_7_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": "Photorespiration:",
+    "concepts": [
+      "chloroplasts",
+      "peroxisomes",
+      "mitochondria",
+      "Rubisco",
+      "oxygenase",
+      "glycolate",
+      "serine"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_8_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": "C&lt;sub&gt;4&lt;/sub&gt; pathway or Hatch-Slack pathway:",
+    "concepts": [
+      "C₄ pathway",
+      "Hatch-Slack pathway",
+      "Kranz anatomy",
+      "photosynthesis",
+      "CO₂ concentration"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_9_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": "CAM-Crassulacean Acid Metabolism:",
+    "concepts": [
+      "malic acid",
+      "vacuoles",
+      "mesophyll cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_10_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Photosynthesis",
+    "section": "Factors affecting Photosynthesis:",
+    "concepts": [
+      "light",
+      "carbon dioxide",
+      "temperature",
+      "water"
+    ]
+  }
+]

@@ -1,0 +1,403 @@
+[
+  {
+    "resource_id": "RCL_12_CH01_X_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": null,
+    "concepts": [
+      "reproduction",
+      "continuation of species",
+      "maintenance of life"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Asexual Reproduction:",
+    "concepts": [
+      "genetic identity",
+      "clones",
+      "fragmentation",
+      "binary fission",
+      "conidia formation",
+      "gemma formation"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH01_S1_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Asexual Reproduction:",
+    "concepts": [
+      "vegetative reproduction",
+      "genetic identity",
+      "horticulture",
+      "artificial propagation",
+      "scion",
+      "stock",
+      "grafting"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH01_S1_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Asexual Reproduction:",
+    "concepts": [
+      "mitosis",
+      "chloroplast",
+      "transpiration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Sexual Reproduction:",
+    "concepts": [
+      "gamete",
+      "zygote",
+      "pollen grain"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Microsporogenesis:",
+    "concepts": [
+      "microsporogenesis",
+      "tetrad",
+      "pollen grain",
+      "haploid",
+      "sporoderm",
+      "exine",
+      "intine"
+    ]
+  },
+  {
+    "resource_id": "ACT_12_CH01_S1_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Microsporogenesis:",
+    "concepts": [
+      "mitosis",
+      "vegetative cell",
+      "generative cell",
+      "male gamete",
+      "gynoecium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Structure of Anatropous ovule:",
+    "concepts": [
+      "anatropous ovule",
+      "micropyle",
+      "chalaza"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Megasporogenesis:",
+    "concepts": [
+      "mitosis",
+      "megaspore mother cell",
+      "nucellus",
+      "ovule",
+      "haploid megaspores",
+      "tetrad",
+      "degeneration",
+      "female gametophyte",
+      "first cell",
+      "egg cell",
+      "synergid cells",
+      "pollen tube"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Pollination:",
+    "concepts": [
+      "pollen grains",
+      "stigma",
+      "self-pollination",
+      "geitonogamy",
+      "xenogamy",
+      "abiotic agents",
+      "biotic agents"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Outbreeding devices (contrivances):",
+    "concepts": [
+      "unisexuality",
+      "dichogamy",
+      "herkogamy"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH01_S1_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Outbreeding devices (contrivances):",
+    "concepts": [
+      "hand pollination",
+      "cross pollination",
+      "selected varieties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_8_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Pollen - Pistil Interaction:",
+    "concepts": [
+      "pollen-pistil interaction",
+      "compatible pollen",
+      "necessary conditions",
+      "artificial hybridization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_9_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Double Fertilization:",
+    "concepts": [
+      "double fertilization",
+      "zygote",
+      "primary endosperm nucleus"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Development of Endosperm:",
+    "concepts": [
+      "triploid primary endosperm nucleus",
+      "mitotic divisions",
+      "endosperm",
+      "embryo",
+      "ovule",
+      "nuclear endosperm",
+      "cellular endosperm",
+      "helobial endosperm"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_11_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Development of Embryo:",
+    "concepts": [
+      "mitosis",
+      "zygote",
+      "embryo",
+      "fertilization",
+      "embryonic division",
+      "suspensor",
+      "endosperm"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_12_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Seed and Fruit Development:",
+    "concepts": [
+      "seed coat",
+      "fertilization",
+      "endospermic",
+      "non-endospermic",
+      "cotyledons",
+      "fruit"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH01_S1_12_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Seed and Fruit Development:",
+    "concepts": [
+      "dormancy",
+      "germination",
+      "seed"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH01_S1_12_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Seed and Fruit Development:",
+    "concepts": [
+      "mitosis",
+      "seed development",
+      "fruit development"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_13_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Apomixis:",
+    "concepts": [
+      "apomixis",
+      "apospory",
+      "apogamy"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH01_S1_13_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Apomixis:",
+    "concepts": [
+      "apomixis",
+      "recurrent apomixis",
+      "non-recurrent apomixis",
+      "adventive embryony"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_14_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Parthenocarpy:",
+    "concepts": [
+      "parthenocarpy",
+      "auxin",
+      "placental tissue",
+      "fruit enlargement"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_15_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Polyembryony:",
+    "concepts": [
+      "polyembryony",
+      "multiple embryos",
+      "seedling"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH01_S1_15_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Asexual Reproduction:",
+    "section": "Polyembryony:",
+    "concepts": [
+      "polyembryony",
+      "mitosis",
+      "transpiration"
+    ]
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "resource_id": "RCL_11_CH04_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Kingdom Animalia",
+    "section": null,
+    "concepts": [
+      "classification",
+      "diversity",
+      "taxonomy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Kingdom Animalia",
+    "section": "Criteria used for animal classification:",
+    "concepts": [
+      "cells",
+      "tissues",
+      "organs",
+      "body symmetry",
+      "body cavities",
+      "germ layers",
+      "embryonic development",
+      "segmentation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Kingdom Animalia",
+    "section": "Animal body plan:",
+    "concepts": [
+      "cell aggregation",
+      "tissue formation",
+      "organ specialization",
+      "digestive system",
+      "single opening",
+      "mouth",
+      "anus"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Kingdom Animalia",
+    "section": "Animal Classification:",
+    "concepts": [
+      "aquatic animals",
+      "marine environments",
+      "freshwater",
+      "sponge classification",
+      "choanocytes",
+      "osculum",
+      "spicules",
+      "spongin fibers"
+    ]
+  },
+  {
+    "resource_id": "ACT_11_CH04_S4_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Kingdom Animalia",
+    "section": "Animal Classification:",
+    "concepts": [
+      "diploblastic",
+      "radial symmetry",
+      "ciliated comb plates",
+      "bioluminescence",
+      "digestive process",
+      "extra and intracellular digestion",
+      "flat",
+      "triploblastic",
+      "organismal level organization",
+      "free-living",
+      "parasitic"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH04_S4_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Kingdom Animalia",
+    "section": "Animal Classification:",
+    "concepts": [
+      "Annelida",
+      "Metameric segmentation",
+      "Clitellum",
+      "Locomotion",
+      "Longitudinal muscles",
+      "Circular muscles",
+      "Setae",
+      "Parapodia",
+      "Suckers"
+    ]
+  },
+  {
+    "resource_id": "ACT_11_CH04_S4_3_002",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Kingdom Animalia",
+    "section": "Animal Classification:",
+    "concepts": [
+      "jointed appendages",
+      "segmented body structure",
+      "exoskeleton",
+      "periodic shedding",
+      "respiratory systems",
+      "circulatory system",
+      "nervous system"
+    ]
+  },
+  {
+    "resource_id": "ACT_11_CH04_S4_3_003",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Kingdom Animalia",
+    "section": "Animal Classification:",
+    "concepts": [
+      "tube-within-a-tube body plan",
+      "radula for grinding food",
+      "closed system",
+      "excretion using kidneys"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH04_S4_3_002",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Kingdom Animalia",
+    "section": "Animal Classification:",
+    "concepts": [
+      "chordate",
+      "non-chordate",
+      "Balanoglossus"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH04_S4_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Kingdom Animalia",
+    "section": "Animal Classification:",
+    "concepts": [
+      "notochord",
+      "chordate",
+      "gill slits",
+      "vertebrate",
+      "subphylum",
+      "urochordata",
+      "cephalochordata"
+    ]
+  }
+]

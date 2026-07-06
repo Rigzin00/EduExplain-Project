@@ -1,0 +1,374 @@
+[
+  {
+    "resource_id": "TXT_12_CH13_X_001",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "digestive tract",
+      "alimentary canal"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_1_001",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "NUTRITION AND DIGESTION",
+    "concepts": [
+      "nutrition",
+      "food",
+      "essential nutrients",
+      "proteins",
+      "carbohydrates",
+      "fats",
+      "digestion",
+      "enzymes",
+      "amino acids",
+      "glucose",
+      "fatty acids",
+      "glycerol",
+      "absorption",
+      "utilization",
+      "body"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_2_001",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "TWO TYPES OF DIGESTION (Intracellular and extracellular)",
+    "concepts": [
+      "intracellular digestion",
+      "extracellular digestion",
+      "enzyme function"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_2_002",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "TWO TYPES OF DIGESTION (Intracellular and extracellular)",
+    "concepts": [
+      "intracellular digestion",
+      "food vacuole",
+      "new food vacuole"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_2_003",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "TWO TYPES OF DIGESTION (Intracellular and extracellular)",
+    "concepts": [
+      "digestive enzymes",
+      "food canal",
+      "undigested food"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_2_004",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "TWO TYPES OF DIGESTION (Intracellular and extracellular)",
+    "concepts": [
+      "intracellular digestion",
+      "extracellular digestion",
+      "gastrovascular cavity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_5_001",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "THE HUMAN DIGESTIVE SYSTEM",
+    "concepts": [
+      "digestive system",
+      "alimentary canal",
+      "salivary glands",
+      "liver",
+      "pancreas",
+      "bile",
+      "fat digestion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_6_001",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "THE DIGESTIVE PROCESS",
+    "concepts": [
+      "mechanical processes",
+      "chemical processes",
+      "enzymes",
+      "amylase",
+      "pepsin",
+      "peptides",
+      "pancreatic and intestinal juices"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_7_001",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "ABSORPTION OF NUTRIENTS",
+    "concepts": [
+      "absorption",
+      "blood capillaries",
+      "amino acids",
+      "monosaccharides",
+      "mouth",
+      "small intestine",
+      "stomach",
+      "large intestine",
+      "water",
+      "vitamins",
+      "simple sugars",
+      "glucose",
+      "osmosis",
+      "diffusion",
+      "active transport",
+      "mineral ions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_8_001",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "ASSIMILATION",
+    "concepts": [
+      "assimilation",
+      "digestion",
+      "transport mechanisms"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_9_001",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "EGESTION (DEFAECATION)",
+    "concepts": [
+      "rectum",
+      "faeces",
+      "anal sphincter muscles",
+      "intestinal folds",
+      "villi",
+      "microvilli"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_10_001",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "NEURAL AND HORMONAL CONTROL OF DIGESTIVE SYSTEM",
+    "concepts": [
+      "digestive juices",
+      "alimentary canal",
+      "sympathetic nervous system",
+      "parasympathetic nervous system",
+      "cholecystokinin",
+      "enterogastrone",
+      "secretions",
+      "food",
+      "enzymes",
+      "nutrient",
+      "wastage",
+      "enzyme production",
+      "digestive needs",
+      "efficient digestion",
+      "unnecessary enzyme production"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_11_001",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "ROLE OF LIVER IN METABOLISM",
+    "concepts": [
+      "blood-related functions",
+      "essential substances",
+      "nutrients",
+      "clotting factors",
+      "vitamins",
+      "iron",
+      "glycogen",
+      "gluconeogenesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_12_001",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "SOME DIGESTIVE DISORDERS (VOMITING, DIARRHOEA, CONSTIPATION, INDIGESTION AND JAUNDICE)",
+    "concepts": [
+      "vomiting",
+      "gastroenteritis",
+      "food poisoning"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_12_002",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "SOME DIGESTIVE DISORDERS (VOMITING, DIARRHOEA, CONSTIPATION, INDIGESTION AND JAUNDICE)",
+    "concepts": [
+      "diarrhea",
+      "gastrointestinal infections",
+      "peristalsis",
+      "water absorption",
+      "fluid and electrolyte imbalances",
+      "dehydration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_12_003",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "SOME DIGESTIVE DISORDERS (VOMITING, DIARRHOEA, CONSTIPATION, INDIGESTION AND JAUNDICE)",
+    "concepts": [
+      "constipation",
+      "bowel movement",
+      "undigested food",
+      "colon",
+      "large intestine",
+      "fiber",
+      "fluids",
+      "activity",
+      "urine"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_12_004",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "SOME DIGESTIVE DISORDERS (VOMITING, DIARRHOEA, CONSTIPATION, INDIGESTION AND JAUNDICE)",
+    "concepts": [
+      "indigestion",
+      "dyspepsia",
+      "overeating",
+      "spicy or fatty foods",
+      "stress",
+      "ulcers",
+      "stomach lining"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_12_005",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "SOME DIGESTIVE DISORDERS (VOMITING, DIARRHOEA, CONSTIPATION, INDIGESTION AND JAUNDICE)",
+    "concepts": [
+      "jaundice",
+      "bilirubin",
+      "liver",
+      "bile ducts",
+      "red blood cells",
+      "viral infections"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_12_006",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "SOME DIGESTIVE DISORDERS (VOMITING, DIARRHOEA, CONSTIPATION, INDIGESTION AND JAUNDICE)",
+    "concepts": [
+      "Jaundice",
+      "liver",
+      "metabolism",
+      "bile",
+      "glycogen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_12_007",
+    "document_id": "NIOS_BIO_CH13",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Nutrition And Digestion",
+    "section": "SOME DIGESTIVE DISORDERS (VOMITING, DIARRHOEA, CONSTIPATION, INDIGESTION AND JAUNDICE)",
+    "concepts": [
+      "digestive system",
+      "nutrient absorption",
+      "enzymes",
+      "proteins"
+    ]
+  }
+]

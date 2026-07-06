@@ -1,0 +1,244 @@
+[
+  {
+    "resource_id": "TXT_12_CH25_X_001",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": null,
+    "concepts": [
+      "wave-particle duality",
+      "photoelectric effect",
+      "de Broglie's hypothesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_X_002",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "chemical energy",
+      "carbon dioxide",
+      "oxygen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_1_001",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "PHOTOELECTRIC EFFECT",
+    "concepts": [
+      "ultraviolet radiation",
+      "spark gap",
+      "light of sufficient frequency",
+      "photoelectric effect"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_1_002",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "PHOTOELECTRIC EFFECT",
+    "concepts": [
+      "photoelectric effect",
+      "stopping potential",
+      "retarding potential"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_2_001",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "EINSTEIN'S THEORY OF PHOTOELECTRIC EMISSION",
+    "concepts": [
+      "photons",
+      "quantization",
+      "discrete packets",
+      "Planck's constant",
+      "work function",
+      "photoelectric effect"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH25_S25_2_001",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "EINSTEIN'S THEORY OF PHOTOELECTRIC EMISSION",
+    "concepts": [
+      "photoelectric effect",
+      "threshold frequency",
+      "maximum velocity of photoelectrons",
+      "stopping potential"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_3_001",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "PHOTOELECTRIC TUBE",
+    "concepts": [
+      "photoelectric effect",
+      "electron emission",
+      "work function",
+      "light frequency",
+      "cathode",
+      "anode",
+      "accelerated electrons",
+      "applied voltage",
+      "measurable current",
+      "saturation current",
+      "nano-amperes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_3_002",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "PHOTOELECTRIC TUBE",
+    "concepts": [
+      "photoelectric effect",
+      "electrons",
+      "light energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_001",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "THE DE BROGLIE HYPOTHESIS",
+    "concepts": [
+      "wave-particle duality",
+      "de Broglie wavelength",
+      "Planck's constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_002",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "THE DE BROGLIE HYPOTHESIS",
+    "concepts": [
+      "wave-like nature of electrons",
+      "constructive interference",
+      "matter waves"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_003",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "THE DE BROGLIE HYPOTHESIS",
+    "concepts": [
+      "de Broglie wavelength",
+      "microscope",
+      "electron microscope"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH25_S25_4_001",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "THE DE BROGLIE HYPOTHESIS",
+    "concepts": [
+      "deBroglie equation",
+      "potential difference",
+      "electromagnetic induction"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH25_S25_4_002",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "THE DE BROGLIE HYPOTHESIS",
+    "concepts": [
+      "photoelectric effect",
+      "Einstein's photoelectric effect equation",
+      "maximum kinetic energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_004",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "THE DE BROGLIE HYPOTHESIS",
+    "concepts": [
+      "work function",
+      "Planck's constant",
+      "current-voltage relationship"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH25_S25_4_005",
+    "document_id": "NIOS_PHY_CH25",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 25,
+    "chapter_title": "Dual Nature Of Radiation And Matter",
+    "section": "THE DE BROGLIE HYPOTHESIS",
+    "concepts": [
+      "atomic spacing",
+      "material properties",
+      "de Broglie waves"
+    ]
+  }
+]

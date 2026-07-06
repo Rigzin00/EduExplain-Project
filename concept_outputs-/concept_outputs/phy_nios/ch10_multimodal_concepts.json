@@ -1,0 +1,393 @@
+[
+  {
+    "resource_id": "TXT_12_CH10_X_001",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": null,
+    "concepts": [
+      "kinetic energy",
+      "temperature increase",
+      "average kinetic energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_X_002",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": null,
+    "concepts": [
+      "kinetic theory of gases",
+      "temperature",
+      "average kinetic energy",
+      "gas molecules",
+      "pressure",
+      "volume"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_1_001",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "THERMAL ENERGY",
+    "concepts": [
+      "temperature",
+      "kinetic energy",
+      "heat"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_1_002",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "THERMAL ENERGY",
+    "concepts": [
+      "specific heat capacity",
+      "heat capacity",
+      "thermal energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_1_003",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "THERMAL ENERGY",
+    "concepts": [
+      "heat transfer",
+      "thermal equilibrium",
+      "calorimetry"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_1_004",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "THERMAL ENERGY",
+    "concepts": [
+      "thermal energy",
+      "principle of calorimetry",
+      "equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_1_005",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "THERMAL ENERGY",
+    "concepts": [
+      "linear expansion",
+      "superficial expansion",
+      "cubical expansion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_1_006",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "THERMAL ENERGY",
+    "concepts": [
+      "anomalous expansion",
+      "unique property",
+      "aquatic life"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_1_007",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "THERMAL ENERGY",
+    "concepts": [
+      "volume expansion",
+      "pressure expansion",
+      "coefficient of volume expansion",
+      "coefficient of pressure expansion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_2_001",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "KINETIC THEORY OF GASES",
+    "concepts": [
+      "macroscopic properties",
+      "microscopic behavior",
+      "ideal gases",
+      "point masses",
+      "no intermolecular forces"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_2_002",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "KINETIC THEORY OF GASES",
+    "concepts": [
+      "kinetic theory of gases",
+      "molecules",
+      "collision"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH10_S10_2_001",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "KINETIC THEORY OF GASES",
+    "concepts": [
+      "pressure",
+      "kinetic theory of gases",
+      "molecular motion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_3_001",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "KINETIC INTERPRETATION OF TEMPERATURE",
+    "concepts": [
+      "kinetic energy",
+      "macroscopic properties",
+      "microscopic motion",
+      "Boltzmann constant",
+      "root mean square speed"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_4_001",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "DEDUCTION OF GAS LAWS FROM KINETIC THEORY",
+    "concepts": [
+      "pressure",
+      "volume",
+      "temperature",
+      "absolute temperature",
+      "Avogadro's Law"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH10_S10_4_001",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "DEDUCTION OF GAS LAWS FROM KINETIC THEORY",
+    "concepts": [
+      "root mean square speed",
+      "molecular motion",
+      "temperature"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH10_S10_4_002",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "DEDUCTION OF GAS LAWS FROM KINETIC THEORY",
+    "concepts": [
+      "root mean square velocity",
+      "gas law",
+      "kinetic theory"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH10_S10_4_003",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "DEDUCTION OF GAS LAWS FROM KINETIC THEORY",
+    "concepts": [
+      "kinetic energy",
+      "Boltzmann's constant",
+      "average kinetic energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_4_002",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "DEDUCTION OF GAS LAWS FROM KINETIC THEORY",
+    "concepts": [
+      "degrees of freedom",
+      "translational motion",
+      "rotational motion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_5_001",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "THE LAW OF EQUIPARTITION OF ENERGY",
+    "concepts": [
+      "kinetic energy",
+      "average square of the speed",
+      "Boltzmann constant",
+      "equilibrium",
+      "probability"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_6_001",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "HEAT CAPACITIES OF GASES",
+    "concepts": [
+      "specific heat capacity",
+      "heat capacity",
+      "work done",
+      "external conditions",
+      "temperature change"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_7_001",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "RELATION BETWEEN C_p AND C_V",
+    "concepts": [
+      "ideal gas",
+      "work done",
+      "external pressure",
+      "specific heats",
+      "universal gas constant"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH10_S10_7_001",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "RELATION BETWEEN C_p AND C_V",
+    "concepts": [
+      "specific heats",
+      "gas molecules",
+      "total energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_7_002",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "RELATION BETWEEN C_p AND C_V",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_7_003",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "RELATION BETWEEN C_p AND C_V",
+    "concepts": [
+      "kinetic theory of gases",
+      "average speed",
+      "root mean square speed"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_7_004",
+    "document_id": "NIOS_PHY_CH10",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Kinetic Theory Of Gases",
+    "section": "RELATION BETWEEN C_p AND C_V",
+    "concepts": [
+      "temperature",
+      "heat",
+      "internal energy",
+      "laws of thermodynamics",
+      "energy transformations",
+      "heat transfer",
+      "entropy"
+    ]
+  }
+]

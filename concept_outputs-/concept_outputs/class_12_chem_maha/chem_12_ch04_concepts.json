@@ -1,0 +1,637 @@
+[
+  {
+    "resource_id": "CLT_12_CH04_S4_1_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Introduction : You know transformation of liquid water into vapour, solid ice into liquid water or burning of carbon forming carbon dioxide, CO&lt;sub&gt;2&lt;/sub&gt;, are accompanied by a change in energy. In dry cell, the chemical energy is converted into electrical energy. On the other hand, in electroplating of metals electrical energy is converted into chemical energy. Thus it may be realized that the energy can be transformed from one form into another.",
+    "concepts": [
+      "potential energy",
+      "kinetic energy",
+      "energy conversion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Terms used in thermodynamics",
+    "concepts": [
+      "system",
+      "surroundings",
+      "thermodynamic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_2_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Terms used in thermodynamics",
+    "concepts": [
+      "open system",
+      "closed system",
+      "isolated system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_2_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Terms used in thermodynamics",
+    "concepts": [
+      "extensive property",
+      "intensive property",
+      "mass",
+      "volume",
+      "internal energy",
+      "heat capacity",
+      "number of moles",
+      "pressure",
+      "temperature",
+      "surface tension",
+      "viscosity",
+      "melting point",
+      "boiling point",
+      "specific heat"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_2_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Terms used in thermodynamics",
+    "concepts": [
+      "state functions",
+      "path-dependent properties",
+      "isothermal process",
+      "adiabatic process"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_2_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Terms used in thermodynamics",
+    "concepts": [
+      "thermodynamic equilibrium",
+      "state functions",
+      "equilibrium state"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Nature of heat and work",
+    "concepts": [
+      "work",
+      "force",
+      "distance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_3_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Nature of heat and work",
+    "concepts": [
+      "positive value",
+      "negative value",
+      "internal energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Expression for pressure-volume (PV) work : Consider a certain amount of gas at constant pressure P is enclosed in a cylinder fitted with frictionless, rigid movable piston of area A. This is shown in Fig. 4.7.",
+    "concepts": [
+      "work done by a gas during expansion",
+      "external atmospheric pressure",
+      "change in volume"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Expression for pressure-volume (PV) work : Consider a certain amount of gas at constant pressure P is enclosed in a cylinder fitted with frictionless, rigid movable piston of area A. This is shown in Fig. 4.7.",
+    "concepts": [
+      "pressure-volume work",
+      "units of energy and work",
+      "external pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Concept of maximum work : Eq. (4.5) shows the amount of work performed by a system is governed by the opposing force (P_{ext}). Larger the opposing force more work is done by the system to overcome it.",
+    "concepts": [
+      "work",
+      "opposing force",
+      "driving force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_5_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Concept of maximum work : Eq. (4.5) shows the amount of work performed by a system is governed by the opposing force (P_{ext}). Larger the opposing force more work is done by the system to overcome it.",
+    "concepts": [
+      "work",
+      "opposing force",
+      "maximum work"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Internal energy (U): Every substance is associated with a definite amount of energy. This energy stored in a substance is internal energy denoted by U.",
+    "concepts": [
+      "internal energy",
+      "state function",
+      "extensive property"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_6_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Internal energy (U): Every substance is associated with a definite amount of energy. This energy stored in a substance is internal energy denoted by U.",
+    "concepts": [
+      "internal energy",
+      "heat",
+      "work",
+      "first law of thermodynamics",
+      "equation ΔU = Q + W"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_6_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Internal energy (U): Every substance is associated with a definite amount of energy. This energy stored in a substance is internal energy denoted by U.",
+    "concepts": [
+      "internal energy",
+      "isothermal process",
+      "adiabatic process"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Enthalpy (H): Enthalpy of a system is sum of internal energy of a system and the energy equivalent to PV work.",
+    "concepts": [
+      "enthalpy",
+      "internal energy",
+      "pressure",
+      "volume",
+      "heat",
+      "work",
+      "change in enthalpy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_8_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Enthalpy (H): Enthalpy of a system is sum of internal energy of a system and the energy equivalent to PV work.",
+    "concepts": [
+      "enthalpy",
+      "internal energy",
+      "work"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_8_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Enthalpy (H): Enthalpy of a system is sum of internal energy of a system and the energy equivalent to PV work.",
+    "concepts": [
+      "enthalpy",
+      "work done",
+      "ideal gases"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Enthalpies of physical transformations",
+    "concepts": [
+      "enthalpy change",
+      "fusion",
+      "vaporization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_9_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Enthalpies of physical transformations",
+    "concepts": [
+      "enthalpy of ionization",
+      "electron gain enthalpy",
+      "enthalpy of atomization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_10_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Thermochemistry: Thermochemistry deals with enthalpy changes in chemical reactions",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_10_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Thermochemistry: Thermochemistry deals with enthalpy changes in chemical reactions",
+    "concepts": [
+      "enthalpy",
+      "exothermic",
+      "endothermic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_10_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Thermochemistry: Thermochemistry deals with enthalpy changes in chemical reactions",
+    "concepts": [
+      "enthalpy",
+      "standard enthalpy of reaction",
+      "thermodynamic standard state"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_10_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Thermochemistry: Thermochemistry deals with enthalpy changes in chemical reactions",
+    "concepts": [
+      "enthalpy change",
+      "thermochemical equation",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_10_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Thermochemistry: Thermochemistry deals with enthalpy changes in chemical reactions",
+    "concepts": [
+      "enthalpy change",
+      "standard enthalpy of formation",
+      "formation"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH04_S4_10_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Thermochemistry: Thermochemistry deals with enthalpy changes in chemical reactions",
+    "concepts": [
+      "enthalpy",
+      "standard enthalpy of formation",
+      "formation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_10_006",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Thermochemistry: Thermochemistry deals with enthalpy changes in chemical reactions",
+    "concepts": [
+      "enthalpy change",
+      "standard enthalpy of reaction",
+      "standard enthalpy of formation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_10_007",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Thermochemistry: Thermochemistry deals with enthalpy changes in chemical reactions",
+    "concepts": [
+      "enthalpy change",
+      "standard enthalpy of combustion",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_10_008",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Thermochemistry: Thermochemistry deals with enthalpy changes in chemical reactions",
+    "concepts": [
+      "bond enthalpy",
+      "enthalpy change",
+      "polyatomic molecule"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH04_S4_10_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Thermochemistry: Thermochemistry deals with enthalpy changes in chemical reactions",
+    "concepts": [
+      "bond enthalpy",
+      "enthalpy change of a reaction",
+      "reaction enthalpy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_10_009",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Thermochemistry: Thermochemistry deals with enthalpy changes in chemical reactions",
+    "concepts": [
+      "enthalpy change",
+      "Hess's law",
+      "Thermochemistry"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Spontaneous (irreversible) process :",
+    "concepts": [
+      "spontaneous",
+      "entropy",
+      "thermodynamics"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH04_S4_11_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Spontaneous (irreversible) process :",
+    "concepts": [
+      "spontaneous",
+      "equilibrium",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Spontaneous (irreversible) process :",
+    "concepts": [
+      "spontaneous reactions",
+      "energy release",
+      "exothermicity",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Spontaneous (irreversible) process :",
+    "concepts": [
+      "entropy",
+      "vaporization",
+      "melting"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Spontaneous (irreversible) process :",
+    "concepts": [
+      "entropy",
+      "spontaneous reactions",
+      "second law of thermodynamics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Spontaneous (irreversible) process :",
+    "concepts": [
+      "entropy",
+      "spontaneous",
+      "second law of thermodynamics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_006",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Spontaneous (irreversible) process :",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_007",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Spontaneous (irreversible) process :",
+    "concepts": [
+      "entropy",
+      "spontaneous process",
+      "Gibbs energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_008",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Spontaneous (irreversible) process :",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_009",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Spontaneous (irreversible) process :",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_11_010",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "Spontaneous (irreversible) process :",
+    "concepts": [
+      "spontaneity",
+      "chemical thermodynamics",
+      "free energy",
+      "equilibrium constant",
+      "reaction quotient"
+    ]
+  }
+]

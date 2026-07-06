@@ -1,0 +1,453 @@
+[
+  {
+    "resource_id": "TXT_12_CH24_X_001",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": null,
+    "concepts": [
+      "hydrocarbon",
+      "aliphatic",
+      "alicyclic",
+      "aromatic",
+      "fuel",
+      "lubricant",
+      "industrial application",
+      "medicine",
+      "dye production"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_X_002",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": null,
+    "concepts": [
+      "hydrocarbon",
+      "organic compound",
+      "carbon"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_1_001",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "ALKANES (PARAFFINS)",
+    "concepts": [
+      "alkanes",
+      "hydrocarbons",
+      "carbon atoms",
+      "single bonds",
+      "chemical reactivity",
+      "paraffins"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_1_002",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "ALKANES (PARAFFINS)",
+    "concepts": [
+      "hydrogenation",
+      "reduction",
+      "Grignard reagent"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_1_003",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "ALKANES (PARAFFINS)",
+    "concepts": [
+      "Physical States of Alkanes",
+      "Intermolecular Forces",
+      "Surface Area Influence",
+      "Boiling and Melting Points",
+      "Straight-Chain vs Branched-Chain Isomers",
+      "Molecular Mass Dependence",
+      "Density Increase"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_1_004",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "ALKANES (PARAFFINS)",
+    "concepts": [
+      "conformer",
+      "staggered conformation",
+      "eclipsed conformation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_1_005",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "ALKANES (PARAFFINS)",
+    "concepts": [
+      "halogenation reactions",
+      "free radical mechanism",
+      "chlorine radicals"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_1_006",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "ALKANES (PARAFFINS)",
+    "concepts": [
+      "fuel gases",
+      "solvents",
+      "lubricants"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_2_001",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkenes",
+    "concepts": [
+      "olefins",
+      "alkenes",
+      "polymerization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_2_002",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkenes",
+    "concepts": [
+      "dehydrohalogenation",
+      "Saytzeff's Rule",
+      "alcoholysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_2_003",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkenes",
+    "concepts": [
+      "boiling points",
+      "molecular mass",
+      "van der Waals forces",
+      "melting points",
+      "cis-trans isomers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_2_004",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkenes",
+    "concepts": [
+      "aliphatic hydrocarbon",
+      "unsaturated carbon-hydrogen bond",
+      "cis-trans geometry"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_2_005",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "Alkenes",
+    "concepts": [
+      "polythene",
+      "ethanal",
+      "artificial fruit ripening",
+      "general anesthetic",
+      "mustard gas",
+      "ethylene oxide"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_3_001",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "ALKYNES",
+    "concepts": [
+      "triple bond",
+      "unsaturated hydrocarbon",
+      "chemical properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_3_002",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "ALKYNES",
+    "concepts": [
+      "alkyne",
+      "calcium carbide",
+      "water",
+      "hydrogen sulfide",
+      "phosphine",
+      "dihaloalkane",
+      "alcoholic potassium hydroxide",
+      "refluxing",
+      "primary alkyl halides",
+      "metal alkynide intermediates"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_3_003",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "ALKYNES",
+    "concepts": [
+      "carbon-hydrogen bonds",
+      "functional groups",
+      "chemical properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_3_004",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "ALKYNES",
+    "concepts": [
+      "hydrogenation",
+      "halogenation",
+      "addition reactions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_3_005",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "ALKYNES",
+    "concepts": [
+      "s-character",
+      "hydrogen atom removal",
+      "disodium acetylide"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_3_006",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "ALKYNES",
+    "concepts": [
+      "welding",
+      "cutting",
+      "artificial fruit ripening",
+      "organic compounds",
+      "synthetic materials"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_3_007",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "ALKYNES",
+    "concepts": [
+      "alkanes",
+      "alkenes",
+      "alkynes",
+      "chemical tests",
+      "Bromine water",
+      "Carbylamine test"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_4_001",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "AROMATIC HYDROCARBONS",
+    "concepts": [
+      "aromatic hydrocarbon",
+      "destructive distillation",
+      "coal"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_4_002",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "AROMATIC HYDROCARBONS",
+    "concepts": [
+      "unsaturated hydrocarbon",
+      "substitution reactions",
+      "delocalized electron cloud"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_4_003",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "AROMATIC HYDROCARBONS",
+    "concepts": [
+      "planar",
+      "monocyclic",
+      "conjugated",
+      "π electrons",
+      "Huckel's rule",
+      "non-integer value of n"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_4_004",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "AROMATIC HYDROCARBONS",
+    "concepts": [
+      "electrophilic substitution",
+      "halogenation",
+      "nitration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_4_005",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "AROMATIC HYDROCARBONS",
+    "concepts": [
+      "hydroxyl group",
+      "nitro group",
+      "chlorine substitution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_4_006",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "AROMATIC HYDROCARBONS",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_4_007",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "AROMATIC HYDROCARBONS",
+    "concepts": [
+      "substitution",
+      "aromatic ring",
+      "dry-cleaning"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH24_S24_4_008",
+    "document_id": "NIOS_CHEM_CH24",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 24,
+    "chapter_title": "Hydrocarbons",
+    "section": "AROMATIC HYDROCARBONS",
+    "concepts": [
+      "hydrocarbon",
+      "aromatic compound",
+      "ethyne",
+      "sodium metal",
+      "catalytic reduction"
+    ]
+  }
+]

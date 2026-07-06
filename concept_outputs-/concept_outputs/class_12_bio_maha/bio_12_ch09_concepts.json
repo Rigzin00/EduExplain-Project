@@ -1,0 +1,539 @@
+[
+  {
+    "resource_id": "RCL_12_CH09_X_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": null,
+    "concepts": [
+      "unicellular",
+      "multicellular",
+      "control",
+      "coordination",
+      "homeostasis",
+      "chemical signals",
+      "movements",
+      "phototropic",
+      "chemotactic",
+      "thigmotactic"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_X_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": null,
+    "concepts": [
+      "nervous coordination",
+      "division of labor",
+      "cellular specialization",
+      "tissues",
+      "organs",
+      "systems",
+      "stimuli response",
+      "endocrine control"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Nervous System in Hydra:",
+    "concepts": [
+      "diffused nervous system",
+      "nerve net",
+      "mesoglea"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Nervous System in Planaria (flatworm):",
+    "concepts": [
+      "central nervous system",
+      "cephalic ganglion cluster",
+      "ventral nerve cords",
+      "ladder-like pattern",
+      "photosensitive structures",
+      "evolutionary progression",
+      "coordination"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Neural tissue",
+    "concepts": [
+      "neurons",
+      "nerve tissue",
+      "axons"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Synapse:",
+    "concepts": [
+      "neurotransmitter",
+      "synaptic cleft",
+      "postsynaptic neuron"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Transmission of nerve impulse :",
+    "concepts": [
+      "resting potential",
+      "Na⁺/K⁺ pump",
+      "action potential"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Transmission of nerve impulse :",
+    "concepts": [
+      "Na⁺ diffusion",
+      "action potential",
+      "depolarization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Human Nervous System:",
+    "concepts": [
+      "Central Nervous System",
+      "Peripheral Nervous System",
+      "Autonomic Nervous System",
+      "Cerebrospinal fluid",
+      "choroid plexuses",
+      "ependymal cells",
+      "ventricles",
+      "central canal",
+      "spinal cord",
+      "CSF"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Human Nervous System:",
+    "concepts": [
+      "human brain",
+      "forebrain",
+      "hindbrain",
+      "olfactory lobes",
+      "cerebrum",
+      "corpus callosum",
+      "cerebral cortex",
+      "cerebral medulla",
+      "gyri",
+      "sulci"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH09_S9_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Human Nervous System:",
+    "concepts": [
+      "corpus callosum",
+      "genu",
+      "splenium",
+      "wernicke's area",
+      "basal nuclei",
+      "third ventricle",
+      "epithalamus"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_6_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Human Nervous System:",
+    "concepts": [
+      "cerebellum",
+      "convolutions",
+      "nuclei",
+      "neurons",
+      "cerebellar penduncles",
+      "equilibrium",
+      "posterior conical part"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_6_003",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Human Nervous System:",
+    "concepts": [
+      "spinal cord",
+      "meninges",
+      "Cerebro Spinal Fluid (CSF)",
+      "dorsal-ventral flattening",
+      "central canal"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_6_004",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Human Nervous System:",
+    "concepts": [
+      "sympathetic nervous system",
+      "parasympathetic nervous system",
+      "effector organ"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Sensory Receptors:",
+    "concepts": [
+      "sensory receptors",
+      "stimuli detection",
+      "action potentials",
+      "impulses transmission",
+      "brain processing"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH09_S9_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Sensory Receptors:",
+    "concepts": [
+      "classification",
+      "sensory_receptors",
+      "location",
+      "function"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH09_S9_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Sensory Receptors:",
+    "concepts": [
+      "tapetum lucidum",
+      "blind spot",
+      "yellow area or macula lutea",
+      "fovea centralis",
+      "rod and cone cells",
+      "photo receptor cells",
+      "cones",
+      "rhodopsin"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_8_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Disorders of nervous system:",
+    "concepts": [
+      "psychological disorders",
+      "intellectual disabilities",
+      "autism spectrum disorder",
+      "bipolar disorder",
+      "depression",
+      "anxiety disorders",
+      "attention deficit hyperactivity disorder",
+      "stress-related disorders",
+      "Parkinson's disease",
+      "Alzheimer's disease"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_9_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Endocrine system:",
+    "concepts": [
+      "hormone",
+      "endocrine system",
+      "target organ"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Major endocrine glands:",
+    "concepts": [
+      "hypothalamus",
+      "pituitary gland",
+      "neurohormones"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH09_S9_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Major endocrine glands:",
+    "concepts": [
+      "gonadotropin",
+      "follicle stimulating hormone",
+      "leutinizing hormone",
+      "interstitial cell stimulating hormone",
+      "neurohypophysis",
+      "pars nervosa",
+      "infundibulum",
+      "median eminence",
+      "oxytocin",
+      "vasopressin"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Major endocrine glands:",
+    "concepts": [
+      "pineal gland",
+      "melatonin",
+      "sleep hormone",
+      "Biological Clock",
+      "24-hour diurnal rhythm",
+      "body temperature",
+      "metabolism",
+      "reproductive cycles"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_10_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Major endocrine glands:",
+    "concepts": [
+      "basal metabolic rate",
+      "protein synthesis",
+      "thermoregulation",
+      "neurotransmitters",
+      "adrenaline",
+      "nor-adrenaline",
+      "calcium",
+      "phosphorus"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH09_S9_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Major endocrine glands:",
+    "concepts": [
+      "hypothyroidism",
+      "defective development",
+      "maturation",
+      "goitre",
+      "iodine deficiency",
+      "thyroid hormone",
+      "enlargement",
+      "simple goitre",
+      "table salt",
+      "prevention",
+      "iodine",
+      "size of the thyroid gland",
+      "total output of thyroxine"
+    ]
+  },
+  {
+    "resource_id": "ACT_12_CH09_S9_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Major endocrine glands:",
+    "concepts": [
+      "parathyroid glands",
+      "calcium and phosphate balance",
+      "blood calcium levels"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_10_003",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Major endocrine glands:",
+    "concepts": [
+      "thymus gland",
+      "endocrine glands",
+      "immune system",
+      "T-lymphocytes",
+      "humoral immunity",
+      "adrenal glands",
+      "mesoderm",
+      "ectoderm"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_10_004",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Major endocrine glands:",
+    "concepts": [
+      "gonads",
+      "sex organs",
+      "gametes",
+      "hormones",
+      "androgens",
+      "testosterone",
+      "interstitial cells",
+      "LH",
+      "secondary sexual characteristics",
+      "facial and pubic hair",
+      "deepening of voice",
+      "shoulders",
+      "male aggressiveness",
+      "testes",
+      "uterus",
+      "uterine muscles",
+      "uterine endometrium",
+      "placenta",
+      "foetus",
+      "uterine wall",
+      "physiological exchange",
+      "material",
+      "estrogen",
+      "progesterone",
+      "hCG",
+      "human chorionic gonadotropin",
+      "human placental progesterone",
+      "gastrointestinal tract",
+      "mucosa",
+      "cells"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH09_S9_10_005",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Nervous Coordination",
+    "section": "Major endocrine glands:",
+    "concepts": [
+      "pheromones",
+      "sex attractants",
+      "external hormones",
+      "signalling pheromones",
+      "ant communication",
+      "anti-queen factor"
+    ]
+  }
+]

@@ -1,0 +1,424 @@
+[
+  {
+    "resource_id": "TXT_11_CH13_X_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": null,
+    "concepts": [
+      "atomic nucleus",
+      "radioactive decay",
+      "spontaneous emission"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Introduction: Nuclear chemistry is a branch of physical chemistry: It is the study of reactions involving changes in atomic nuclei. This branch started with the discovery of natural radioactivity by a physicist Antoine Henri Becquerel (1852-1908). Most of the 20&lt;sup&gt;th&lt;/sup&gt; century research has been directed towards understanding of the forces holding the nucleus together. To understand the changes occuring on the earth, Geologists explore nuclear reactions. Astronomers study nuclear reactions taking place in stars. In biology and medicine, the interactions of radiation emitted from nuclear reactions with the living system are important.",
+    "concepts": [
+      "radioactive decay",
+      "artificial transmutation",
+      "nuclear fission"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_1_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Introduction: Nuclear chemistry is a branch of physical chemistry: It is the study of reactions involving changes in atomic nuclei. This branch started with the discovery of natural radioactivity by a physicist Antoine Henri Becquerel (1852-1908). Most of the 20&lt;sup&gt;th&lt;/sup&gt; century research has been directed towards understanding of the forces holding the nucleus together. To understand the changes occuring on the earth, Geologists explore nuclear reactions. Astronomers study nuclear reactions taking place in stars. In biology and medicine, the interactions of radiation emitted from nuclear reactions with the living system are important.",
+    "concepts": [
+      "nucleus",
+      "electrons",
+      "atomic number",
+      "mass number",
+      "neutrons",
+      "density",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Classification of nuclides",
+    "concepts": [
+      "even-or-odd-nature-of-proton-number-and-neutrons",
+      "nuclear-stability",
+      "rarity-of-stable-nuclides"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_2_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Classification of nuclides",
+    "concepts": [
+      "stability zone",
+      "straight line",
+      "Coulombic repulsion"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_2_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Classification of nuclides",
+    "concepts": [
+      "protons",
+      "strong nuclear forces",
+      "attraction",
+      "Coulomb repulsions",
+      "short distances",
+      "nuclear potential",
+      "nuclear stability"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_2_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Classification of nuclides",
+    "concepts": [
+      "nuclear binding energy",
+      "mass defect",
+      "binding energy",
+      "Einstein's equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Radioactivity: You know that some elements such as uranium and radium are radioctive elements. An element is radioactive if the nuclei of its atoms are unstable. The phenomenon in which the nuclei spontaneously emit a nuclear particle and gamma radiation transforming to a different nuclide is called radioactivity. The elements which undergo nuclear changes are radioactive elements The radioactivity is the phenomenon related to the nucleus.",
+    "concepts": [
+      "radioactive elements",
+      "nuclear changes",
+      "gamma radiation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_5_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Radioactive decay: The probability of decay of a radioelement does not depend on state of chemical combination, temperature, pressure, presence of catalyst or even the age of nucleus.",
+    "concepts": [
+      "rate of decay",
+      "activity",
+      "number of nuclei",
+      "decay",
+      "time interval",
+      "minus sign"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_5_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Radioactive decay: The probability of decay of a radioelement does not depend on state of chemical combination, temperature, pressure, presence of catalyst or even the age of nucleus.",
+    "concepts": [
+      "decay constant",
+      "rate law",
+      "radioactive decay"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_5_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Radioactive decay: The probability of decay of a radioelement does not depend on state of chemical combination, temperature, pressure, presence of catalyst or even the age of nucleus.",
+    "concepts": [
+      "decay constant",
+      "radioactive decay",
+      "exponential decay"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_5_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Radioactive decay: The probability of decay of a radioelement does not depend on state of chemical combination, temperature, pressure, presence of catalyst or even the age of nucleus.",
+    "concepts": [
+      "half-life",
+      "decay constant",
+      "first-order decay equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_5_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Radioactive decay: The probability of decay of a radioelement does not depend on state of chemical combination, temperature, pressure, presence of catalyst or even the age of nucleus.",
+    "concepts": [
+      "radioactive decay",
+      "first-order kinetics",
+      "half-life",
+      "decay constant",
+      "exponential decay formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_5_006",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Radioactive decay: The probability of decay of a radioelement does not depend on state of chemical combination, temperature, pressure, presence of catalyst or even the age of nucleus.",
+    "concepts": [
+      "curie",
+      "becquerel",
+      "disintegration"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_6_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Modes of decay : Radioelements decay by 3 ways, namely, \\alpha- decay, \\beta- decay and \\gamma-emission.",
+    "concepts": [
+      "radioactive decay",
+      "atomic mass unit",
+      "charge",
+      "helium nucleus",
+      "equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_6_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Modes of decay : Radioelements decay by 3 ways, namely, \\alpha- decay, \\beta- decay and \\gamma-emission.",
+    "concepts": [
+      "nuclear reactions",
+      "radioactive decay",
+      "transmutation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_6_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Modes of decay : Radioelements decay by 3 ways, namely, \\alpha- decay, \\beta- decay and \\gamma-emission.",
+    "concepts": [
+      "radioactive",
+      "decay",
+      "induced radioactivity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_6_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Modes of decay : Radioelements decay by 3 ways, namely, \\alpha- decay, \\beta- decay and \\gamma-emission.",
+    "concepts": [
+      "nuclear fission",
+      "chain reaction",
+      "energy release"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH13_S13_6_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Modes of decay : Radioelements decay by 3 ways, namely, \\alpha- decay, \\beta- decay and \\gamma-emission.",
+    "concepts": [
+      "nuclear fission",
+      "chain reaction",
+      "critical mass"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S13_6_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Modes of decay : Radioelements decay by 3 ways, namely, \\alpha- decay, \\beta- decay and \\gamma-emission.",
+    "concepts": [
+      "radioactive decay",
+      "nuclear fusion",
+      "mass defect"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH13_S13_8_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Applications of Radio isotopes",
+    "concepts": [
+      "radioactive decay",
+      "carbon dating",
+      "photosynthesis"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH13_S13_8_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "Applications of Radio isotopes",
+    "concepts": [
+      "nuclear power",
+      "fission",
+      "uranium-235",
+      "electricity generation",
+      "nuclear reactor",
+      "moderator",
+      "neutrons",
+      "half-life"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S5_3_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "years",
+    "concepts": [
+      "half-life",
+      "radioactive sources",
+      "thyroid cancer",
+      "radium-226",
+      "targeted radiation therapy",
+      "nuclear reactor",
+      "cadmium rod",
+      "neutron absorption"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S5_3_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "years",
+    "concepts": [
+      "radioisotopes",
+      "diagnostics",
+      "therapy",
+      "cancer"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH13_S5_3_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "years",
+    "concepts": [
+      "radioisotopes",
+      "gamma rays",
+      "Cobalt-60",
+      "Caesium-137",
+      "tracers",
+      "radionuclides",
+      "compound pathways",
+      "radioactivity measurements"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH13_S5_3_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 13,
+    "chapter_title": "Nuclear Chemistry And Radioactivity",
+    "section": "years",
+    "concepts": [
+      "nuclear fusion reaction",
+      "missing particle",
+      "half life"
+    ]
+  }
+]

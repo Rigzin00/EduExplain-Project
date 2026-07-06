@@ -1,0 +1,438 @@
+[
+  {
+    "resource_id": "TXT_12_CH28_X_001",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": null,
+    "concepts": [
+      "nutrition",
+      "energy",
+      "nutrients",
+      "deficiencies",
+      "health issues"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_1_001",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "WHAT IS FOOD",
+    "concepts": [
+      "food",
+      "energy",
+      "nutrients",
+      "structural components",
+      "macronutrients",
+      "micronutrients",
+      "functional foods"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_2_001",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "NUTRITION",
+    "concepts": [
+      "nutrition",
+      "metabolism",
+      "nutrient classification",
+      "macronutrients",
+      "micronutrients",
+      "glucose metabolism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_2_002",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "NUTRITION",
+    "concepts": [
+      "carbohydrate",
+      "energy-providing molecule",
+      "carbon-hydrogen-oxygen composition",
+      "kilojoule energy yield",
+      "biological oxidation",
+      "dietary carbohydrate sources",
+      "starch conversion to glucose",
+      "glycogen storage",
+      "cellulose digestion",
+      "digestion aiding mechanism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_2_003",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "NUTRITION",
+    "concepts": [
+      "fats",
+      "lipid",
+      "carbon",
+      "hydrogen",
+      "oxygen",
+      "energy",
+      "biological oxidation",
+      "ghee",
+      "butter",
+      "plant sources",
+      "nuts"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_2_004",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "NUTRITION",
+    "concepts": [
+      "proteins",
+      "amino acids",
+      "digestion",
+      "energy",
+      "essential amino acids",
+      "plant proteins"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_2_005",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "NUTRITION",
+    "concepts": [
+      "biocatalyst",
+      "nervous system function",
+      "water-soluble vitamins",
+      "fat-soluble vitamins",
+      "thiamine",
+      "beriberi"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S1_2_001",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "mg (girls)",
+    "concepts": [
+      "metabolism",
+      "carbohydrates",
+      "Vitamin B2",
+      "beriberi"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S1_4_001",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "mg (girls)",
+    "concepts": [
+      "carbohydrates",
+      "proteins",
+      "skin",
+      "riboflavin",
+      "vitamin B3",
+      "photophobia",
+      "retarded growth"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S1_5_001",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "mg (girls)",
+    "concepts": [
+      "Vitamin B12",
+      "blood formation",
+      "nervous tissue metabolism",
+      "nucleic acid synthesis",
+      "dietary sources",
+      "pernicious anaemia",
+      "paleness",
+      "breathlessness",
+      "retarded growth",
+      "deficiency",
+      "Vitamin C",
+      "resistance to infections",
+      "maintaining connective tissue health",
+      "fruits",
+      "mangoes",
+      "chillies",
+      "pineapples",
+      "scurvy",
+      "bleeding gums",
+      "joint pain"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S1_5_002",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "mg (girls)",
+    "concepts": [
+      "metabolic processes",
+      "nerve impulse conduction",
+      "water balance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S1_5_003",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "mg (girls)",
+    "concepts": [
+      "water",
+      "physiology",
+      "hydration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S1_5_004",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "mg (girls)",
+    "concepts": [
+      "cellulose",
+      "digestive health",
+      "bowel movements"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_3_001",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "ENERGY REQUIREMENTS OF THE BODY",
+    "concepts": [
+      "energy requirements",
+      "food",
+      "aging",
+      "occupation",
+      "specific conditions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_4_001",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "BALANCED DIET",
+    "concepts": [
+      "balanced diet",
+      "nutrients",
+      "proportions",
+      "adequate energy",
+      "overall health"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_4_002",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "BALANCED DIET",
+    "concepts": [
+      "nutrition",
+      "metabolism",
+      "dietary requirements"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_5_001",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "WHAT IS HEALTH AND DISEASE?",
+    "concepts": [
+      "health",
+      "disease",
+      "malnutrition",
+      "nutrients",
+      "adverse health effects"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_5_002",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "WHAT IS HEALTH AND DISEASE?",
+    "concepts": [
+      "protein_energy_malnutrition",
+      "marasmus",
+      "kwashiorkor",
+      "breast_milk"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_6_001",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "MINERAL DEFICIENCY DISEASES",
+    "concepts": [
+      "anaemia",
+      "pallor",
+      "fatigue",
+      "loss of appetite",
+      "weight",
+      "iron-rich foods",
+      "iron supplements",
+      "rickets",
+      "osteomalacia",
+      "bone deformities",
+      "weakness",
+      "calcium-rich foods",
+      "milk",
+      "cod liver oil",
+      "leafy vegetables",
+      "goitre",
+      "thyroid gland",
+      "swelling",
+      "stunted"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_7_001",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "VITAMIN DEFICIENCY",
+    "concepts": [
+      "vitamin deficiency",
+      "balanced diet",
+      "related diseases"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_8_001",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "OBESITY AND EXCESSIVE INTAKE OF FOOD",
+    "concepts": [
+      "excess carbohydrates and fats",
+      "accumulation in the body",
+      "high cholesterol",
+      "hypertension",
+      "heart attack",
+      "diabetes",
+      "respiratory problems",
+      "saturated fats",
+      "unsaturated fats",
+      "balanced diet"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_8_002",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "OBESITY AND EXCESSIVE INTAKE OF FOOD",
+    "concepts": [
+      "environmental factors",
+      "public health",
+      "sustainable practices"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_8_003",
+    "document_id": "NIOS_BIO_CH28",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Nutrition And Health",
+    "section": "OBESITY AND EXCESSIVE INTAKE OF FOOD",
+    "concepts": [
+      "nutrition",
+      "metabolism",
+      "food substances",
+      "health",
+      "survival",
+      "essential nutrients",
+      "carbohydrates",
+      "fats",
+      "proteins",
+      "minerals",
+      "vitamins",
+      "water"
+    ]
+  }
+]

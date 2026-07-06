@@ -1,0 +1,273 @@
+[
+  {
+    "resource_id": "TXT_12_CH11_X_001",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chloroplasts",
+      "glucose"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_X_002",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": null,
+    "concepts": [
+      "chlorophyll",
+      "light absorption",
+      "photosynthesis",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_1_001",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": "Let us look into the significance of the process",
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "glucose",
+      "oxygen",
+      "carbon dioxide",
+      "water"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_1_002",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": "Let us look into the significance of the process",
+    "concepts": [
+      "chloroplast",
+      "photosynthesis",
+      "mesophyll cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_2_001",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": "PHOTOSYNTHETIC PIGMENTS",
+    "concepts": [
+      "chloroplast",
+      "pigments",
+      "photosynthesis",
+      "light energy",
+      "chemical energy",
+      "ATP",
+      "NADPH"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_3_001",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": "ROLE OF SUNLIGHT IN PHOTOSYNTHESIS",
+    "concepts": [
+      "chlorophyll",
+      "pigment",
+      "carotene",
+      "photosynthesis",
+      "light energy",
+      "ATP",
+      "NADPH"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_4_001",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": "PHOTOCHEMICAL AND BIOSYNTHETIC PHASE",
+    "concepts": [
+      "photosynthesis",
+      "chloroplasts",
+      "carbon dioxide"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_4_002",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": "PHOTOCHEMICAL AND BIOSYNTHETIC PHASE",
+    "concepts": [
+      "light energy absorption",
+      "water splitting",
+      "oxygen release",
+      "photolysis",
+      "electron transport chain",
+      "PSI",
+      "NADPH production",
+      "ATP production",
+      "photo-phosphorylation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_5_001",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": "BIOSYNTHETIC PATHWAY (DARK REACTION)",
+    "concepts": [
+      "carboxylation",
+      "ribulose bisphosphate carboxylase/oxygenase (Rubisco)",
+      "Calvin cycle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_5_002",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": "BIOSYNTHETIC PATHWAY (DARK REACTION)",
+    "concepts": [
+      "C₄ plants",
+      "mesophyll cells",
+      "bundle sheath cells",
+      "photosynthesis process",
+      "higher yields",
+      "C₃ cycle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_6_001",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": "FACTORS AFFECTING RATE OF PHOTOSYNTHESIS",
+    "concepts": [
+      "temperature",
+      "light intensity",
+      "carbon dioxide concentration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_7_001",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": "CHEMOSYNTHESIS",
+    "concepts": [
+      "chemosynthesis",
+      "cyanobacteria",
+      "hydrogen sulfide",
+      "ammonia",
+      "photosynthesis",
+      "green plants",
+      "carbon dioxide",
+      "carbohydrates",
+      "light energy",
+      "chlorophyll",
+      "pigments",
+      "photophosphorylation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_8_001",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": "CHEMIOSMOTIC SYNTHESIS",
+    "concepts": [
+      "chemiosmosis",
+      "electrochemical gradient",
+      "ATP synthesis",
+      "ADP",
+      "inorganic phosphate",
+      "mitochondrial membrane",
+      "thylakoid membrane",
+      "enzyme",
+      "ATP synthase",
+      "prokaryotes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_8_002",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": "CHEMIOSMOTIC SYNTHESIS",
+    "concepts": [
+      "light-dependent stage",
+      "light-independent stage",
+      "carbon dioxide fixation",
+      "organic compounds",
+      "glucose production"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH11_S11_8_003",
+    "document_id": "NIOS_BIO_CH11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 11,
+    "chapter_title": "Photosynthesis",
+    "section": "CHEMIOSMOTIC SYNTHESIS",
+    "concepts": [
+      "rubisco",
+      "mesophyll cells",
+      "c4 plants",
+      "pepc",
+      "carbon fixation",
+      "covalent bond"
+    ]
+  }
+]

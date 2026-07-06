@@ -1,0 +1,504 @@
+[
+  {
+    "resource_id": "TXT_12_CH01_X_001",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": null,
+    "concepts": [
+      "units",
+      "dimensions",
+      "vectors"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_X_002",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "chemical energy",
+      "carbon dioxide",
+      "oxygen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_1_001",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "PHYSICAL WORLD AND MEASUREMENTS",
+    "concepts": [
+      "celestial bodies",
+      "subatomic particles",
+      "universe",
+      "atomic nuclei",
+      "technological advancements",
+      "engineering",
+      "technology",
+      "principles",
+      "discoveries",
+      "innovations"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_1_002",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "PHYSICAL WORLD AND MEASUREMENTS",
+    "concepts": [
+      "fundamental principles",
+      "universality",
+      "scientific process"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_1_003",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "PHYSICAL WORLD AND MEASUREMENTS",
+    "concepts": [
+      "machines",
+      "gadgets",
+      "engines"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_1_004",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "PHYSICAL WORLD AND MEASUREMENTS",
+    "concepts": [
+      "measurement",
+      "accuracy",
+      "natural phenomena"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_2_001",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "UNIT OF MEASUREMENT",
+    "concepts": [
+      "units",
+      "dimensional analysis",
+      "standardization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_2_002",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "UNIT OF MEASUREMENT",
+    "concepts": [
+      "base units",
+      "metric system",
+      "SI units"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_2_003",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "UNIT OF MEASUREMENT",
+    "concepts": [
+      "kilogram",
+      "meter",
+      "time",
+      "cesium-133 atom",
+      "atomic clock",
+      "scientific discovery",
+      "argon"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_2_004",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "UNIT OF MEASUREMENT",
+    "concepts": [
+      "significant figures",
+      "accuracy",
+      "percentage error",
+      "least precise measurement",
+      "rounding",
+      "measurement precision",
+      "addition",
+      "subtraction",
+      "multiplication",
+      "division"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_2_005",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "UNIT OF MEASUREMENT",
+    "concepts": [
+      "derived units",
+      "SI system",
+      "correct unit ordering"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_2_001",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "UNIT OF MEASUREMENT",
+    "concepts": [
+      "units",
+      "dimensional analysis",
+      "scientific notation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_001",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "DIMENSIONS OF PHYSICAL QUANTITIES",
+    "concepts": [
+      "dimensions",
+      "momentum",
+      "work"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_002",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "DIMENSIONS OF PHYSICAL QUANTITIES",
+    "concepts": [
+      "homogeneity of dimensions",
+      "dimensional analysis",
+      "dimensional equations"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_3_001",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "DIMENSIONS OF PHYSICAL QUANTITIES",
+    "concepts": [
+      "dimensional analysis",
+      "energy",
+      "dimensions"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_3_002",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "DIMENSIONS OF PHYSICAL QUANTITIES",
+    "concepts": [
+      "dimensional analysis",
+      "dependent variables",
+      "experimental data"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_001",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "VECTORS AND SCALARS",
+    "concepts": [
+      "scalar",
+      "vector",
+      "energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_002",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "VECTORS AND SCALARS",
+    "concepts": [
+      "representation of vectors",
+      "equal vectors",
+      "negative vector"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_003",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "VECTORS AND SCALARS",
+    "concepts": [
+      "addition of vectors",
+      "resultant vector",
+      "vector addition"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_004",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "VECTORS AND SCALARS",
+    "concepts": [
+      "magnitude",
+      "direction",
+      "parallelogram law"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_4_001",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "VECTORS AND SCALARS",
+    "concepts": [
+      "vector addition",
+      "resultant force",
+      "parallelogram law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_005",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "VECTORS AND SCALARS",
+    "concepts": [
+      "subtraction of vectors",
+      "vector addition",
+      "resultant vector"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_5_001",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "MULTIPLICATION OF VECTORS",
+    "concepts": [
+      "multiplication of vectors",
+      "scalar multiplication",
+      "directional properties of vectors"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_5_002",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "MULTIPLICATION OF VECTORS",
+    "concepts": [
+      "scalar product",
+      "projection",
+      "commutativity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_5_003",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "MULTIPLICATION OF VECTORS",
+    "concepts": [
+      "vector product",
+      "magnitude",
+      "direction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_6_001",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "RESOLUTION OF VECTORS",
+    "concepts": [
+      "resolution of vectors",
+      "magnitude",
+      "direction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_7_001",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "UNIT VECTOR",
+    "concepts": [
+      "unit vector",
+      "coordinate axes",
+      "dot product"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_7_001",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "UNIT VECTOR",
+    "concepts": [
+      "vector analysis",
+      "coordinate system",
+      "component form"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_7_002",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "UNIT VECTOR",
+    "concepts": [
+      "dot product",
+      "cross product",
+      "unit vector"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_7_003",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "UNIT VECTOR",
+    "concepts": [
+      "cross product",
+      "unit vectors",
+      "magnitude"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_7_002",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "UNIT VECTOR",
+    "concepts": [
+      "unit vector",
+      "vector operation",
+      "vector component"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_7_003",
+    "document_id": "NIOS_PHY_CH01",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Units, Dimensions And Vectors",
+    "section": "UNIT VECTOR",
+    "concepts": [
+      "cross product",
+      "vector",
+      "magnitude"
+    ]
+  }
+]

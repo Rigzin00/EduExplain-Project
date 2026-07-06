@@ -1,0 +1,304 @@
+[
+  {
+    "resource_id": "TXT_12_CH28_X_001",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": null,
+    "concepts": [
+      "IUPAC nomenclature",
+      "synthesis methods",
+      "chemical behaviors"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_X_002",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": null,
+    "concepts": [
+      "amine",
+      "amide",
+      "nitro compound",
+      "chemical reaction",
+      "biological process"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_1_001",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "AMINES",
+    "concepts": [
+      "amine classification",
+      "trigonal pyramidal structure",
+      "aromatic amines"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_1_002",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "AMINES",
+    "concepts": [
+      "primary aliphatic amines",
+      "IUPAC nomenclature",
+      "secondary and tertiary amines"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_1_003",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "AMINES",
+    "concepts": [
+      "primary amine synthesis",
+      "reduction of nitriles",
+      "Hofmann bromamide reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_1_004",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "AMINES",
+    "concepts": [
+      "gases",
+      "liquids/solids",
+      "hydrogen bonding",
+      "solubility",
+      "organic solvents"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_1_005",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "AMINES",
+    "concepts": [
+      "nitration",
+      "sulphonation",
+      "chemical properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_1_006",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "AMINES",
+    "concepts": [
+      "Uses of Amines",
+      "Aliphatic Amines",
+      "Quaternary Ammonium Salts",
+      "Dye, Drug, and Photographic Industries",
+      "Aniline",
+      "1,4-Diaminobenzene",
+      "Primary Amines",
+      "Dithiocarbamates",
+      "Herbicides",
+      "Diazonium Salts"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_1_007",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "AMINES",
+    "concepts": [
+      "primary amines",
+      "benzene sulphonyl chloride",
+      "potassium hydroxide",
+      "water-soluble potassium salt",
+      "N-substituted sulphonamide",
+      "secondary amines",
+      "insoluble N,N-disubstituted sulphonamides",
+      "aqueous potassium hydroxide",
+      "acidification",
+      "tertiary amines",
+      "water-soluble salt",
+      "solubility"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_3_001",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "DIAZONIMUM SALTS: REACTIONS AND IMPORTANCE IN SYNTHETIC CHEMISTRY",
+    "concepts": [
+      "arenediazonium salts",
+      "substitution reactions",
+      "diazonium group"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_4_001",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "NITRO COMPOUNDS",
+    "concepts": [
+      "nitro compound",
+      "hydrocarbon",
+      "nitro group",
+      "aliphatic",
+      "aromatic",
+      "primary",
+      "secondary",
+      "tertiary",
+      "position",
+      "classification"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_4_002",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "NITRO COMPOUNDS",
+    "concepts": [
+      "naming convention for nitro compounds",
+      "position indication of nitro groups",
+      "IUPAC nomenclature"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_4_003",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "NITRO COMPOUNDS",
+    "concepts": [
+      "nitro group",
+      "halide salt",
+      "vapor phase",
+      "direct nitration",
+      "concentrated nitric acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_4_004",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "NITRO COMPOUNDS",
+    "concepts": [
+      "colorless",
+      "oily liquids",
+      "pleasant odor",
+      "higher boiling points",
+      "polar nature",
+      "yellow liquid",
+      "distinctive bitter almond smell",
+      "aromatic nitro compound",
+      "crystalline solid",
+      "denser than water",
+      "dissolve in organic solvents"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_4_005",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "NITRO COMPOUNDS",
+    "concepts": [
+      "reducing agent",
+      "hydrogen over a catalyst",
+      "tin or iron in hydrochloric acid",
+      "lithium aluminium hydride",
+      "aniline",
+      "hydrolysis",
+      "carboxylic acids",
+      "hydroxylamine",
+      "secondary nitroalkanes",
+      "ketones",
+      "nitrocompounds",
+      "explosive decomposition",
+      "gases generated"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_4_006",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "NITRO COMPOUNDS",
+    "concepts": [
+      "highly exothermic decomposition reaction",
+      "IUPAC names",
+      "energy release"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH28_S28_4_007",
+    "document_id": "NIOS_CHEM_CH28",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 28,
+    "chapter_title": "Compounds Of Carbon Containing Nitrogen",
+    "section": "NITRO COMPOUNDS",
+    "concepts": [
+      "nitroalkanes",
+      "thrust",
+      "rocket propulsion"
+    ]
+  }
+]

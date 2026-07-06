@@ -1,0 +1,610 @@
+[
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_X_001",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": null,
+    "subsection": null,
+    "page_start": 1,
+    "page_end": 1,
+    "text": "Forms and Functions of Plants and animals\nHOMEOSTASIS: THE STEADY STATE\nIn the previous lesson you studied about the nervous system. There, you noted how the body functions in a coordinated manner to bring about any required effect or change. You also learnt about the hormones and how they work in a way so that the body knows when to start, when to speed up, when to slow down and when to stop an event that ocurs inside the body. In this lesson, you will study about the phenomenon called homeostasis which means 'keeping steady state'. Homeostasis operates for a variety of needs inside our body and one such need is the regulation of body temperature called thermoregulation. This lesson mainly covers various aspects of thermoregulation.\nAfter studying this lesson, you will be able to:",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "Homeostasis, the maintenance of a stable internal environment, ensures that physiological processes in plants and animals function efficiently. This lesson focuses on thermoregulation, the specific mechanism by which organisms maintain a constant body temperature through complex interactions between the nervous system and hormonal responses.",
+    "concepts": [
+      "animals_nervous_system",
+      "temperature"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Animals - Nervous System",
+      "Temperature"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_S18_1_001",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CONCEPT OF HOMEOSTASIS",
+    "subsection": null,
+    "page_start": 1,
+    "page_end": 2,
+    "text": "Homeostasis (homeo: same/steady, stasis: state) is a phenomenon in which the body regulates its functions to keep the internal conditions as stable as possible.\nHomeostasis is necessary because the body cells need to have suitable conditions around them for proper functioning. These conditions include, the presence of proper concentration of chemicals, proper temperature, and a suitable pH (degree of salinity or acidity), etc. inside its cells. But these conditions inside our body as well as inside other organisms keep fluctuating within a narrow range. Tolerance\nHomeostasis: The Steady State\nto any change from this range differs in different organisms. Organisms adopt a variety of measures to cope with such changes.\nTo understand the concept of homeostasis (keeping steady state) consider the following five examples in the humans:",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "Homeostasis maintains constant internal conditions essential for cell function, regulating factors like chemical concentrations, temperature, and pH within a narrow range. This stability is crucial as these conditions naturally fluctuate but must remain suitable for optimal cellular activity.",
+    "concepts": [
+      "temperature",
+      "concentration",
+      "ph"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Temperature",
+      "Concentration",
+      "Ph"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "EXP_12_CH18_S18_1_001",
+    "resource_type": "example",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CONCEPT OF HOMEOSTASIS",
+    "subsection": null,
+    "page_start": 2,
+    "page_end": 2,
+    "text": "Example 1. Drinking water and keeping a 'steady water balance'.\nIn all kinds of weather, your blood and other body fluids must maintain a particular percentage of water. If the volume of water in the body tends to rise, the excess is passed out in urine and, if it tends to fall short, more water is withheld inside the blood to the extent required. Thus, the body maintains a steady state (= homeostasis) of water content.",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "This example demonstrates the concept of maintaining a steady water balance in the body. It illustrates the type of homeostatic regulation problem related to fluid balance, showing how the body adjusts the retention or excretion of water to maintain a stable internal environment.",
+    "concepts": [
+      "example",
+      "water",
+      "excretion"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Example",
+      "Water",
+      "Excretion"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "EXP_12_CH18_S18_1_002",
+    "resource_type": "example",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CONCEPT OF HOMEOSTASIS",
+    "subsection": null,
+    "page_start": 2,
+    "page_end": 2,
+    "text": "Example 2. Eating sugar and keeping steady sugar level in blood\nSuppose you have been consuming too much sugar in food, beverages and sweets. Presuming you are otherwise normal, your body will handle the excess sugar (more than the normal percentage in the blood) by storing it in the form of glycogen in the liver.\nAt some other time, when you are fasting or doing much physical work, your blood sugar is used up rapidly. At that time, the liver converts the stored glycogen back into its usable form, that is glucose, to fill the gap and restore the normal blood sugar level.",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "This example illustrates the body's mechanism for maintaining stable blood sugar levels through the storage and release of glycogen. It demonstrates how excess sugar intake is converted to glycogen for storage, and how this stored glycogen is later converted back to glucose to maintain normal blood sugar levels during periods of fasting or increased physical activity.",
+    "concepts": [
+      "blood",
+      "example"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Blood",
+      "Example"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "EXP_12_CH18_S18_1_003",
+    "resource_type": "example",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CONCEPT OF HOMEOSTASIS",
+    "subsection": null,
+    "page_start": 2,
+    "page_end": 2,
+    "text": "Example 3. Maintaining normal steady state of blood alkalinity\nSometimes you eat too much salt (sodium chloride) in your food. But your blood normally maintains only the particular level of alkalinity (pH 7.34-7.43) which is only slightly alkaline. Any extra salt consumed is passed out through urine as it cannot be stored in the body.\nIf at some other time you have been eating too little salt, or you are losing much of it through sweating, your kidneys will hold back the required quantity through sodium-potassium balance.",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "This example demonstrates the regulation of blood alkalinity (pH) in response to changes in sodium intake. It illustrates how the body maintains a normal steady state of blood pH through renal mechanisms, specifically by adjusting sodium excretion in urine when excess salt is consumed and conserving sodium when salt intake is low.",
+    "concepts": [
+      "blood",
+      "example",
+      "excretion",
+      "salt",
+      "ph"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Blood",
+      "Example",
+      "Excretion",
+      "Salt",
+      "Ph"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "EXP_12_CH18_S18_1_004",
+    "resource_type": "example",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CONCEPT OF HOMEOSTASIS",
+    "subsection": null,
+    "page_start": 2,
+    "page_end": 3,
+    "text": "Example 4. Managing the number of red blood cells\nA normal human adult possesses about 5 million red blood corpuscles (RBCs) per cubic millimetre of blood.\n\nForms and Functions of Plants and animals\nMODULF - 2\nForms and Functions of Plants and animals\nHomeostasis: The Steady State\nWhenever a plain-dweller visits a hill station at high altitude without any break-journey in between, he is likely to feel exhausted for a couple of days. Later, the person becomes normal. At high altitudes the atmospheric pressure is lower and the amount of oxygen carried by this normal number of RBCs is insufficient. Within a day or two, the body adds more RBCs into the blood to pick up the normal required quantity of oxygen.\nWhen the same person returns to the plains at a lower altitude the higher RBC level that was acquired at the hills now begins to take up oxygen in excess, which is harmful. The body readjusts the red blood cells which get reduced in number to become stable at the original level.",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "This example demonstrates the concept of homeostasis and how the human body regulates the number of red blood cells (RBCs) to maintain a steady state. It illustrates a type of problem involving physiological adaptation to changes in environmental conditions, specifically the body's response to varying altitudes and oxygen levels.",
+    "concepts": [
+      "red_blood_cells",
+      "blood",
+      "oxygen",
+      "example"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Red Blood Cells",
+      "Blood",
+      "Oxygen",
+      "Example"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "EXP_12_CH18_S18_1_005",
+    "resource_type": "example",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CONCEPT OF HOMEOSTASIS",
+    "subsection": null,
+    "page_start": 3,
+    "page_end": 4,
+    "text": "Example 5. Warming and cooling of the body (maintaining steady body temperature)\nDuring hot summers you wear light clothes. You perspire a lot, you sit under a fan or under a tree and feel comfortable. Your body is trying to cool against the higher temperature outside.\nThen, there is the reverse side, that is, cold winter. Inspite of wearing thick warm clothes you still feel cold. In mid-daytime, you go out in the open sunshine to warm yourself. At night, you cover yourself with a thick blanket. You are doing all this to maintain warmth inside steadily your body.\nIn both the above situations, you are trying to regulate your internal body temperature. This is called thermoregulation. You will learn more about thermoregulation in subsequent sections of this lesson.\n1.\nDefine homeostasis.\n\n2.\nList any three chemicals whose concentration in our body has to be maintained at partcular levels.\n\n(i)\n3. To obtain enough oxygen for respiration at high altitudes, what does the body do?\n398 BIOLOGY\n(ii) (iii)",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "This worked example illustrates the concept of thermoregulation, which is the body's mechanism for maintaining a stable internal temperature despite external environmental changes. The type of problem involves understanding how the body regulates its temperature in both hot and cold conditions through various physiological responses such as sweating, seeking shade, and warming up in the sun or with blankets. The questions further explore related biological concepts, including defining homeostasis, identifying key substances requiring concentration maintenance within the body, and understanding adaptive responses to high altitudes.",
+    "concepts": [
+      "temperature",
+      "concentration",
+      "work"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Temperature",
+      "Concentration",
+      "Work"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_S18_2_001",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "THERMOREGULATION — WHY IS IT NECESSARY?",
+    "subsection": "Limits of heat tolerance",
+    "page_start": 4,
+    "page_end": 4,
+    "text": "The living organisms can normally survive only within a certain range of temperature of about 0-45° C. However, organisms tend to make adjustments, if they happen to be at places of higher or lower temperature.\nThe above stated effects due to temperature changes are because enzymes function normally within a certain range of temperature.",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "Living organisms have a narrow temperature tolerance, typically between 0°C and 45°C, but they adapt to survive in environments with higher or lower temperatures. This adaptation is crucial as it allows enzymes to function effectively within their optimal temperature range, ensuring proper metabolic activities and survival.",
+    "concepts": [
+      "enzymes",
+      "temperature"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Enzymes",
+      "Temperature"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_S18_2_002",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "THERMOREGULATION — WHY IS IT NECESSARY?",
+    "subsection": "Efficiency of enzymes at different temperatures",
+    "page_start": 4,
+    "page_end": 4,
+    "text": "Enzymes carry out almost all the chemical reactions occuring inside our body. They have several characteristics and the most important one is their relation with respect to temperature.",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "Enzymes catalyze nearly all biochemical reactions within living organisms. Their activity is significantly influenced by temperature, with optimal conditions for maximum efficiency.",
+    "concepts": [
+      "enzymes",
+      "temperature",
+      "chemical_reactions"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Enzymes",
+      "Temperature",
+      "Chemical Reactions"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "EX_12_CH18_S18_2_001",
+    "resource_type": "exercise",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "THERMOREGULATION — WHY IS IT NECESSARY?",
+    "subsection": "Efficiency of enzymes at different temperatures",
+    "page_start": 4,
+    "page_end": 5,
+    "text": "Forms and Functions of Plants and animals\nMODULF - 2\nForms and Functions of Plants and animals\nHomeosta\nasis : ˈ\nThe S\nteady\nState",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": null,
+    "concepts": [],
+    "has_equation": false
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_S18_3_001",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CLASSIFICATION OF ANIMALS BASED ON THEIR TEMPERATURE TOLERANCE",
+    "subsection": null,
+    "page_start": 5,
+    "page_end": 5,
+    "text": "Based on the capability and the manner of regulating body heat, all animals found on earth are grouped into two main categories: endotherms and ectotherms",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "Endotherms maintain a constant body temperature through internal metabolic processes, allowing them to function effectively in a wide range of environmental conditions. Ectotherms, on the other hand, rely on external sources to regulate their body temperature, which influences their activity levels and metabolic rates based on the surrounding environment.",
+    "concepts": [
+      "classification_of_animals",
+      "temperature"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Classification Of Animals",
+      "Temperature"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_S18_3_002",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CLASSIFICATION OF ANIMALS BASED ON THEIR TEMPERATURE TOLERANCE",
+    "subsection": "Characteristics of Endotherms",
+    "page_start": 5,
+    "page_end": 6,
+    "text": "Homeostasis: The Steady State\n• Mammals have two sources of insulation: (i) hairs and (ii) subcutaneous or under-skin fat. The hairs trap the air. When it is too cold the hairs are raised (goose flesh) to increase insulation. The under-skin fat prevents conduction of heat outwards. This fat layer is thicker in the colder region inhabitants for better prevention of heat loss and thinner in those living in warmer regions to allow greater heat loss.",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "Mammals maintain their body temperature through dual insulation methods: hairs that trap air to enhance warmth when cold, and subcutaneous fat that reduces heat loss by preventing conduction. In colder climates, the hairs stand up to maximize insulation, while the fat layer becomes thicker to better prevent heat from escaping, ensuring homeostasis. Conversely, in warmer regions, the fat layer is thinner to facilitate more efficient heat dissipation.",
+    "concepts": [
+      "insulation",
+      "temperature"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Insulation",
+      "Temperature"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_S18_3_003",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CLASSIFICATION OF ANIMALS BASED ON THEIR TEMPERATURE TOLERANCE",
+    "subsection": "How some endotherms cope with unfavorable temperatures",
+    "page_start": 6,
+    "page_end": 6,
+    "text": "Camel is a desert dweller of hot climate. It needs to possess more of heat loss mechanisms and cut down the heat- retaining ones. Most of its skin has no fat layer. But, look at the hump, it stores a huge bulk of fat only as reserve food.\n• Squirrels, goats, pigeons etc. live in moderate climate and they too have to adjust their body temperature according to the changing conditions of the outside. They adjust both in winter and summer to maintain normal body heat. Humans too are endotherms. When required we supplement our natural heat-regulating mechanisms by artificial methods like clothing, using the fan, bathing, room heating, room-cooling, etc.",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "Camels are adapted to hot desert climates by minimizing heat retention and maximizing heat loss; they lack a fat layer on most of their skin but store fat in their humps for energy reserves. Other animals like squirrels, goats, and pigeons, which inhabit moderate climates, also regulate their body temperature through physiological adjustments in response to seasonal changes. Similarly, humans, being endothermic, maintain a stable internal temperature through natural mechanisms and supplementary artificial means such as clothing and environmental controls.",
+    "concepts": [
+      "temperature"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Temperature"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_S18_3_004",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CLASSIFICATION OF ANIMALS BASED ON THEIR TEMPERATURE TOLERANCE",
+    "subsection": "Some ectotherms and how they cope unfavorable temperature conditions Consider the following examples:",
+    "page_start": 6,
+    "page_end": 7,
+    "text": "Forms and Functions of Plants and animals\nForms and Functions of Plants and animals\n1.\nClassi\nfy the following animals as endotherm or ectotherm:\n\nCam\nCamel, Bat, Earthworm, Cockroach, Fish, Wall lizard, Polar bear, sparrow\n\nEndotherms\n\nEcto\nherms\n\n2.\nExplain the following terms and give one or more synonymous terms for each\n\n(i)\nPoikilotherms\n\n(ii)\nHomoiotherms\n\n3.\n3. Mention one way each by which each of the following fight severe\n\n(i)\nCrocodile\n\n(ii)\nHoney bee\n\n(iii)\nCommon frog\n\n(iv)\nWall lizard\nHomeostasis: The Steady State",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "Classify the given animals into endotherms and ectotherms based on their temperature regulation methods. Poikilotherms, animals whose body temperatures vary with the environment, include earthworms, cockroaches, fish, and wall lizards. Homoiotherms, animals that maintain a constant body temperature, include camels, bats, polar bears, and sparrows. Crocodiles regulate their body temperature by basking in the sun or seeking shade, honey bees maintain homeostasis through group behavior like clustering, common frogs adjust their body temperature by changing their position in water, and",
+    "concepts": [
+      "classification_of_animals",
+      "frogs",
+      "temperature"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Classification Of Animals",
+      "Frogs",
+      "Temperature"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_S18_4_001",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "MECHANISM OF HOMEOSTASIS OF BODY TEMPERATURE (THERMOREGULATION) IN HUMANS",
+    "subsection": "Normal core body temperature",
+    "page_start": 7,
+    "page_end": 8,
+    "text": "The starting point in any homeostasis is the identification of its set or the normal point. The set point of human body temperature is taken as 37°C, which is also called the normal or core body temperature. The core body temperature refers to the temperature of the combined portion of the trunk, head and upper part of arms and legs. Our body temperature otherwise is not uniform throughout.\nWhenever the core body temperature departs from the normal, the body takes corrective measures. For example :\nYou will read about such steps in more details in the next sub-section.\nHomeostasis: The Steady State",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "Homeostasis begins with identifying the set point, typically 37°C for human body temperature, which represents the normal or core body temperature. This temperature is measured from the central parts of the body and varies from other areas. When the core body temperature deviates from this set point, the body initiates corrective mechanisms to restore balance.",
+    "concepts": [
+      "temperature"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Temperature"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_S18_4_002",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "MECHANISM OF HOMEOSTASIS OF BODY TEMPERATURE (THERMOREGULATION) IN HUMANS",
+    "subsection": "Mechanisms of Thermoregulation",
+    "page_start": 8,
+    "page_end": 9,
+    "text": "The principal heat-regulating centre is located in the hypothalamus, a part of the forebrain. This part acts like a thermostat.\nA. Keeping warm in cold weather\nThermoregulation in cold weather is achieved in two ways: preventing loss of body heat and generating more body heat.\nHave you ever observed that in very cold weather you look pale or bluish? This is due to reduced blood supply to the skin caused by vasoconstriction.\nSuch postures reduce the exposed body surface for heat radiation.\n2. Generating more body heat : The metabolic rate is increased and more heat is produced in the body cells. The muscular activity is also increased which is sometimes in the form of shivering.\nB. Keeping cool in hot weather (Fig. 18.1b)\nWhen the outside temperature is high or when a person is engaged in strenuous physical work there is overproduction of heat within the body. The extra heat is given out in two principal ways.\n\nForms and Functions of Plants and animals\nForms and Functions of Plants and animals",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "The hypothalamus in the brain acts as a thermostat, regulating body temperature through mechanisms that prevent heat loss and generate additional heat in cold weather. In cold conditions, blood flow to the skin decreases, reducing heat loss, while muscle shivering increases metabolic heat production. Conversely, in hot conditions, excess heat is expelled through sweating and increased blood flow to the skin, helping to maintain thermal balance.",
+    "concepts": [
+      "the_hypothalamus",
+      "blood_flow",
+      "muscle",
+      "temperature",
+      "brain"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "The Hypothalamus",
+      "Blood Flow",
+      "Muscle",
+      "Temperature",
+      "Brain"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_S18_4_003",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "MECHANISM OF HOMEOSTASIS OF BODY TEMPERATURE (THERMOREGULATION) IN HUMANS",
+    "subsection": "Components of Homeostasis",
+    "page_start": 9,
+    "page_end": 10,
+    "text": "Homeostasis of any kind involves four components:\nThe flow chart given here (Fig. 18.2) explains the different steps in thermoregulation in humans.\nForms and Functions of Plants and animals",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "Homeostasis in humans involves maintaining a stable internal environment through the regulation of body temperature, which is achieved through a series of physiological processes detailed in Fig. 18.2. This process ensures that the body remains within optimal operating conditions despite external environmental changes. Forms and functions of plants and animals focus on understanding how these organisms adapt to their environments, including mechanisms for water and nutrient absorption, gas exchange, and energy production.",
+    "concepts": [
+      "temperature"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Temperature"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_S18_4_004",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "MECHANISM OF HOMEOSTASIS OF BODY TEMPERATURE (THERMOREGULATION) IN HUMANS",
+    "subsection": "Types of Regulatory Systems- Physiological and Behavioral",
+    "page_start": 10,
+    "page_end": 11,
+    "text": "The regulatory steps for thermoregulation in humans as described above can be considered under two headings – physiological and behavioral.\nPhysiological regulation: Changes in blood circulation like vasodilation or vasoconstriction, sweating or not sweating, increase or decrease in cell metabolism, shivering, etc. All these adjustments are not under the control of will.\nBehavioral regulation. It includes the conscious and subconscious acts. For example:\nWhen it is hot we often\nWhen it is cold we\nForms and Functions of Plants and animals\nRear\nRearrange the following in their correct sequence in homeostasis:\n\nEffec\netor, Set point, Integrating centre, Sensor.\n\n•\n\n•\nState\nin one word or sentence:\n\n(i)\nThe normal body core temperature of humans.\n\n(ii)\nThe function of feathers in bird and the hairs of rabbit.\n\n(iii)\nEffect of shivering.\nHomeostasis: The Steady State",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "Homeostasis maintains a stable internal environment through physiological and behavioral mechanisms. Physiologically, the body adjusts blood circulation, sweating, and metabolic rates to regulate temperature. Behaviorally, actions like seeking shade or adding clothing are employed. In homeostasis, sensors detect changes, the integrating center processes this information, and effectors respond to maintain a set point. The normal body core temperature of humans is approximately 37°C. Feathers in birds and fur in rabbits serve as insulation to retain heat. Shivering generates heat by increasing muscle activity when the body is cold.",
+    "concepts": [
+      "blood",
+      "muscle",
+      "temperature",
+      "insulation",
+      "rate"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Blood",
+      "Muscle",
+      "Temperature",
+      "Insulation",
+      "Rate"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_S18_5_001",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "FEEDBACK MECHANISMS-NEGATIVE AND POSITIVE",
+    "subsection": null,
+    "page_start": 11,
+    "page_end": 11,
+    "text": "The feedback in the living systems are of two types: negative to reverse a condition and positive to continue in the direction of the change.\nIn thermoregulation the kind of feedback mechanism operating is of the negative type. Any deviation from the set point has to be reversed to bring it back to the normal condition. Therefore, a command has to be given to the organs concerned to function in a manner so that the deviation is corrected and brought back to the normal state.\nPositive feedback is very rare in the living systems. One such example is that of coagulation of blood. This process includes several steps in succession. The first feedback does not revive the set point, so it is not a negative feedback, instead it produces the next and the third and so on until the last one completes the process by plugging the cut in the blood vessel. All the feedback mechanisms in blood coagulation are of the positive type.",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "Feedback mechanisms in living systems can be either negative or positive. In thermoregulation, negative feedback is used to correct deviations from a set point by reversing the condition. Positive feedback, though rare, is exemplified in blood coagulation, where each step amplifies the response to ultimately achieve a specific outcome, such as clot formation to seal a wound.",
+    "concepts": [
+      "blood",
+      "coagulation_of_blood"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Blood",
+      "Coagulation Of Blood"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "EX_12_CH18_S18_5_001",
+    "resource_type": "exercise",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "FEEDBACK MECHANISMS-NEGATIVE AND POSITIVE",
+    "subsection": null,
+    "page_start": 11,
+    "page_end": 12,
+    "text": "1. Name the two kinds of feed back mechanisms.\n\n2. Which kind of feed back mechanism normally operates in homeostasis?",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": null,
+    "concepts": [],
+    "has_equation": false
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_S18_5_002",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "FEEDBACK MECHANISMS-NEGATIVE AND POSITIVE",
+    "subsection": null,
+    "page_start": 12,
+    "page_end": 13,
+    "text": "TERMINAL EXERCISES\n\nForms and Functions of Plants and animals\nForms and Functions of Plants and animals\n5. In which temperature range do the enzymes in our body act best?\nHomeostasis: The Steady State",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "Enzymes in the human body function optimally within a narrow temperature range, typically between 36°C to 40°C, facilitating efficient biochemical reactions necessary for life processes. Homeostasis maintains these conditions, ensuring the body remains in a stable state despite external changes, crucial for the proper functioning of enzymes and other biological systems.",
+    "concepts": [
+      "life_processes",
+      "chemical_reactions",
+      "enzymes",
+      "temperature"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Life Processes",
+      "Chemical Reactions",
+      "Enzymes",
+      "Temperature"
+    ]
+  },
+  {
+    "document_id": "NIOS_BIO_CH18",
+    "resource_id": "TXT_12_CH18_S18_5_003",
+    "resource_type": "explanation",
+    "class_no": 12,
+    "subject": "Biology",
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "FEEDBACK MECHANISMS-NEGATIVE AND POSITIVE",
+    "subsection": null,
+    "page_start": 13,
+    "page_end": 14,
+    "text": "ANSWERS TO INTEXT QUESTIONS\nHomeostasis : The Steady State\n18.3 1. Endotherms: Camel, Bat, Polar bear, sparrow\nEctotherms: Earthworm, Cockroach, Fish, Wall lizard\n2. Poikilotherms: Animals whose body temperature changes along with that of the surroundings\nWarm blooded: Animals whose body temperature remains steady and does not change with that of the surroundings\n3. Crocodile: Basks in the sun on the land\nHoney bees: Crowd together for collective warmth\nCommon frog: Hibernates\nWall lizard: Hides at safe places\n18.4 1. Set point, Sensor, Integrating centre, Effectors\n2. (i) 37°C (ii) trap air to prevent heat loss\n(iii) warms up in cold weather\n18.5 1. Negative and positive\n2. Negative.\n\nForms and Functions of Plants and animals",
+    "image_path": null,
+    "image_caption": null,
+    "description": null,
+    "summary": "Homeostasis maintains a stable internal environment despite external changes. Endotherms like camels and bats, and ectotherms such as earthworms and fish, demonstrate how organisms regulate their body temperature differently. In homeostatic mechanisms, sensors detect changes, the integrating center processes this information, and effectors respond to maintain a set point, exemplified by honeybees clustering for warmth. Feedback loops, involving negative and positive regulation, ensure stability, with negative feedback being more common in maintaining homeostasis.",
+    "concepts": [
+      "temperature"
+    ],
+    "has_equation": false,
+    "concepts_raw": [
+      "Temperature"
+    ]
+  }
+]

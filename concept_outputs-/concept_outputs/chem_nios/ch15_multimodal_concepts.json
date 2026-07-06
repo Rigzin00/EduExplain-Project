@@ -1,0 +1,264 @@
+[
+  {
+    "resource_id": "TXT_12_CH15_X_001",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": null,
+    "concepts": [
+      "adsorption",
+      "catalysis",
+      "chemical reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_X_002",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "conversion of light energy",
+      "chemical energy",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts",
+      "plant cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_1_001",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": "ADSORPTION",
+    "concepts": [
+      "adsorption",
+      "surface area",
+      "molecular forces"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_1_002",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": "ADSORPTION",
+    "concepts": [
+      "adsorption",
+      "absorption",
+      "silica gel",
+      "water vapor",
+      "solid",
+      "surface",
+      "molecules",
+      "concentration",
+      "substance",
+      "uniformly",
+      "volume",
+      "dissolution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_1_003",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": "ADSORPTION",
+    "concepts": [
+      "adsorption",
+      "surface area",
+      "gas",
+      "temperature",
+      "pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_1_004",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": "ADSORPTION",
+    "concepts": [
+      "adsorption",
+      "chemical adsorption",
+      "chemisorption"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_1_005",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": "ADSORPTION",
+    "concepts": [
+      "adsorption",
+      "Freundlich Adsorption Isotherm",
+      "linear equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_1_006",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": "ADSORPTION",
+    "concepts": [
+      "adsorption",
+      "Langmuir adsorption isotherm",
+      "monolayer",
+      "equilibrium",
+      "mathematical relation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_1_007",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": "ADSORPTION",
+    "concepts": [
+      "adsorption",
+      "catalysis",
+      "reactants",
+      "reaction rates",
+      "chemical processes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_2_001",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": "CATALYSIS",
+    "concepts": [
+      "catalyst",
+      "decomposition",
+      "reaction",
+      "enzymatic catalysis",
+      "auto-catalysis",
+      "oxidation",
+      "potassium chlorate"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_2_002",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": "CATALYSIS",
+    "concepts": [
+      "catalyst",
+      "reaction rate",
+      "equilibrium position",
+      "promoters",
+      "poisons"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_2_003",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": "CATALYSIS",
+    "concepts": [
+      "homogeneous catalysis",
+      "heterogeneous catalysis",
+      "catalyst",
+      "reactants",
+      "phase",
+      "oxidation",
+      "sulfur trioxide",
+      "iron",
+      "ammonia",
+      "platinum",
+      "asbestos"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_2_004",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": "CATALYSIS",
+    "concepts": [
+      "catalyst",
+      "activation energy",
+      "reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_2_005",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": "CATALYSIS",
+    "concepts": [
+      "proportionality",
+      "direct relationship",
+      "inverse relationship"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_2_006",
+    "document_id": "NIOS_CHEM_CH15",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Adsorption And Catalysis",
+    "section": "CATALYSIS",
+    "concepts": [
+      "cell membrane",
+      "organelle",
+      "mitosis"
+    ]
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "resource_id": "TXT_12_CH05_X_001",
+    "document_id": "NIOS_BIO_CH05",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Tissues And Other Levels Of Organization",
+    "section": null,
+    "concepts": [
+      "tissue",
+      "epithelial tissue",
+      "connective tissue"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_1_001",
+    "document_id": "NIOS_BIO_CH05",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Tissues And Other Levels Of Organization",
+    "section": "WHAT IS A TISSUE",
+    "concepts": [
+      "tissue",
+      "function",
+      "cellular organization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_2_001",
+    "document_id": "NIOS_BIO_CH05",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Tissues And Other Levels Of Organization",
+    "section": "THE PLANT TISSUES",
+    "concepts": [
+      "meristematic tissues",
+      "permanent tissues",
+      "Table 5.2"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_2_002",
+    "document_id": "NIOS_BIO_CH05",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Tissues And Other Levels Of Organization",
+    "section": "THE PLANT TISSUES",
+    "concepts": [
+      "parenchyma",
+      "collenchyma",
+      "sclerenchyma"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_2_003",
+    "document_id": "NIOS_BIO_CH05",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Tissues And Other Levels Of Organization",
+    "section": "THE PLANT TISSUES",
+    "concepts": [
+      "xylem",
+      "phloem",
+      "tracheids",
+      "vessels",
+      "sieve tubes",
+      "companion cells",
+      "food",
+      "roots",
+      "leaves"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_2_004",
+    "document_id": "NIOS_BIO_CH05",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Tissues And Other Levels Of Organization",
+    "section": "THE PLANT TISSUES",
+    "concepts": [
+      "tunica_corpus_theory",
+      "histogen_theory",
+      "parenchyma",
+      "collenchyma",
+      "sclerenchyma",
+      "metabolism",
+      "support",
+      "rigid_support"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_001",
+    "document_id": "NIOS_BIO_CH05",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Tissues And Other Levels Of Organization",
+    "section": "ANIMAL TISSUES",
+    "concepts": [
+      "tissue types",
+      "functionality",
+      "animal body"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_002",
+    "document_id": "NIOS_BIO_CH05",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Tissues And Other Levels Of Organization",
+    "section": "ANIMAL TISSUES",
+    "concepts": [
+      "epithelial tissue",
+      "cuboidal epithelium",
+      "ciliated epithelium",
+      "columnar epithelium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_003",
+    "document_id": "NIOS_BIO_CH05",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Tissues And Other Levels Of Organization",
+    "section": "ANIMAL TISSUES",
+    "concepts": [
+      "matrix",
+      "ground substance",
+      "cells",
+      "extracellular matrix",
+      "plasma"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_004",
+    "document_id": "NIOS_BIO_CH05",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Tissues And Other Levels Of Organization",
+    "section": "ANIMAL TISSUES",
+    "concepts": [
+      "muscle fiber",
+      "excitable cell",
+      "contractile protein",
+      "parallel microfilament",
+      "striated muscle",
+      "skeletal muscle",
+      "cardiac muscle",
+      "unstriated muscle",
+      "smooth muscle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_005",
+    "document_id": "NIOS_BIO_CH05",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Tissues And Other Levels Of Organization",
+    "section": "ANIMAL TISSUES",
+    "concepts": [
+      "neuron",
+      "axon",
+      "impulse"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_4_001",
+    "document_id": "NIOS_BIO_CH05",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Tissues And Other Levels Of Organization",
+    "section": "LEVELS OF ORGANISATION – CELL TO ORGANISM",
+    "concepts": [
+      "cells",
+      "organelles",
+      "specific functions",
+      "cellular organization",
+      "evolution",
+      "division of labor",
+      "tissues",
+      "higher levels of organizational complexity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_4_002",
+    "document_id": "NIOS_BIO_CH05",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Tissues And Other Levels Of Organization",
+    "section": "LEVELS OF ORGANISATION – CELL TO ORGANISM",
+    "concepts": [
+      "tissue",
+      "meristematic tissue",
+      "supportive tissues",
+      "xylem",
+      "phloem",
+      "epithelium",
+      "muscle",
+      "nervous tissue"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_4_003",
+    "document_id": "NIOS_BIO_CH05",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Tissues And Other Levels Of Organization",
+    "section": "LEVELS OF ORGANISATION – CELL TO ORGANISM",
+    "concepts": [
+      "tissue",
+      "cell",
+      "organism"
+    ]
+  }
+]

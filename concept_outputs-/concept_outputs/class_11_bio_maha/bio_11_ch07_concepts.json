@@ -1,0 +1,98 @@
+[
+  {
+    "resource_id": "RCL_11_CH07_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Cell Division",
+    "section": null,
+    "concepts": [
+      "cell division",
+      "mitosis",
+      "cell theory"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Cell Division",
+    "section": "Cell cycle:",
+    "concepts": [
+      "cell cycle",
+      "interphase",
+      "M-phase",
+      "G1",
+      "S phase",
+      "DNA replication",
+      "G2 phase"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH07_S7_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Cell Division",
+    "section": "Types of cell division:",
+    "concepts": [
+      "mitosis",
+      "karyokinesis",
+      "cytokinesis"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH07_S7_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Cell Division",
+    "section": "Types of cell division:",
+    "concepts": [
+      "spindle fibres",
+      "kinetochore fibres",
+      "polar fibres",
+      "cytokinesis",
+      "mitosis"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH07_S7_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Cell Division",
+    "section": "Types of cell division:",
+    "concepts": [
+      "apoptosis",
+      "meiosis",
+      "mitosis"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH07_S7_2_002",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 7,
+    "chapter_title": "Cell Division",
+    "section": "Types of cell division:",
+    "concepts": [
+      "cell division",
+      "mitosis",
+      "meiosis"
+    ]
+  }
+]

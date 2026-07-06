@@ -1,0 +1,299 @@
+[
+  {
+    "resource_id": "TXT_11_CH02_S2_1_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Introduction:",
+    "concepts": [
+      "vector analysis",
+      "calculus",
+      "limits"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Vector Analysis:",
+    "concepts": [
+      "scalar quantities",
+      "vector quantities",
+      "displacement"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_2_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Vector Analysis:",
+    "concepts": [
+      "scalar",
+      "magnitude",
+      "unit"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_2_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Vector Analysis:",
+    "concepts": [
+      "magnitude",
+      "direction",
+      "displacement",
+      "velocity",
+      "force",
+      "vector representation",
+      "equal vectors",
+      "unit vector"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Vector Operations:",
+    "concepts": [
+      "multiplication of a vector by a scalar",
+      "magnitude scaling",
+      "vector orientation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_3_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Vector Operations:",
+    "concepts": [
+      "vector addition",
+      "addition of vectors",
+      "subtraction of vectors"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_3_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Vector Operations:",
+    "concepts": [
+      "commutative property",
+      "associative property",
+      "vector addition"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_3_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Vector Operations:",
+    "concepts": [
+      "parallelogram law of vector addition",
+      "resultant vector",
+      "diagonal of parallelogram",
+      "magnitude of resultant vector",
+      "direction of resultant vector"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_4_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Resolution of vectors:",
+    "concepts": [
+      "resolution of vectors",
+      "magnitude calculation",
+      "direction determination"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Multiplication of Vectors:",
+    "concepts": [
+      "scalar product",
+      "vector product",
+      "cosine of the angle",
+      "magnitude",
+      "sine of the angle"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_5_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Multiplication of Vectors:",
+    "concepts": [
+      "scalar product",
+      "dot product",
+      "projection",
+      "magnitude",
+      "commutativity",
+      "distributivity"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH02_S2_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Multiplication of Vectors:",
+    "concepts": [
+      "scalar product (dot product)",
+      "work done",
+      "power"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_5_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Multiplication of Vectors:",
+    "concepts": [
+      "vector product",
+      "right hand screw rule",
+      "magnetic field"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH02_S2_5_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Multiplication of Vectors:",
+    "concepts": [
+      "commutative law",
+      "distributive law",
+      "special cases",
+      "zero vector"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_6_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Introduction to Calculus:",
+    "concepts": [
+      "differential calculus",
+      "integral calculus",
+      "G.W. Leibniz"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_6_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Introduction to Calculus:",
+    "concepts": [
+      "function",
+      "dependent variable",
+      "independent variable",
+      "derivative",
+      "rate of change",
+      "slope",
+      "tangent"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_6_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Introduction to Calculus:",
+    "concepts": [
+      "area under a curve",
+      "definite integral",
+      "antiderivative"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH02_S2_6_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "internet_task",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Mathematical Methods",
+    "section": "Introduction to Calculus:",
+    "concepts": [
+      "magnitude",
+      "direction",
+      "parallelism",
+      "orthogonality",
+      "vector addition",
+      "vector subtraction",
+      "scalar multiplication",
+      "parallelogram law",
+      "cross product",
+      "perpendicularity",
+      "derivative",
+      "quotient rule",
+      "integral calculus"
+    ]
+  }
+]

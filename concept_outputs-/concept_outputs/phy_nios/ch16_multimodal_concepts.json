@@ -1,0 +1,370 @@
+[
+  {
+    "resource_id": "TXT_12_CH16_X_001",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": null,
+    "concepts": [
+      "electric potential",
+      "positive charges",
+      "electric field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_X_002",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": null,
+    "concepts": [
+      "electric potential",
+      "capacitance",
+      "electrical energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_1_001",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "LECTRIC POTENTIAL AND POTENTIAL DIFFERENCE",
+    "concepts": [
+      "potential energy",
+      "electric field",
+      "scalar potential",
+      "work done",
+      "electrolyte",
+      "volt",
+      "voltaic cell",
+      "battery"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_1_002",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "LECTRIC POTENTIAL AND POTENTIAL DIFFERENCE",
+    "concepts": [
+      "electric potential",
+      "point charge",
+      "distance",
+      "potential difference",
+      "inverse proportionality",
+      "scalar sum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_1_003",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "LECTRIC POTENTIAL AND POTENTIAL DIFFERENCE",
+    "concepts": [
+      "potential difference",
+      "electric dipole",
+      "angular momentum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_1_004",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "LECTRIC POTENTIAL AND POTENTIAL DIFFERENCE",
+    "concepts": [
+      "electric potential energy",
+      "work done",
+      "assembly of charges",
+      "mutual interactions",
+      "point charges",
+      "potential difference",
+      "permittivity of free space"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_2_001",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "RELATION BETWEEN ELECTRIC FIELD AND POTENTIAL",
+    "concepts": [
+      "electric field",
+      "potential difference",
+      "work"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH16_S16_2_001",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "RELATION BETWEEN ELECTRIC FIELD AND POTENTIAL",
+    "concepts": [
+      "work done",
+      "electric potential difference",
+      "electrical work"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH16_S16_2_002",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "RELATION BETWEEN ELECTRIC FIELD AND POTENTIAL",
+    "concepts": [
+      "electric potential",
+      "electric field",
+      "point charge"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_2_002",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "RELATION BETWEEN ELECTRIC FIELD AND POTENTIAL",
+    "concepts": [
+      "electrostatic equilibrium",
+      "free electrons",
+      "external electric field",
+      "accumulation on surface",
+      "positive charge",
+      "conductor",
+      "electric field inside conductor",
+      "electrostatic shielding"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_3_001",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "CAPACITANCE",
+    "concepts": [
+      "capacitance",
+      "charge",
+      "potential difference",
+      "farads",
+      "microfarads",
+      "picofarads"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_3_002",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "CAPACITANCE",
+    "concepts": [
+      "capacitance",
+      "radius",
+      "proportionality"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_3_003",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "CAPACITANCE",
+    "concepts": [
+      "capacitance",
+      "dielectric material",
+      "parallel plate capacitor"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_3_004",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "CAPACITANCE",
+    "concepts": [
+      "dielectric constant",
+      "relative permittivity",
+      "capacitance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_4_001",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "GROUPING OF CAPACITORS",
+    "concepts": [
+      "capacitance",
+      "equivalent capacitance",
+      "flexibility"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_4_002",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "GROUPING OF CAPACITORS",
+    "concepts": [
+      "potential difference",
+      "capacitance",
+      "equivalent capacitance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_4_003",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "GROUPING OF CAPACITORS",
+    "concepts": [
+      "series grouping of capacitors",
+      "potential difference across each capacitor",
+      "equivalent capacitance",
+      "reciprocal of the sum of reciprocals"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH16_S16_4_001",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "GROUPING OF CAPACITORS",
+    "concepts": [
+      "effective capacitance",
+      "series combination of capacitors",
+      "dielectric"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_4_004",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "GROUPING OF CAPACITORS",
+    "concepts": [
+      "electrostatic potential energy",
+      "capacitance",
+      "charge"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_5_001",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "DIELECTRICS AND DIELECTRIC POLARIZATION",
+    "concepts": [
+      "dielectrics",
+      "polarization",
+      "electric field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_5_002",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "DIELECTRICS AND DIELECTRIC POLARIZATION",
+    "concepts": [
+      "effective capacitance",
+      "charge on each capacitor",
+      "potential difference across each one",
+      "dielectric constant",
+      "equivalent capacitance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_5_003",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "DIELECTRICS AND DIELECTRIC POLARIZATION",
+    "concepts": [
+      "electric potential",
+      "capacitance",
+      "dielectric polarization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_5_004",
+    "document_id": "NIOS_PHY_CH16",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Electric Potential And Capacitors",
+    "section": "DIELECTRICS AND DIELECTRIC POLARIZATION",
+    "concepts": [
+      "capacitance",
+      "equivalent capacitance",
+      "parallel circuit"
+    ]
+  }
+]

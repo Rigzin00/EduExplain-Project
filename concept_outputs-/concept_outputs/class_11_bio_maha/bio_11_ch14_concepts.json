@@ -1,0 +1,275 @@
+[
+  {
+    "resource_id": "RCL_11_CH14_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Human Nutrition",
+    "section": null,
+    "concepts": [
+      "nutrition",
+      "dietary needs",
+      "digestion",
+      "assimilation",
+      "digestive system"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Human Nutrition",
+    "section": "Human Digestive System : Digestive system of man consists of alimentary canal and associated digestive glands.",
+    "concepts": [
+      "digestive system",
+      "mouth",
+      "teeth",
+      "incisors",
+      "canines",
+      "premolars",
+      "molars"
+    ]
+  },
+  {
+    "resource_id": "ACT_11_CH14_S14_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Human Nutrition",
+    "section": "Human Digestive System : Digestive system of man consists of alimentary canal and associated digestive glands.",
+    "concepts": [
+      "teeth",
+      "dentition",
+      "tongue"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH14_S14_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Human Nutrition",
+    "section": "Human Digestive System : Digestive system of man consists of alimentary canal and associated digestive glands.",
+    "concepts": [
+      "pharynx",
+      "trachea",
+      "epiglottis",
+      "gullet",
+      "oesophagus",
+      "cardiac sphincter",
+      "fundus"
+    ]
+  },
+  {
+    "resource_id": "ACT_11_CH14_S14_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Human Nutrition",
+    "section": "Histological structure of alimentary",
+    "concepts": [
+      "goblet cells",
+      "mucus secretion",
+      "rugae formation",
+      "gastric glands",
+      "microvilli",
+      "villi",
+      "absorption enhancement"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S12_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Human Nutrition",
+    "section": "Digestive Glands:",
+    "concepts": [
+      "digestive glands",
+      "saliva",
+      "amylase",
+      "mucus",
+      "lubrication",
+      "pancreatic juice",
+      "digestion"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S12_4_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Human Nutrition",
+    "section": "Physiology of digestion:",
+    "concepts": [
+      "mechanical churning",
+      "chemical digestion",
+      "enzymes",
+      "saliva",
+      "carbohydrates",
+      "proteins"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH14_S12_4_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Human Nutrition",
+    "section": "Physiology of digestion:",
+    "concepts": [
+      "ghrelin",
+      "pancreatic juice",
+      "digestion",
+      "amylase",
+      "starch",
+      "disaccharide",
+      "lipase",
+      "fatty acid",
+      "monoglyceride",
+      "trypsin",
+      "enterokinase",
+      "protein",
+      "polypeptide",
+      "chymotrypsin",
+      "dipeptide",
+      "nucleic acid",
+      "pentose sugar",
+      "nitrogenous base",
+      "dipeptidase",
+      "protease",
+      "peptone",
+      "chymotrypsinogen",
+      "active chymotrypsin",
+      "sugar",
+      "monosaccharide"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH14_S12_4_002",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Human Nutrition",
+    "section": "Physiology of digestion:",
+    "concepts": [
+      "pancreatitis",
+      "alcoholism",
+      "chronic gallstones"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_5_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Human Nutrition",
+    "section": "Absorption, assimilation and egestion:",
+    "concepts": [
+      "absorption",
+      "digestion",
+      "alimentary canal",
+      "bloodstream",
+      "lymphatic system",
+      "villi",
+      "lacteals",
+      "lipids",
+      "fat-soluble vitamins"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH14_S14_5_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Human Nutrition",
+    "section": "Absorption, assimilation and egestion:",
+    "concepts": [
+      "calorie",
+      "gross calorific value",
+      "physiological value"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_6_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Human Nutrition",
+    "section": "Nutritional disorders and disorders of digestive system :",
+    "concepts": [
+      "protein energy malnutrition",
+      "kwaishorkar",
+      "marasmus",
+      "indigestion",
+      "constipation",
+      "diarrhea",
+      "jaundice",
+      "vomiting"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH14_S14_6_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Human Nutrition",
+    "section": "Nutritional disorders and disorders of digestive system :",
+    "concepts": [
+      "steatosis",
+      "alcoholic hepatitis",
+      "fibrosis",
+      "cirrhosis",
+      "cytochrome C",
+      "mitochondria",
+      "potato",
+      "legumes",
+      "milk",
+      "neera"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH14_S14_6_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Human Nutrition",
+    "section": "Nutritional disorders and disorders of digestive system :",
+    "concepts": [
+      "digestive system",
+      "pancreas",
+      "heterocrine nature",
+      "histological structure",
+      "pH scale"
+    ]
+  }
+]

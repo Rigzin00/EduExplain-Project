@@ -1,0 +1,311 @@
+[
+  {
+    "resource_id": "TXT_12_CH20_X_001",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": null,
+    "concepts": [
+      "diatomic molecules",
+      "reactivity",
+      "bonding patterns"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_X_002",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "conversion of light energy",
+      "chemical energy",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts",
+      "plant cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_1_001",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "SOME CHARACTERISTIC PROPERTIES OF THE ELEMENTS OF GROUP 16",
+    "concepts": [
+      "non-metallic",
+      "metallic",
+      "semiconductor",
+      "di-valent ion",
+      "covalent bond",
+      "4-valent cation",
+      "O₂ molecule",
+      "respiration",
+      "combustion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_2_001",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "OXYGEN AND SULPHUR",
+    "concepts": [
+      "ozone",
+      "ultraviolet radiation",
+      "sulfuric acid",
+      "fertilizers",
+      "oil refining",
+      "battery production"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_2_002",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "OXYGEN AND SULPHUR",
+    "concepts": [
+      "acidic",
+      "basic",
+      "amphoteric"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_3_001",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "OZONE",
+    "concepts": [
+      "allotrope",
+      "ozone",
+      "V-shaped molecule",
+      "sp² hybrid orbitals",
+      "strong oxidizing properties",
+      "ozonides",
+      "hydrolysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_4_001",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "ALLOTROPIC FORMS OF SULPHUR",
+    "concepts": [
+      "solid sulfur",
+      "crystal structure",
+      "melting point"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_5_001",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "SULPHURIC ACID",
+    "concepts": [
+      "oxidation-reduction reaction",
+      "sulfur trioxide",
+      "concentration",
+      "dilution",
+      "high-purity sulfuric acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_6_001",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "SOME GENERAL CHARACTERISTICS PROPERTIES OF ELEMENTS OF GROUP 17",
+    "concepts": [
+      "non-metallic",
+      "metallic character",
+      "covalent bond",
+      "octet rule",
+      "fluoride",
+      "chloride"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_7_001",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "FLUORINE AND CHLORINE",
+    "concepts": [
+      "electronegativity",
+      "fluoride",
+      "chloride",
+      "oxidation",
+      "fluorinated hydrocarbon",
+      "antiseptic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_7_002",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "FLUORINE AND CHLORINE",
+    "concepts": [
+      "hydrogen halides",
+      "covalent bond",
+      "aqueous solution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_7_003",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "FLUORINE AND CHLORINE",
+    "concepts": [
+      "fluorine-oxygen bonds",
+      "chlorine-oxygen bonding",
+      "oxidation states"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_7_004",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "FLUORINE AND CHLORINE",
+    "concepts": [
+      "chlorofluorocarbons (CFCs)",
+      "heat retention capacity",
+      "ozone layer",
+      "depletion",
+      "stratosphere",
+      "ozone hole"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_7_005",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "FLUORINE AND CHLORINE",
+    "concepts": [
+      "interhalogen compound",
+      "halogen reaction",
+      "Cl_2 + F_2 -> CIF",
+      "F_2 + Cl_2 -> CIF_3",
+      "IF_5 synthesis",
+      "IF_7 synthesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_8_001",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "THE NOBLE GASES",
+    "concepts": [
+      "closed shell configuration",
+      "ls<sup>2</sup>",
+      "unique properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_9_001",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "COMPOUNDS OF NOBLE GASES",
+    "concepts": [
+      "noble gases",
+      "full outer electron shell",
+      "unreactive",
+      "stable electronic configuration",
+      "XeF₂",
+      "XeF₄",
+      "XeF₆"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_9_002",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "COMPOUNDS OF NOBLE GASES",
+    "concepts": [
+      "reactivity trends",
+      "bonding patterns",
+      "electronic configurations"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_9_003",
+    "document_id": "NIOS_CHEM_CH20",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Objectives",
+    "section": "COMPOUNDS OF NOBLE GASES",
+    "concepts": [
+      "reactivity",
+      "amphotericity",
+      "oxygen bonding"
+    ]
+  }
+]

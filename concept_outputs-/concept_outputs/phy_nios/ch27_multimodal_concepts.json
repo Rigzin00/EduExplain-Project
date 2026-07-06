@@ -1,0 +1,287 @@
+[
+  {
+    "resource_id": "TXT_12_CH27_X_001",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": null,
+    "concepts": [
+      "nuclear fission",
+      "fusion",
+      "energy",
+      "hydrogen",
+      "helium",
+      "reactors",
+      "electricity",
+      "sun",
+      "stars",
+      "fission"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_1_001",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "CHEMICAL AND NUCLEAR REACTIONS",
+    "concepts": [
+      "chemical reaction",
+      "binding energy",
+      "exothermic",
+      "endothermic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_1_002",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "CHEMICAL AND NUCLEAR REACTIONS",
+    "concepts": [
+      "nuclear reactions",
+      "atomic nuclei",
+      "transmutation",
+      "Coulomb barrier",
+      "Lord Rutherford",
+      "alpha particles",
+      "nitrogen",
+      "oxygen",
+      "protons"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S1_2_001",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "MeV energy is supplied from outside. Therefore, it is an endothermic nuclear reaction. When aluminium is bombarded by 7.7 M eV alpha particles from polonium, the following nuclear reaction takes place and 10.7 MeV energy is released:",
+    "concepts": [
+      "endothermic",
+      "nuclear reaction",
+      "aluminium",
+      "alpha particles",
+      "helium",
+      "energy release",
+      "proton",
+      "deutron",
+      "neutron"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S1_2_002",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "MeV energy is supplied from outside. Therefore, it is an endothermic nuclear reaction. When aluminium is bombarded by 7.7 M eV alpha particles from polonium, the following nuclear reaction takes place and 10.7 MeV energy is released:",
+    "concepts": [
+      "mass conservation",
+      "nuclear reaction",
+      "energy release"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_2_001",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "NUCLEAR FISSION",
+    "concepts": [
+      "nuclear fission",
+      "beta decay",
+      "barium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_2_002",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "NUCLEAR FISSION",
+    "concepts": [
+      "nuclear fission",
+      "neutron capture",
+      "thermal neutron",
+      "spherical shape",
+      "dumbbell shape",
+      "surface tension",
+      "Coulomb forces",
+      "energy gain",
+      "significant amount of energy",
+      "approximate value",
+      "mechanism of nuclear fission"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_2_003",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "NUCLEAR FISSION",
+    "concepts": [
+      "nuclear chain reaction",
+      "neutrons",
+      "fission",
+      "thermal power reactors",
+      "fast breeder research reactor"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_3_001",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "NUCLEAR REACTOR",
+    "concepts": [
+      "nuclear reactor",
+      "fission",
+      "fusion",
+      "coolant",
+      "turbine-generator system",
+      "heat",
+      "steam",
+      "greenhouse gas emissions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_4_001",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "NUCLEAR FUSION",
+    "concepts": [
+      "nuclear fusion",
+      "binding energy per nucleon",
+      "deuterium-deuterium fusion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_4_002",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "NUCLEAR FUSION",
+    "concepts": [
+      "nuclear fusion",
+      "thermonuclear reactions",
+      "hydrogen nuclei",
+      "helium",
+      "sun's core",
+      "extreme temperatures and pressures"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_5_001",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "NUCLEAR ENERGY",
+    "concepts": [
+      "nuclear energy",
+      "alternative energy sources",
+      "sustainable limits"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_5_002",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "NUCLEAR ENERGY",
+    "concepts": [
+      "nuclear fission",
+      "spent fuel",
+      "specialized treatment and disposal",
+      "isotopes",
+      "energy mix",
+      "nuclear capacity",
+      "20 GWe",
+      "25%"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_5_003",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "NUCLEAR ENERGY",
+    "concepts": [
+      "nuclear radiations",
+      "cancer",
+      "sterility",
+      "severe burns",
+      "genetic disruptions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_5_004",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "NUCLEAR ENERGY",
+    "concepts": [
+      "alpha decay",
+      "beta decay",
+      "nuclear radiations"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH27_S27_5_005",
+    "document_id": "NIOS_PHY_CH27",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 27,
+    "chapter_title": "Nuclear Fission And Fusion",
+    "section": "NUCLEAR ENERGY",
+    "concepts": [
+      "atomic structure",
+      "radioactivity",
+      "nuclear reactions"
+    ]
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "resource_id": "TXT_12_CH19_X_001",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": null,
+    "concepts": [
+      "reproduction",
+      "offspring",
+      "species",
+      "continuity",
+      "dead members"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_1_001",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "MODES OF REPRODUCTION",
+    "concepts": [
+      "sexual reproduction",
+      "haploid gametes",
+      "diploid zygote"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_1_002",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "MODES OF REPRODUCTION",
+    "concepts": [
+      "apomixis",
+      "seeds",
+      "ovules",
+      "genetic continuity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_2_001",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "REPRODUCTION IN LOWER PLANTS",
+    "concepts": [
+      "binary fission",
+      "zygospore",
+      "fragmentation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_2_002",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "REPRODUCTION IN LOWER PLANTS",
+    "concepts": [
+      "zoospores",
+      "haploid",
+      "diploid",
+      "gamete",
+      "meiosis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_2_003",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "REPRODUCTION IN LOWER PLANTS",
+    "concepts": [
+      "fragmentation",
+      "scalariform conjugation",
+      "lateral conjugation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_3_001",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "REPRODUCTION IN ANGIOSPERMS (FLOWERING PLANTS)",
+    "concepts": [
+      "sexual reproduction",
+      "flowering plants",
+      "life cycle stages"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_4_001",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "STAMEN, MICROSPORANGIA AND POLLEN GRAIN",
+    "concepts": [
+      "microsporangium",
+      "meiosis",
+      "pollen grain",
+      "megaspore mother cell",
+      "embryo sac"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_4_002",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "STAMEN, MICROSPORANGIA AND POLLEN GRAIN",
+    "concepts": [
+      "pollen grain",
+      "stigma",
+      "anther",
+      "cross-pollination",
+      "wind pollination",
+      "insects",
+      "water",
+      "animals"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_4_003",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "STAMEN, MICROSPORANGIA AND POLLEN GRAIN",
+    "concepts": [
+      "endosperm",
+      "zygote",
+      "embryo"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_4_004",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "STAMEN, MICROSPORANGIA AND POLLEN GRAIN",
+    "concepts": [
+      "polyembryony",
+      "zygote",
+      "embryogenesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_4_005",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "STAMEN, MICROSPORANGIA AND POLLEN GRAIN",
+    "concepts": [
+      "seed",
+      "embryo plant",
+      "nutrients",
+      "early growth",
+      "germination",
+      "plant reproduction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_4_006",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "STAMEN, MICROSPORANGIA AND POLLEN GRAIN",
+    "concepts": [
+      "fruit development",
+      "edible variation",
+      "parthenocarpic fruit"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_4_007",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "STAMEN, MICROSPORANGIA AND POLLEN GRAIN",
+    "concepts": [
+      "dormancy",
+      "germination",
+      "seedling"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_5_001",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "VEGETATIVE REPRODUCTION IN ANGIOSPERMS",
+    "concepts": [
+      "vegetative reproduction",
+      "genetic similarity",
+      "specialized functions",
+      "adaptation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_6_001",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "ARTIFICIAL METHODS",
+    "concepts": [
+      "artificial vegetative propagation",
+      "cuttings",
+      "stem segments",
+      "water",
+      "rooting",
+      "layering",
+      "branch",
+      "buried",
+      "scion",
+      "stock",
+      "fruit",
+      "flowers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_7_001",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "ADVANTAGES AND DISADVANTAGES OF VEGETATIVE REPRODUCTION",
+    "concepts": [
+      "sexual reproduction",
+      "asexual reproduction",
+      "genetic diversity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_8_001",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "THE MICROPROPAGATION",
+    "concepts": [
+      "sterile environment",
+      "nutrient medium",
+      "callus formation",
+      "plantlet differentiation",
+      "specialized hormone"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_8_002",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "THE MICROPROPAGATION",
+    "concepts": [
+      "mitosis",
+      "chloroplast",
+      "transpiration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_8_003",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "THE MICROPROPAGATION",
+    "concepts": [
+      "reproduction",
+      "offspring",
+      "continuation",
+      "species",
+      "heredity",
+      "genetic traits",
+      "parent-offspring relationship"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH19_S19_8_004",
+    "document_id": "NIOS_BIO_CH19",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 19,
+    "chapter_title": "Reproduction In Plants",
+    "section": "THE MICROPROPAGATION",
+    "concepts": [
+      "biennial plants",
+      "perennials",
+      "seed coat",
+      "endosperm",
+      "cotyledons"
+    ]
+  }
+]

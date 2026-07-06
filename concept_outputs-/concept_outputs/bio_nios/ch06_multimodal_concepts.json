@@ -1,0 +1,208 @@
+[
+  {
+    "resource_id": "TXT_12_CH06_X_001",
+    "document_id": "NIOS_BIO_CH06",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Root System",
+    "section": null,
+    "concepts": [
+      "root system",
+      "radicle",
+      "germination",
+      "tap root",
+      "lateral branches",
+      "complex network",
+      "water absorption",
+      "mineral salts",
+      "transportation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_X_002",
+    "document_id": "NIOS_BIO_CH06",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Root System",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_1_001",
+    "document_id": "NIOS_BIO_CH06",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Root System",
+    "section": "CHARACTERISTICS OF ROOTS",
+    "concepts": [
+      "diverse forms",
+      "taproots",
+      "fibrous roots",
+      "water and nutrient absorption",
+      "anchoring plants",
+      "absorbing water and minerals",
+      "storing nutrients"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_2_001",
+    "document_id": "NIOS_BIO_CH06",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Root System",
+    "section": "TYPES OF ROOT SYSTEMS",
+    "concepts": [
+      "taproot system",
+      "fibrous root system",
+      "main primary root"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_4_001",
+    "document_id": "NIOS_BIO_CH06",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Root System",
+    "section": "REGIONS OF ROOT",
+    "concepts": [
+      "root cap",
+      "quiescent center",
+      "meristematic zone",
+      "elongation zone",
+      "maturation zone",
+      "dermatogen",
+      "epidermis",
+      "plerome",
+      "water absorption",
+      "mineral salts"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_5_001",
+    "document_id": "NIOS_BIO_CH06",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Root System",
+    "section": "MODIFICATIONS OF ROOTS",
+    "concepts": [
+      "fleshy tap root",
+      "adventitious root adaptation",
+      "epiphytic orchid aerial roots",
+      "pneumatophores",
+      "haustoria"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_6_001",
+    "document_id": "NIOS_BIO_CH06",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Root System",
+    "section": "FUNCTIONS OF ROOTS",
+    "concepts": [
+      "storage roots",
+      "aerenchymatous roots",
+      "velamen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_7_001",
+    "document_id": "NIOS_BIO_CH06",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Root System",
+    "section": "PRIMARY STRUCTURE OF ROOTS",
+    "concepts": [
+      "endodermis",
+      "casparian strips",
+      "passage cells",
+      "xylem patches",
+      "diarch to hexarch pattern"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_8_001",
+    "document_id": "NIOS_BIO_CH06",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Root System",
+    "section": "ORIGIN OF LATERAL ROOTS",
+    "concepts": [
+      "dermatogen",
+      "periblem",
+      "plerome"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_9_001",
+    "document_id": "NIOS_BIO_CH06",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Root System",
+    "section": "SECONDARY GROWTH IN DICOT ROOTS",
+    "concepts": [
+      "secondary growth",
+      "vascular cambium",
+      "cork cambium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_9_002",
+    "document_id": "NIOS_BIO_CH06",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Root System",
+    "section": "SECONDARY GROWTH IN DICOT ROOTS",
+    "concepts": [
+      "taproots",
+      "fibrous roots",
+      "tubers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_9_003",
+    "document_id": "NIOS_BIO_CH06",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Root System",
+    "section": "SECONDARY GROWTH IN DICOT ROOTS",
+    "concepts": [
+      "secondary growth in dicot roots",
+      "absorption",
+      "photosynthesis"
+    ]
+  }
+]

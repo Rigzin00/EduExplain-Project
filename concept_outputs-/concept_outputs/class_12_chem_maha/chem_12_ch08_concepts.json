@@ -1,0 +1,761 @@
+[
+  {
+    "resource_id": "TXT_12_CH08_X_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": null,
+    "concepts": [
+      "d-block",
+      "f-block",
+      "electronic configurations",
+      "chemical properties",
+      "unique characteristics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_1_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Introduction",
+    "concepts": [
+      "transition_elements",
+      "unfilled_d-orbitals",
+      "unique_properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Position in the periodic table",
+    "concepts": [
+      "electropositivity",
+      "reactivity",
+      "periodic table"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Electronic configuration",
+    "concepts": [
+      "electronicconfiguration",
+      "transitionelement",
+      "cadmium",
+      "mercury"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_3_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Electronic configuration",
+    "concepts": [
+      "electronic configuration",
+      "stability",
+      "subshells"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Electronic configuration",
+    "concepts": [
+      "outer electronic configuration",
+      "oxidation states",
+      "electronic configuration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Oxidation states of first transition series",
+    "concepts": [
+      "oxidation states",
+      "transition elements",
+      "d-orbitals"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Oxidation states of first transition series",
+    "concepts": [
+      "oxidation states",
+      "transition elements",
+      "electronic configuration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Trends in atomic properties of the first transition series",
+    "concepts": [
+      "atomic radii",
+      "effective nuclear charge",
+      "d-electrons",
+      "screening effect",
+      "trends",
+      "oxidation states",
+      "ionic radii"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Trends in atomic properties of the first transition series",
+    "concepts": [
+      "ionization enthalpies",
+      "shielding effect",
+      "nuclear attraction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Trends in atomic properties of the first transition series",
+    "concepts": [
+      "metallic character",
+      "covalent bonds",
+      "atomic properties"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Trends in atomic properties of the first transition series",
+    "concepts": [
+      "paramagnetism",
+      "ferromagnetism",
+      "unpaired electrons"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_6_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Trends in atomic properties of the first transition series",
+    "concepts": [
+      "atomic properties",
+      "magnetic moments",
+      "calculated values",
+      "experimental values",
+      "spin-only magnetic moment",
+      "orbital angular moment"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_6_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Trends in atomic properties of the first transition series",
+    "concepts": [
+      "colour",
+      "absorption",
+      "visible light",
+      "covalent bonds",
+      "transition metals",
+      "unpaired electrons",
+      "d orbitals",
+      "complexes",
+      "metal ions",
+      "ligands",
+      "solvent molecules",
+      "energy levels",
+      "wavelengths",
+      "complementary colors"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH08_S8_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Trends in atomic properties of the first transition series",
+    "concepts": [
+      "colour",
+      "transition metal ions",
+      "charge transfer"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Trends in atomic properties of the first transition series",
+    "concepts": [
+      "catalytic properties",
+      "homogeneous catalysis",
+      "heterogeneous catalysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Trends in atomic properties of the first transition series",
+    "concepts": [
+      "interstitial compounds",
+      "carbon acting as an interstitial element",
+      "steel and cast iron"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_6_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Trends in atomic properties of the first transition series",
+    "concepts": [
+      "alloy formation",
+      "atomic properties",
+      "transition metals"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Compounds of Mn and Cr (KMnO_4 and K,Cr,O_7)",
+    "concepts": [
+      "oxidizing agent",
+      "redox reaction",
+      "qualitative analysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_7_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Compounds of Mn and Cr (KMnO_4 and K,Cr,O_7)",
+    "concepts": [
+      "oxidation-reduction reaction",
+      "electrolysis",
+      "disproportionation",
+      "potassium permanganate"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_7_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Compounds of Mn and Cr (KMnO_4 and K,Cr,O_7)",
+    "concepts": [
+      "redox reaction",
+      "oxidation-reduction process",
+      "manganese(II)",
+      "iron(III)",
+      "sulfur"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_7_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Compounds of Mn and Cr (KMnO_4 and K,Cr,O_7)",
+    "concepts": [
+      "reduction",
+      "oxidation",
+      "reverbatory furnace",
+      "sodium chromate",
+      "acid treatment",
+      "potassium dichromate",
+      "precipitation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_7_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Compounds of Mn and Cr (KMnO_4 and K,Cr,O_7)",
+    "concepts": [
+      "oxidation",
+      "reduction",
+      "redox reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Common properties of d block elements",
+    "concepts": [
+      "catalytic properties",
+      "d-block elements",
+      "oxidation states"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Extraction of metals",
+    "concepts": [
+      "metals",
+      "mineral",
+      "ore",
+      "extraction"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH08_S8_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Extraction of metals",
+    "concepts": [
+      "concentration",
+      "gangue",
+      "ore"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH08_S8_9_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Extraction of metals",
+    "concepts": [
+      "iron",
+      "haematite ore",
+      "blast furnace"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH08_S8_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Extraction of metals",
+    "concepts": [
+      "oxygen",
+      "silicon",
+      "aluminium",
+      "iron",
+      "hematite",
+      "coking",
+      "limestone",
+      "carbon",
+      "carbon monoxide",
+      "flux",
+      "gangue",
+      "molten slag",
+      "blast furnace",
+      "counter current principle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S0_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "to 2%",
+    "concepts": [
+      "carbon",
+      "atmosphere",
+      "chemical properties",
+      "manufacturing",
+      "pipes",
+      "buildings",
+      "automotive parts",
+      "tools",
+      "weapons",
+      "strong and durable materials"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH08_S0_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "to 2%",
+    "concepts": [
+      "ferromagnetism",
+      "magnetism",
+      "transition elements"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_10_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Inner Transition (f-block) Elements: Lanthanoids and Actinoids: Elements whose f orbitals get filled up by electrons, are called f block elements. These elements are placed separately at the bottom of the periodic table. They are a subset of 6th and 7th periods.",
+    "concepts": [
+      "inner transition elements",
+      "lanthanoids",
+      "actinoids"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH08_S8_10_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Inner Transition (f-block) Elements: Lanthanoids and Actinoids: Elements whose f orbitals get filled up by electrons, are called f block elements. These elements are placed separately at the bottom of the periodic table. They are a subset of 6th and 7th periods.",
+    "concepts": [
+      "periodic table",
+      "elements filling f-orbitals",
+      "Seaborg's proposal"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_11_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Properties of f-block elements",
+    "concepts": [
+      "soft",
+      "dense",
+      "metals",
+      "high melting",
+      "boiling points",
+      "reactivity",
+      "water",
+      "metal hydroxides",
+      "hydrogen gas",
+      "lanthanoids",
+      "atomic numbers",
+      "melting",
+      "alkali",
+      "alkaline earth metals",
+      "reactive",
+      "europium",
+      "ytterbium",
+      "stable forms",
+      "oxidation state",
+      "+3",
+      "+2",
+      "ionization radius",
+      "ionic radii",
+      "decrease",
+      "coordination number",
+      "basicity",
+      "hydroxides",
+      "lanthan"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_12_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Properties of Lanthanoids",
+    "concepts": [
+      "electronic configuration",
+      "lanthanoids",
+      "gradual filling of f-orbitals",
+      "variable occupancy in 4f orbitals"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH08_S8_12_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Properties of Lanthanoids",
+    "concepts": [
+      "electronic configuration",
+      "ionization enthalpy",
+      "unpaired electrons"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_12_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Properties of Lanthanoids",
+    "concepts": [
+      "oxidation state",
+      "electron configuration",
+      "lanthanoid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_12_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Properties of Lanthanoids",
+    "concepts": [
+      "color",
+      "f-electrons",
+      "lanthanides"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_12_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Properties of Lanthanoids",
+    "concepts": [
+      "lanthanoid contraction",
+      "atomic radius",
+      "ionic radius"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_13_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Applications",
+    "concepts": [
+      "lanthanoid compounds",
+      "visible light emission",
+      "color television",
+      "computer screens",
+      "Eu,Y₂O₃",
+      "distinct colors",
+      "optoelectronics",
+      "Nd:YAG lasers",
+      "erbium-doped fiber amplifiers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_14_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Actinoids: The last row of elements in the periodic table is the actinoid series. It begins at thorium (Z = 72) and ends at lawrencium (Z=103). Most of these elements are not found in nature. They are all radioactive and man-made. The half-lives of the isotopes of thorium (Th-232=1.4 x 10^{10} years) and uranium (U-238=4.5 x 10&lt;sup&gt;9&lt;/sup&gt; years) are so long that these elements exist in rocks on earth. The long lived isotopes such as thorium, protactinium, uranium, neptunium, plutonium and americium, are studied in more details. These elements have high densities (~ 15-20 g cm&lt;sup&gt;-3&lt;/sup&gt;), high melting points (~1000 °C) and high boiling points (~3000 °C). Actinoids are less reactive than lanthanoids. For example, they react with hot, but not cold water to give the hydroxide and hydrogen gas. Unlike lanthanoids, they exhibit a range of oxidation numbers in their compounds which varies from +2 to +8. The most common oxidation numbers of the actinoids are shown in Fig. 8.7.",
+    "concepts": [
+      "oxidation state",
+      "electron configuration",
+      "chemical behavior"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH08_S8_14_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Actinoids: The last row of elements in the periodic table is the actinoid series. It begins at thorium (Z = 72) and ends at lawrencium (Z=103). Most of these elements are not found in nature. They are all radioactive and man-made. The half-lives of the isotopes of thorium (Th-232=1.4 x 10^{10} years) and uranium (U-238=4.5 x 10&lt;sup&gt;9&lt;/sup&gt; years) are so long that these elements exist in rocks on earth. The long lived isotopes such as thorium, protactinium, uranium, neptunium, plutonium and americium, are studied in more details. These elements have high densities (~ 15-20 g cm&lt;sup&gt;-3&lt;/sup&gt;), high melting points (~1000 °C) and high boiling points (~3000 °C). Actinoids are less reactive than lanthanoids. For example, they react with hot, but not cold water to give the hydroxide and hydrogen gas. Unlike lanthanoids, they exhibit a range of oxidation numbers in their compounds which varies from +2 to +8. The most common oxidation numbers of the actinoids are shown in Fig. 8.7.",
+    "concepts": [
+      "electronic configuration",
+      "oxidation number",
+      "formation of +6 oxidation state"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_15_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Properties of Actinoids",
+    "concepts": [
+      "actinoid contraction",
+      "+3 oxidation state",
+      "higher oxidation states"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH08_S8_16_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Applications of actinoids: We have seen that the half-lives of natural thorium and uranium isotopes are so long that we get very negligible radiation from these elements. We find them in everyday use. For example, Th(IV) oxide, ThO&lt;sub&gt;2&lt;/sub&gt; with 1% CeO&lt;sub&gt;2&lt;/sub&gt; was used as a major source of indoor lighting before incandescent lamps came into existence only because these oxides convert heat energy from burning natural gas to an intense light. Even today, there is a great demand for these lights for outdoor camping.",
+    "concepts": [
+      "half-life",
+      "radioactivity",
+      "lighting",
+      "nuclear reactor",
+      "ionization",
+      "ammonia",
+      "precipitation",
+      "complexes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_17_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Postactinoid elements: You have seen that elements with atomic number greater than 92 are called 'Transuranium'. Elements from atomic number 93 to 103 now are included in actinoid series and those from 104 to 118 are called as postactinoid elements. The postactinoid elements that are known so far are transition metals. They are included as postactinoids because similar to actinoid elements, they can be synthesized in the nuclear reactions. So far, nine postactinoid elements have been synthesized. It is difficult to study their chemistry owing their short half-lives. For example, element 112 has a half-life of only 2.8 x 10&lt;sup&gt;-4&lt;/sup&gt; seconds.",
+    "concepts": [
+      "postactinoid elements",
+      "transition metals",
+      "synthesis"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH08_S8_17_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Transition And Inner Transition Elements",
+    "section": "Postactinoid elements: You have seen that elements with atomic number greater than 92 are called 'Transuranium'. Elements from atomic number 93 to 103 now are included in actinoid series and those from 104 to 118 are called as postactinoid elements. The postactinoid elements that are known so far are transition metals. They are included as postactinoids because similar to actinoid elements, they can be synthesized in the nuclear reactions. So far, nine postactinoid elements have been synthesized. It is difficult to study their chemistry owing their short half-lives. For example, element 112 has a half-life of only 2.8 x 10&lt;sup&gt;-4&lt;/sup&gt; seconds.",
+    "concepts": [
+      "postactinoid elements",
+      "transition metals",
+      "nuclear reactions"
+    ]
+  }
+]

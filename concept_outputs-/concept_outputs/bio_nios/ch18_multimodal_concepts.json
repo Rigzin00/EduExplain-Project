@@ -1,0 +1,334 @@
+[
+  {
+    "resource_id": "TXT_12_CH18_X_001",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": null,
+    "concepts": [
+      "homeostasis",
+      "thermoregulation",
+      "nervous system",
+      "hormonal responses"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_1_001",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CONCEPT OF HOMEOSTASIS",
+    "concepts": [
+      "homeostasis",
+      "internal conditions",
+      "cellular function",
+      "chemical concentrations",
+      "temperature",
+      "pH"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH18_S18_1_001",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "example",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CONCEPT OF HOMEOSTASIS",
+    "concepts": [
+      "homeostasis",
+      "fluid balance",
+      "internal environment"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH18_S18_1_002",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "example",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CONCEPT OF HOMEOSTASIS",
+    "concepts": [
+      "glycogenesis",
+      "gluconeogenesis",
+      "homeostasis"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH18_S18_1_003",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "example",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CONCEPT OF HOMEOSTASIS",
+    "concepts": [
+      "homeostasis",
+      "renal mechanisms",
+      "sodium excretion"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH18_S18_1_004",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "example",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CONCEPT OF HOMEOSTASIS",
+    "concepts": [
+      "homeostasis",
+      "physiological adaptation",
+      "oxygen levels"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH18_S18_1_005",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "example",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CONCEPT OF HOMEOSTASIS",
+    "concepts": [
+      "thermoregulation",
+      "homeostasis",
+      "sweating",
+      "seeking shade",
+      "warming up",
+      "blankets"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_2_001",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "THERMOREGULATION — WHY IS IT NECESSARY?",
+    "concepts": [
+      "narrow temperature tolerance",
+      "enzyme function",
+      "optimal temperature range"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_2_002",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "THERMOREGULATION — WHY IS IT NECESSARY?",
+    "concepts": [
+      "enzymes",
+      "temperature",
+      "optimal conditions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_3_001",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CLASSIFICATION OF ANIMALS BASED ON THEIR TEMPERATURE TOLERANCE",
+    "concepts": [
+      "endotherm",
+      "ectotherm",
+      "metabolic process"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_3_002",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CLASSIFICATION OF ANIMALS BASED ON THEIR TEMPERATURE TOLERANCE",
+    "concepts": [
+      "dual insulation methods",
+      "hairs that trap air",
+      "subcutaneous fat",
+      "heat loss prevention",
+      "homeostasis",
+      "fat layer thickness",
+      "hair standing up"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_3_003",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CLASSIFICATION OF ANIMALS BASED ON THEIR TEMPERATURE TOLERANCE",
+    "concepts": [
+      "endotherm",
+      "hump",
+      "fat layer",
+      "energy reserves",
+      "seasonal changes",
+      "internal temperature",
+      "natural mechanisms"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_3_004",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "CLASSIFICATION OF ANIMALS BASED ON THEIR TEMPERATURE TOLERANCE",
+    "concepts": [
+      "endotherm",
+      "ectotherm",
+      "poikilotherm",
+      "homoiotherm"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_4_001",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "MECHANISM OF HOMEOSTASIS OF BODY TEMPERATURE (THERMOREGULATION) IN HUMANS",
+    "concepts": [
+      "set point",
+      "core body temperature",
+      "corrective mechanisms"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_4_002",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "MECHANISM OF HOMEOSTASIS OF BODY TEMPERATURE (THERMOREGULATION) IN HUMANS",
+    "concepts": [
+      "hypothalamus",
+      "thermostat",
+      "mechanism",
+      "heat loss",
+      "metabolic heat production",
+      "sweating",
+      "centrifugal force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_4_003",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "MECHANISM OF HOMEOSTASIS OF BODY TEMPERATURE (THERMOREGULATION) IN HUMANS",
+    "concepts": [
+      "homeostasis",
+      "body temperature",
+      "thermoregulation",
+      "physiological processes",
+      "Fig. 18.2"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_4_004",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "MECHANISM OF HOMEOSTASIS OF BODY TEMPERATURE (THERMOREGULATION) IN HUMANS",
+    "concepts": [
+      "homeostasis",
+      "physiological mechanism",
+      "behavioral mechanism",
+      "sensors",
+      "integrating center",
+      "effectors",
+      "set point"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_5_001",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "FEEDBACK MECHANISMS-NEGATIVE AND POSITIVE",
+    "concepts": [
+      "negative feedback",
+      "positive feedback",
+      "thermoregulation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_5_002",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "FEEDBACK MECHANISMS-NEGATIVE AND POSITIVE",
+    "concepts": [
+      "temperature range",
+      "homeostasis",
+      "biochemical reactions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_5_003",
+    "document_id": "NIOS_BIO_CH18",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "",
+    "section": "FEEDBACK MECHANISMS-NEGATIVE AND POSITIVE",
+    "concepts": [
+      "homeostasis",
+      "endotherm",
+      "ectotherm",
+      "sensor",
+      "integrating center",
+      "effector",
+      "honeybee",
+      "feedback loop",
+      "negative feedback"
+    ]
+  }
+]

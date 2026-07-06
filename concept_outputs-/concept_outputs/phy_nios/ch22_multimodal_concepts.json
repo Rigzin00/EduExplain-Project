@@ -1,0 +1,166 @@
+[
+  {
+    "resource_id": "TXT_12_CH22_X_001",
+    "document_id": "NIOS_PHY_CH22",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Wave Phenomena And Light",
+    "section": null,
+    "concepts": [
+      "wave nature of light",
+      "refraction",
+      "dispersion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_X_002",
+    "document_id": "NIOS_PHY_CH22",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Wave Phenomena And Light",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "chemical energy",
+      "oxygen balance",
+      "carbon dioxide balance",
+      "food production"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_1_001",
+    "document_id": "NIOS_PHY_CH22",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Wave Phenomena And Light",
+    "section": "HUYGENS' PRINCIPLE",
+    "concepts": [
+      "wavefront",
+      "Huygens' principle",
+      "primary and secondary wavefronts"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_1_002",
+    "document_id": "NIOS_PHY_CH22",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Wave Phenomena And Light",
+    "section": "HUYGENS' PRINCIPLE",
+    "concepts": [
+      "wavefronts",
+      "secondary wavelets",
+      "tangents"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_2_001",
+    "document_id": "NIOS_PHY_CH22",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Wave Phenomena And Light",
+    "section": "INTERFERENCE OF LIGHT",
+    "concepts": [
+      "interference",
+      "light waves",
+      "coherent sources",
+      "redistribution of light energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_2_002",
+    "document_id": "NIOS_PHY_CH22",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Wave Phenomena And Light",
+    "section": "INTERFERENCE OF LIGHT",
+    "concepts": [
+      "interference pattern",
+      "constructive interference",
+      "destructive interference",
+      "path difference",
+      "wavelength"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_3_001",
+    "document_id": "NIOS_PHY_CH22",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Wave Phenomena And Light",
+    "section": "DIFFRACTION OF LIGHT",
+    "concepts": [
+      "diffraction",
+      "light",
+      "wavelength"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_3_002",
+    "document_id": "NIOS_PHY_CH22",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Wave Phenomena And Light",
+    "section": "DIFFRACTION OF LIGHT",
+    "concepts": [
+      "constructive interference",
+      "destructive interference",
+      "path difference"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_4_001",
+    "document_id": "NIOS_PHY_CH22",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Wave Phenomena And Light",
+    "section": "POLARISATION OF LIGHT",
+    "concepts": [
+      "polarization",
+      "refraction",
+      "Brewster's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH22_S22_4_002",
+    "document_id": "NIOS_PHY_CH22",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 22,
+    "chapter_title": "Wave Phenomena And Light",
+    "section": "POLARISATION OF LIGHT",
+    "concepts": [
+      "laws of reflection",
+      "refraction",
+      "angle of incidence",
+      "emergence",
+      "images formed by mirrors",
+      "lenses",
+      "optical instruments",
+      "microscopes",
+      "telescopes"
+    ]
+  }
+]

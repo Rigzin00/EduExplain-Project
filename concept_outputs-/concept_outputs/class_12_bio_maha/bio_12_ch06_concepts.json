@@ -1,0 +1,297 @@
+[
+  {
+    "resource_id": "RCL_12_CH06_X_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": null,
+    "concepts": [
+      "water pump",
+      "plants lifting water",
+      "productivity",
+      "non-availability of water",
+      "elixer of life",
+      "turgidity",
+      "shape"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Properties of water:",
+    "concepts": [
+      "solvent",
+      "transportation",
+      "thermal buffer"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Water absorbing organ:",
+    "concepts": [
+      "epiphytic plants",
+      "velamen",
+      "root hairs"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Water available to roots for absorption:",
+    "concepts": [
+      "capillary water",
+      "rhizosphere",
+      "soil particles"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Absorption of water by roots from soil:",
+    "concepts": [
+      "imbibition",
+      "hydrophilic colloids",
+      "equilibrium"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH06_S6_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Absorption of water by roots from soil:",
+    "concepts": [
+      "diffusion",
+      "cell wall",
+      "plasma membrane"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH06_S6_4_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Absorption of water by roots from soil:",
+    "concepts": [
+      "diffusion",
+      "semipermeable membrane",
+      "cytoplasm",
+      "solvent",
+      "plasma membrane",
+      "osmosis",
+      "exosmosis",
+      "endosmosis",
+      "turgidity",
+      "turgor pressure",
+      "wall pressure",
+      "osmotic pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Water Potential (\\psi):",
+    "concepts": [
+      "water potential",
+      "osmosis",
+      "plasmodesmata"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Plasmolysis:",
+    "concepts": [
+      "plasmolysis",
+      "endo-osmosis",
+      "turgidity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Path of water across the root (i.e. from epiblema upto xylem in the stelar region):",
+    "concepts": [
+      "imbibition",
+      "diffusion",
+      "turgidity",
+      "osmotic potential",
+      "suction pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_8_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Mechanism of absorption of water:",
+    "concepts": [
+      "transpiration pull",
+      "diffusion potential gradient",
+      "ATP",
+      "active absorption",
+      "osmotic mechanism",
+      "non-osmotic mechanism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_9_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Translocation of water:",
+    "concepts": [
+      "root pressure",
+      "capillarity",
+      "cohesion-tension"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Transport of mineral ions:",
+    "concepts": [
+      "minerals",
+      "transportation",
+      "ionization"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH06_S6_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Transport of mineral ions:",
+    "concepts": [
+      "absorption",
+      "transpiration pull",
+      "diffusion",
+      "uptake",
+      "remobilization"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH06_S6_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Transport of mineral ions:",
+    "concepts": [
+      "transportation of minerals",
+      "ion transport",
+      "phosphorus transport",
+      "sulfur transport"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_11_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Transport of food:",
+    "concepts": [
+      "photosynthesis",
+      "transportation",
+      "phloem"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_12_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Transpiration:",
+    "concepts": [
+      "transpiration",
+      "cuticle",
+      "stomata",
+      "guttation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_13_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "Properties Of Water:",
+    "section": "Structure of stomatal apparatus:",
+    "concepts": [
+      "stomatal apparatus",
+      "guard cells",
+      "turgor pressure",
+      "endosmosis",
+      "exosmosis",
+      "transpiration"
+    ]
+  }
+]

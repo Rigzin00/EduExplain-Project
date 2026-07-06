@@ -1,0 +1,798 @@
+[
+  {
+    "resource_id": "TXT_12_CH01_X_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": null,
+    "concepts": [
+      "mole concept",
+      "stoichiometry",
+      "redox reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_X_002",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "chemical energy",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts",
+      "plant cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_1_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "SCOPE OF CHEMISTRY",
+    "concepts": [
+      "composition",
+      "properties",
+      "behavior"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_1_002",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "SCOPE OF CHEMISTRY",
+    "concepts": [
+      "gene therapy",
+      "vaccines",
+      "antibiotics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S11_2_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "Energy and the Environment",
+    "concepts": [
+      "energy",
+      "fossil fuels",
+      "solar energy",
+      "nuclear fission",
+      "nuclear fusion",
+      "environmental concerns",
+      "cleaner technologies"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S11_2_002",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "Energy and the Environment",
+    "concepts": [
+      "polymers",
+      "ceramics",
+      "liquid crystals"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S11_2_003",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "Energy and the Environment",
+    "concepts": [
+      "soil fertility",
+      "pest and disease management",
+      "weed control"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_2_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "PARTICULATE NATURE OF MATTER",
+    "concepts": [
+      "atom",
+      "parmanu",
+      "molecule"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_3_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "LAWS OF CHEMICAL COMBINATIONS",
+    "concepts": [
+      "law of conservation of mass",
+      "constant proportions of elements in compounds",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "DALTON'S ATOMIC THEORY",
+    "concepts": [
+      "atoms",
+      "elements",
+      "compounds"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_002",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "DALTON'S ATOMIC THEORY",
+    "concepts": [
+      "Dalton's atomic theory",
+      "mass conservation",
+      "constant proportions",
+      "law of multiple proportions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_003",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "DALTON'S ATOMIC THEORY",
+    "concepts": [
+      "atom",
+      "elementary particle",
+      "decomposition"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_004",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "DALTON'S ATOMIC THEORY",
+    "concepts": [
+      "molecule",
+      "chemical bonds",
+      "compound"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_4_005",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "DALTON'S ATOMIC THEORY",
+    "concepts": [
+      "elements",
+      "chemical symbols",
+      "elemental symbols"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_5_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "SI UNITS (REVISITED)",
+    "concepts": [
+      "International System of Units (SI units)",
+      "base units",
+      "prefixes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_6_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "RELATIONSHIP BETWEEN MASS AND NUMBER OF PARTICLES",
+    "concepts": [
+      "mass-number relationship",
+      "mole concept",
+      "atomic/molecular mass"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_7_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MOLE – A NUMBER UNIT",
+    "concepts": [
+      "mole concept",
+      "Avogadro's number",
+      "elementary entities"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_8_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "AVOGADRO'S CONSTANT",
+    "concepts": [
+      "mole concept",
+      "Avogadro's constant",
+      "elementary entities"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_9_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MOLE, MASS AND NUMBER RELATIONSHIPS",
+    "concepts": [
+      "mole concept",
+      "atomic mass scale",
+      "mass of one mole"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_9_002",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MOLE, MASS AND NUMBER RELATIONSHIPS",
+    "concepts": [
+      "atomic mass unit",
+      "carbon-12 atom",
+      "mass of one C-12 atom"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_9_003",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MOLE, MASS AND NUMBER RELATIONSHIPS",
+    "concepts": [
+      "atomic mass scale",
+      "relative atomic and molecular masses",
+      "dimensionless values"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_9_004",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MOLE, MASS AND NUMBER RELATIONSHIPS",
+    "concepts": [
+      "atomic mass unit",
+      "relative atomic mass",
+      "atomic mass",
+      "molecular mass",
+      "formula mass",
+      "mass spectrometry"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_9_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MOLE, MASS AND NUMBER RELATIONSHIPS",
+    "concepts": [
+      "molecular mass",
+      "atomic masses",
+      "summing"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_9_002",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MOLE, MASS AND NUMBER RELATIONSHIPS",
+    "concepts": [
+      "formula mass",
+      "atomic masses",
+      "ionic masses",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_9_005",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MOLE, MASS AND NUMBER RELATIONSHIPS",
+    "concepts": [
+      "molar mass",
+      "elementary entities",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_9_003",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MOLE, MASS AND NUMBER RELATIONSHIPS",
+    "concepts": [
+      "mole concept",
+      "mass relationship",
+      "number relationship"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_9_004",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MOLE, MASS AND NUMBER RELATIONSHIPS",
+    "concepts": [
+      "mole concept",
+      "Avogadro's number",
+      "mass of carbon-12 atoms"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_9_005",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MOLE, MASS AND NUMBER RELATIONSHIPS",
+    "concepts": [
+      "mole concept",
+      "mass-to-number relationship",
+      "number of molecules"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_9_006",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MOLE, MASS AND NUMBER RELATIONSHIPS",
+    "concepts": [
+      "mole concept",
+      "Avogadro's number",
+      "molar mass"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_10_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MASS, MOLAR MASS AND NUMBER OF MOLES",
+    "concepts": [
+      "mass",
+      "molar mass",
+      "number of moles"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_10_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MASS, MOLAR MASS AND NUMBER OF MOLES",
+    "concepts": [
+      "mole concept",
+      "mass conversion",
+      "chemical reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_11_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MOLAR VOLUME, V_m",
+    "concepts": [
+      "molar volume",
+      "ideal gas law",
+      "intermolecular forces"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_12_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "MOLCULAR AND EMPIRICAL FORMULAE",
+    "concepts": [
+      "molecular formula",
+      "empirical formula",
+      "ionic compound"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_13_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "CHEMICAL COMPOSITION AND FORMULAE",
+    "concepts": [
+      "atomic masses",
+      "chemical formulae",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_13_002",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "CHEMICAL COMPOSITION AND FORMULAE",
+    "concepts": [
+      "percentage composition",
+      "mole concept",
+      "atomic masses"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_13_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "CHEMICAL COMPOSITION AND FORMULAE",
+    "concepts": [
+      "percentage composition",
+      "molecular formula",
+      "elemental analysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_14_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "DETERMINATION OF EMPIRICAL FORMULAE – FORMULA STOICHIOMETRY",
+    "concepts": [
+      "moles",
+      "molar masses",
+      "empirical formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_15_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "CHEMICAL EQUATION AND REACTION STOICHIOMETRY",
+    "concepts": [
+      "stoichiometry",
+      "chemical equation",
+      "redox reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_15_002",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "CHEMICAL EQUATION AND REACTION STOICHIOMETRY",
+    "concepts": [
+      "stoichiometry",
+      "chemical equation",
+      "reaction stoichiometry"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_15_003",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "CHEMICAL EQUATION AND REACTION STOICHIOMETRY",
+    "concepts": [
+      "mole concept",
+      "macroscopic quantitative information",
+      "chemical equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S68_1_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "L at STP",
+    "concepts": [
+      "mole concept",
+      "mass ratio",
+      "volume ratio"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S68_1_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "L at STP",
+    "concepts": [
+      "stoichiometry",
+      "mole concept",
+      "chemical equation"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S68_1_002",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "L at STP",
+    "concepts": [
+      "stoichiometry",
+      "chemical reaction",
+      "balanced chemical equation"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S68_1_003",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "L at STP",
+    "concepts": [
+      "stoichiometry",
+      "balanced chemical equation",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S14_0_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "g of PbO is \\frac{14.0 \\text{ g PbO}}{223.0 \\text{ g mol}^{-1} \\text{ PbO}} = 6.28 \\times 10^{-2} \\text{ mol PbO}",
+    "concepts": [
+      "mole concept",
+      "stoichiometry",
+      "mass transformation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_16_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "LIMITING REAGENT",
+    "concepts": [
+      "limiting reagent",
+      "mole concept",
+      "redox reaction"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_16_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "LIMITING REAGENT",
+    "concepts": [
+      "stoichiometry",
+      "limiting reactant",
+      "chemical reaction"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_16_002",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "LIMITING REAGENT",
+    "concepts": [
+      "limiting reagent",
+      "stoichiometry",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH01_S1_16_003",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "LIMITING REAGENT",
+    "concepts": [
+      "stoichiometry",
+      "mole concept",
+      "redox reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_16_002",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "LIMITING REAGENT",
+    "concepts": [
+      "stoichiometry",
+      "balanced chemical equation",
+      "limiting reagent"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S1_16_003",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "LIMITING REAGENT",
+    "concepts": [
+      "molar mass",
+      "stoichiometry",
+      "empirical formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH01_S11_3_001",
+    "document_id": "NIOS_CHEM_CH01",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 1,
+    "chapter_title": "Atoms, Molecules And Chemical Arithmetic",
+    "section": "mol of hydrogen will give \\frac{2}{3} \\times 11.3 mol of NH&lt;sub&gt;3&lt;/sub&gt; = 7.53 mol",
+    "concepts": [
+      "mole concept",
+      "redox reaction",
+      "entropy"
+    ]
+  }
+]

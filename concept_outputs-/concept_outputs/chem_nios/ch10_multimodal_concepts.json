@@ -1,0 +1,216 @@
+[
+  {
+    "resource_id": "TXT_12_CH10_X_001",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": null,
+    "concepts": [
+      "spontaneous",
+      "second law of thermodynamics",
+      "energy",
+      "conversion",
+      "external energy input"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_X_002",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": null,
+    "concepts": [
+      "entropy",
+      "Gibbs free energy",
+      "spontaneous process"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_2_001",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": "ENTROPY",
+    "concepts": [
+      "entropy",
+      "mole concept",
+      "partial pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_3_001",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": "CRITERIA FOR SPONTANEOUS CHANGE: THE SECOND LAW OF THERMODYNAMICS",
+    "concepts": [
+      "entropy",
+      "second law of thermodynamics",
+      "spontaneous process"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_4_001",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": "ENTROPY CHANGE IN PHASE TRANSITIONS",
+    "concepts": [
+      "entropy",
+      "enthalpy",
+      "melting point",
+      "boiling point",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH10_S10_4_001",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": "ENTROPY CHANGE IN PHASE TRANSITIONS",
+    "concepts": [
+      "entropy",
+      "phase transition",
+      "vaporization",
+      "steam"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_5_001",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": "THIRD LAW OF THERMODYNAMICS AND ABSOLUTE ENTROPY",
+    "concepts": [
+      "entropy",
+      "Third Law of Thermodynamics",
+      "absolute molar entropies"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH10_S10_5_001",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": "THIRD LAW OF THERMODYNAMICS AND ABSOLUTE ENTROPY",
+    "concepts": [
+      "entropy",
+      "standard molar entropies",
+      "formation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_6_001",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": "GIBBS ENERGY AND SPONTANEITY",
+    "concepts": [
+      "spontaneity_of_chemical_reactions",
+      "gibbs_energy",
+      "Δg"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH10_S10_6_001",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": "GIBBS ENERGY AND SPONTANEITY",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_7_001",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": "STANDARD GIBBS ENERGY CHANGE (ΔG°) AND EQUILIBRIUM CONSTANT (K)",
+    "concepts": []
+  },
+  {
+    "resource_id": "EXP_12_CH10_S10_7_001",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": "STANDARD GIBBS ENERGY CHANGE (ΔG°) AND EQUILIBRIUM CONSTANT (K)",
+    "concepts": []
+  },
+  {
+    "resource_id": "EXP_12_CH10_S10_7_002",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": "STANDARD GIBBS ENERGY CHANGE (ΔG°) AND EQUILIBRIUM CONSTANT (K)",
+    "concepts": [
+      "standard Gibbs energy change",
+      "equilibrium constant",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_7_002",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": "STANDARD GIBBS ENERGY CHANGE (ΔG°) AND EQUILIBRIUM CONSTANT (K)",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_7_003",
+    "document_id": "NIOS_CHEM_CH10",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Spontaneity Of Chemical Reactions",
+    "section": "STANDARD GIBBS ENERGY CHANGE (ΔG°) AND EQUILIBRIUM CONSTANT (K)",
+    "concepts": [
+      "enthalpy change of fusion",
+      "entropy change of fusion",
+      "melting point"
+    ]
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "resource_id": "TXT_11_CH06_S6_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Redox Reactions",
+    "section": "Introduction",
+    "concepts": [
+      "oxidation",
+      "reduction",
+      "electrons",
+      "chemical species",
+      "reactants",
+      "products"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH06_S6_1_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Redox Reactions",
+    "section": "Introduction",
+    "concepts": [
+      "oxidation",
+      "reduction",
+      "electrons",
+      "iron",
+      "copper(II)",
+      "displacement reactions",
+      "redox reactions"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH06_S6_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Redox Reactions",
+    "section": "Oxidation number : Description of redox reaction in terms of electron transfer suggest involvement of only ionic species in it. But many reactions involving only covalent bonds also fulfil the classical definition of oxidation and reduction. For example:",
+    "concepts": [
+      "oxidation number",
+      "redox reaction",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH06_S6_2_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Redox Reactions",
+    "section": "Oxidation number : Description of redox reaction in terms of electron transfer suggest involvement of only ionic species in it. But many reactions involving only covalent bonds also fulfil the classical definition of oxidation and reduction. For example:",
+    "concepts": [
+      "oxidation number",
+      "redox reaction",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH06_S6_2_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Redox Reactions",
+    "section": "Oxidation number : Description of redox reaction in terms of electron transfer suggest involvement of only ionic species in it. But many reactions involving only covalent bonds also fulfil the classical definition of oxidation and reduction. For example:",
+    "concepts": [
+      "oxidation number",
+      "stock notation",
+      "redox reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH06_S6_2_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Redox Reactions",
+    "section": "Oxidation number : Description of redox reaction in terms of electron transfer suggest involvement of only ionic species in it. But many reactions involving only covalent bonds also fulfil the classical definition of oxidation and reduction. For example:",
+    "concepts": [
+      "oxidation number",
+      "redox reaction",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH06_S6_3_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Redox Reactions",
+    "section": "Balancing of redox reactions: Two methods are used to balance chemical equation for redox processes: Oxidation number method and Half reaction method or Ion electron method.",
+    "concepts": [
+      "oxidation number method",
+      "half reaction method",
+      "ion electron method"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH06_S6_3_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Redox Reactions",
+    "section": "Balancing of redox reactions: Two methods are used to balance chemical equation for redox processes: Oxidation number method and Half reaction method or Ion electron method.",
+    "concepts": [
+      "oxidation number method",
+      "half reaction method",
+      "ion electron method"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH06_S6_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Redox Reactions",
+    "section": "Redox reaction and electrode potential",
+    "concepts": [
+      "redox reaction",
+      "electrode potential",
+      "Daniel cell"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH06_S6_4_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Redox Reactions",
+    "section": "Redox reaction and electrode potential",
+    "concepts": [
+      "standard electrode potential",
+      "oxidation",
+      "reduction",
+      "spontaneity",
+      "redox couple",
+      "alkali metal",
+      "fluorine"
+    ]
+  }
+]

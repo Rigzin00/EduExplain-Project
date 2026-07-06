@@ -1,0 +1,297 @@
+[
+  {
+    "resource_id": "RCL_12_CH10_X_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": null,
+    "concepts": [
+      "health",
+      "hygiene",
+      "immune system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Immunity:",
+    "concepts": [
+      "immunization",
+      "antibodies",
+      "pathogen"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH10_S10_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Immunity:",
+    "concepts": [
+      "vaccination",
+      "immune system",
+      "pathogens",
+      "antigens"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH10_S10_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Immunity:",
+    "concepts": [
+      "vaccination",
+      "safety",
+      "research"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Structure of Antibody:",
+    "concepts": [
+      "antibodies",
+      "immunoglobulins",
+      "plasma cells",
+      "B-lymphocytes",
+      "antigenic stimulation",
+      "disulfide bonds",
+      "variable regions"
+    ]
+  },
+  {
+    "resource_id": "ACT_12_CH10_S10_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Structure of Antibody:",
+    "concepts": [
+      "specific interactions",
+      "epitopes",
+      "paratopes",
+      "ABO system",
+      "Rh factor"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH10_S10_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Structure of Antibody:",
+    "concepts": [
+      "blood group",
+      "Rh+",
+      "Rh-",
+      "donation",
+      "patient"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Common Human Diseases:",
+    "concepts": [
+      "disease",
+      "genetic abnormalities",
+      "metabolic disorders",
+      "vector-borne disease",
+      "Plasmodium"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH10_S10_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Common Human Diseases:",
+    "concepts": [
+      "roundworm",
+      "nematode",
+      "Ascaris lumbricoides",
+      "endoparasitism",
+      "intestinal tract",
+      "transmission",
+      "microscopic examination",
+      "anti-helminthic drugs",
+      "Piperazine",
+      "Mebendazole",
+      "Levamisole",
+      "Pyrantel",
+      "avoiding defaecation in open space",
+      "personal hygiene",
+      "washing hands with water and soap",
+      "Wuchereria bancrofti"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH10_S10_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Common Human Diseases:",
+    "concepts": [
+      "ringworm",
+      "fungi",
+      "transmission",
+      "diagnosis",
+      "treatment",
+      "prevention",
+      "control"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH10_S10_3_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Common Human Diseases:",
+    "concepts": [
+      "tumor",
+      "cancer",
+      "neoplasm"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH10_S10_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Common Human Diseases:",
+    "concepts": [
+      "immunodeficiency",
+      "retrovirus",
+      "human immunodeficiency virus",
+      "acquired immunodeficiency syndrome",
+      "opportunistic infection",
+      "neurological disorder",
+      "malignancy",
+      "lipids"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH10_S10_3_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Common Human Diseases:",
+    "concepts": [
+      "antibodies",
+      "Western Blot",
+      "Antiretroviral drugs"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Adolescence:",
+    "concepts": [
+      "sexual maturation",
+      "psychological development",
+      "abstract thinking"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Addiction:",
+    "concepts": [
+      "compulsive use of substances or behaviors",
+      "harmful consequences",
+      "brain pathways of reward and reinforcement",
+      "dopamine",
+      "substance abuse",
+      "adolescence",
+      "disappointments and failures"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH10_S10_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Drugs Abuse:",
+    "concepts": [
+      "abuse",
+      "opioids",
+      "cannabinoids",
+      "alkaloids",
+      "cocaine",
+      "hallucinogens"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH10_S10_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 10,
+    "chapter_title": "Immunity:",
+    "section": "Drugs Abuse:",
+    "concepts": [
+      "tolerance level",
+      "receptor response",
+      "withdrawal syndrome"
+    ]
+  }
+]

@@ -1,0 +1,293 @@
+[
+  {
+    "resource_id": "TXT_11_CH11_X_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": null,
+    "concepts": [
+      "electricity",
+      "current",
+      "conductors",
+      "free electrons",
+      "electrical field",
+      "voltage",
+      "magnitude"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_1_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Introduction:",
+    "concepts": [
+      "delocalization",
+      "electrons",
+      "conductivity",
+      "electricity",
+      "potential",
+      "current"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Electric current:",
+    "concepts": [
+      "electricity",
+      "current",
+      "charge"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Flow of current through a conductor:",
+    "concepts": [
+      "electricity",
+      "current",
+      "convention",
+      "electrolyte",
+      "metal"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_4_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Drift speed:",
+    "concepts": [
+      "drift speed",
+      "current",
+      "electrical conductivity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Ohm's law:",
+    "concepts": [
+      "Ohm's law",
+      "resistance",
+      "conduction electrons",
+      "electric field",
+      "drift velocity",
+      "applied voltage",
+      "material"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_6_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Limitations of the Ohm's law:",
+    "concepts": [
+      "non-ohmic devices",
+      "derivative",
+      "resistance"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_7_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Electrical Energy and Power:",
+    "concepts": [
+      "potential difference",
+      "work done",
+      "power dissipation",
+      "resistance"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_8_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Resistors:",
+    "concepts": [
+      "resistor",
+      "carbon resistor",
+      "wire wound resistor",
+      "color-coded system",
+      "Electronic Industries Association",
+      "rheostat",
+      "adjustable resistor"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_8_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Resistors:",
+    "concepts": [
+      "series combination",
+      "parallel combination",
+      "equivalent resistance"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_9_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Specific Resistance (Resistivity):",
+    "concepts": [
+      "resistance",
+      "specific resistance",
+      "resistivity",
+      "conductivity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_10_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Variation of Resistance with Temperature:",
+    "concepts": [
+      "resistivity",
+      "temperature coefficient of resistivity",
+      "linear relationship"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH11_S11_10_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Variation of Resistance with Temperature:",
+    "concepts": [
+      "temperature coefficient of resistance",
+      "resistance variation with temperature",
+      "superconductivity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_11_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Electromotive Force (emf):",
+    "concepts": [
+      "electromotive force (emf)",
+      "potential difference",
+      "internal resistance"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_12_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Cells in Series:",
+    "concepts": [
+      "cells in series",
+      "terminal voltage",
+      "equivalent electromotive force"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_13_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Cells in parallel:",
+    "concepts": [
+      "emf",
+      "internal resistance",
+      "equivalent emf"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH11_S11_14_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Types of Cells:",
+    "concepts": [
+      "primary cells",
+      "secondary cells",
+      "rechargeable cells",
+      "hydrogen fuel cells",
+      "electromagnetic induction"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH11_S11_14_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "internet_task",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 11,
+    "chapter_title": "Electric Current Through Conductors",
+    "section": "Types of Cells:",
+    "concepts": [
+      "resistor",
+      "circuit",
+      "superconductivity"
+    ]
+  }
+]

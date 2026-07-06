@@ -1,0 +1,342 @@
+[
+  {
+    "resource_id": "TXT_12_CH07_X_001",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": null,
+    "concepts": [
+      "center of mass",
+      "moment of inertia",
+      "angular momentum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_X_002",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "chemical energy",
+      "carbon dioxide",
+      "oxygen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_1_001",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "RIGID BODY",
+    "concepts": [
+      "point masses",
+      "rigid body",
+      "idealization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_2_001",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "CENTRE OF MASS (C.M.) OF A RIGID BODY",
+    "concepts": [
+      "center_of_mass",
+      "weighted_average",
+      "centripetal_force"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_2_001",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "CENTRE OF MASS (C.M.) OF A RIGID BODY",
+    "concepts": [
+      "center_of_mass",
+      "motion_of_rigid_body",
+      "rigid_body"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_2_002",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "CENTRE OF MASS (C.M.) OF A RIGID BODY",
+    "concepts": [
+      "center_of_mass",
+      "weighted_average",
+      "masses"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_2_002",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "CENTRE OF MASS (C.M.) OF A RIGID BODY",
+    "concepts": [
+      "center of mass",
+      "symmetry",
+      "common center of mass"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_3_001",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "TRANSLATIONAL AND ROTATIONAL MOTION OF A RIGID BODY: A COMPARISON",
+    "concepts": [
+      "translational motion",
+      "rotational motion",
+      "center of mass"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_3_002",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "TRANSLATIONAL AND ROTATIONAL MOTION OF A RIGID BODY: A COMPARISON",
+    "concepts": [
+      "moment of inertia",
+      "angular speed",
+      "kinetic energy"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_3_001",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "TRANSLATIONAL AND ROTATIONAL MOTION OF A RIGID BODY: A COMPARISON",
+    "concepts": [
+      "moment of inertia",
+      "axis of rotation",
+      "radius of gyration"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_3_002",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "TRANSLATIONAL AND ROTATIONAL MOTION OF A RIGID BODY: A COMPARISON",
+    "concepts": [
+      "moment of inertia",
+      "angular displacement",
+      "fixed point for rotation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_3_003",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "TRANSLATIONAL AND ROTATIONAL MOTION OF A RIGID BODY: A COMPARISON",
+    "concepts": [
+      "moment of inertia",
+      "theorem of parallel axes",
+      "theorem of perpendicular axes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_3_004",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "TRANSLATIONAL AND ROTATIONAL MOTION OF A RIGID BODY: A COMPARISON",
+    "concepts": [
+      "torque",
+      "couple",
+      "lever arm"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_3_003",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "TRANSLATIONAL AND ROTATIONAL MOTION OF A RIGID BODY: A COMPARISON",
+    "concepts": [
+      "torque",
+      "couple",
+      "net torque"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_3_004",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "TRANSLATIONAL AND ROTATIONAL MOTION OF A RIGID BODY: A COMPARISON",
+    "concepts": [
+      "torque",
+      "couple",
+      "angular acceleration",
+      "rotation angle",
+      "angular velocity",
+      "moment of inertia",
+      "kinematic equations"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_4_001",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "ANGULAR MOMENTUM",
+    "concepts": [
+      "momentum",
+      "angular momentum",
+      "equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_4_002",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "ANGULAR MOMENTUM",
+    "concepts": [
+      "conservation of angular momentum",
+      "angular momentum",
+      "moment of inertia"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_4_001",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "ANGULAR MOMENTUM",
+    "concepts": [
+      "angular momentum",
+      "rotational kinetic energy",
+      "conservation of angular momentum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_5_001",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "SIMULTANEOUS ROTATIONAL AND TRANSLATIONAL MOTIONS",
+    "concepts": [
+      "rotational",
+      "translational",
+      "kinetic energy"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_5_001",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "SIMULTANEOUS ROTATIONAL AND TRANSLATIONAL MOTIONS",
+    "concepts": [
+      "conservation of energy",
+      "linear speed",
+      "rolling motion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_5_002",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "SIMULTANEOUS ROTATIONAL AND TRANSLATIONAL MOTIONS",
+    "concepts": [
+      "center of mass",
+      "moment of inertia",
+      "radius of gyration",
+      "angular momentum",
+      "conservation of angular momentum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_5_003",
+    "document_id": "NIOS_PHY_CH07",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Motion Of Rigid Body",
+    "section": "SIMULTANEOUS ROTATIONAL AND TRANSLATIONAL MOTIONS",
+    "concepts": [
+      "energy",
+      "joules",
+      "angular momentum"
+    ]
+  }
+]

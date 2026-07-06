@@ -1,0 +1,405 @@
+[
+  {
+    "resource_id": "TXT_11_CH10_S10_1_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Introduction:",
+    "concepts": [
+      "electrostatics",
+      "electric field",
+      "potential",
+      "charge"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Electric Charges:",
+    "concepts": [
+      "charge",
+      "electrostatics",
+      "conduction"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Basic Properties of Electric Charge:10.3.1 Additive Nature of Charge:",
+    "concepts": [
+      "additive nature of charge",
+      "electric neutrality",
+      "Gold Leaf Electroscope"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_3_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Basic Properties of Electric Charge:10.3.1 Additive Nature of Charge:",
+    "concepts": [
+      "elementary charge",
+      "quantization of charge",
+      "charge"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_3_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Basic Properties of Electric Charge:10.3.1 Additive Nature of Charge:",
+    "concepts": [
+      "conservation of electric charge",
+      "additive nature of charge",
+      "total charge"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_3_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Basic Properties of Electric Charge:10.3.1 Additive Nature of Charge:",
+    "concepts": [
+      "forces",
+      "like charges",
+      "unlike charges",
+      "induction",
+      "Fig. 10.1"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_4_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Coulomb's Law:",
+    "concepts": [
+      "electric force",
+      "Coulomb's law",
+      "point charges"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_4_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Coulomb's Law:",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_4_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Coulomb's Law:",
+    "concepts": [
+      "relative permittivity",
+      "dielectric constant",
+      "permittivity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_4_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Coulomb's Law:",
+    "concepts": [
+      "charge",
+      "electric field",
+      "force"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH10_S10_4_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Coulomb's Law:",
+    "concepts": [
+      "charge",
+      "electrostatics",
+      "coulomb's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_4_005",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Coulomb's Law:",
+    "concepts": [
+      "coulomb's law",
+      "vector form",
+      "electromagnetic force"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Principle of Superposition:",
+    "concepts": [
+      "superposition",
+      "Coulomb's law",
+      "centroid"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_6_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Electric Field:",
+    "concepts": [
+      "electric field",
+      "Coulomb force",
+      "test charge"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_6_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Electric Field:",
+    "concepts": [
+      "electricity",
+      "force",
+      "field"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_6_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Electric Field:",
+    "concepts": [
+      "electric field",
+      "potential difference",
+      "separation"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH10_S10_6_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Electric Field:",
+    "concepts": [
+      "electric field",
+      "point charges",
+      "midpoint",
+      "hypotenuse",
+      "resultant electric field",
+      "equivalent fields",
+      "opposite directions",
+      "field addition",
+      "vector sum"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_6_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Electric Field:",
+    "concepts": [
+      "electric field",
+      "electric lines of force",
+      "test charge"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_7_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Electric Flux:",
+    "concepts": [
+      "electricity",
+      "electrostatics",
+      "electric field",
+      "electric flux"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_8_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Gauss' Law:",
+    "concepts": [
+      "electric flux",
+      "closed surface",
+      "total charge",
+      "permittivity of free space",
+      "Gauss' Law"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_9_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Electric Dipole:",
+    "concepts": [
+      "dipole moment",
+      "polarity",
+      "permanent dipole"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_9_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Electric Dipole:",
+    "concepts": [
+      "dipole moment",
+      "electric field strength",
+      "angle between dipole axis and electric field"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_9_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Electric Dipole:",
+    "concepts": [
+      "electric dipole",
+      "electric field intensity",
+      "dipole moment"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_10_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Continuous Charge Distribution:",
+    "concepts": [
+      "linear charge density",
+      "surface charge density",
+      "volume charge density"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH10_S10_10_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Continuous Charge Distribution:",
+    "concepts": [
+      "surface charge density",
+      "electrons per square meter",
+      "angular momentum"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH10_S10_10_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Electrostatics",
+    "section": "Continuous Charge Distribution:",
+    "concepts": [
+      "electrostatics",
+      "friction",
+      "charge transfer",
+      "photocopier",
+      "inkjet printer",
+      "pantograph",
+      "metal panels",
+      "electrostatic precipitation/separators"
+    ]
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "resource_id": "TXT_11_CH16_X_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Chemistry In Everyday Life",
+    "section": null,
+    "concepts": [
+      "chemical substance",
+      "personal care product",
+      "food preservation",
+      "cleaning agent",
+      "household item",
+      "chemical reaction",
+      "material property"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH16_X_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Chemistry In Everyday Life",
+    "section": null,
+    "concepts": [
+      "evolution",
+      "chemical changes",
+      "weathering",
+      "lightening",
+      "irruption of volcanoes",
+      "photosynthesis",
+      "ripening of fruit",
+      "fermentation",
+      "release of fragrance by blooming flowers"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Chemistry In Everyday Life",
+    "section": "Basics of food chemistry",
+    "concepts": [
+      "carbohydrates",
+      "proteins",
+      "lipids"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_1_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Chemistry In Everyday Life",
+    "section": "Basics of food chemistry",
+    "concepts": [
+      "enzymes",
+      "microbial spoilage",
+      "oxygen",
+      "microorganisms",
+      "chemical reactions",
+      "food quality",
+      "storage"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH16_S16_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Chemistry In Everyday Life",
+    "section": "Basics of food chemistry",
+    "concepts": [
+      "saturated fatty acids",
+      "unsaturated fatty acids",
+      "tetrahedral carbon atoms",
+      "packing closely together",
+      "van der Waal's forces",
+      "melting points",
+      "unsaturated fats",
+      "C=C double bonds",
+      "kinks in the chain",
+      "trans isomer",
+      "cis isomer"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH16_S16_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Chemistry In Everyday Life",
+    "section": "Compounds with medicinal properties",
+    "concepts": [
+      "drug",
+      "medicine",
+      "side effects",
+      "drug design",
+      "medicinal chemistry"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH16_S16_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Chemistry In Everyday Life",
+    "section": "Compounds with medicinal properties",
+    "concepts": [
+      "patent",
+      "generic medicine",
+      "active ingredient"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Chemistry In Everyday Life",
+    "section": "Compounds with medicinal properties",
+    "concepts": [
+      "analgesics",
+      "antipyretics",
+      "salicylic acid",
+      "aspirin",
+      "paracetamol"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_2_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Chemistry In Everyday Life",
+    "section": "Compounds with medicinal properties",
+    "concepts": [
+      "antimicrobial",
+      "disinfectant",
+      "antiseptic",
+      "iodine",
+      "boric acid",
+      "phenol",
+      "trichlorophenol",
+      "chloroxylenol",
+      "thymol"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_2_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Chemistry In Everyday Life",
+    "section": "Compounds with medicinal properties",
+    "concepts": [
+      "traditional knowledge",
+      "intellectual property rights",
+      "modern medicinal chemistry"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_3_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Chemistry In Everyday Life",
+    "section": "Cleansing Agents : Cleansing agents are substances which are used to remove stain, dirt or clutter on surfaces. They may be natural or synthetically developed.",
+    "concepts": [
+      "soaps",
+      "saponification",
+      "micelles",
+      "grease particles"
+    ]
+  }
+]

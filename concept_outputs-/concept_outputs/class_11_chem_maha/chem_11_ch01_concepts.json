@@ -1,0 +1,362 @@
+[
+  {
+    "resource_id": "TXT_11_CH01_X_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": null,
+    "concepts": [
+      "chemical element",
+      "compound",
+      "elemental proportion"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Introduction : Chemistry is the study of matter, its physical and chemical properties and the physical and chemical changes it undergoes under different conditions.",
+    "concepts": [
+      "matter",
+      "substance",
+      "mixture"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Nature of Chemistry: Chemistry is traditionally classified further into five branches: organic, inorganic, physical, bio and analytical. Organic chemistry is the study of the properties and reactions of compounds of carbon. Inorganic chemistry is the study of all substances which are not organic. Physical chemistry is the study of principles underlying chemistry. It deals with the studies of properties of matter. It is study of atoms, molecules, and fundamental concepts related to electrons, energies and dynamics therein. It provides basic framework for all the other branches of chemistry.",
+    "concepts": [
+      "pure substances",
+      "mixtures",
+      "elements",
+      "compounds"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_2_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Nature of Chemistry: Chemistry is traditionally classified further into five branches: organic, inorganic, physical, bio and analytical. Organic chemistry is the study of the properties and reactions of compounds of carbon. Inorganic chemistry is the study of all substances which are not organic. Physical chemistry is the study of principles underlying chemistry. It deals with the studies of properties of matter. It is study of atoms, molecules, and fundamental concepts related to electrons, energies and dynamics therein. It provides basic framework for all the other branches of chemistry.",
+    "concepts": [
+      "fixed shapes and volumes",
+      "liquid state",
+      "gas state"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH01_S1_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Nature of Chemistry: Chemistry is traditionally classified further into five branches: organic, inorganic, physical, bio and analytical. Organic chemistry is the study of the properties and reactions of compounds of carbon. Inorganic chemistry is the study of all substances which are not organic. Physical chemistry is the study of principles underlying chemistry. It deals with the studies of properties of matter. It is study of atoms, molecules, and fundamental concepts related to electrons, energies and dynamics therein. It provides basic framework for all the other branches of chemistry.",
+    "concepts": [
+      "element",
+      "compound",
+      "gas",
+      "liquid",
+      "solid"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_3_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Properties of matter and their measurement:",
+    "concepts": [
+      "Physical property",
+      "Chemical property",
+      "Melting point",
+      "Boiling point",
+      "Density"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_3_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Properties of matter and their measurement:",
+    "concepts": [
+      "SI system",
+      "base units",
+      "meter",
+      "kilogram",
+      "second"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_3_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Properties of matter and their measurement:",
+    "concepts": [
+      "mass",
+      "weight",
+      "kilogram",
+      "gram",
+      "volume",
+      "cubic meter",
+      "density",
+      "kelvin",
+      "temperature",
+      "Celsius",
+      "Fahrenheit"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Laws of Chemical Combination: The elements combine with each other and form compounds. This process is governed by five basic laws discovered before the knowledge of molecular formulae.",
+    "concepts": [
+      "mass",
+      "law of conservation of mass",
+      "phosphorus"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_4_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Laws of Chemical Combination: The elements combine with each other and form compounds. This process is governed by five basic laws discovered before the knowledge of molecular formulae.",
+    "concepts": [
+      "Law of Definite Proportions"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_4_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Laws of Chemical Combination: The elements combine with each other and form compounds. This process is governed by five basic laws discovered before the knowledge of molecular formulae.",
+    "concepts": [
+      "Law of Multiple Proportions",
+      "hydrogen",
+      "oxygen"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_4_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Laws of Chemical Combination: The elements combine with each other and form compounds. This process is governed by five basic laws discovered before the knowledge of molecular formulae.",
+    "concepts": [
+      "volume ratio",
+      "law of gaseous volume",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_5_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Avogadro Law: In 1811, Avogadro proposed that equal volumes of all gases at the same temperature and pressure contain equal number of molecules.",
+    "concepts": [
+      "Avogadro's law",
+      "Gay Lussac's law",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH01_S1_5_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Avogadro Law: In 1811, Avogadro proposed that equal volumes of all gases at the same temperature and pressure contain equal number of molecules.",
+    "concepts": [
+      "atom",
+      "molecule",
+      "isotope"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_7_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Atomic and molecular masses: You know about the terms atoms and molecules. Thus it is appropriate here to understand what we mean by atomic and molecular masses.",
+    "concepts": [
+      "atomic mass",
+      "carbon-12 atom",
+      "amu",
+      "oxygen atom",
+      "hydrogen atom"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_7_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Atomic and molecular masses: You know about the terms atoms and molecules. Thus it is appropriate here to understand what we mean by atomic and molecular masses.",
+    "concepts": [
+      "average atomic mass",
+      "weighted average",
+      "relative abundances"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_7_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Atomic and molecular masses: You know about the terms atoms and molecules. Thus it is appropriate here to understand what we mean by atomic and molecular masses.",
+    "concepts": [
+      "atomic mass",
+      "molecular mass",
+      "average atomic mass"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_7_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Atomic and molecular masses: You know about the terms atoms and molecules. Thus it is appropriate here to understand what we mean by atomic and molecular masses.",
+    "concepts": [
+      "formula mass",
+      "atomic masses",
+      "molecular masses"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH01_S1_8_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Mole concept and molar mass",
+    "concepts": [
+      "mole",
+      "Avogadro's Constant",
+      "molecular weight"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S16_0_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "g mol-1",
+    "concepts": [
+      "mole concept",
+      "formula mass",
+      "atomic mass units"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S58_5_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "g mol-1",
+    "concepts": [
+      "mole concept",
+      "covalent bond",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S4_0_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "u = 1 He 52 u = ?",
+    "concepts": [
+      "mole concept",
+      "Avogadro's number",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_9_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Some Basic Concepts Of Chemistry",
+    "section": "Moles and gases: Many substances exist as gases. If we want to find the number of moles of gas, we can do this more conveniently by measuring the volume rather than mass of the gas. Chemists have deduced from Avogardro law that \"One mole of any gas occupies a volume of 22.4 dm&lt;sup&gt;3&lt;/sup&gt; at standard temperature (0^{\\circ}C) and pressure (1 atm) (STP). The volume of 22.4 dm&lt;sup&gt;3&lt;/sup&gt; at STP is known as molar volume of a gas.",
+    "concepts": [
+      "mole concept",
+      "Avogadro's law",
+      "molar volume"
+    ]
+  }
+]

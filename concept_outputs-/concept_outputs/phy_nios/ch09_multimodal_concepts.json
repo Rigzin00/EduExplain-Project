@@ -1,0 +1,551 @@
+[
+  {
+    "resource_id": "TXT_12_CH09_X_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": null,
+    "concepts": [
+      "hydrostatic pressure",
+      "Pascal's law",
+      "dam construction",
+      "hydraulic lift",
+      "fluid behavior"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_1_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "HYDROSTATIC PRESSURE",
+    "concepts": [
+      "hydrostatic pressure",
+      "shearing stress",
+      "perpendicular pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_1_002",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "HYDROSTATIC PRESSURE",
+    "concepts": [
+      "hydrostatic pressure",
+      "density",
+      "acceleration due to gravity"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH09_S9_1_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "HYDROSTATIC PRESSURE",
+    "concepts": [
+      "hydrostatic pressure",
+      "depth",
+      "dam"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_1_003",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "HYDROSTATIC PRESSURE",
+    "concepts": [
+      "atmospheric pressure",
+      "hydrostatic pressure",
+      "air pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_2_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "BUOYANCY",
+    "concepts": [
+      "buoyancy",
+      "Archimedes' principle",
+      "displacement"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_3_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "PASCAL'S LAW",
+    "concepts": [
+      "pascal's law",
+      "hydraulic system",
+      "pressure transmission"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_3_002",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "PASCAL'S LAW",
+    "concepts": [
+      "Pascal's law",
+      "hydraulic system",
+      "force transmission"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "SURFACE TENSION",
+    "concepts": [
+      "surface tension",
+      "cohesive forces",
+      "adhesive forces"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_002",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "SURFACE TENSION",
+    "concepts": [
+      "surface tension",
+      "surface energy",
+      "surface minimization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_003",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "SURFACE TENSION",
+    "concepts": [
+      "surface tension",
+      "excess pressure",
+      "droplets",
+      "air bubbles"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH09_S9_4_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "SURFACE TENSION",
+    "concepts": [
+      "surface tension",
+      "excess pressure",
+      "radius"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "ANGLE OF CONTACT",
+    "concepts": [
+      "angle of contact",
+      "liquid surface",
+      "container wall"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_6_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "CAPILLARY ACTION",
+    "concepts": [
+      "capillary action",
+      "surface tension",
+      "liquid ascent"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_6_002",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "CAPILLARY ACTION",
+    "concepts": [
+      "capillary action",
+      "surface tension",
+      "liquid column"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_7_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "VISCOSITY",
+    "concepts": [
+      "viscosity",
+      "liquid motion",
+      "container stirring",
+      "pipe flow rate",
+      "steel ball fall speed",
+      "glycerin resistance",
+      "water flow rate"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_7_002",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "VISCOSITY",
+    "concepts": [
+      "coefficient of viscosity",
+      "viscous force",
+      "velocity gradient"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_8_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "TYPES OF LIQUID FLOW",
+    "concepts": [
+      "flow of water in a river during floods",
+      "city's water supply system",
+      "dynamics of liquid flow",
+      "unique characteristics of flood waters",
+      "controlled urban water distribution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_8_002",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "TYPES OF LIQUID FLOW",
+    "concepts": [
+      "streamlines",
+      "velocity",
+      "tangents",
+      "steady flow",
+      "streamline alignment",
+      "streamline intersection",
+      "laminar flow",
+      "turbulent flow"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_8_003",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "TYPES OF LIQUID FLOW",
+    "concepts": [
+      "equation of continuity",
+      "conservation of mass",
+      "fluid flow"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_8_004",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "TYPES OF LIQUID FLOW",
+    "concepts": [
+      "critical velocity",
+      "Reynolds number",
+      "viscosity",
+      "density",
+      "pipe diameter"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH09_S9_8_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "TYPES OF LIQUID FLOW",
+    "concepts": [
+      "Reynolds number",
+      "blood flow",
+      "artery"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_9_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "STOKES' LAW",
+    "concepts": [
+      "viscosity",
+      "dimensional analysis",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_9_002",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "STOKES' LAW",
+    "concepts": [
+      "terminal velocity",
+      "Stokes' law",
+      "drag force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_9_003",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "STOKES' LAW",
+    "concepts": [
+      "stokes law",
+      "terminal velocity",
+      "gravitational force",
+      "viscous drag"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH09_S9_9_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "STOKES' LAW",
+    "concepts": [
+      "terminal velocity",
+      "stokes' law",
+      "radius of a raindrop"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_10_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "BERNOULLI'S PRINCIPLE",
+    "concepts": [
+      "Bernoulli's principle",
+      "fluid dynamics",
+      "velocity",
+      "pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_10_002",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "BERNOULLI'S PRINCIPLE",
+    "concepts": [
+      "kinetic energy",
+      "potential energy",
+      "pressure energy",
+      "fluid dynamics",
+      "Bernoulli's principle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_10_003",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "BERNOULLI'S PRINCIPLE",
+    "concepts": [
+      "pressure energy",
+      "kinetic energy",
+      "potential energy",
+      "Bernoulli's principle",
+      "equation",
+      "density",
+      "velocity",
+      "acceleration due to gravity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_10_004",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "BERNOULLI'S PRINCIPLE",
+    "concepts": [
+      "fluid flow rates",
+      "pressure differences",
+      "flow rate measurement",
+      "venturimeter",
+      "atomizers",
+      "spray guns",
+      "Bunsen burners",
+      "carburators",
+      "aerofoils"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH09_S9_10_001",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "BERNOULLI'S PRINCIPLE",
+    "concepts": [
+      "Bernoulli's principle",
+      "efflux",
+      "velocity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_10_005",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "BERNOULLI'S PRINCIPLE",
+    "concepts": [
+      "hydrostatic pressure",
+      "surface tension",
+      "Bernoulli's principle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_10_006",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "BERNOULLI'S PRINCIPLE",
+    "concepts": [
+      "pressure",
+      "weight distribution",
+      "elephant",
+      "snow",
+      "contact area",
+      "soap bubble",
+      "surface tension",
+      "liquid",
+      "capillary action",
+      "narrow tube",
+      "gravitational acceleration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_10_007",
+    "document_id": "NIOS_PHY_CH09",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Properties Of Fluids",
+    "section": "BERNOULLI'S PRINCIPLE",
+    "concepts": [
+      "Bernoulli's principle",
+      "applications of Bernoulli's theorem",
+      "terminal exercises"
+    ]
+  }
+]

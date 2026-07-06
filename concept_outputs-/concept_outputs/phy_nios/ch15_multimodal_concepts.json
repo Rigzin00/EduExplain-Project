@@ -1,0 +1,418 @@
+[
+  {
+    "resource_id": "TXT_12_CH15_X_001",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": null,
+    "concepts": [
+      "electricity",
+      "electrostatics",
+      "electric charge"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_X_002",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": null,
+    "concepts": [
+      "electric charge",
+      "electric field",
+      "charged particles"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_1_001",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "FRICTIONAL ELECTRICITY",
+    "concepts": [
+      "frictional electricity",
+      "conduction",
+      "induction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_1_002",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "FRICTIONAL ELECTRICITY",
+    "concepts": [
+      "conservation of charge",
+      "electrons",
+      "rubber"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_1_003",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "FRICTIONAL ELECTRICITY",
+    "concepts": [
+      "quantization_of_charge",
+      "elementary_charge",
+      "electron"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_2_001",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "COULOMB'S LAW",
+    "concepts": [
+      "electric charge",
+      "electric field",
+      "Coulomb's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_2_002",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "COULOMB'S LAW",
+    "concepts": [
+      "vector quantity",
+      "force",
+      "charge",
+      "Coulomb's constant",
+      "distance",
+      "charges",
+      "electric field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_2_003",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "COULOMB'S LAW",
+    "concepts": [
+      "electrostatic forces",
+      "Coulomb's law",
+      "principle of superposition"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH15_S15_2_001",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "COULOMB'S LAW",
+    "concepts": [
+      "equilibrium points",
+      "Coulomb's law",
+      "principle of superposition"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH15_S15_2_002",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "COULOMB'S LAW",
+    "concepts": [
+      "Coulomb's law",
+      "superposition principle",
+      "electrostatic force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_3_001",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "ELECTRIC FIELD",
+    "concepts": [
+      "electric field",
+      "vector quantity",
+      "superposition"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH15_S15_3_001",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "ELECTRIC FIELD",
+    "concepts": [
+      "electric field strength",
+      "point charge",
+      "electrical force"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH15_S15_3_002",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "ELECTRIC FIELD",
+    "concepts": [
+      "electric field",
+      "superposition principle",
+      "centroid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_3_002",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "ELECTRIC FIELD",
+    "concepts": [
+      "dipole",
+      "electric field",
+      "dipole moment"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_3_003",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "ELECTRIC FIELD",
+    "concepts": [
+      "electric dipole",
+      "uniform electric field",
+      "torque",
+      "dipole moment",
+      "angle",
+      "electrostatic force"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH15_S15_3_003",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "ELECTRIC FIELD",
+    "concepts": [
+      "electric charge",
+      "electric field",
+      "dipole moment",
+      "torque",
+      "uniform field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_3_004",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "ELECTRIC FIELD",
+    "concepts": [
+      "electric field lines",
+      "strength of electric field",
+      "repulsion between charges",
+      "net field at midpoint",
+      "dipole structure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_4_001",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "ELECTRIC FLUX AND GAUSS' LAW",
+    "concepts": [
+      "electric flux",
+      "Gauss's law",
+      "net electric flux"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_4_002",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "ELECTRIC FLUX AND GAUSS' LAW",
+    "concepts": [
+      "electric flux",
+      "gauss' law",
+      "point charge",
+      "spherical surface",
+      "symmetry",
+      "uniform electric field",
+      "electrostatic force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_4_003",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "ELECTRIC FLUX AND GAUSS' LAW",
+    "concepts": [
+      "electric flux",
+      "Gauss's law",
+      "cylindrical Gaussian surface"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_4_004",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "ELECTRIC FLUX AND GAUSS' LAW",
+    "concepts": [
+      "electric flux",
+      "Gauss's Law",
+      "uniformly charged spherical shell"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_4_005",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "ELECTRIC FLUX AND GAUSS' LAW",
+    "concepts": [
+      "electric flux",
+      "Gauss's law",
+      "uniform electric field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_5_001",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "VAN DE GRAAFF GENERATOR",
+    "concepts": [
+      "Van de Graaff generator",
+      "corona discharge",
+      "comb-shaped conductor",
+      "electric field",
+      "breakdown of air",
+      "ion beams",
+      "nuclear reactions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_5_002",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "VAN DE GRAAFF GENERATOR",
+    "concepts": [
+      "quantization",
+      "fundamental unit of negative charge",
+      "Coulomb's law",
+      "electric force",
+      "electrostatic force",
+      "charge",
+      "electric field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_5_003",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "VAN DE GRAAFF GENERATOR",
+    "concepts": [
+      "electric charge",
+      "electric field",
+      "Coulomb's law",
+      "electric field strength",
+      "resultant electric field",
+      "forces and torques"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH15_S15_5_004",
+    "document_id": "NIOS_PHY_CH15",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 15,
+    "chapter_title": "Electric Charge And Electric Field",
+    "section": "VAN DE GRAAFF GENERATOR",
+    "concepts": [
+      "terminal exercises",
+      "fundamental concepts",
+      "problem-solving techniques"
+    ]
+  }
+]

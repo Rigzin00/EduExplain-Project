@@ -1,0 +1,492 @@
+[
+  {
+    "resource_id": "TXT_12_CH09_X_001",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": null,
+    "concepts": [
+      "energy changes",
+      "heat release/exothermic",
+      "heat absorption/endothermic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_X_002",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": null,
+    "concepts": [
+      "enthalpy change",
+      "heat absorption/release",
+      "Gibbs free energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_1_001",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "SOME COMMONLY USED TERMS",
+    "concepts": [
+      "entropy",
+      "mole concept",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_1_002",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "SOME COMMONLY USED TERMS",
+    "concepts": [
+      "isolated system",
+      "closed system",
+      "open system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_1_003",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "SOME COMMONLY USED TERMS",
+    "concepts": [
+      "state variables",
+      "path-independence",
+      "separation between two points"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_1_004",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "SOME COMMONLY USED TERMS",
+    "concepts": [
+      "extensive property",
+      "intensive property",
+      "mass",
+      "volume"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_1_005",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "SOME COMMONLY USED TERMS",
+    "concepts": [
+      "isothermal process",
+      "adiabatic process",
+      "reversible process"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_1_006",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "SOME COMMONLY USED TERMS",
+    "concepts": [
+      "state_variables",
+      "standard_state_conditions",
+      "reference_temperature"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_2_001",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "EXOTHERMIC AND ENDOTHERMIC REACTIONS",
+    "concepts": [
+      "exothermic",
+      "endothermic",
+      "reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_3_001",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "THERMOCHEMICAL EQUATIONS",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_001",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "THE FIRST LAW OF THERMODYNAMICS",
+    "concepts": [
+      "conservation_of_energy",
+      "internal_energy",
+      "heat_absorption",
+      "work_done",
+      "first_law_of_thermodynamics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_002",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "THE FIRST LAW OF THERMODYNAMICS",
+    "concepts": [
+      "internal_energy",
+      "state_function",
+      "total_energy",
+      "translational_energy",
+      "vibrational_energy",
+      "rotational_energy",
+      "electron_energy",
+      "nuclear_energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_003",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "THE FIRST LAW OF THERMODYNAMICS",
+    "concepts": [
+      "heat",
+      "work",
+      "internal energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_004",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "THE FIRST LAW OF THERMODYNAMICS",
+    "concepts": [
+      "work of expansion",
+      "internal energy change",
+      "enthalpy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_005",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "THE FIRST LAW OF THERMODYNAMICS",
+    "concepts": [
+      "enthalpy",
+      "internal energy",
+      "pressure-volume work",
+      "heat",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_4_006",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "THE FIRST LAW OF THERMODYNAMICS",
+    "concepts": [
+      "enthalpy change",
+      "internal energy change",
+      "volume changes",
+      "constant pressure",
+      "temperature",
+      "gases",
+      "liquids",
+      "solids",
+      "ΔH",
+      "ΔU",
+      "Δn_ρ",
+      "RT"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_001",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "STANDARD ENTHALPY OF REACTIONS",
+    "concepts": [
+      "enthalpy",
+      "reaction",
+      "endothermic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_002",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "STANDARD ENTHALPY OF REACTIONS",
+    "concepts": [
+      "enthalpy_of_formations",
+      "standard_enthalpy_of_reaction",
+      "formation_energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_003",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "STANDARD ENTHALPY OF REACTIONS",
+    "concepts": [
+      "enthalpy of combustion",
+      "standard conditions",
+      "heat release",
+      "complete combustion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_004",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "STANDARD ENTHALPY OF REACTIONS",
+    "concepts": [
+      "enthalpy of neutralization",
+      "heat released",
+      "hydrogen ions",
+      "hydroxyl ions",
+      "water",
+      "dilute solutions",
+      "strong acids",
+      "strong bases",
+      "weak bases"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_005",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "STANDARD ENTHALPY OF REACTIONS",
+    "concepts": [
+      "atomization enthalpy",
+      "enthalpy of sublimation",
+      "enthalpy of vaporization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_006",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "STANDARD ENTHALPY OF REACTIONS",
+    "concepts": [
+      "enthalpy",
+      "substance",
+      "phase transformation",
+      "transition",
+      "crystalline form"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_007",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "STANDARD ENTHALPY OF REACTIONS",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_5_008",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "STANDARD ENTHALPY OF REACTIONS",
+    "concepts": [
+      "enthalpy_of_ionization",
+      "weak_alkali",
+      "hydrogen_cyanide",
+      "aqueous_solution",
+      "mole_concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_6_001",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "LAWS OF THERMOCHEMISTRY",
+    "concepts": [
+      "enthalpy change",
+      "Lavoisier-Laplace law",
+      "Hess's Law of Constant Heat Summation"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH09_S9_6_001",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "LAWS OF THERMOCHEMISTRY",
+    "concepts": [
+      "stoichiometry",
+      "thermodynamic principles",
+      "energy requirements"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH09_S9_6_002",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "LAWS OF THERMOCHEMISTRY",
+    "concepts": [
+      "enthalpy",
+      "standard enthalpy of formation",
+      "Hess's Law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_7_001",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "BOND ENTHALPIES",
+    "concepts": [
+      "bond dissociation energy",
+      "polyatomic molecule",
+      "water",
+      "bond enthalpy",
+      "chemical reactions",
+      "enthalpy change"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH09_S9_7_001",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "BOND ENTHALPIES",
+    "concepts": [
+      "enthalpy change",
+      "bond enthalpies",
+      "chemical reaction"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH09_S9_7_002",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "BOND ENTHALPIES",
+    "concepts": [
+      "enthalpy of formation",
+      "bond enthalpies",
+      "chemical reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH09_S9_7_002",
+    "document_id": "NIOS_CHEM_CH09",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 9,
+    "chapter_title": "Chemical Thermodynamics",
+    "section": "BOND ENTHALPIES",
+    "concepts": [
+      "enthalpy change",
+      "internal energy change",
+      "bond energies"
+    ]
+  }
+]

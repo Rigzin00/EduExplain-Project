@@ -1,0 +1,135 @@
+[
+  {
+    "resource_id": "CLT_11_CH10_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Animal Tissue",
+    "section": null,
+    "concepts": [
+      "cells",
+      "tissues",
+      "organs"
+    ]
+  },
+  {
+    "resource_id": "SCI_11_CH10_S10_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "scientist_box",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Animal Tissue",
+    "section": "Histology: The study of the structure and arrangement of tissue is called histology. There are four types of tissues present in animals namely epithelial, connective, muscular and nervous. Let us study each type in details.",
+    "concepts": [
+      "histology",
+      "tissue",
+      "epithelial",
+      "connective",
+      "muscular",
+      "nervous"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Animal Tissue",
+    "section": "Epithelial tissue (epi : above, thelium : layer of cells)",
+    "concepts": [
+      "simple epithelia",
+      "compound epithelia",
+      "squamous epithelium"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Animal Tissue",
+    "section": "Connective tissue: It is most widely spread tissue in the body. It binds, supports and provides strength to other body tissues and organs. It consists of a variety of cells and fibres. These are embedded in the abundant intercellular substance called matrix. Connective tissue protects the vital organs of the body. It is highly vascular except cartilage. It acts as packing material and also helps in healing process.",
+    "concepts": [
+      "connective_tissue",
+      "matrix",
+      "fibers",
+      "cells",
+      "tensile_strength",
+      "elasticity",
+      "cartilage",
+      "bone"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH10_S10_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Animal Tissue",
+    "section": "Connective tissue: It is most widely spread tissue in the body. It binds, supports and provides strength to other body tissues and organs. It consists of a variety of cells and fibres. These are embedded in the abundant intercellular substance called matrix. Connective tissue protects the vital organs of the body. It is highly vascular except cartilage. It acts as packing material and also helps in healing process.",
+    "concepts": [
+      "connective_tissue",
+      "vascular",
+      "blood",
+      "lymph"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_4_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Animal Tissue",
+    "section": "Muscular tissue :",
+    "concepts": [
+      "muscle tissue",
+      "skeletal muscles",
+      "smooth muscles",
+      "cardiac muscles"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH10_S10_4_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Animal Tissue",
+    "section": "Muscular tissue :",
+    "concepts": [
+      "unipolar neuron",
+      "neurons classification",
+      "cyton"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH10_S10_4_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "Animal Tissue",
+    "section": "Muscular tissue :",
+    "concepts": [
+      "histology",
+      "endocrine",
+      "cell junction",
+      "integrin",
+      "cartilage",
+      "ossein"
+    ]
+  }
+]

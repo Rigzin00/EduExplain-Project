@@ -1,0 +1,336 @@
+[
+  {
+    "resource_id": "TXT_12_CH04_X_001",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": null,
+    "concepts": [
+      "cell",
+      "mitosis",
+      "meiosis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_X_002",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": null,
+    "concepts": [
+      "evolution",
+      "natural selection",
+      "speciation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_1_001",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "THE CELL AND CELL THEORY",
+    "concepts": [
+      "cell",
+      "nucleus",
+      "mitosis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_1_002",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "THE CELL AND CELL THEORY",
+    "concepts": [
+      "cellular organization",
+      "mitosis",
+      "transcription",
+      "nervous system",
+      "muscular tissue"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_1_003",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "THE CELL AND CELL THEORY",
+    "concepts": [
+      "cell",
+      "protoplasm",
+      "nucleus",
+      "cytoplasm",
+      "organelles",
+      "ribosomes",
+      "mitochondria",
+      "vacuoles",
+      "centrifugation",
+      "Svedberg unit"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_2_001",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "COMPONENTS OF THE CELL",
+    "concepts": [
+      "cell membrane",
+      "cytoplasm",
+      "nucleus"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_2_002",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "COMPONENTS OF THE CELL",
+    "concepts": [
+      "cell membrane",
+      "plasma membrane",
+      "fluid mosaic model"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_3_001",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "THE CYTOPLASM AND THE CELL ORGANELLES",
+    "concepts": [
+      "cytoplasm",
+      "mitochondria",
+      "endoplasmic reticulum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_3_002",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "THE CYTOPLASM AND THE CELL ORGANELLES",
+    "concepts": [
+      "mitochondria",
+      "chloroplast",
+      "plastids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_3_003",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "THE CYTOPLASM AND THE CELL ORGANELLES",
+    "concepts": [
+      "chloroplast",
+      "mitochondria",
+      "photosynthesis",
+      "respiration",
+      "DNA",
+      "RNA"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_3_004",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "THE CYTOPLASM AND THE CELL ORGANELLES",
+    "concepts": [
+      "endoplasmic reticulum",
+      "Golgi body",
+      "ribosome"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_3_005",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "THE CYTOPLASM AND THE CELL ORGANELLES",
+    "concepts": [
+      "lysosome",
+      "peroxisome",
+      "hydrogen peroxide"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_3_006",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "THE CYTOPLASM AND THE CELL ORGANELLES",
+    "concepts": [
+      "cilia",
+      "flagella",
+      "cell movement"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_001",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "NUCLEUS (THE HEREDITARY ORGANELLE)",
+    "concepts": [
+      "chromatin",
+      "nucleolus",
+      "nuclear envelope"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_002",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "NUCLEUS (THE HEREDITARY ORGANELLE)",
+    "concepts": [
+      "chromosome",
+      "mitosis",
+      "genetic consistency"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_5_001",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "MOLECULES OF THE CELL",
+    "concepts": [
+      "cells",
+      "biomolecules",
+      "enzymes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_7_001",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "CELL DIVISION",
+    "concepts": [
+      "cell division",
+      "mitosis",
+      "multicellular structures"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_7_002",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "CELL DIVISION",
+    "concepts": [
+      "interphase",
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "mitosis",
+      "cytokinesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_7_003",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "CELL DIVISION",
+    "concepts": [
+      "mitosis",
+      "karyokinesis",
+      "cytokinesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_7_004",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "CELL DIVISION",
+    "concepts": [
+      "meiosis",
+      "anthers",
+      "ovules",
+      "homologous chromosomes",
+      "bivalent",
+      "genetic recombination",
+      "gametes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_7_005",
+    "document_id": "NIOS_BIO_CH04",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "Introduction",
+    "section": "CELL DIVISION",
+    "concepts": [
+      "cell cycle",
+      "mitosis",
+      "meiosis"
+    ]
+  }
+]

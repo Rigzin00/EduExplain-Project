@@ -1,0 +1,165 @@
+[
+  {
+    "resource_id": "TXT_11_CH06_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Biomolecules",
+    "section": null,
+    "concepts": [
+      "macromolecules",
+      "carbohydrates",
+      "proteins",
+      "nucleic acids",
+      "lipids"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH06_S6_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Biomolecules",
+    "section": "Biomolecules in the cell A. Carbohydrates :",
+    "concepts": [
+      "monosaccharides",
+      "disaccharides",
+      "polysaccharides"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH06_S6_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Biomolecules",
+    "section": "Biomolecules in the cell A. Carbohydrates :",
+    "concepts": [
+      "carbohydrates",
+      "lipids",
+      "fatty acids"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH06_S6_2_002",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Biomolecules",
+    "section": "Biomolecules in the cell A. Carbohydrates :",
+    "concepts": [
+      "proteins",
+      "amino acid units",
+      "peptide bonds",
+      "polypeptide chains",
+      "primary structure",
+      "functional proteins",
+      "secondary structure"
+    ]
+  },
+  {
+    "resource_id": "SCI_11_CH06_S6_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "scientist_box",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Biomolecules",
+    "section": "Biomolecules in the cell A. Carbohydrates :",
+    "concepts": [
+      "carbohydrates",
+      "nucleic acids",
+      "deoxyribose nucleic acid (DNA)",
+      "ribose nucleic acid (RNA)",
+      "chromosomes",
+      "pyrimidine bases",
+      "purine bases"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH06_S6_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Biomolecules",
+    "section": "Biomolecules in the cell A. Carbohydrates :",
+    "concepts": [
+      "carbohydrates",
+      "double helix",
+      "polynucleotide chains",
+      "antiparallel",
+      "DNA model",
+      "nucleotides",
+      "distance between nucleotides",
+      "diameter of DNA molecule",
+      "Bacteriophage x 174",
+      "ribonucleic acid (RNA)",
+      "single-stranded DNA",
+      "tobacco mosaic virus",
+      "Ribose nucleic acid",
+      "polynucleotide chain",
+      "deoxyribose sugar",
+      "U"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH06_S6_2_003",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Biomolecules",
+    "section": "Biomolecules in the cell A. Carbohydrates :",
+    "concepts": [
+      "enzymes",
+      "cell",
+      "temperature"
+    ]
+  },
+  {
+    "resource_id": "SCI_11_CH06_S6_2_002",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "scientist_box",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Biomolecules",
+    "section": "Biomolecules in the cell A. Carbohydrates :",
+    "concepts": [
+      "enzyme",
+      "substrate",
+      "endo-enzymes",
+      "exo-enzymes"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH06_S6_2_002",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 6,
+    "chapter_title": "Biomolecules",
+    "section": "Biomolecules in the cell A. Carbohydrates :",
+    "concepts": [
+      "carbohydrates",
+      "enzymes",
+      "proteins",
+      "coenzymes",
+      "co-factors",
+      "iron",
+      "manganese"
+    ]
+  }
+]

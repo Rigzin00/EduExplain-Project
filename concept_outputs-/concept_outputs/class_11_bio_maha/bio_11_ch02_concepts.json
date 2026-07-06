@@ -1,0 +1,357 @@
+[
+  {
+    "resource_id": "TXT_11_CH02_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": null,
+    "concepts": [
+      "classification",
+      "evolutionary relationships",
+      "diversity"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH02_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": null,
+    "concepts": [
+      "classification",
+      "systematics",
+      "organism"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Systematics:",
+    "concepts": [
+      "systematics",
+      "evolutionary relationships",
+      "shared characteristics",
+      "established principles"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Classification:",
+    "concepts": [
+      "classification",
+      "Linnaean system",
+      "natural classification",
+      "phylogenetic classification"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Three domains of life:",
+    "concepts": [
+      "three domains of life",
+      "Archaea",
+      "Bacteria",
+      "Eukarya",
+      "cellular structure",
+      "ribosomal RNA"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_4_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Chemotaxonomy:",
+    "concepts": [
+      "chemical constituents",
+      "archaea",
+      "prokaryotes",
+      "fungi",
+      "chitin",
+      "cellulose"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_5_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Numerical taxonomy:",
+    "concepts": [
+      "cluster analysis",
+      "R. Sokal",
+      "P. Sneath"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_6_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Cladogram:",
+    "concepts": [
+      "cladogram",
+      "evolutionary relationships",
+      "shared characteristics"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_7_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Phylogeny:",
+    "concepts": [
+      "phylogenetic relationships",
+      "classification",
+      "Woese's three-domain concept",
+      "Whittaker's five-kingdom system"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_8_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "DNA barcoding:",
+    "concepts": [
+      "DNA barcoding",
+      "species identification",
+      "ecological relationships",
+      "mitosis"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_9_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Taxonomic Categories:",
+    "concepts": [
+      "kingdom",
+      "division",
+      "class",
+      "order",
+      "family",
+      "genus",
+      "species"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_10_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Taxonomic Hierarchy:",
+    "concepts": [
+      "Angiospermae",
+      "Dicotyledonae",
+      "Polypetalae"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_11_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Units of Classification:",
+    "concepts": [
+      "classification",
+      "shared characteristics",
+      "distantly related"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_12_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Nomenclature :",
+    "concepts": [
+      "binomial system",
+      "genus",
+      "species",
+      "nomenclature"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH02_S2_12_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Nomenclature :",
+    "concepts": [
+      "Kingdom Plantae",
+      "Kingdom Animalia",
+      "Five Kingdom system",
+      "Phylogenetic relationship",
+      "mitosis"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_13_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Salient features of Five Kingdoms :1. Kingdom Monera :",
+    "concepts": [
+      "prokaryotic",
+      "unicellular",
+      "binary fission",
+      "plasmids",
+      "autotrophs",
+      "heterotrophs"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH02_S2_13_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Salient features of Five Kingdoms :1. Kingdom Monera :",
+    "concepts": [
+      "lichen",
+      "mutualism",
+      "fungus-algae relationship"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH02_S2_13_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Salient features of Five Kingdoms :1. Kingdom Monera :",
+    "concepts": [
+      "heterotrophs",
+      "holozoic nutrition",
+      "multicellular eukaryotes",
+      "determinate growth"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH02_S2_13_002",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Salient features of Five Kingdoms :1. Kingdom Monera :",
+    "concepts": [
+      "viruses",
+      "viroids",
+      "Kingdom Monera"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH02_S2_14_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Acellular organisms:",
+    "concepts": [
+      "obligate parasites",
+      "protein coat",
+      "genetic material",
+      "host cell",
+      "replicate",
+      "active multiplication"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH02_S2_14_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Acellular organisms:",
+    "concepts": [
+      "genetic material",
+      "capsid",
+      "viruses"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH02_S2_14_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 2,
+    "chapter_title": "Systematics Of Living Organisms",
+    "section": "Acellular organisms:",
+    "concepts": [
+      "prions",
+      "abnormal folding protein",
+      "mad cow disease",
+      "Jacob's disease"
+    ]
+  }
+]

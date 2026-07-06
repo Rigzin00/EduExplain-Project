@@ -1,0 +1,294 @@
+[
+  {
+    "resource_id": "TXT_12_CH30_X_001",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": null,
+    "concepts": [
+      "semiconductors",
+      "electronics",
+      "information technology"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_1_001",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "A MODEL COMMUNICATION SYSTEM",
+    "concepts": [
+      "signal bandwidths",
+      "noise",
+      "communication systems"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_1_002",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "A MODEL COMMUNICATION SYSTEM",
+    "concepts": [
+      "source",
+      "encoder",
+      "transmitter"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_2_001",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "TYPES OF SIGNALS – ANALOGUE AND DIGITAL",
+    "concepts": [
+      "analog signal",
+      "digital signal",
+      "binary digit"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_3_001",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "BAND WIDTH OF SIGNALS",
+    "concepts": [
+      "bandwidth",
+      "signal variation",
+      "quality and capacity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_3_002",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "BAND WIDTH OF SIGNALS",
+    "concepts": [
+      "electromagnetic waves",
+      "Maxwell's equations",
+      "speed of light",
+      "wavelengths",
+      "radio waves",
+      "visible light"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_4_001",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "COMMUNICATION MEDIA",
+    "concepts": [
+      "wireless channels",
+      "radio waves",
+      "antennas"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_4_002",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "COMMUNICATION MEDIA",
+    "concepts": [
+      "parallel conductors",
+      "twisted pairs",
+      "coaxial cables",
+      "waveguides",
+      "optical fibers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_4_003",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "COMMUNICATION MEDIA",
+    "concepts": [
+      "multiplexing",
+      "optical fibers",
+      "step-index optical fibers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_5_001",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "UNGUIDED MEDIA",
+    "concepts": [
+      "electromagnetic waves",
+      "atmospheric layers",
+      "ionosphere"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_5_002",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "UNGUIDED MEDIA",
+    "concepts": [
+      "ground wave propagation",
+      "electromagnetic waves",
+      "terrain effect"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_5_003",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "UNGUIDED MEDIA",
+    "concepts": [
+      "sky wave",
+      "ionospheric propagation",
+      "reflective properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_5_004",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "UNGUIDED MEDIA",
+    "concepts": [
+      "space wave propagation",
+      "line-of-sight transmission",
+      "communication satellites"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_5_005",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "UNGUIDED MEDIA",
+    "concepts": [
+      "uplinking",
+      "downlinking",
+      "geostationary orbit"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_6_001",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "MODULATION – ANALOGUE AM AND FM, DIGITAL (PCM)",
+    "concepts": [
+      "modulation",
+      "amplitude modulation",
+      "frequency modulation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_7_001",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "DEMODULATION",
+    "concepts": [
+      "demodulation",
+      "rectifier",
+      "envelope"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_7_002",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "DEMODULATION",
+    "concepts": [
+      "transmit signals",
+      "space wave",
+      "tropospheric propagation",
+      "artificial satellites",
+      "relay broadcasting"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_7_003",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "DEMODULATION",
+    "concepts": [
+      "laws of thermodynamics",
+      "heat transfer",
+      "thermal equilibrium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_7_004",
+    "document_id": "NIOS_PHY_CH30",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Communication Systems",
+    "section": "DEMODULATION",
+    "concepts": [
+      "semiconductor",
+      "doping",
+      "forward biasing"
+    ]
+  }
+]

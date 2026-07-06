@@ -1,0 +1,402 @@
+[
+  {
+    "resource_id": "TXT_12_CH21_X_001",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": null,
+    "concepts": [
+      "transition metals",
+      "4f series",
+      "electronic configuration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_X_002",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": null,
+    "concepts": [
+      "d-block elements",
+      "f-block elements",
+      "coloured ions",
+      "complex compounds",
+      "magnetic properties",
+      "interstitial compounds",
+      "alloys"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_1_001",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "OCCURRENCE OF THE FIRST-ROW TRANSITION METAL ELEMENTS",
+    "concepts": [
+      "transition elements",
+      "free state",
+      "gold",
+      "platinum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_2_001",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "d-BLOCK ELEMENTS",
+    "concepts": [
+      "metallic properties",
+      "transition elements",
+      "d-subshell"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_2_002",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "ELECTRONIC CONFIGURATION",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_3_001",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "PHYSICAL PROPERTIES",
+    "concepts": [
+      "high tensile strength",
+      "ductility",
+      "malleability",
+      "thermal conductivity",
+      "electrical conductivity",
+      "transition elements",
+      "melting point",
+      "boiling point",
+      "strong interatomic bonding",
+      "small atomic size",
+      "high density",
+      "effective nuclear charge",
+      "increased atomic radius",
+      "decreased atomic radius"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_4_001",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "CHARACTERISTIC PROPERTIES",
+    "concepts": [
+      "variable valency",
+      "colored compounds",
+      "d-orbital electrons"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_4_002",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "CHARACTERISTIC PROPERTIES",
+    "concepts": [
+      "oxidation states",
+      "d-block elements",
+      "transition metals"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_4_003",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "CHARACTERISTIC PROPERTIES",
+    "concepts": [
+      "paramagnetism",
+      "diamagnetism",
+      "magnetic properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_4_004",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "CHARACTERISTIC PROPERTIES",
+    "concepts": [
+      "coloration",
+      "electronic transitions",
+      "d-subshell"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_4_005",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "CHARACTERISTIC PROPERTIES",
+    "concepts": [
+      "atomic sizes",
+      "solid solutions",
+      "alloys",
+      "interstitial compounds",
+      "hardness",
+      "rigidity",
+      "malleability",
+      "ductility",
+      "tenacity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_4_006",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "CHARACTERISTIC PROPERTIES",
+    "concepts": [
+      "affinity",
+      "complex formation",
+      "ligands"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_4_007",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "CHARACTERISTIC PROPERTIES",
+    "concepts": [
+      "catalytic properties",
+      "transition metals",
+      "vanadium(V) oxide"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_5_001",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "IMPORTANT COMPOUNDS OF TRANSITION ELEMENTS",
+    "concepts": [
+      "transition elements",
+      "oxidizing agents",
+      "qualitative analysis",
+      "dyes",
+      "water treatment",
+      "quantitative analysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_5_002",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "IMPORTANT COMPOUNDS OF TRANSITION ELEMENTS",
+    "concepts": [
+      "potassium dichromate",
+      "reverberatory furnace",
+      "sodium chromate",
+      "acid treatment",
+      "recrystallization",
+      "oxidizing agent",
+      "chromyl chloride"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_5_003",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "IMPORTANT COMPOUNDS OF TRANSITION ELEMENTS",
+    "concepts": [
+      "potassium permanganate",
+      "redox reaction",
+      "warming"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_6_001",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "f-BLOCK ELEMENTS (LANTHANOIDES)",
+    "concepts": [
+      "lanthanoid",
+      "anti-penultimate shell",
+      "chemical properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_6_002",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "f-BLOCK ELEMENTS (LANTHANOIDES)",
+    "concepts": [
+      "lanthanoid series",
+      "electronic configuration",
+      "lanthanides"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_6_003",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "f-BLOCK ELEMENTS (LANTHANOIDES)",
+    "concepts": [
+      "lanthanoid contraction",
+      "atomic radius",
+      "ionic radius"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_6_004",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "f-BLOCK ELEMENTS (LANTHANOIDES)",
+    "concepts": [
+      "ionization enthalpy",
+      "+3 oxidation state",
+      "fluorides"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_7_001",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "ACTINOIDS",
+    "concepts": [
+      "oxidation states",
+      "electronic configuration",
+      "lanthanoids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_7_002",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "ACTINOIDS",
+    "concepts": [
+      "oxidation states",
+      "+3 oxidation state",
+      "lanthanoids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_7_003",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "ACTINOIDS",
+    "concepts": [
+      "energy gap",
+      "distinct chemical behaviors",
+      "unique chemical properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_7_004",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "ACTINOIDS",
+    "concepts": [
+      "atomic structure",
+      "chemical interactions",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_7_005",
+    "document_id": "NIOS_CHEM_CH21",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Objectives",
+    "section": "ACTINOIDS",
+    "concepts": [
+      "transition elements",
+      "redox reactions",
+      "manganese dioxide"
+    ]
+  }
+]

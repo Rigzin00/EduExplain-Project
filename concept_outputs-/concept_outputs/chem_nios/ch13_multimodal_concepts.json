@@ -1,0 +1,743 @@
+[
+  {
+    "resource_id": "TXT_12_CH13_X_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": null,
+    "concepts": [
+      "electrical energy",
+      "chemical energy",
+      "dry cells",
+      "batteries",
+      "redox reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_X_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": null,
+    "concepts": [
+      "reaction rates",
+      "mechanisms",
+      "electrochemistry",
+      "redox processes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_1_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "OXIDATION AND REDUCTION AS ELECTRON TRANSFER PROCESS",
+    "concepts": [
+      "oxidation",
+      "reduction",
+      "electron transfer process",
+      "redox reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_2_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "OXIDATION NUMBER",
+    "concepts": [
+      "oxidation number",
+      "electronegativity",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_2_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "OXIDATION NUMBER",
+    "concepts": [
+      "oxidation number",
+      "rules for assigning oxidation number",
+      "sulfur oxidation number",
+      "nitrogen oxidation number",
+      "chlorine oxidation number"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_3_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "BALANCING REDOX REACTION",
+    "concepts": [
+      "redox reaction",
+      "mass conservation",
+      "charge conservation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_3_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "BALANCING REDOX REACTION",
+    "concepts": [
+      "oxidation number",
+      "redox reaction",
+      "skeletal equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_3_003",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "BALANCING REDOX REACTION",
+    "concepts": [
+      "redox reaction",
+      "electrochemistry",
+      "conservation of electrical charge"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH13_S13_3_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "BALANCING REDOX REACTION",
+    "concepts": [
+      "redox reaction",
+      "half-reaction",
+      "electron balance",
+      "overall balanced equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_4_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROLYTIC CONDUCTION",
+    "concepts": [
+      "electrolyte",
+      "non-electrolyte",
+      "concentration",
+      "temperature"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_4_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROLYTIC CONDUCTION",
+    "concepts": [
+      "specific resistance",
+      "electrolyte",
+      "conductivity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_4_003",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROLYTIC CONDUCTION",
+    "concepts": [
+      "conductance",
+      "electrolytes",
+      "cell constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_4_004",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROLYTIC CONDUCTION",
+    "concepts": [
+      "molar conductivity",
+      "electrolytic conduction",
+      "molar conductance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_5_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "FACTORS AFFECTING CONDUCTIVITY",
+    "concepts": [
+      "concentration",
+      "ionization",
+      "molar conductivity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_5_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "FACTORS AFFECTING CONDUCTIVITY",
+    "concepts": []
+  },
+  {
+    "resource_id": "EXP_12_CH13_S13_5_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "FACTORS AFFECTING CONDUCTIVITY",
+    "concepts": [
+      "molar conductivity",
+      "Kohlrausch's Law",
+      "superposition"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_6_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTRO CHEMICAL CELLS",
+    "concepts": [
+      "electrochemical cell",
+      "electrolysis",
+      "galvanic cell"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_7_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROLYTIC CELLS OR RARADAIC CELLS",
+    "concepts": [
+      "electrolysis",
+      "anode",
+      "cathode",
+      "chloride ions",
+      "sodium ions",
+      "oxidation",
+      "reduction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_7_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROLYTIC CELLS OR RARADAIC CELLS",
+    "concepts": [
+      "electrochemical equivalent",
+      "equivalent mass",
+      "Faraday's Laws of Electrolysis"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH13_S13_7_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROLYTIC CELLS OR RARADAIC CELLS",
+    "concepts": [
+      "electrochemical reactions",
+      "Faraday's laws of electrolysis",
+      "silver deposition"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH13_S13_7_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROLYTIC CELLS OR RARADAIC CELLS",
+    "concepts": [
+      "Faraday's Laws of Electrolysis",
+      "electrolysis",
+      "mass deposition",
+      "silver",
+      "copper"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_7_003",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROLYTIC CELLS OR RARADAIC CELLS",
+    "concepts": [
+      "cathode",
+      "anode",
+      "reduction potential",
+      "overpotential"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_8_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "GALVANIC CELLS OR VOLTAIC CELLS",
+    "concepts": [
+      "chemical energy",
+      "electrical energy",
+      "cells",
+      "dry cells",
+      "car batteries",
+      "button cells",
+      "wristwatches"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_8_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "GALVANIC CELLS OR VOLTAIC CELLS",
+    "concepts": [
+      "redox reaction",
+      "electrochemical cell",
+      "galvanic cell"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_8_003",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "GALVANIC CELLS OR VOLTAIC CELLS",
+    "concepts": [
+      "salt bridge",
+      "electrolyte",
+      "agar-agar",
+      "cations",
+      "anions",
+      "oxidation",
+      "reduction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_8_004",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "GALVANIC CELLS OR VOLTAIC CELLS",
+    "concepts": [
+      "anode",
+      "cathode",
+      "half-cell boundary",
+      "salt bridge"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_9_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTRODE POTENTIAL",
+    "concepts": [
+      "oxidation",
+      "electrode potential",
+      "metal ions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_9_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTRODE POTENTIAL",
+    "concepts": [
+      "standard electrode potential",
+      "electrolyte concentration",
+      "temperature"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_10_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "MEASUREMENT OF ELECTRODE POTENTIAL",
+    "concepts": [
+      "electrode potential",
+      "oxidation",
+      "reduction",
+      "standard hydrogen electrode (SHE)",
+      "reference point"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_10_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "MEASUREMENT OF ELECTRODE POTENTIAL",
+    "concepts": [
+      "standard hydrogen electrode",
+      "platinum electrode",
+      "hydrogen gas",
+      "electrode potential",
+      "covalent bond",
+      "redox reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_10_003",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "MEASUREMENT OF ELECTRODE POTENTIAL",
+    "concepts": [
+      "standard electrode potential",
+      "galvanic cell",
+      "electrode potential measurement"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_11_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROCHEMICAL SERIES AND ITS APPLICATIONS",
+    "concepts": [
+      "electromotive force",
+      "potential difference",
+      "potentiometer"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_11_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROCHEMICAL SERIES AND ITS APPLICATIONS",
+    "concepts": [
+      "emf",
+      "standard cell emf",
+      "electromotive force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_11_003",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROCHEMICAL SERIES AND ITS APPLICATIONS",
+    "concepts": [
+      "electrode potential",
+      "standard cell electromotive force",
+      "galvanic cell"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_11_004",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROCHEMICAL SERIES AND ITS APPLICATIONS",
+    "concepts": [
+      "electrochemical series",
+      "standard reduction potentials",
+      "reducing agents",
+      "oxidizing agents"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_11_005",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROCHEMICAL SERIES AND ITS APPLICATIONS",
+    "concepts": [
+      "redox reaction",
+      "activity series",
+      "electrochemical series"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH13_S13_11_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROCHEMICAL SERIES AND ITS APPLICATIONS",
+    "concepts": [
+      "redox reaction",
+      "cell potential",
+      "standard electrode potentials"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH13_S13_11_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "ELECTROCHEMICAL SERIES AND ITS APPLICATIONS",
+    "concepts": [
+      "cell potential",
+      "electrode potential",
+      "redox reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_12_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "NERNST EQUATION FOR ELECTRODE POTENTIAL",
+    "concepts": [
+      "Nernst equation",
+      "electrode potential",
+      "ion concentration",
+      "standard electrode potential",
+      "gas constant",
+      "Faraday constant",
+      "temperature"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH13_S13_12_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "NERNST EQUATION FOR ELECTRODE POTENTIAL",
+    "concepts": [
+      "Nernst equation",
+      "reduction potential",
+      "silver ion (Ag⁺)",
+      "non-standard conditions",
+      "concentration of Ag⁺"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_12_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "NERNST EQUATION FOR ELECTRODE POTENTIAL",
+    "concepts": [
+      "electrode potential",
+      "Nernst equation",
+      "cell potential"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH13_S13_12_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "NERNST EQUATION FOR ELECTRODE POTENTIAL",
+    "concepts": [
+      "electromotive force (EMF)",
+      "cell's EMF",
+      "non-standard conditions",
+      "concentrations of ions",
+      "standard electrode potentials"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_13_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "BATTERIES AND FUEL CELLS",
+    "concepts": [
+      "dry cells",
+      "storage cells",
+      "fuel cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_14_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "CELL EMF AND GIBBS ENERGY",
+    "concepts": [
+      "cell",
+      "emf",
+      "gibbs energy"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH13_S13_14_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "CELL EMF AND GIBBS ENERGY",
+    "concepts": [
+      "standard Gibbs free energy change",
+      "Daniell cell",
+      "spontaneity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_15_001",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "CORROSION",
+    "concepts": [
+      "corrosion",
+      "electrochemical process",
+      "oxidation",
+      "carbonation",
+      "salting out"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_15_002",
+    "document_id": "NIOS_CHEM_CH13",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Electrochemistry",
+    "section": "CORROSION",
+    "concepts": [
+      "cell potential",
+      "Nernst equation",
+      "standard Gibbs energy change"
+    ]
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "resource_id": "RCL_12_CH13_X_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": null,
+    "concepts": [
+      "levels_of_organization",
+      "ecological_hierarchy",
+      "organism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Organisms and the environment around:",
+    "concepts": [
+      "ecosystem",
+      "biotic factors",
+      "abiotic factors",
+      "niches",
+      "fundamental niche",
+      "realized niche"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Major Abiotic Factors : Temperature:",
+    "concepts": [
+      "temperature",
+      "habitat",
+      "ecological system",
+      "cellular process",
+      "organism physiology"
+    ]
+  },
+  {
+    "resource_id": "ACT_12_CH13_S13_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Major Abiotic Factors : Temperature:",
+    "concepts": [
+      "life on Earth originates in aquatic environments",
+      "chemical composition and salinity",
+      "freshwater systems",
+      "marine environments",
+      "hypersaline lagoons",
+      "different species adapt to varying conditions",
+      "salinity tolerance",
+      "eutrophy"
+    ]
+  },
+  {
+    "resource_id": "ACT_12_CH13_S13_2_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Major Abiotic Factors : Temperature:",
+    "concepts": [
+      "photosynthesis",
+      "light-dependent reactions",
+      "chlorophyll"
+    ]
+  },
+  {
+    "resource_id": "ACT_12_CH13_S13_2_003",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Major Abiotic Factors : Temperature:",
+    "concepts": [
+      "chemosynthesis",
+      "microorganisms",
+      "temperature",
+      "abiotic factors",
+      "homeostasis",
+      "adaptation",
+      "body temperature"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Adaptation:",
+    "concepts": [
+      "adaptation",
+      "morphological changes",
+      "physiological adaptations",
+      "behavioral adaptations",
+      "CAM photosynthesis",
+      "Allen's Rule",
+      "blubber insulation"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Adaptation:",
+    "concepts": [
+      "adaptation",
+      "behavioural response",
+      "desert lizard"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Population:",
+    "concepts": [
+      "population",
+      "size",
+      "density",
+      "natality",
+      "mortality",
+      "sex ratio",
+      "natural selection"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH13_S13_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Population:",
+    "concepts": [
+      "age distribution",
+      "age pyramid",
+      "population"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Population:",
+    "concepts": [
+      "population density",
+      "biomass",
+      "relative densities"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_4_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Population:",
+    "concepts": [
+      "evolution",
+      "reproductive strategy",
+      "organisms"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_4_003",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Population:",
+    "concepts": [
+      "reproductive strategy",
+      "monocot plant",
+      "dicot plant"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Population Interactions:",
+    "concepts": [
+      "mutualism",
+      "competition",
+      "parasitism"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Population Interactions:",
+    "concepts": [
+      "ectoparasite",
+      "copepod",
+      "cuscuta",
+      "brood parasitism",
+      "tiger",
+      "deer",
+      "sparrow",
+      "grazer"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH13_S13_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Organisms And The Environment Around:",
+    "section": "Population Interactions:",
+    "concepts": [
+      "invasive species",
+      "predator-prey relationship",
+      "ecological balance",
+      "arms race",
+      "cryptic colouring",
+      "chemical defence",
+      "cardiac glycosides"
+    ]
+  }
+]

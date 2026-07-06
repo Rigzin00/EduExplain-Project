@@ -1,0 +1,815 @@
+[
+  {
+    "resource_id": "TXT_12_CH05_S5_1_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Introduction : Dry cell is used to power our electrical and electronic equipments because it generates electricity. Do you know how does a dry cell generate electricity? A chemical reaction occurs in it which generates electricity. Thus in a dry cell chemical energy is converted into electrical energy.",
+    "concepts": [
+      "electrolysis",
+      "electricity",
+      "chemical energy"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH05_S5_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electric conduction : We know that the electric current represents a charge transfer. A charge transfer or flow of electricity occurs through substances called conductors. There are two types of conductors which give rise to two types of conduction of electricity.",
+    "concepts": [
+      "electrical conduction",
+      "conduction bond",
+      "conductivity band"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electric conduction : We know that the electric current represents a charge transfer. A charge transfer or flow of electricity occurs through substances called conductors. There are two types of conductors which give rise to two types of conduction of electricity.",
+    "concepts": [
+      "electrolysis",
+      "ionization",
+      "conductor"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_2_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electric conduction : We know that the electric current represents a charge transfer. A charge transfer or flow of electricity occurs through substances called conductors. There are two types of conductors which give rise to two types of conduction of electricity.",
+    "concepts": [
+      "conductor",
+      "conductivity",
+      "electrolyte",
+      "nonelectrolyte",
+      "dissociation",
+      "strong electrolyte",
+      "weak electrolyte"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrical conductance of solution:",
+    "concepts": [
+      "resistance",
+      "conductance",
+      "ohm"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrical conductance of solution:",
+    "concepts": [
+      "conductivity",
+      "electrical conductance",
+      "resistivity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrical conductance of solution:",
+    "concepts": [
+      "molar conductivity",
+      "electrolytic conductivity",
+      "concentration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrical conductance of solution:",
+    "concepts": [
+      "molar conductivity",
+      "concentration",
+      "electrolyte",
+      "conductivity",
+      "volume",
+      "equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrical conductance of solution:",
+    "concepts": [
+      "concentration",
+      "dilution",
+      "ionization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_006",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrical conductance of solution:",
+    "concepts": [
+      "molar conductivity",
+      "Kohlrausch's law",
+      "concentration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_007",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrical conductance of solution:",
+    "concepts": [
+      "molar conductivity",
+      "Kohlrausch law of independent migration of ions",
+      "electrolyte"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_008",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrical conductance of solution:",
+    "concepts": [
+      "molar conductivity",
+      "degree of dissociation",
+      "weak electrolyte"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_3_009",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrical conductance of solution:",
+    "concepts": [
+      "cell constant",
+      "Wheatstone bridge",
+      "molar conductivity"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH05_S5_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrochemical cells : An electrochemical cell consists of two metal plates or carbon (graphite) rods. These electronic conductors are dipped into an electrolytic or ionic conductor.",
+    "concepts": [
+      "electrochemical reaction",
+      "redox reaction",
+      "oxidation half reaction",
+      "reduction half reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrochemical cells : An electrochemical cell consists of two metal plates or carbon (graphite) rods. These electronic conductors are dipped into an electrolytic or ionic conductor.",
+    "concepts": [
+      "electrode",
+      "oxidation",
+      "reduction"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH05_S5_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrolytic cell",
+    "concepts": [
+      "electrolysis",
+      "electrolytic cell",
+      "oxidation-reduction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrolytic cell",
+    "concepts": [
+      "electrolysis",
+      "anode",
+      "cathode",
+      "electrolyte",
+      "direct current",
+      "cell reaction",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_5_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrolytic cell",
+    "concepts": [
+      "electrolysis",
+      "aqueous solution",
+      "cathode reaction",
+      "anode reaction",
+      "water reduction",
+      "chloride ion oxidation"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH05_S5_5_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrolytic cell",
+    "concepts": [
+      "electrolysis",
+      "aqueous NaCl",
+      "cell reaction",
+      "oxidation",
+      "reduction",
+      "electrolysis of molten NaCl"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH05_S5_5_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrolytic cell",
+    "concepts": [
+      "electrolysis",
+      "aqueous solution",
+      "electrode reactions",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_5_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrolytic cell",
+    "concepts": [
+      "moles",
+      "electrolysis",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S63_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "g mot 1",
+    "concepts": [
+      "electrolysis",
+      "Faraday's laws of electrolysis",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH05_S63_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "g mot 1",
+    "concepts": [
+      "electrode potential",
+      "Faraday's constant",
+      "redox reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Galvanic or voltaic cell : In galvanic or voltaic cells, electricity is generated through the use of spontaneous chemical reactions.",
+    "concepts": [
+      "galvanic cell",
+      "spontaneous chemical reactions",
+      "electrolyte solutions",
+      "salt bridge",
+      "conducting wire"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_6_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Galvanic or voltaic cell : In galvanic or voltaic cells, electricity is generated through the use of spontaneous chemical reactions.",
+    "concepts": [
+      "salt bridge",
+      "electrolyte",
+      "gel"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_6_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Galvanic or voltaic cell : In galvanic or voltaic cells, electricity is generated through the use of spontaneous chemical reactions.",
+    "concepts": [
+      "electrochemical cell",
+      "spontaneous chemical reaction",
+      "galvanic cell"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH05_S5_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Galvanic or voltaic cell : In galvanic or voltaic cells, electricity is generated through the use of spontaneous chemical reactions.",
+    "concepts": [
+      "electrochemical cell",
+      "spontaneous chemical reaction",
+      "galvanic cell"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_6_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Galvanic or voltaic cell : In galvanic or voltaic cells, electricity is generated through the use of spontaneous chemical reactions.",
+    "concepts": [
+      "oxidation",
+      "reduction",
+      "cell reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrode potential and cell potential",
+    "concepts": [
+      "electrode potential",
+      "cell potential",
+      "oxidation potential",
+      "reduction potential",
+      "emf"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_7_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrode potential and cell potential",
+    "concepts": [
+      "standard conditions",
+      "cell potential",
+      "standard reduction potential",
+      "standard oxidation potential",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_7_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrode potential and cell potential",
+    "concepts": [
+      "cell voltage",
+      "standard cell potential",
+      "concentration dependence",
+      "Nernst equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Thermodynamics of galvanic cells",
+    "concepts": [
+      "electrical work",
+      "Faraday constant",
+      "cell potential",
+      "Gibbs free energy",
+      "spontaneous reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_8_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Thermodynamics of galvanic cells",
+    "concepts": [
+      "standard Gibbs energy change",
+      "equilibrium constant",
+      "cell potential"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Reference electrodes: Every oxidation needs to be accompanied by reduction. The occurrence of only oxidation or only reduction is not possible. (Refer to Std. XI Chemistry Textbook Chapter 6)",
+    "concepts": [
+      "redox reaction",
+      "potential measurement",
+      "reference electrode"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_9_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Reference electrodes: Every oxidation needs to be accompanied by reduction. The occurrence of only oxidation or only reduction is not possible. (Refer to Std. XI Chemistry Textbook Chapter 6)",
+    "concepts": [
+      "Standard Hydrogen Electrode",
+      "platinum plate",
+      "electrode reaction",
+      "electron transfer",
+      "reduction half-reaction",
+      "standard potential"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_10_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Galvanic cells useful in day-to-day life",
+    "concepts": [
+      "galvanic cell",
+      "primary cell",
+      "secondary cell",
+      "lead storage battery",
+      "rechargeable",
+      "cell reaction",
+      "chemicals",
+      "discharge",
+      "recharge"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_10_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Galvanic cells useful in day-to-day life",
+    "concepts": [
+      "electrolyte",
+      "ammonium chloride",
+      "zinc chloride",
+      "starch",
+      "oxidation",
+      "reduction",
+      "ammonium ions",
+      "hydrogen gas",
+      "manganese dioxide",
+      "carbon black"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH05_S5_10_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Galvanic cells useful in day-to-day life",
+    "concepts": [
+      "electrolyte",
+      "Zn anode corrosion",
+      "dry cell life",
+      "alkaline dry cell",
+      "NaOH/KOH electrolyte",
+      "longer life",
+      "flashlights",
+      "portable radios",
+      "tape recorders"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_10_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Galvanic cells useful in day-to-day life",
+    "concepts": [
+      "sulfuric acid",
+      "lead ions",
+      "sulfate ions",
+      "water",
+      "cell's potential",
+      "reduction",
+      "oxidation",
+      "regeneration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_10_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Galvanic cells useful in day-to-day life",
+    "concepts": [
+      "oxidation",
+      "reduction",
+      "electrolyte",
+      "cell reaction",
+      "potential",
+      "lifespan"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_10_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Galvanic cells useful in day-to-day life",
+    "concepts": [
+      "anode oxidation",
+      "cathode reduction",
+      "mercuric oxide"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_11_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Fuel cells : The functioning of fuel cells is based on the fact that combustion reactions are of redox type and can be used to generate electricity.",
+    "concepts": [
+      "redox reaction",
+      "combustion reaction",
+      "electrolysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_11_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Fuel cells : The functioning of fuel cells is based on the fact that combustion reactions are of redox type and can be used to generate electricity.",
+    "concepts": [
+      "redox reaction",
+      "electrolyte",
+      "electrocatalyst",
+      "fuel cell",
+      "combustion reaction",
+      "electrical energy",
+      "chemical energy"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH05_S5_11_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Fuel cells : The functioning of fuel cells is based on the fact that combustion reactions are of redox type and can be used to generate electricity.",
+    "concepts": [
+      "redox reaction",
+      "combustion reaction",
+      "electrical energy"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH05_S5_11_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Fuel cells : The functioning of fuel cells is based on the fact that combustion reactions are of redox type and can be used to generate electricity.",
+    "concepts": [
+      "redox reaction",
+      "combustion reaction",
+      "electrolysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH05_S5_12_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrochemical series (Electromotive series): The standard potentials of a number of electrodes have been determined using standard hydrogen electrode. These electrodes with their half reactions are arranged according to their decreasing standard potentials as shown in Table 5.1. This arrangement is called electrochemical series.",
+    "concepts": [
+      "electrochemical series",
+      "half-reactions",
+      "oxidizing agents",
+      "reducing agents"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH05_S5_12_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrochemical series (Electromotive series): The standard potentials of a number of electrodes have been determined using standard hydrogen electrode. These electrodes with their half reactions are arranged according to their decreasing standard potentials as shown in Table 5.1. This arrangement is called electrochemical series.",
+    "concepts": [
+      "oxidizing agents",
+      "reducing agents",
+      "electrochemical series"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH05_S5_12_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrochemical series (Electromotive series): The standard potentials of a number of electrodes have been determined using standard hydrogen electrode. These electrodes with their half reactions are arranged according to their decreasing standard potentials as shown in Table 5.1. This arrangement is called electrochemical series.",
+    "concepts": [
+      "electrochemical series",
+      "spontaneous redox reactions",
+      "standard cell potential"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH05_S5_12_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrochemical series (Electromotive series): The standard potentials of a number of electrodes have been determined using standard hydrogen electrode. These electrodes with their half reactions are arranged according to their decreasing standard potentials as shown in Table 5.1. This arrangement is called electrochemical series.",
+    "concepts": [
+      "electrochemical series",
+      "standard potential",
+      "half-reactions"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH05_S5_12_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 5,
+    "chapter_title": "Electrochemistry",
+    "section": "Electrochemical series (Electromotive series): The standard potentials of a number of electrodes have been determined using standard hydrogen electrode. These electrodes with their half reactions are arranged according to their decreasing standard potentials as shown in Table 5.1. This arrangement is called electrochemical series.",
+    "concepts": [
+      "electrochemical series",
+      "proton conducting plastic membrane",
+      "standard potentials"
+    ]
+  }
+]

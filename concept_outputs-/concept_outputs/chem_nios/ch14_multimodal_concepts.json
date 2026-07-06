@@ -1,0 +1,365 @@
+[
+  {
+    "resource_id": "TXT_12_CH14_X_001",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": null,
+    "concepts": [
+      "chemical kinetics",
+      "reaction rates",
+      "controlling factors"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_X_002",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "conversion of light energy",
+      "chemical energy",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts",
+      "plant cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_1_001",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "RATE OF A CHEMICAL REACTION",
+    "concepts": [
+      "rate_of_reaction",
+      "concentration_change_over_time",
+      "stoichiometry"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_001",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "AVERAGE RATE AND INSTANTANEOUS RATE",
+    "concepts": [
+      "average rate of reaction",
+      "instantaneous rate",
+      "concentration of reactants"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_3_001",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "FACTORS AFFECTING RATE OF A REACTION",
+    "concepts": [
+      "catalyst",
+      "reaction speed",
+      "redox reaction"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH14_S14_3_001",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "FACTORS AFFECTING RATE OF A REACTION",
+    "concepts": [
+      "rate of reaction",
+      "concentrations of reactants and products",
+      "reaction N₂(g) + 3H₂(g) → 2NH₃(g)",
+      "average rate of formation",
+      "instantaneous rate of disappearance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_4_001",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "DEPENDENCE OF REACTION RATE UPON CONCENTRATION",
+    "concepts": [
+      "rate law",
+      "exponent",
+      "reaction rate",
+      "concentration",
+      "rate constant",
+      "stoichiometric coefficients",
+      "chemical kinetics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_5_001",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "ORDER AND MOLECULARITY OF A REACTION",
+    "concepts": [
+      "order",
+      "molecularity",
+      "rate law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_5_002",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "ORDER AND MOLECULARITY OF A REACTION",
+    "concepts": [
+      "order of a reaction",
+      "power to which its concentration term is raised",
+      "sum of these individual orders"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_5_003",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "ORDER AND MOLECULARITY OF A REACTION",
+    "concepts": [
+      "rate of reaction",
+      "rate constant",
+      "proportionality constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_5_004",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "ORDER AND MOLECULARITY OF A REACTION",
+    "concepts": [
+      "molecularity",
+      "reacting species",
+      "collision"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_6_001",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "UNITS OF RATE CONSTANT",
+    "concepts": [
+      "units of rate constant",
+      "rate constant units",
+      "zero-order reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_6_002",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "UNITS OF RATE CONSTANT",
+    "concepts": [
+      "rate constant",
+      "zero order reactions",
+      "half-life period"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_6_003",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "UNITS OF RATE CONSTANT",
+    "concepts": [
+      "first-order reaction",
+      "rate constant",
+      "natural logarithm"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_6_004",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "UNITS OF RATE CONSTANT",
+    "concepts": [
+      "half-life period",
+      "rate constant",
+      "first-order reaction"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH14_S14_6_001",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "UNITS OF RATE CONSTANT",
+    "concepts": [
+      "first-order reaction",
+      "rate constant",
+      "half-life period"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH14_S14_6_002",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "UNITS OF RATE CONSTANT",
+    "concepts": [
+      "half-life period",
+      "first-order rate constant",
+      "hydrogen peroxide"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH14_S14_6_003",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "UNITS OF RATE CONSTANT",
+    "concepts": [
+      "half-life period",
+      "rate constant",
+      "decomposition"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_7_001",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "COLLISION THEORY OF REACTION RATES",
+    "concepts": [
+      "collision theory",
+      "kinetic energy",
+      "molecules",
+      "activation energy",
+      "effective collisions",
+      "orientation",
+      "reaction rate"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_7_002",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "DEPENDENCE OF REACTION RATE ON TEMPERATURE",
+    "concepts": [
+      "activation energy",
+      "Arrhenius equation",
+      "rate constant"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH14_S14_7_001",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "DEPENDENCE OF REACTION RATE ON TEMPERATURE",
+    "concepts": [
+      "Arrhenius equation",
+      "activation energy",
+      "rate constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_7_003",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "DEPENDENCE OF REACTION RATE ON TEMPERATURE",
+    "concepts": [
+      "rate constant",
+      "reaction rate",
+      "temperature dependence"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_7_004",
+    "document_id": "NIOS_CHEM_CH14",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Chemical Kinetics",
+    "section": "DEPENDENCE OF REACTION RATE ON TEMPERATURE",
+    "concepts": [
+      "rate law",
+      "rate constant",
+      "half-life"
+    ]
+  }
+]

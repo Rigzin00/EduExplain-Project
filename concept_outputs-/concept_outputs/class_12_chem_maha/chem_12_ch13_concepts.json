@@ -1,0 +1,556 @@
+[
+  {
+    "resource_id": "RCL_12_CH13_X_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": null,
+    "concepts": [
+      "amino acid",
+      "protein",
+      "vitamin"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_1_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Classification of Amines: Amines are classified as primary (1°), secondary (2°) and tertiary (3°) amines. Their structures are obtained in simple way by replacing one, two or three hydrogen atoms of NH&lt;sub&gt;3&lt;/sub&gt; molecule by alkyl/aryl groups (see Table 13.1).",
+    "concepts": [
+      "classification of amines",
+      "primary amines",
+      "secondary amines",
+      "tertiary amines",
+      "aliphatic amines",
+      "aromatic amines"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_1_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Classification of Amines: Amines are classified as primary (1°), secondary (2°) and tertiary (3°) amines. Their structures are obtained in simple way by replacing one, two or three hydrogen atoms of NH&lt;sub&gt;3&lt;/sub&gt; molecule by alkyl/aryl groups (see Table 13.1).",
+    "concepts": [
+      "classification of amines",
+      "primary (1°)",
+      "secondary (2°)",
+      "tertiary (3°)",
+      "aliphatic",
+      "aromatic",
+      "alkyl/aryl groups",
+      "functional group",
+      "nitrogen atom"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_2_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Nomenclature of Amines:",
+    "concepts": [
+      "IUPAC names",
+      "primary amines",
+      "parent alkane",
+      "locant",
+      "amino group",
+      "N-substituent",
+      "arylamines"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Preparation of Amines:",
+    "concepts": [
+      "nucleophilic substitution",
+      "alkyl halide",
+      "amino group",
+      "primary amine",
+      "secondary amine",
+      "tertiary amine",
+      "quaternary ammonium salt"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH13_S13_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Preparation of Amines:",
+    "concepts": [
+      "elimination reaction",
+      "nucleophilic substitution",
+      "stable tertiary butyl carbocation intermediate"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_3_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Preparation of Amines:",
+    "concepts": [
+      "reduction",
+      "nitro compound",
+      "primary amine",
+      "metal-acid mixture",
+      "hydrogenation",
+      "catalyst",
+      "nickel",
+      "platinum",
+      "palladium"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Preparation of Amines:",
+    "concepts": [
+      "reduction",
+      "alkyl cyanide",
+      "Mendius reduction",
+      "sodium",
+      "ethanol",
+      "lithium aluminium hydride",
+      "primary amines",
+      "alkyl halide"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_3_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Preparation of Amines:",
+    "concepts": [
+      "reduction",
+      "alkyl cyanide",
+      "alkanenitrile"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_3_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Preparation of Amines:",
+    "concepts": [
+      "amide",
+      "amine",
+      "hydrogenation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_3_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Preparation of Amines:",
+    "concepts": [
+      "primary amine",
+      "phthalimide",
+      "aromatic amide"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_3_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Preparation of Amines:",
+    "concepts": [
+      "amide",
+      "primary amine",
+      "Hofmann degradation",
+      "Hofmann rearrangement",
+      "Hofmann bromamide degradation",
+      "Hofmann hypobromite degradation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Physical properties of Amines:",
+    "concepts": [
+      "polarization",
+      "intermolecular hydrogen bonding",
+      "dipole-dipole interactions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Basicity of Amines",
+    "concepts": [
+      "basicity",
+      "amine",
+      "pK_b",
+      "conjugate acid"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Basicity of Amines",
+    "concepts": [
+      "basicity",
+      "stabilization",
+      "protonated amine"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_5_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Basicity of Amines",
+    "concepts": [
+      "basicity_of_amines",
+      "inductive_effect",
+      "conjugate_acids",
+      "stabilization",
+      "alkyl_group",
+      "ammonia",
+      "tertiary_amine",
+      "secondary_amine",
+      "primary_amine"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_5_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Basicity of Amines",
+    "concepts": [
+      "pK<sub>b</sub> values",
+      "basicity of amines",
+      "ammonia",
+      "aliphatic amines",
+      "aromatic amines",
+      "Lowery Bronsted theory",
+      "arylamine",
+      "base-stabilization",
+      "resonance stabilization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Chemical properties of amines",
+    "concepts": [
+      "basicity",
+      "amines",
+      "HCl",
+      "NaOH",
+      "β-naphthol"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Chemical properties of amines",
+    "concepts": [
+      "chemical reaction",
+      "ammonia synthesis",
+      "amine identification"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_6_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Chemical properties of amines",
+    "concepts": [
+      "Hofmann Elimination",
+      "β-elimination",
+      "alkenes"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_6_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Chemical properties of amines",
+    "concepts": [
+      "Hofmann Elimination",
+      "chemical reaction",
+      "substitution reaction"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH13_S13_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Chemical properties of amines",
+    "concepts": [
+      "quaternary ammonium salt",
+      "neurotransmitter",
+      "cationic detergent"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_6_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Chemical properties of amines",
+    "concepts": [
+      "acetylation",
+      "amides",
+      "nucleophilic substitution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_6_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Chemical properties of amines",
+    "concepts": [
+      "primary amines",
+      "chloroform",
+      "potassium hydroxide",
+      "alkyl or aryl isocyanides",
+      "carbylamines",
+      "aniline",
+      "chlorine"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_6_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Chemical properties of amines",
+    "concepts": [
+      "chemical properties of amines",
+      "nitrous acid",
+      "aliphatic primary amines",
+      "primary amines",
+      "diazonium salts",
+      "benzene diazonium chloride",
+      "aromatic primary amines"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Reactions of arene diazonium salts: Aryl diazonium salts show two types of reactions.",
+    "concepts": [
+      "diazonium group",
+      "nucleophilic substitution",
+      "fluoroarene"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Reactions of arene diazonium salts: Aryl diazonium salts show two types of reactions.",
+    "concepts": [
+      "nucleophilic substitution",
+      "displacement of diazo group",
+      "arene diazonium salts"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_7_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Reactions of arene diazonium salts: Aryl diazonium salts show two types of reactions.",
+    "concepts": [
+      "electrophilic aromatic substitution",
+      "azo coupling",
+      "extended conjugated system"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH13_S13_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Reactions of arene diazonium salts: Aryl diazonium salts show two types of reactions.",
+    "concepts": [
+      "azo dye",
+      "diazonium salt",
+      "coupling reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Reaction with arenesulfonyl chloride:",
+    "concepts": [
+      "primary amines",
+      "alkali",
+      "N-ethyl benzenesulfonyl amide",
+      "diethylbenzene sulfonamide",
+      "tertiary amines"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Reaction with arenesulfonyl chloride:",
+    "concepts": [
+      "arenesulfonyl chloride",
+      "Hinsberg's test"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH13_S13_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Reaction with arenesulfonyl chloride:",
+    "concepts": [
+      "pKa/pKb values",
+      "basic strength",
+      "protection of NH2 group",
+      "acetylation",
+      "nitration",
+      "hydrolysis",
+      "p-nitroaniline as major product"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH13_S13_8_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "13 Amines",
+    "section": "Reaction with arenesulfonyl chloride:",
+    "concepts": [
+      "nitrobenzene",
+      "conc.HCl",
+      "redox reaction"
+    ]
+  }
+]

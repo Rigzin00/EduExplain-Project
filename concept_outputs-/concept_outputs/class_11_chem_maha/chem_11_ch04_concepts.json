@@ -1,0 +1,337 @@
+[
+  {
+    "resource_id": "TXT_11_CH04_S4_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Subatomic particles: Dalton's atomic theory was able to explain the laws of chemical combination successfully. However, it failed to explain some properties of matter. For example, it could not explain why substances like glass or ebonite when rubbed with silk or fur, generate electricity. Discovery of subatomic particles in late nineteenth and early twentieth century set a blow to Dalton's atomic model of hard sphere. Three important subatomic particles, namely, proton, electron and neutron which are of concern to Chemistry were discovered. Proton and neutron are present in the atomic nucleus and together are called nucleons. Electrons are present in the extranuclear part of an atom. The properties of electron, proton and neutron are summarised in Table 4.1",
+    "concepts": [
+      "subatomic particles",
+      "proton",
+      "electron",
+      "neutron",
+      "nucleon",
+      "atomic nucleus",
+      "extranuclear part"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Atomic number and atomic mass number",
+    "concepts": [
+      "atomic number",
+      "electronic charge",
+      "neutrons",
+      "isotopes",
+      "isobars"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Drawbacks of Rutherford atomic model",
+    "concepts": [
+      "electrons orbiting the nucleus",
+      "accelerating charges emitting radiation",
+      "loss of energy",
+      "spiral into the nucleus"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_5_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Developments leading to the Bohr's atomic model : At the time when different models of atomic structure were being put forth, some results obtained from the studies of interactions of radiation with matter required to be correlated to atomic structure. Niels Bohr utilized these results to get over the drawbacks of Rutherford atomic model. These results were : (1) wave particle duality of electromagnatic radiation and (2) line emission spectra of hydrogen.",
+    "concepts": [
+      "wave particle duality of electromagnetic radiation",
+      "line emission spectra of hydrogen",
+      "quantization of energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_5_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Developments leading to the Bohr's atomic model : At the time when different models of atomic structure were being put forth, some results obtained from the studies of interactions of radiation with matter required to be correlated to atomic structure. Niels Bohr utilized these results to get over the drawbacks of Rutherford atomic model. These results were : (1) wave particle duality of electromagnatic radiation and (2) line emission spectra of hydrogen.",
+    "concepts": [
+      "wave particle duality of electromagnetic radiation",
+      "line emission spectra of hydrogen",
+      "Balmer and Rydberg formulas"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_6_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Bohr's model for hydrogen atom: Niels",
+    "concepts": [
+      "energy levels",
+      "quantized energy transitions",
+      "discrete amounts of energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_6_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Bohr's model for hydrogen atom: Niels",
+    "concepts": [
+      "quantization",
+      "discrete energy levels",
+      "Planck's constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_6_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Bohr's model for hydrogen atom: Niels",
+    "concepts": [
+      "principal quantum number",
+      "Bohr radius",
+      "energy of states"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH04_S4_6_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Bohr's model for hydrogen atom: Niels",
+    "concepts": [
+      "hydrogen-like species",
+      "Bohr's theory",
+      "stationary states",
+      "atomic number",
+      "energy",
+      "radius"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_6_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Bohr's model for hydrogen atom: Niels",
+    "concepts": [
+      "energy difference",
+      "quantum mechanics",
+      "Bohr theory"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_6_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Bohr's model for hydrogen atom: Niels",
+    "concepts": [
+      "atomic structure theory",
+      "chemical bonding capabilities",
+      "comprehensive atomic structure theory"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_6_006",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Bohr's model for hydrogen atom: Niels",
+    "concepts": [
+      "wavelength",
+      "momentum",
+      "uncertainty principle"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_7_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Quantum mechanical model of atom:",
+    "concepts": [
+      "wave nature of particles",
+      "Schrödinger equation",
+      "energy levels"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_7_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Quantum mechanical model of atom:",
+    "concepts": [
+      "quantum numbers",
+      "Schrödinger equation",
+      "hydrogen atom"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_7_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Quantum mechanical model of atom:",
+    "concepts": [
+      "quantum numbers",
+      "subshells",
+      "magnetic quantum number"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_7_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Quantum mechanical model of atom:",
+    "concepts": [
+      "quantum mechanical model of atom",
+      "probability density diagram",
+      "electron probability distribution",
+      "wave function",
+      "Max Born"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH04_S4_7_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Quantum mechanical model of atom:",
+    "concepts": [
+      "shapes of atomic orbitals",
+      "probability density",
+      "wave function",
+      "Max Born's principle",
+      "spherical shape",
+      "size of orbitals",
+      "principal quantum number",
+      "lobes of orbitals",
+      "nodal plane",
+      "equivalent energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_7_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Quantum mechanical model of atom:",
+    "concepts": [
+      "quantum mechanical model of atom",
+      "energy of electrons",
+      "hydrogen-like species",
+      "principal quantum number",
+      "azimuthal quantum number",
+      "orbitals",
+      "order of orbitals"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_7_006",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Quantum mechanical model of atom:",
+    "concepts": [
+      "Aufbau principle",
+      "Pauli's exclusion principle",
+      "Hund's rule"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH04_S4_7_007",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Quantum mechanical model of atom:",
+    "concepts": []
+  },
+  {
+    "resource_id": "INT_11_CH04_S4_7_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 4,
+    "chapter_title": "Structure Of Atom",
+    "section": "Quantum mechanical model of atom:",
+    "concepts": [
+      "electronic configuration",
+      "aufbau principle",
+      "orbital notation",
+      "orbital diagram"
+    ]
+  }
+]

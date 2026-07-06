@@ -1,0 +1,439 @@
+[
+  {
+    "resource_id": "TXT_11_CH10_X_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": null,
+    "concepts": [
+      "kinetic energy",
+      "volume",
+      "density",
+      "gaseous state",
+      "liquid state"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Introduction:",
+    "concepts": [
+      "solids",
+      "liquids",
+      "gases"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Intermolecular Forces: Intermolecular forces are the attractive forces as well as repulsive forces present between the neighbouring molecules. The attractive force decreases with the increase in distance between the molecules. The intermolecular forces are strong in solids, less strong in liquids and very weak in gases. Thus, the three physical states of matter can be determined as per the strength of intermolecular forces.",
+    "concepts": [
+      "intermolecular forces",
+      "phase changes",
+      "melting",
+      "vaporization"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_2_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Intermolecular Forces: Intermolecular forces are the attractive forces as well as repulsive forces present between the neighbouring molecules. The attractive force decreases with the increase in distance between the molecules. The intermolecular forces are strong in solids, less strong in liquids and very weak in gases. Thus, the three physical states of matter can be determined as per the strength of intermolecular forces.",
+    "concepts": [
+      "intermolecular forces",
+      "dipole-dipole interactions",
+      "London dispersion forces"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_2_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Intermolecular Forces: Intermolecular forces are the attractive forces as well as repulsive forces present between the neighbouring molecules. The attractive force decreases with the increase in distance between the molecules. The intermolecular forces are strong in solids, less strong in liquids and very weak in gases. Thus, the three physical states of matter can be determined as per the strength of intermolecular forces.",
+    "concepts": [
+      "intermolecular forces",
+      "thermal energy",
+      "phase transitions",
+      "condensation",
+      "deposition"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH10_S10_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Intermolecular Forces: Intermolecular forces are the attractive forces as well as repulsive forces present between the neighbouring molecules. The attractive force decreases with the increase in distance between the molecules. The intermolecular forces are strong in solids, less strong in liquids and very weak in gases. Thus, the three physical states of matter can be determined as per the strength of intermolecular forces.",
+    "concepts": [
+      "intermolecular forces",
+      "thermal energy",
+      "hydrogen bonding"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_3_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Characteristic properties of Gases:",
+    "concepts": [
+      "mass",
+      "volume",
+      "pressure"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH10_S10_3_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Characteristic properties of Gases:",
+    "concepts": [
+      "unit",
+      "temperature",
+      "density",
+      "diffusion"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Gas Laws: The behavior of gases can be studied by four variables namely pressure, volume, temperature and the number of moles. These variables and measurable properties of the gases are related with one another through different gas laws.",
+    "concepts": [
+      "pressure",
+      "volume",
+      "temperature",
+      "number of moles",
+      "gas laws"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_4_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Gas Laws: The behavior of gases can be studied by four variables namely pressure, volume, temperature and the number of moles. These variables and measurable properties of the gases are related with one another through different gas laws.",
+    "concepts": [
+      "Boyle's Law",
+      "pressure-volume relationship",
+      "constant"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH10_S10_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Gas Laws: The behavior of gases can be studied by four variables namely pressure, volume, temperature and the number of moles. These variables and measurable properties of the gases are related with one another through different gas laws.",
+    "concepts": [
+      "pressure",
+      "volume",
+      "temperature",
+      "gas laws",
+      "Boyle's Law"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_4_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Gas Laws: The behavior of gases can be studied by four variables namely pressure, volume, temperature and the number of moles. These variables and measurable properties of the gases are related with one another through different gas laws.",
+    "concepts": [
+      "volume",
+      "temperature",
+      "gas laws"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_4_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Gas Laws: The behavior of gases can be studied by four variables namely pressure, volume, temperature and the number of moles. These variables and measurable properties of the gases are related with one another through different gas laws.",
+    "concepts": [
+      "pressure",
+      "volume",
+      "temperature",
+      "gas laws",
+      "Gay-Lussac's Law"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH10_S10_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Gas Laws: The behavior of gases can be studied by four variables namely pressure, volume, temperature and the number of moles. These variables and measurable properties of the gases are related with one another through different gas laws.",
+    "concepts": [
+      "pressure",
+      "temperature",
+      "volume"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH10_S10_4_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Gas Laws: The behavior of gases can be studied by four variables namely pressure, volume, temperature and the number of moles. These variables and measurable properties of the gases are related with one another through different gas laws.",
+    "concepts": [
+      "Avogadro number",
+      "mole concept",
+      "ideal gas law"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_5_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Ideal Gas Equation: A gas that follows strictly all the three laws; Boyle's law, Charles' law and Avogadro law is an ideal gas. Practically an ideal gas does not exist. Real gases show ideal behaviour under certain specific condition, when intermolecular interactions are practically absent. Yet these three gas laws and the ideal gas equation obtained by treating them mathematically are found to be very valuable in Chemistry.",
+    "concepts": [
+      "ideal gas equation",
+      "universal gas constant",
+      "boyle's law",
+      "charles' law",
+      "avogadro's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_5_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Ideal Gas Equation: A gas that follows strictly all the three laws; Boyle's law, Charles' law and Avogadro law is an ideal gas. Practically an ideal gas does not exist. Real gases show ideal behaviour under certain specific condition, when intermolecular interactions are practically absent. Yet these three gas laws and the ideal gas equation obtained by treating them mathematically are found to be very valuable in Chemistry.",
+    "concepts": [
+      "ideal gas equation",
+      "gas constant",
+      "R"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_5_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Ideal Gas Equation: A gas that follows strictly all the three laws; Boyle's law, Charles' law and Avogadro law is an ideal gas. Practically an ideal gas does not exist. Real gases show ideal behaviour under certain specific condition, when intermolecular interactions are practically absent. Yet these three gas laws and the ideal gas equation obtained by treating them mathematically are found to be very valuable in Chemistry.",
+    "concepts": [
+      "ideal gas equation",
+      "molar mass",
+      "ideal gas law"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_5_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Ideal Gas Equation: A gas that follows strictly all the three laws; Boyle's law, Charles' law and Avogadro law is an ideal gas. Practically an ideal gas does not exist. Real gases show ideal behaviour under certain specific condition, when intermolecular interactions are practically absent. Yet these three gas laws and the ideal gas equation obtained by treating them mathematically are found to be very valuable in Chemistry.",
+    "concepts": [
+      "ideal gas equation",
+      "combined gas law",
+      "pressure-volume relationship"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_5_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Ideal Gas Equation: A gas that follows strictly all the three laws; Boyle's law, Charles' law and Avogadro law is an ideal gas. Practically an ideal gas does not exist. Real gases show ideal behaviour under certain specific condition, when intermolecular interactions are practically absent. Yet these three gas laws and the ideal gas equation obtained by treating them mathematically are found to be very valuable in Chemistry.",
+    "concepts": [
+      "ideal gas equation",
+      "density-molar mass relation",
+      "Boyle's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_5_006",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Ideal Gas Equation: A gas that follows strictly all the three laws; Boyle's law, Charles' law and Avogadro law is an ideal gas. Practically an ideal gas does not exist. Real gases show ideal behaviour under certain specific condition, when intermolecular interactions are practically absent. Yet these three gas laws and the ideal gas equation obtained by treating them mathematically are found to be very valuable in Chemistry.",
+    "concepts": [
+      "ideal gas equation",
+      "Dalton's law of partial pressure",
+      "partial pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_6_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Kinetic Molecular Theory of Gases:",
+    "concepts": [
+      "kinetic energy",
+      "temperature",
+      "pressure-volume-temperature relationship"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_7_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Deviation from Ideal behaviour: An ideal gas is the one that exactly follows the ideal gas equation. On rearranging the ideal gas equation, n = PV/RT. If we use 1 mole of any gas then the ratio PV/RT is predicted to have numerical value of 1 at all pressures. If a gas does not obey the ideal gas law, the ratio will be either greater than 1 or less than 1, such a gas is said to be a Real Gas.",
+    "concepts": [
+      "ideal gas",
+      "real gas",
+      "compressibility factor"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_7_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Liquefaction of gases and critical constant: Most gases behave like ideal gases at high temperature. For example, the PV curve of CO&lt;sub&gt;2&lt;/sub&gt; gas at 50°C is like the ideal Boyle's law curve. As the temperature is lowered the PV curve shows a deviation from the ideal Boyle's law curve. At a particular value of low temperature the gas gets liquified at certain increased value of pressure. For example, CO&lt;sub&gt;2&lt;/sub&gt; gas liquifies at 30.98 °C and 73 atmosphere pressure (See Fig. 10.16).",
+    "concepts": [
+      "critical temperature",
+      "critical pressure",
+      "Tc",
+      "Pc",
+      "liquification",
+      "lubrication"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_8_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Liquid state: Liquid state is the intermediate state between solid state and gaseous state. Molecules of liquid are held together by moderately strong intermolecular forces and can move about within the boundary of the liquid. As a result, liquid posseses properties such as fluidity, definite volume and ability to take shape of the bottom of the container in which it is placed. Different liquids are characterized by their quantitative properties such as density, boiling point, freezing point, vapour pressure, surface tension and viscosity. We will look at some of these propeties in the following sections.",
+    "concepts": [
+      "evaporation",
+      "aqueous tension",
+      "capillary action"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_8_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Liquid state: Liquid state is the intermediate state between solid state and gaseous state. Molecules of liquid are held together by moderately strong intermolecular forces and can move about within the boundary of the liquid. As a result, liquid posseses properties such as fluidity, definite volume and ability to take shape of the bottom of the container in which it is placed. Different liquids are characterized by their quantitative properties such as density, boiling point, freezing point, vapour pressure, surface tension and viscosity. We will look at some of these propeties in the following sections.",
+    "concepts": [
+      "surface tension",
+      "intermolecular forces",
+      "liquid state"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH10_S10_8_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Liquid state: Liquid state is the intermediate state between solid state and gaseous state. Molecules of liquid are held together by moderately strong intermolecular forces and can move about within the boundary of the liquid. As a result, liquid posseses properties such as fluidity, definite volume and ability to take shape of the bottom of the container in which it is placed. Different liquids are characterized by their quantitative properties such as density, boiling point, freezing point, vapour pressure, surface tension and viscosity. We will look at some of these propeties in the following sections.",
+    "concepts": [
+      "viscosity",
+      "intermolecular forces",
+      "laminar flow"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH10_S10_8_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 10,
+    "chapter_title": "States Of Matter: Gaseous And Liquid States",
+    "section": "Liquid state: Liquid state is the intermediate state between solid state and gaseous state. Molecules of liquid are held together by moderately strong intermolecular forces and can move about within the boundary of the liquid. As a result, liquid posseses properties such as fluidity, definite volume and ability to take shape of the bottom of the container in which it is placed. Different liquids are characterized by their quantitative properties such as density, boiling point, freezing point, vapour pressure, surface tension and viscosity. We will look at some of these propeties in the following sections.",
+    "concepts": [
+      "Viscosity",
+      "Boyle's Law",
+      "Temperature"
+    ]
+  }
+]

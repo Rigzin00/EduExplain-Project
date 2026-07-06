@@ -1,0 +1,253 @@
+[
+  {
+    "resource_id": "TXT_12_CH21_X_001",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": null,
+    "concepts": [
+      "dispersion",
+      "scattering",
+      "rainbow"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_X_002",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "chemical energy",
+      "oxygen balance",
+      "carbon dioxide balance",
+      "food production"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_1_001",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": "DISPERSION OF LIGHT",
+    "concepts": [
+      "dispersion_of_light",
+      "rectilinear_propagation",
+      "different_media"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_1_002",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": "DISPERSION OF LIGHT",
+    "concepts": [
+      "dispersion",
+      "refraction",
+      "wavelength",
+      "visible spectrum",
+      "angle of deviation",
+      "redshift"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH21_S21_1_001",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": "DISPERSION OF LIGHT",
+    "concepts": [
+      "dispersion",
+      "refractive indices",
+      "wavelengths"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_1_003",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": "DISPERSION OF LIGHT",
+    "concepts": [
+      "angle of incidence",
+      "angle of deviation",
+      "angle of prism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_1_004",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": "DISPERSION OF LIGHT",
+    "concepts": [
+      "angular dispersion",
+      "mean deviation",
+      "dispersive power",
+      "refractive indices"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH21_S21_1_002",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": "DISPERSION OF LIGHT",
+    "concepts": [
+      "dispersion_of_light",
+      "refractive_index",
+      "prism_deviation"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH21_S21_1_003",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": "DISPERSION OF LIGHT",
+    "concepts": [
+      "refractive index",
+      "angle of minimum deviation",
+      "prism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_2_001",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": "SCATTERING OF LIGHT IN ATMOSPHERE",
+    "concepts": [
+      "light scattering",
+      "atmosphere",
+      "molecules",
+      "sky",
+      "blue color"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_2_002",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": "SCATTERING OF LIGHT IN ATMOSPHERE",
+    "concepts": [
+      "light scattering",
+      "Rayleigh scattering",
+      "mathematical relationship"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH21_S21_2_001",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": "SCATTERING OF LIGHT IN ATMOSPHERE",
+    "concepts": [
+      "light scattering",
+      "Rayleigh's law",
+      "wavelength"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH21_S21_2_002",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": "SCATTERING OF LIGHT IN ATMOSPHERE",
+    "concepts": [
+      "light scattering",
+      "perceived color",
+      "black sky",
+      "white clouds",
+      "red sun"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_2_003",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": "SCATTERING OF LIGHT IN ATMOSPHERE",
+    "concepts": [
+      "Raman effect",
+      "scattering of light",
+      "frequency shift"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_2_004",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": "SCATTERING OF LIGHT IN ATMOSPHERE",
+    "concepts": [
+      "Raman effect",
+      "scattering of light",
+      "frequency difference"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH21_S21_2_005",
+    "document_id": "NIOS_PHY_CH21",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 21,
+    "chapter_title": "Dispersion And Scattering Of Light",
+    "section": "SCATTERING OF LIGHT IN ATMOSPHERE",
+    "concepts": [
+      "Raman effect"
+    ]
+  }
+]

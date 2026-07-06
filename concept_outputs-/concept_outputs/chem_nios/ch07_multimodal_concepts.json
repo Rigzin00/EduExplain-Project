@@ -1,0 +1,396 @@
+[
+  {
+    "resource_id": "TXT_12_CH07_X_001",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": null,
+    "concepts": [
+      "solution formation",
+      "solute concentration measurement",
+      "properties of solutions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_X_002",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": null,
+    "concepts": [
+      "solid",
+      "liquid",
+      "gas",
+      "solutions",
+      "solutes",
+      "solvents",
+      "dissolution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_1_001",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "COMPONENTS OF A SOLUTION",
+    "concepts": [
+      "homogeneous mixture",
+      "solute",
+      "solvent",
+      "solution components"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_1_002",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "COMPONENTS OF A SOLUTION",
+    "concepts": [
+      "concentration",
+      "molarity",
+      "molality"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_1_001",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "COMPONENTS OF A SOLUTION",
+    "concepts": [
+      "molarity",
+      "concentration",
+      "solution"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_1_002",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "COMPONENTS OF A SOLUTION",
+    "concepts": [
+      "molality",
+      "normality",
+      "equivalent weight"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_1_003",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "COMPONENTS OF A SOLUTION",
+    "concepts": [
+      "mole fraction",
+      "component",
+      "solution"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_1_004",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "COMPONENTS OF A SOLUTION",
+    "concepts": [
+      "normality",
+      "solution concentration",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_2_001",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "TYPES OF SOLUTIONS",
+    "concepts": [
+      "solvent",
+      "solute",
+      "Henry's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_3_001",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "VAPOUR PRESSURE",
+    "concepts": [
+      "vapor pressure",
+      "equilibrium",
+      "evaporation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_4_001",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "RAOULT'S LAW FOR SOLUTIONS",
+    "concepts": [
+      "mole fraction",
+      "Raoult's law",
+      "vapour pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_5_001",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "RAOULT'S LAW FOR SOLUTIONS CONTAINING NON-VOLATILE SOLUTE",
+    "concepts": [
+      "non-volatile solute",
+      "Raoult's law",
+      "mole fraction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_6_001",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "IDEAL AND NON-IDEAL SOLUTIONS",
+    "concepts": [
+      "Raoult's Law",
+      "ideality vs. non-ideality",
+      "vapor pressure deviation",
+      "molecular interactions",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_7_001",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "COLLIGATIVE PROPERTIES",
+    "concepts": [
+      "colligative properties",
+      "solute particles",
+      "relative lowering of vapor pressure",
+      "elevation in boiling point",
+      "depression in freezing point",
+      "osmotic pressure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_7_002",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "COLLIGATIVE PROPERTIES",
+    "concepts": [
+      "colligative properties",
+      "relative lowering of vapour pressure",
+      "mole fraction"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_7_001",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "COLLIGATIVE PROPERTIES",
+    "concepts": [
+      "relative lowering of vapor pressure",
+      "molecular mass",
+      "solute"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_7_003",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "COLLIGATIVE PROPERTIES",
+    "concepts": [
+      "colligative properties",
+      "boiling point elevation",
+      "molal elevation constant",
+      "solution",
+      "solvent",
+      "non-volatile solute",
+      "vapor pressure",
+      "equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_7_004",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "COLLIGATIVE PROPERTIES",
+    "concepts": [
+      "colligative properties",
+      "freezing point depression",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_7_002",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "COLLIGATIVE PROPERTIES",
+    "concepts": [
+      "colligative properties",
+      "freezing point depression",
+      "boiling point elevation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_7_005",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "COLLIGATIVE PROPERTIES",
+    "concepts": [
+      "osmosis",
+      "semipermeable membrane",
+      "solute concentration",
+      "oxygen transport",
+      "gas constant",
+      "temperature"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_7_003",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "COLLIGATIVE PROPERTIES",
+    "concepts": [
+      "osmotic pressure",
+      "aqueous solution",
+      "temperature"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_8_001",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "ABNORMAL COLLIGATIVE PROPERTIES",
+    "concepts": [
+      "Van't Hoff factor",
+      "colligative properties",
+      "factor i"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_8_001",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "ABNORMAL COLLIGATIVE PROPERTIES",
+    "concepts": [
+      "van't Hoff factor",
+      "degree of association",
+      "boiling point elevation"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH07_S7_8_002",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "example",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "ABNORMAL COLLIGATIVE PROPERTIES",
+    "concepts": [
+      "colligative properties",
+      "freezing point depression",
+      "van't Hoff factor",
+      "degree of dissociation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_8_002",
+    "document_id": "NIOS_CHEM_CH07",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Solutions",
+    "section": "ABNORMAL COLLIGATIVE PROPERTIES",
+    "concepts": [
+      "pH scale",
+      "neutralization",
+      "equivalent quantities"
+    ]
+  }
+]

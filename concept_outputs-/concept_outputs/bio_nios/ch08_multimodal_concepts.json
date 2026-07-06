@@ -1,0 +1,309 @@
+[
+  {
+    "resource_id": "TXT_12_CH08_X_001",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": null,
+    "concepts": [
+      "absorption",
+      "transportation",
+      "transpiration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_X_002",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "chemical energy",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts",
+      "plant cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_1_001",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "FOUR BASIC PHENOMENA-PERMEABILITY, DIFFUSION, OSMOSIS AND PLASMOLYSIS",
+    "concepts": [
+      "permeability",
+      "selectively permeable",
+      "mitochondrial membrane"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_1_002",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "FOUR BASIC PHENOMENA-PERMEABILITY, DIFFUSION, OSMOSIS AND PLASMOLYSIS",
+    "concepts": [
+      "diffusion",
+      "concentration gradient",
+      "cell membrane"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_1_003",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "FOUR BASIC PHENOMENA-PERMEABILITY, DIFFUSION, OSMOSIS AND PLASMOLYSIS",
+    "concepts": [
+      "osmosis",
+      "semipermeable membrane",
+      "sugar solution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_1_004",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "FOUR BASIC PHENOMENA-PERMEABILITY, DIFFUSION, OSMOSIS AND PLASMOLYSIS",
+    "concepts": [
+      "turgor pressure",
+      "cell membrane",
+      "cell wall",
+      "hypertonic",
+      "deplasmolysis",
+      "protective mechanism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_2_001",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "WATER POTENTIAL",
+    "concepts": [
+      "water potential",
+      "solutes",
+      "free water molecules"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_3_001",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "TURGOR PRESSURE",
+    "concepts": [
+      "turgor pressure",
+      "dynamic equilibrium",
+      "water loss"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_4_001",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "ABSORPTION OF WATER BY PLANTS",
+    "concepts": [
+      "root pressure",
+      "osmosis",
+      "transpiration pull",
+      "cohesion",
+      "adhesion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_5_001",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "TRANSLOCATION OF ORGANIC SOLUTES",
+    "concepts": [
+      "translocation",
+      "photosynthesis",
+      "sugars",
+      "transportation",
+      "concentration gradient",
+      "Münch hypothesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_001",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "TRANSPIRATION",
+    "concepts": [
+      "transpiration",
+      "stomata",
+      "cuticle",
+      "lenticels"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_002",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "TRANSPIRATION",
+    "concepts": [
+      "water absorption",
+      "osmosis",
+      "diffusion",
+      "xylem",
+      "capillary action",
+      "transpiration pull"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_003",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "TRANSPIRATION",
+    "concepts": [
+      "temperature",
+      "transpiration",
+      "internal plant adaptations"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_004",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "TRANSPIRATION",
+    "concepts": [
+      "stomata",
+      "transpiration",
+      "photosynthesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_005",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "TRANSPIRATION",
+    "concepts": [
+      "stomatal apparatus",
+      "turgor pressure",
+      "cell wall thickening"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_006",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "TRANSPIRATION",
+    "concepts": [
+      "transpiration",
+      "stomata",
+      "carbon dioxide",
+      "cell turgor",
+      "gas exchange",
+      "water conservation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_007",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "TRANSPIRATION",
+    "concepts": [
+      "anti-transpirants",
+      "transpiration",
+      "guttation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_008",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "TRANSPIRATION",
+    "concepts": [
+      "transpiration",
+      "guttation",
+      "stomata"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH08_S8_6_009",
+    "document_id": "NIOS_BIO_CH08",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 8,
+    "chapter_title": "Absorption, Transport And Water Loss (Transpiration) In Plants",
+    "section": "TRANSPIRATION",
+    "concepts": [
+      "stomata",
+      "hydathodes",
+      "monocots"
+    ]
+  }
+]

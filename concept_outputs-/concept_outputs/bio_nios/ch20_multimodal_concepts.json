@@ -1,0 +1,469 @@
+[
+  {
+    "resource_id": "TXT_12_CH20_X_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": null,
+    "concepts": [
+      "seedling",
+      "increase in size",
+      "leaf formation",
+      "maturation",
+      "flowers and fruits"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_X_002",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_1_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "GROWTH AND DEVELOPMENT",
+    "concepts": [
+      "growth",
+      "development",
+      "morphogenesis",
+      "differentiation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_2_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "STAGES OF CELLULAR GROWTH",
+    "concepts": [
+      "cell division",
+      "cell enlargement",
+      "growth"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_3_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "GROWTH CURVE",
+    "concepts": [
+      "sigmoid growth curve",
+      "grand period of growth",
+      "maturity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_4_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "MEASUREMENT OF GROWTH",
+    "concepts": [
+      "measurement",
+      "growth rate",
+      "height measurement"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_4_002",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "MEASUREMENT OF GROWTH",
+    "concepts": [
+      "apical regions",
+      "elongation",
+      "stem length",
+      "weekly measurement",
+      "simple measuring scale",
+      "systematic table"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_4_003",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "MEASUREMENT OF GROWTH",
+    "concepts": [
+      "auxanometer",
+      "growth rate",
+      "plant shoot",
+      "graduated scale",
+      "quantification",
+      "reproduction",
+      "offspring",
+      "genetic traits"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_5_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "FACTORS AFFECTING PLANT GROWTH",
+    "concepts": [
+      "light",
+      "water",
+      "temperature",
+      "soil nutrients",
+      "genetic makeup",
+      "hormonal activities"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_5_002",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "FACTORS AFFECTING PLANT GROWTH",
+    "concepts": [
+      "light",
+      "photosynthesis",
+      "seed germination",
+      "tissue differentiation",
+      "temperature",
+      "metabolic activities",
+      "optimal temperature range",
+      "water absorption",
+      "transpiration",
+      "root system",
+      "chloroplasts",
+      "mitosis",
+      "entropy",
+      "mole concept",
+      "covalent bonds",
+      "redox reactions",
+      "electromagnetic induction",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_5_003",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "FACTORS AFFECTING PLANT GROWTH",
+    "concepts": [
+      "auxins",
+      "gibberellins",
+      "cytokinins"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_6_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "PRACTICAL APPLICATION OF GROWTH REGULATORS",
+    "concepts": [
+      "hormones",
+      "chemicals",
+      "flowering",
+      "senescence",
+      "fruit development"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_6_002",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "PRACTICAL APPLICATION OF GROWTH REGULATORS",
+    "concepts": [
+      "differentiation",
+      "dedifferentiation",
+      "redifferentiation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_7_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "DORMANCY AND GERMINATION IN SEEDS",
+    "concepts": [
+      "seed germination",
+      "metabolic activities",
+      "embryo growth",
+      "dormancy",
+      "abscissic acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_7_002",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "DORMANCY AND GERMINATION IN SEEDS",
+    "concepts": [
+      "epigeal germination",
+      "hypogeal germination",
+      "vivipary"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_7_003",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "DORMANCY AND GERMINATION IN SEEDS",
+    "concepts": [
+      "absorption of water",
+      "swelling",
+      "seed coat rupture",
+      "radicle emergence",
+      "root system development",
+      "plumule growth",
+      "shoot formation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_7_004",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "DORMANCY AND GERMINATION IN SEEDS",
+    "concepts": [
+      "water",
+      "metabolic processes",
+      "oxygen",
+      "growth hormones",
+      "chlorophyll"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_8_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "PHOTOPERIODISM – RESPONSES DUE TO LIGHT EXPOSURE DURATION",
+    "concepts": [
+      "photoperiodism",
+      "light exposure duration",
+      "flowering",
+      "growth",
+      "development"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_9_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "ROLE OF FLORIGEN AND PHYTOCHROME IN FLOWERING",
+    "concepts": [
+      "phytochrome",
+      "light sensitivity",
+      "pigment conversion",
+      "photoperiodism",
+      "Florigen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_10_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "VERNALISATION—APPLICATION OF LOW TEMPERATURES",
+    "concepts": [
+      "vernalisation",
+      "flowering",
+      "low temperatures",
+      "accelerating flowering",
+      "crop management",
+      "yield enhancement"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_11_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "SENESCENCE/AGING OF PLANTS",
+    "concepts": [
+      "senescence",
+      "abscissic acid",
+      "ethylene"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_12_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "ABSCISSION - SHEDDING OFF",
+    "concepts": [
+      "abscission zone",
+      "auxin",
+      "abscisic acid",
+      "ethylene"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_13_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "STRESS FACTORS",
+    "concepts": [
+      "stress factors",
+      "reproduction",
+      "hormones"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_13_002",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "STRESS FACTORS",
+    "concepts": [
+      "water stress",
+      "drought",
+      "flooding",
+      "photosynthesis",
+      "respiration",
+      "cell growth",
+      "salt stress",
+      "cell dehydration",
+      "altered cell shape",
+      "disrupted metabolic processes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_14_001",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "PLANT MOVEMENTS",
+    "concepts": [
+      "tropic movements",
+      "geotropism",
+      "phototropism",
+      "nastic movements",
+      "turgor movements"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_14_002",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "PLANT MOVEMENTS",
+    "concepts": [
+      "reproduction",
+      "sexual method",
+      "aphrodisiac"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH20_S20_14_003",
+    "document_id": "NIOS_BIO_CH20",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 20,
+    "chapter_title": "Growth And Development In Plants",
+    "section": "PLANT MOVEMENTS",
+    "concepts": [
+      "reproduction",
+      "offspring",
+      "species",
+      "herschel"
+    ]
+  }
+]

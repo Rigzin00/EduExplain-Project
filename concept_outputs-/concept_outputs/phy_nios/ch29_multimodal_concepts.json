@@ -1,0 +1,263 @@
+[
+  {
+    "resource_id": "TXT_12_CH29_X_001",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": null,
+    "concepts": [
+      "diodes",
+      "transistors",
+      "logic gates"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_X_002",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "chemical energy",
+      "oxygen balance",
+      "carbon dioxide balance",
+      "food production"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_1_001",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": "APPLICATIONS OF p-n JUNCTION DIODES",
+    "concepts": [
+      "p-n junction diode",
+      "rectification",
+      "direct current"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_1_002",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": "APPLICATIONS OF p-n JUNCTION DIODES",
+    "concepts": [
+      "half-wave rectification",
+      "full-wave rectification",
+      "center-tapped transformer",
+      "diodes",
+      "capacitor",
+      "filter"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_1_003",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": "APPLICATIONS OF p-n JUNCTION DIODES",
+    "concepts": [
+      "p-n junction diodes",
+      "Zener diode",
+      "regulated power supply"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH29_S29_1_001",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": "APPLICATIONS OF p-n JUNCTION DIODES",
+    "concepts": [
+      "Zener diode",
+      "Voltage regulator",
+      "Stabilized DC supply"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_2_001",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": "TRANSISTOR APPLICATIONS",
+    "concepts": [
+      "amplification",
+      "transistor",
+      "base",
+      "collector-emitter circuit",
+      "reverse bias"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_2_002",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": "TRANSISTOR APPLICATIONS",
+    "concepts": [
+      "amplification",
+      "transistor",
+      "voltage gain",
+      "power gain"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_2_003",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": "TRANSISTOR APPLICATIONS",
+    "concepts": [
+      "transistor",
+      "cut-off region",
+      "saturation region"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_2_004",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": "TRANSISTOR APPLICATIONS",
+    "concepts": [
+      "resonant circuit",
+      "positive feedback",
+      "sustained oscillations",
+      "Colpitt's oscillator",
+      "transistor amplifier",
+      "common-emitter (CE) mode",
+      "phase shift"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_001",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": "LOGIC GATES",
+    "concepts": [
+      "logic gates",
+      "Boolean algebra",
+      "discrete signals"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_002",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": "LOGIC GATES",
+    "concepts": [
+      "AND gate",
+      "OR gate",
+      "NOT gate",
+      "diode",
+      "current"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_003",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": "LOGIC GATES",
+    "concepts": [
+      "nand gate",
+      "nor gate",
+      "boolean expression"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_004",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": "LOGIC GATES",
+    "concepts": [
+      "universal gate",
+      "NOT gate",
+      "AND gate",
+      "OR gate"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_005",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": "LOGIC GATES",
+    "concepts": [
+      "semiconductor devices",
+      "electrical currents",
+      "precision",
+      "communication technologies",
+      "data transmission speed",
+      "reliability"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH29_S29_3_006",
+    "document_id": "NIOS_PHY_CH29",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 29,
+    "chapter_title": "Applications Of Semiconductor Devices",
+    "section": "LOGIC GATES",
+    "concepts": [
+      "Ohm's Law",
+      "current calculation",
+      "voltage calculation"
+    ]
+  }
+]

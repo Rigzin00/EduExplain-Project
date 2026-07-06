@@ -1,0 +1,218 @@
+[
+  {
+    "resource_id": "RCL_12_CH12_X_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Biotechnology",
+    "section": null,
+    "concepts": [
+      "biotechnology",
+      "applied branch of biology",
+      "Karl Ereky"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Biotechnology",
+    "section": "Biotechnology",
+    "concepts": [
+      "biotechnology",
+      "fermentation techniques",
+      "recombinant DNA technology"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Biotechnology",
+    "section": "Principles and Processes of Biotechnology:",
+    "concepts": [
+      "genetic engineering",
+      "gene cloning",
+      "electrophoresis",
+      "polymerase chain reaction (PCR)",
+      "restriction enzymes"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH12_S12_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Biotechnology",
+    "section": "Principles and Processes of Biotechnology:",
+    "concepts": [
+      "restriction enzymes",
+      "genetic manipulation",
+      "molecular level"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH12_S12_2_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Biotechnology",
+    "section": "Principles and Processes of Biotechnology:",
+    "concepts": [
+      "restriction enzyme",
+      "endonuclease",
+      "methylase",
+      "palindrome",
+      "vector",
+      "plasmid",
+      "recombinant DNA technology",
+      "E. coli"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Biotechnology",
+    "section": "Methodology for rDNA technology:",
+    "concepts": [
+      "foreign DNA",
+      "genomic library",
+      "cDNA library"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH12_S12_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Biotechnology",
+    "section": "Methodology for rDNA technology:",
+    "concepts": [
+      "gene library",
+      "cloning vector",
+      "plasmid",
+      "foreign gene",
+      "recombinant DNA",
+      "Chimera",
+      "rDNA technology"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Biotechnology",
+    "section": "Applications of Biotechnology:",
+    "concepts": [
+      "stem cell technology",
+      "genetic counseling",
+      "recombinant insulin production",
+      "gene therapy",
+      "tissue culture techniques",
+      "rapid plant propagation",
+      "germplasm conservation",
+      "insect resistance"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH12_S12_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Biotechnology",
+    "section": "Applications of Biotechnology:",
+    "concepts": [
+      "endogenous enzyme activity",
+      "polygalacturonase",
+      "antisense genes",
+      "transgenic tomatoes",
+      "bioreactor",
+      "novel biochemicals",
+      "fine chemicals"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Biotechnology",
+    "section": "Bioethics, bio-piracy and bio-patent : Bioethics:",
+    "concepts": [
+      "bioethics",
+      "biotechnological advancements",
+      "mitosis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Biotechnology",
+    "section": "Effects of Biotechnology on the Environment:",
+    "concepts": [
+      "biomass transfer",
+      "genetic modification",
+      "pesticide"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Biotechnology",
+    "section": "Effects of Biotechnology on Human Health:",
+    "concepts": [
+      "allergies",
+      "nut allergies",
+      "unknown impacts",
+      "bioethical considerations"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH12_S12_8_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 12,
+    "chapter_title": "Biotechnology",
+    "section": "Biopatent and Biopiracy:",
+    "concepts": [
+      "biopatent",
+      "biopiracy",
+      "genetically modified organisms"
+    ]
+  }
+]

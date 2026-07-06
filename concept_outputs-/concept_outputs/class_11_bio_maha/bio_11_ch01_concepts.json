@@ -1,0 +1,208 @@
+[
+  {
+    "resource_id": "RCL_11_CH01_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Living World",
+    "section": null,
+    "concepts": [
+      "biotic components",
+      "living beings",
+      "abiotic components"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Living World",
+    "section": "Basic principles of life:",
+    "concepts": [
+      "metabolic processes",
+      "catabolism",
+      "anabolism",
+      "botanical gardens",
+      "herbaria",
+      "museums",
+      "biodiversity parks"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Living World",
+    "section": "Herbarium:",
+    "concepts": [
+      "herbarium",
+      "dried",
+      "pressed",
+      "mounted"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Living World",
+    "section": "Botanical Gardens:",
+    "concepts": [
+      "botanical gardens",
+      "scientific names",
+      "plant conservation"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH01_S1_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Living World",
+    "section": "Botanical Gardens:",
+    "concepts": [
+      "conservation",
+      "biodiversity",
+      "ecosystem"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_4_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Living World",
+    "section": "Museum:",
+    "concepts": [
+      "museum",
+      "specimens",
+      "formalin",
+      "preservation",
+      "collections",
+      "biodiversity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_5_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Living World",
+    "section": "Zoological Parks:",
+    "concepts": [
+      "zoological park",
+      "captive environment",
+      "naturalist",
+      "animal behavior",
+      "diet"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_6_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Living World",
+    "section": "Biodiversity parks:",
+    "concepts": [
+      "ecological assemblage",
+      "species",
+      "communities",
+      "Late Uttamrao Patil Biodiversity Park",
+      "self-sustaining",
+      "degraded or barren landscapes",
+      "model for urban landscape conservation",
+      "understanding",
+      "interrelations",
+      "maintaining ecological balance",
+      "Earth",
+      "crucial",
+      "grasping",
+      "their interrelations",
+      "essential"
+    ]
+  },
+  {
+    "resource_id": "SCI_11_CH01_S1_6_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "scientist_box",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Living World",
+    "section": "Biodiversity parks:",
+    "concepts": [
+      "freshwater jellyfish",
+      "Nature",
+      "scientific journal",
+      "superintendent",
+      "Indian Museum"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_7_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Living World",
+    "section": "Key:",
+    "concepts": [
+      "dichotomous keys",
+      "character contrast",
+      "organism classification"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH01_S1_7_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Living World",
+    "section": "Key:",
+    "concepts": [
+      "sacred groves",
+      "IUCN",
+      "conservation"
+    ]
+  },
+  {
+    "resource_id": "ACT_11_CH01_S1_7_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Living World",
+    "section": "Key:",
+    "concepts": [
+      "conservation",
+      "species",
+      "natural habitat",
+      "controlled conditions",
+      "endangered species"
+    ]
+  }
+]

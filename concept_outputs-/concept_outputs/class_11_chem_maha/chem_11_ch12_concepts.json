@@ -1,0 +1,396 @@
+[
+  {
+    "resource_id": "RCL_11_CH12_X_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": null,
+    "concepts": [
+      "natural waterfall",
+      "spreading of smoke from burning incense stick",
+      "diffusion of fragrance of flowers"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Introduction: You have learnt earlier that changes can be physical or chemical and reversible or irreversible. All the changes listed above are irreversible physical changes. You have also learnt earlier that chemical changes can be represented by chemical reactions when the exact chemical composition of reactants and products is known. In this chapter we are going to look at reversible chemical reactions.",
+    "concepts": [
+      "reversible chemical reaction",
+      "cobalt(II) hexaaquachloride",
+      "chloride ions",
+      "temperature changes"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH12_S12_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Introduction: You have learnt earlier that changes can be physical or chemical and reversible or irreversible. All the changes listed above are irreversible physical changes. You have also learnt earlier that chemical changes can be represented by chemical reactions when the exact chemical composition of reactants and products is known. In this chapter we are going to look at reversible chemical reactions.",
+    "concepts": [
+      "reversible reaction",
+      "irreversible reaction",
+      "double arrow"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH12_S12_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Introduction: You have learnt earlier that changes can be physical or chemical and reversible or irreversible. All the changes listed above are irreversible physical changes. You have also learnt earlier that chemical changes can be represented by chemical reactions when the exact chemical composition of reactants and products is known. In this chapter we are going to look at reversible chemical reactions.",
+    "concepts": [
+      "reversible chemical reactions",
+      "chemical equilibrium",
+      "reactants",
+      "products"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Equilibrium in physical processes (a) Liquid - Vapour equilibrium",
+    "concepts": [
+      "equilibrium vapor pressure",
+      "temperature dependence of vapor pressure",
+      "boiling point"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_3_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Equilibrium in chemical process:",
+    "concepts": [
+      "equilibrium",
+      "forward reaction rate",
+      "reverse reaction rate"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Law of mass action and equilibrium constant: The chemical equilibrium is mathematically described in terms of what is called the equilibrium constant (K&lt;sub&gt;c&lt;/sub&gt;). We noted earlier that an equilibrium state is attained when the rate of the forward and reverse reactions become equal (refer Fig.",
+    "concepts": [
+      "equilibrium constant",
+      "rate of reaction",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_4_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Law of mass action and equilibrium constant: The chemical equilibrium is mathematically described in terms of what is called the equilibrium constant (K&lt;sub&gt;c&lt;/sub&gt;). We noted earlier that an equilibrium state is attained when the rate of the forward and reverse reactions become equal (refer Fig.",
+    "concepts": [
+      "equilibrium constant",
+      "rate equation",
+      "law of mass action"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_4_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Law of mass action and equilibrium constant: The chemical equilibrium is mathematically described in terms of what is called the equilibrium constant (K&lt;sub&gt;c&lt;/sub&gt;). We noted earlier that an equilibrium state is attained when the rate of the forward and reverse reactions become equal (refer Fig.",
+    "concepts": [
+      "equilibrium constant",
+      "forward and reverse reactions",
+      "stoichiometric coefficients"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_4_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Law of mass action and equilibrium constant: The chemical equilibrium is mathematically described in terms of what is called the equilibrium constant (K&lt;sub&gt;c&lt;/sub&gt;). We noted earlier that an equilibrium state is attained when the rate of the forward and reverse reactions become equal (refer Fig.",
+    "concepts": []
+  },
+  {
+    "resource_id": "RCL_11_CH12_S12_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Law of mass action and equilibrium constant: The chemical equilibrium is mathematically described in terms of what is called the equilibrium constant (K&lt;sub&gt;c&lt;/sub&gt;). We noted earlier that an equilibrium state is attained when the rate of the forward and reverse reactions become equal (refer Fig.",
+    "concepts": [
+      "equilibrium constant",
+      "partial pressure",
+      "molar gas constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_4_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Law of mass action and equilibrium constant: The chemical equilibrium is mathematically described in terms of what is called the equilibrium constant (K&lt;sub&gt;c&lt;/sub&gt;). We noted earlier that an equilibrium state is attained when the rate of the forward and reverse reactions become equal (refer Fig.",
+    "concepts": [
+      "equilibrium constant",
+      "partial pressure",
+      "concentration"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_4_006",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Law of mass action and equilibrium constant: The chemical equilibrium is mathematically described in terms of what is called the equilibrium constant (K&lt;sub&gt;c&lt;/sub&gt;). We noted earlier that an equilibrium state is attained when the rate of the forward and reverse reactions become equal (refer Fig.",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_5_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Homogeneous and Heterogenous equilibria",
+    "concepts": [
+      "homogeneous reaction",
+      "heterogeneous reaction",
+      "dissociation",
+      "formation",
+      "ammonium chloride"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_5_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Homogeneous and Heterogenous equilibria",
+    "concepts": [
+      "equilibrium constant",
+      "concentration",
+      "phase",
+      "heterogeneous equilibrium"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_5_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Homogeneous and Heterogenous equilibria",
+    "concepts": [
+      "equilibrium constant",
+      "stoichiometry",
+      "units"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_7_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Application of equilibrium constant",
+    "concepts": [
+      "equilibrium constant",
+      "reaction shift",
+      "direction of reaction"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH12_S12_7_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Application of equilibrium constant",
+    "concepts": [
+      "equilibrium constant",
+      "reaction quotient",
+      "forward reaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_7_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Application of equilibrium constant",
+    "concepts": [
+      "equilibrium constant",
+      "composition of an equilibrium mixture",
+      "reaction favoring product formation"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH12_S12_7_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Application of equilibrium constant",
+    "concepts": [
+      "equilibrium constant",
+      "composition of equilibrium mixture",
+      "ethanol"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH12_S12_7_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Application of equilibrium constant",
+    "concepts": [
+      "equilibrium_constant",
+      "concentration_calculation",
+      "chemical_equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_7_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Application of equilibrium constant",
+    "concepts": [
+      "equilibrium constant",
+      "forward rate constant",
+      "reverse rate constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_8_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Le Chaterlier's principle and factors altering the composition at equilibrium:",
+    "concepts": [
+      "equilibrium",
+      "Le Chatelier's principle",
+      "reactant concentration",
+      "product formation",
+      "product removal",
+      "chemical synthesis",
+      "yield"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_8_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Le Chaterlier's principle and factors altering the composition at equilibrium:",
+    "concepts": [
+      "exothermic",
+      "equilibrium",
+      "Le Châtelier's principle"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH12_S12_9_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Industrial Application:",
+    "concepts": [
+      "stoichiometric ratio",
+      "optimal temperature",
+      "catalyst",
+      "exothermic",
+      "decrease in the number of moles",
+      "favorable under certain pressures and temperatures"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH12_S12_9_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 12,
+    "chapter_title": "Chemical Equilibrium",
+    "section": "Industrial Application:",
+    "concepts": [
+      "chemical equilibrium",
+      "industrial application",
+      "state"
+    ]
+  }
+]

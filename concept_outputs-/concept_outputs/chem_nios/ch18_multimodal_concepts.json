@@ -1,0 +1,242 @@
+[
+  {
+    "resource_id": "TXT_12_CH18_X_001",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": null,
+    "concepts": [
+      "p-block elements",
+      "outermost p-orbitals",
+      "trends in properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_X_002",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "conversion of light energy",
+      "chemical energy",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts",
+      "plant cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_1_001",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": "OCCURRENCE OF THE P-BLOCK ELEMENTS IN NATURE",
+    "concepts": [
+      "occurrence",
+      "distribution",
+      "abundance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_2_001",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": "ELECTRONIC CONFIGURATION",
+    "concepts": [
+      "electronic configuration",
+      "outer electronic configuration",
+      "ns²np¹⁻⁶"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_3_001",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": "ATOMIC SIZE",
+    "concepts": [
+      "atomic radius",
+      "nuclear charge",
+      "electrons",
+      "periodic table",
+      "group"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_4_001",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": "IONIZATION ENTHALPY",
+    "concepts": [
+      "ionization enthalpy",
+      "atomic size",
+      "group",
+      "electron gain enthalpy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_6_001",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": "ELECTRONEGATIVITY",
+    "concepts": [
+      "electronegativity",
+      "periodic trend",
+      "group trend"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_7_001",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": "METALLIC AND NON-METALLIC BEHAVIOUR",
+    "concepts": [
+      "metallic character",
+      "non-metallic character",
+      "atomic size",
+      "ionization energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_8_001",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": "ANOMALOUS BEHAVIOUR OF THE FIRST ELEMENT IN EACH GROUP OF THE p-BLOCK",
+    "concepts": [
+      "atomic radius",
+      "electron configuration",
+      "homonuclear bonds"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_9_001",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": "INERT PAIR EFFECT",
+    "concepts": [
+      "oxidation state",
+      "stability",
+      "inert pair effect"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_10_001",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": "GENERAL TRENDS IN THE CHEMISTRY OF THE P-BLOCK ELEMENTS",
+    "concepts": [
+      "hydride formation",
+      "oxidation state",
+      "halide formation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_10_002",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": "GENERAL TRENDS IN THE CHEMISTRY OF THE P-BLOCK ELEMENTS",
+    "concepts": [
+      "covalent bond",
+      "VSEPR theory",
+      "volatile",
+      "increasing acidity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_10_003",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": "GENERAL TRENDS IN THE CHEMISTRY OF THE P-BLOCK ELEMENTS",
+    "concepts": [
+      "oxidation states",
+      "nitrogen oxides",
+      "phosphorus oxides"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_10_004",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": "GENERAL TRENDS IN THE CHEMISTRY OF THE P-BLOCK ELEMENTS",
+    "concepts": [
+      "covalent character",
+      "oxidation state",
+      "melting point",
+      "hydrolysis",
+      "fluorides"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_10_005",
+    "document_id": "NIOS_CHEM_CH18",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "General Characteristics",
+    "section": "GENERAL TRENDS IN THE CHEMISTRY OF THE P-BLOCK ELEMENTS",
+    "concepts": [
+      "photosynthesis",
+      "chloroplasts",
+      "mitosis"
+    ]
+  }
+]

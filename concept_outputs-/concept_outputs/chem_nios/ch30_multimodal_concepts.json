@@ -1,0 +1,171 @@
+[
+  {
+    "resource_id": "TXT_12_CH30_X_001",
+    "document_id": "NIOS_CHEM_CH30",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Drugs And Medicines",
+    "section": null,
+    "concepts": [
+      "history of drug discovery",
+      "natural remedies",
+      "plant-based treatments",
+      "modern pharmaceuticals",
+      "global economy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_X_002",
+    "document_id": "NIOS_CHEM_CH30",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Drugs And Medicines",
+    "section": null,
+    "concepts": [
+      "chemical principles",
+      "common substances",
+      "daily life"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_1_001",
+    "document_id": "NIOS_CHEM_CH30",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Drugs And Medicines",
+    "section": "WHAT ARE DRUGS AND MEDICINES?",
+    "concepts": [
+      "medicines",
+      "diseases",
+      "chemicals",
+      "specific amounts",
+      "desired effects",
+      "plant parts",
+      "willow trees",
+      "active chemical compounds",
+      "aspirin",
+      "modern medicine",
+      "extensive study",
+      "regulatory bodies",
+      "drug",
+      "substances",
+      "unknown compositions",
+      "habit-forming",
+      "illegal trade"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_2_001",
+    "document_id": "NIOS_CHEM_CH30",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Drugs And Medicines",
+    "section": "CLASSIFICATION OF MEDICINES",
+    "concepts": [
+      "antipyretics",
+      "analgesics",
+      "antihistamines"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_3_001",
+    "document_id": "NIOS_CHEM_CH30",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Drugs And Medicines",
+    "section": "HAZARDS OF SELF MEDICATION",
+    "concepts": [
+      "self-medication",
+      "over-the-counter medicines",
+      "aspirin",
+      "scheduled drugs",
+      "doctor's prescription",
+      "misuse",
+      "serious health issues"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_3_002",
+    "document_id": "NIOS_CHEM_CH30",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Drugs And Medicines",
+    "section": "HAZARDS OF SELF MEDICATION",
+    "concepts": [
+      "preservatives",
+      "chemical substances",
+      "food",
+      "spoilage",
+      "bacteria",
+      "yeasts",
+      "molds",
+      "commonly used preservatives",
+      "sodium benzoate",
+      "sorbic acid",
+      "sulfur dioxide"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_3_003",
+    "document_id": "NIOS_CHEM_CH30",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Drugs And Medicines",
+    "section": "HAZARDS OF SELF MEDICATION",
+    "concepts": [
+      "oxidation",
+      "free radicals",
+      "shelf life",
+      "antioxidants"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_3_004",
+    "document_id": "NIOS_CHEM_CH30",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Drugs And Medicines",
+    "section": "HAZARDS OF SELF MEDICATION",
+    "concepts": [
+      "caloric content",
+      "artificial sweeteners",
+      "saccharin",
+      "aspartame",
+      "metabolism",
+      "amino acids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_3_005",
+    "document_id": "NIOS_CHEM_CH30",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Drugs And Medicines",
+    "section": "HAZARDS OF SELF MEDICATION",
+    "concepts": [
+      "heat",
+      "work",
+      "internal energy",
+      "first law of thermodynamics",
+      "second law of thermodynamics"
+    ]
+  }
+]

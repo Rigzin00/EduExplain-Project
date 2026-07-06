@@ -1,0 +1,494 @@
+[
+  {
+    "resource_id": "TXT_12_CH06_X_001",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": null,
+    "concepts": [
+      "rigid structure",
+      "fixed volume",
+      "distinct shape",
+      "strong intermolecular forces",
+      "solid state",
+      "classification based on particle arrangement and bonding"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_X_002",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": null,
+    "concepts": [
+      "solid",
+      "liquid",
+      "gas"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_1_001",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "NATURE OF SOLID STATE",
+    "concepts": [
+      "kinetic molecular theory",
+      "gas molecules",
+      "liquid molecules",
+      "solid state",
+      "free space",
+      "tightly packed",
+      "fixed-position particles"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_2_001",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "CLASSIFICATION OF SOLIDS",
+    "concepts": [
+      "amorphous solids",
+      "crystalline solids",
+      "particle arrangement"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_2_002",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "CLASSIFICATION OF SOLIDS",
+    "concepts": [
+      "crystalline solids",
+      "amorphous solids",
+      "anisotropic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_2_003",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "CLASSIFICATION OF SOLIDS",
+    "concepts": [
+      "crystalline solids",
+      "ordered arrangement",
+      "interparticle forces",
+      "distinct properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_3_001",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "PROPERTIES OF CRYSTALLINE SOLIDS",
+    "concepts": [
+      "crystal formation",
+      "interfacial angles",
+      "Steno's law of constancy of interfacial angles"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_3_002",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "PROPERTIES OF CRYSTALLINE SOLIDS",
+    "concepts": [
+      "melting point",
+      "interparticle forces",
+      "ionic bonds",
+      "molecular solids",
+      "naphthalene"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_4_001",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "CRYSTAL LATTICE AND UNIT CELLS",
+    "concepts": [
+      "crystal lattice",
+      "unit cells",
+      "long-range order"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_4_002",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "CRYSTAL LATTICE AND UNIT CELLS",
+    "concepts": [
+      "two-dimensional lattice",
+      "unit cell",
+      "parallelogram"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_4_003",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "CRYSTAL LATTICE AND UNIT CELLS",
+    "concepts": [
+      "crystal lattice",
+      "unit cells",
+      "seven crystal systems"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_5_001",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "NUMBER OF ATOMS IN CUBIC UNIT CELLS",
+    "concepts": [
+      "simple cubic unit cell",
+      "body-centered cubic (BCC) unit cell",
+      "face-centered cubic (FCC) unit cell"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_6_001",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "CALCULATION OF DENSITY OF UNIT CELL",
+    "concepts": [
+      "density",
+      "unit cell",
+      "molar mass",
+      "Avogadro's constant",
+      "substance",
+      "volume",
+      "mass"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_7_001",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "CLOSE PACKED STRUCTURES OF SOLIDS",
+    "concepts": [
+      "close packed structures",
+      "crystal formation",
+      "stacking layers",
+      "void configurations",
+      "coordination numbers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_8_001",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "PACKING EFFICIENCY",
+    "concepts": [
+      "packing efficiency",
+      "simple cubic lattice",
+      "body-centered cubic lattice",
+      "face-centered cubic lattice",
+      "hexagonal close-packed lattice"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_9_001",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "STRUCTURES OF IONIC SOLIDS",
+    "concepts": [
+      "crystal lattice structures",
+      "radius ratio",
+      "cations",
+      "anions",
+      "ionic compounds",
+      "Table 6.5"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_9_002",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "STRUCTURES OF IONIC SOLIDS",
+    "concepts": [
+      "body-centered cubic arrangement",
+      "face-centered cubic arrangement",
+      "tetrahedral arrangement"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_9_003",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "STRUCTURES OF IONIC SOLIDS",
+    "concepts": [
+      "face-centered cubic (fcc) lattice",
+      "tetrahedral voids",
+      "antifluorite structure"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_10_001",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "DEFECTS IN IONIC CRYSTALS",
+    "concepts": [
+      "stoichiometric defects",
+      "non-stoichiometric defects",
+      "ion mobility"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_11_001",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "ELECTRICAL PROPERTIES",
+    "concepts": [
+      "conductors",
+      "insulators",
+      "semiconductors"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_11_002",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "ELECTRICAL PROPERTIES",
+    "concepts": [
+      "conductors",
+      "insulators",
+      "semiconductors"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_11_003",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "ELECTRICAL PROPERTIES",
+    "concepts": [
+      "conduction of electricity",
+      "metallic bonding",
+      "electron transfer"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_11_004",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "ELECTRICAL PROPERTIES",
+    "concepts": [
+      "doping",
+      "semiconductor",
+      "n-type",
+      "p-type"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_12_001",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "MAGNETIC PROPERTIES",
+    "concepts": [
+      "paramagnetic",
+      "diamagnetic",
+      "ferromagnetic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_12_002",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "MAGNETIC PROPERTIES",
+    "concepts": [
+      "paramagnetic substances",
+      "unpaired electrons",
+      "magnetic field interaction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_12_003",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "MAGNETIC PROPERTIES",
+    "concepts": [
+      "molecular pairing",
+      "electron configuration",
+      "net magnetic moment"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_12_004",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "MAGNETIC PROPERTIES",
+    "concepts": [
+      "magnetism",
+      "domains",
+      "alignment"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_12_005",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "MAGNETIC PROPERTIES",
+    "concepts": [
+      "antiferromagnetic substances",
+      "domains",
+      "magnetic moments",
+      "cancel each other out",
+      "net magnetic moment",
+      "paramagnetic behavior",
+      "specific temperature"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_12_006",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "MAGNETIC PROPERTIES",
+    "concepts": [
+      "magnetism",
+      "ferromagnetism",
+      "antiferromagnetism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_12_007",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "MAGNETIC PROPERTIES",
+    "concepts": [
+      "solid state",
+      "intermolecular forces",
+      "close packing"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH06_S6_12_008",
+    "document_id": "NIOS_CHEM_CH06",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 6,
+    "chapter_title": "The Solid State",
+    "section": "MAGNETIC PROPERTIES",
+    "concepts": [
+      "fixed shape and volume",
+      "close packing of particles",
+      "constant volume",
+      "high mobility of particles"
+    ]
+  }
+]

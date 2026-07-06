@@ -1,0 +1,564 @@
+[
+  {
+    "resource_id": "RCL_12_CH03_X_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": null,
+    "concepts": [
+      "electrolyte",
+      "dilute aqueous solution",
+      "equilibrium",
+      "double arrow (=)",
+      "ionization reaction"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH03_X_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": null,
+    "concepts": [
+      "strong electrolyte",
+      "ionic equilibria",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_X_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": null,
+    "concepts": [
+      "degree of dissociation",
+      "equilibrium concentration",
+      "mole concept"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Acids and Bases: Acids and bases are familiar chemical compounds. Acetic acid is found in vinegar, citric acid in lemons, magnesium hydroxide in antacids, ammonia in household cleaning products. The tartaric acid is present in tamarind paste. These are some acids and bases we come across in everyday life.",
+    "concepts": [
+      "hydrogen ions",
+      "conjugate ions",
+      "Arrhenius theory"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH03_S3_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Acids and Bases: Acids and bases are familiar chemical compounds. Acetic acid is found in vinegar, citric acid in lemons, magnesium hydroxide in antacids, ammonia in household cleaning products. The tartaric acid is present in tamarind paste. These are some acids and bases we come across in everyday life.",
+    "concepts": [
+      "Acid",
+      "Base",
+      "Arrhenius theory"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_3_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Acids and Bases: Acids and bases are familiar chemical compounds. Acetic acid is found in vinegar, citric acid in lemons, magnesium hydroxide in antacids, ammonia in household cleaning products. The tartaric acid is present in tamarind paste. These are some acids and bases we come across in everyday life.",
+    "concepts": [
+      "proton",
+      "conjugate acid-base pair",
+      "Bronsted-Lowry theory"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_3_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Acids and Bases: Acids and bases are familiar chemical compounds. Acetic acid is found in vinegar, citric acid in lemons, magnesium hydroxide in antacids, ammonia in household cleaning products. The tartaric acid is present in tamarind paste. These are some acids and bases we come across in everyday life.",
+    "concepts": [
+      "Lewis theory",
+      "acid-base reaction",
+      "electron pair"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH03_S3_3_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Acids and Bases: Acids and bases are familiar chemical compounds. Acetic acid is found in vinegar, citric acid in lemons, magnesium hydroxide in antacids, ammonia in household cleaning products. The tartaric acid is present in tamarind paste. These are some acids and bases we come across in everyday life.",
+    "concepts": [
+      "Bronsted bases are also Lewis bases",
+      "Lewis theory",
+      "amphoteric nature of water"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_4_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Ionisation of acids and bases",
+    "concepts": [
+      "ionization",
+      "dissociation",
+      "equilibrium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_4_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Ionisation of acids and bases",
+    "concepts": [
+      "acid dissociation constant",
+      "dissociation constant",
+      "degree of dissociation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Autoionization of water: Pure water ionizes to a very small extent. The ionization equilibrium of water is represented as,",
+    "concepts": [
+      "autoionization",
+      "water ionization",
+      "ionic product of water"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH03_S3_5_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "internet_task",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Autoionization of water: Pure water ionizes to a very small extent. The ionization equilibrium of water is represented as,",
+    "concepts": [
+      "covalent bond",
+      "redox reaction",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "pH Scale: Instead of writing concentration of H_3O^{\\oplus} ions in mol dm&lt;sup&gt;-3&lt;/sup&gt;, sometimes it is convenient to express it on the logarithmic scale. This is known as pH scale.",
+    "concepts": [
+      "concentration of hydrogen ions",
+      "hydrogen ions",
+      "pH scale",
+      "pH"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_6_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "pH Scale: Instead of writing concentration of H_3O^{\\oplus} ions in mol dm&lt;sup&gt;-3&lt;/sup&gt;, sometimes it is convenient to express it on the logarithmic scale. This is known as pH scale.",
+    "concepts": [
+      "pH scale",
+      "relationship between pH and pOH",
+      "sum of pH and pOH"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_6_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "pH Scale: Instead of writing concentration of H_3O^{\\oplus} ions in mol dm&lt;sup&gt;-3&lt;/sup&gt;, sometimes it is convenient to express it on the logarithmic scale. This is known as pH scale.",
+    "concepts": [
+      "pH scale",
+      "acidity",
+      "basicity",
+      "neutralization",
+      "hydrogen ion concentration"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH03_S3_6_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "pH Scale: Instead of writing concentration of H_3O^{\\oplus} ions in mol dm&lt;sup&gt;-3&lt;/sup&gt;, sometimes it is convenient to express it on the logarithmic scale. This is known as pH scale.",
+    "concepts": [
+      "pH scale",
+      "concentration",
+      "dissociation",
+      "percent dissociation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Hydrolysis of salts",
+    "concepts": [
+      "hydrolysis",
+      "salt dissociation",
+      "water dissociation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_7_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Hydrolysis of salts",
+    "concepts": [
+      "ionic equilibria",
+      "hydrolysis of salts",
+      "salts of strong acids and strong bases"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_7_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Hydrolysis of salts",
+    "concepts": [
+      "ionic equilibria",
+      "hydrolysis of salts",
+      "salts of strong acids and weak bases",
+      "sparedly soluble compounds"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_7_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Hydrolysis of salts",
+    "concepts": [
+      "ionic equilibria",
+      "hydrolysis of salts",
+      "salts of weak acids and strong bases"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH03_S3_7_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Hydrolysis of salts",
+    "concepts": [
+      "aqueous solution",
+      "NH<sub>4</sub>Cl",
+      "HCOOK",
+      "salts of weak acids",
+      "strong bases",
+      "neutral",
+      "acidic",
+      "basic"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_7_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Hydrolysis of salts",
+    "concepts": [
+      "hydrolysis",
+      "dissociation",
+      "solution",
+      "acidic",
+      "basic",
+      "neutral",
+      "salt",
+      "weak acid",
+      "weak base",
+      "equilibrium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Buffer solutions : Buffer solution is defined as a solution which resists drastic changes in pH when a small amount of strong acid or strong base or water is added to it.",
+    "concepts": [
+      "buffer solution",
+      "preservatives",
+      "microorganisms"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_8_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Buffer solutions : Buffer solution is defined as a solution which resists drastic changes in pH when a small amount of strong acid or strong base or water is added to it.",
+    "concepts": [
+      "buffer solution",
+      "Henderson-Hasselbalch equation",
+      "pH"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_8_003",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Buffer solutions : Buffer solution is defined as a solution which resists drastic changes in pH when a small amount of strong acid or strong base or water is added to it.",
+    "concepts": [
+      "buffer solution",
+      "conjugate base",
+      "pH",
+      "strong acid",
+      "strong base",
+      "dilution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_8_004",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Buffer solutions : Buffer solution is defined as a solution which resists drastic changes in pH when a small amount of strong acid or strong base or water is added to it.",
+    "concepts": [
+      "buffer solution",
+      "pH",
+      "strong acid or strong base"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH03_S3_8_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Buffer solutions : Buffer solution is defined as a solution which resists drastic changes in pH when a small amount of strong acid or strong base or water is added to it.",
+    "concepts": [
+      "buffer solution",
+      "pH",
+      "strong acid or strong base"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_8_005",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Buffer solutions : Buffer solution is defined as a solution which resists drastic changes in pH when a small amount of strong acid or strong base or water is added to it.",
+    "concepts": [
+      "buffer solution",
+      "Henderson-Hasselbalch equation",
+      "pH"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH03_S3_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Solubility product",
+    "concepts": [
+      "dissolution",
+      "precipitation",
+      "solubility product"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Solubility product",
+    "concepts": [
+      "sparingly soluble compound",
+      "dissociation",
+      "dynamic equilibrium",
+      "solubility product",
+      "equilibrium constant",
+      "coefficient",
+      "balanced equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH03_S3_9_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Solubility product",
+    "concepts": [
+      "molar solubility",
+      "solubility product constant (K_{SD})",
+      "ionic equilibria"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH03_S3_9_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Solubility product",
+    "concepts": [
+      "solubility_product",
+      "molar_solubility",
+      "ionic_equilibrium"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH03_S3_10_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Common ion effect:",
+    "concepts": [
+      "common ion effect",
+      "Le-Chatelier principle",
+      "dissociation",
+      "ionization",
+      "weak electrolyte",
+      "strong electrolyte"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH03_S3_10_002",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Common ion effect:",
+    "concepts": [
+      "ionization",
+      "NH<sub>4</sub>OH",
+      "addition",
+      "solution",
+      "suppressed",
+      "common ion effect"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH03_S3_10_001",
+    "document_id": "MAHA_CHEM_12",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 3,
+    "chapter_title": "Ionic Equilibria",
+    "section": "Common ion effect:",
+    "concepts": [
+      "hardness",
+      "Ca^{2+}",
+      "lime",
+      "OH^-",
+      "CO_3^{2-}",
+      "solubility_product",
+      "common_ion_effect",
+      "Le_chatelier's_principle"
+    ]
+  }
+]

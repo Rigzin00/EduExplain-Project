@@ -1,0 +1,357 @@
+[
+  {
+    "resource_id": "TXT_11_CH01_S1_1_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Introduction:",
+    "concepts": [
+      "units",
+      "measurement",
+      "precision"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "System of Units:",
+    "concepts": [
+      "SI units",
+      "International System of Units",
+      "CGS",
+      "MKS",
+      "FPS",
+      "decimal approach",
+      "conversions",
+      "units"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_2_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "System of Units:",
+    "concepts": [
+      "fundamental quantities",
+      "derived quantities",
+      "units"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_2_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "System of Units:",
+    "concepts": [
+      "derived quantities",
+      "fundamental quantities",
+      "units",
+      "plane angle",
+      "solid angle"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH01_S1_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "System of Units:",
+    "concepts": [
+      "radian",
+      "degree",
+      "rad"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_2_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "System of Units:",
+    "concepts": [
+      "prefixes_and_units_symbols",
+      "powers_of_ten",
+      "velocity_notation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Measurement of Length:",
+    "concepts": [
+      "SI unit",
+      "metre",
+      "length",
+      "distance",
+      "vacuum",
+      "light",
+      "time interval",
+      "second",
+      "standard"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_3_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Measurement of Length:",
+    "concepts": [
+      "parallax angle",
+      "baseline distance",
+      "celestial object",
+      "distance measurement",
+      "formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_3_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Measurement of Length:",
+    "concepts": [
+      "parallax method",
+      "Astronomical Unit",
+      "light year"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_3_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Measurement of Length:",
+    "concepts": [
+      "angular diameter",
+      "planet",
+      "distance",
+      "electron microscope",
+      "astronomical unit",
+      "light year",
+      "parsec"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH01_S1_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Measurement of Length:",
+    "concepts": [
+      "fermi",
+      "Angstrom",
+      "visible light",
+      "electron microscope",
+      "wave-particle duality",
+      "electrons",
+      "atomic sizes"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_4_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Measurement of Mass:",
+    "concepts": [
+      "kilogram",
+      "atomic mass units (amu)",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Measurement of Time:",
+    "concepts": [
+      "second",
+      "atomic clock",
+      "carbon-12"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_6_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Dimensions and Dimensional Analysis:",
+    "concepts": [
+      "dimensional formula",
+      "fundamental quantities",
+      "velocity",
+      "charge"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_6_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Dimensions and Dimensional Analysis:",
+    "concepts": [
+      "homogeneity of dimensions",
+      "dimensional analysis",
+      "period of a simple pendulum"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_6_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Dimensions and Dimensional Analysis:",
+    "concepts": [
+      "gravitational force",
+      "dimensional analysis",
+      "gravitational constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_7_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Accuracy, Precision and Uncertainty in Measurement:",
+    "concepts": [
+      "accuracy",
+      "precision",
+      "uncertainty"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH01_S1_7_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Accuracy, Precision and Uncertainty in Measurement:",
+    "concepts": [
+      "accuracy",
+      "precision",
+      "uncertainty"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_8_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Errors in Measurements:",
+    "concepts": [
+      "errors",
+      "systematic error",
+      "random error"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_8_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Errors in Measurements:",
+    "concepts": [
+      "mean value",
+      "absolute error",
+      "relative error"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_8_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Errors in Measurements:",
+    "concepts": [
+      "error propagation",
+      "absolute error",
+      "relative error",
+      "power rule for errors"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH01_S1_9_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 1,
+    "chapter_title": "Units And Measurements",
+    "section": "Significant Figures:",
+    "concepts": [
+      "significant figures",
+      "least count",
+      "scientific notation"
+    ]
+  }
+]

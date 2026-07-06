@@ -1,0 +1,311 @@
+[
+  {
+    "resource_id": "TXT_11_CH09_S9_1_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Introduction:",
+    "concepts": [
+      "light",
+      "energy",
+      "reflection",
+      "transmission",
+      "visual information",
+      "eyes",
+      "optics",
+      "properties",
+      "behavior",
+      "light waves",
+      "sound waves",
+      "unique characteristics",
+      "interactions",
+      "matter"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Nature of light:",
+    "concepts": [
+      "electromagnetic radiation",
+      "wavelength",
+      "refractive index"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Ray optics or geometrical optics:",
+    "concepts": [
+      "light travels in straight lines through uniform media with consistent properties in all directions",
+      "four key principles",
+      "angular momentum"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH09_S9_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Ray optics or geometrical optics:",
+    "concepts": [
+      "Fermat's principle",
+      "Snell's law",
+      "optical path length"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_3_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Ray optics or geometrical optics:",
+    "concepts": [
+      "Cartesian sign convention",
+      "real objects",
+      "virtual objects"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_4_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Reflection:",
+    "concepts": [
+      "virtual image",
+      "lateral inversion",
+      "same size as the object",
+      "image formation by reflection",
+      "plane mirror",
+      "inclination angle",
+      "number of images",
+      "angular momentum"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_4_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Reflection:",
+    "concepts": [
+      "focal length",
+      "lateral magnification",
+      "defects"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Refraction:",
+    "concepts": [
+      "refractive index",
+      "absolutely refractive index",
+      "relative refractive index"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH09_S9_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Refraction:",
+    "concepts": [
+      "refraction",
+      "plane surface",
+      "transparent medium",
+      "real depth",
+      "apparent depth",
+      "small angle approximation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_6_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Total internal reflection:",
+    "concepts": [
+      "total internal reflection",
+      "critical angle",
+      "coherent light"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH09_S9_6_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Total internal reflection:",
+    "concepts": [
+      "critical",
+      "Snell's law",
+      "relative refractive index"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_6_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Total internal reflection:",
+    "concepts": [
+      "total internal reflection",
+      "optical fiber",
+      "periscope"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_7_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Refraction at a spherical surface and lenses:",
+    "concepts": [
+      "refraction",
+      "lens formula",
+      "lens maker's equation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S7_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "cm. Determine R_1 and R_2.",
+    "concepts": [
+      "focal length",
+      "refractive index",
+      "radii of curvature"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_8_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Dispersion of light and prisms:",
+    "concepts": [
+      "dispersion of light",
+      "prism formula",
+      "angular dispersion"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH09_S9_8_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Dispersion of light and prisms:",
+    "concepts": [
+      "dispersive power",
+      "angular dispersion",
+      "refractive indices",
+      "dimensionless quantity",
+      "unitless quantity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_9_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Some natural phenomena due to Sunlight:",
+    "concepts": [
+      "temperature gradient",
+      "air density variation",
+      "refraction",
+      "internal reflection",
+      "dispersion",
+      "sunlight"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_10_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Defects of lenses (aberrations of optical images):",
+    "concepts": [
+      "spherical aberration",
+      "chromatic aberration",
+      "achromatic combination"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH09_S9_11_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 9,
+    "chapter_title": "Optics",
+    "section": "Optical instruments:",
+    "concepts": [
+      "visual angle",
+      "angular magnification",
+      "magnifying power"
+    ]
+  }
+]

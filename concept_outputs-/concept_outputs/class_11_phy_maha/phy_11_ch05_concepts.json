@@ -1,0 +1,277 @@
+[
+  {
+    "resource_id": "TXT_11_CH05_S5_1_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Introduction:",
+    "concepts": [
+      "gravitation",
+      "celestial bodies",
+      "Kepler's laws"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Kepler's Laws:",
+    "concepts": [
+      "elliptical orbits",
+      "Kepler's Law of Areas",
+      "angular momentum"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Universal Law of Gravitation:",
+    "concepts": [
+      "gravitational attraction",
+      "Galileo's observation",
+      "Newton's universal law of gravitation"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH05_S5_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Universal Law of Gravitation:",
+    "concepts": [
+      "acceleration due to gravity",
+      "gravitational force",
+      "inverse proportionality"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_4_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Measurement of the Gravitational Constant (G):",
+    "concepts": [
+      "gravitational constant",
+      "Cavendish balance",
+      "torque"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Acceleration due to Gravity:",
+    "concepts": [
+      "gravitational force",
+      "acceleration due to gravity",
+      "mass of the Earth"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH05_S5_5_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Acceleration due to Gravity:",
+    "concepts": [
+      "acceleration_due_to_gravity",
+      "mass",
+      "radius",
+      "gravitational_force"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_6_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Variation in the Acceleration due to Gravity with Altitude, Depth, Latitude and Shape:",
+    "concepts": [
+      "acceleration due to gravity",
+      "altitude variation",
+      "depth variation",
+      "latitude variation",
+      "shape variation"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_7_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Gravitational Potential and Potential Energy:",
+    "concepts": [
+      "potential energy",
+      "conservative forces",
+      "configuration",
+      "work",
+      "gravitational potential energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_7_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Gravitational Potential and Potential Energy:",
+    "concepts": [
+      "gravitational potential energy",
+      "change in potential energy",
+      "gravitational constant"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_7_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Gravitational Potential and Potential Energy:",
+    "concepts": [
+      "gravitational potential energy",
+      "potential energy formula",
+      "change in potential energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_7_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Gravitational Potential and Potential Energy:",
+    "concepts": [
+      "gravitational potential energy",
+      "potential energy",
+      "gravitational potential"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_7_005",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Gravitational Potential and Potential Energy:",
+    "concepts": [
+      "escape velocity",
+      "gravitational potential energy",
+      "kinetic energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_8_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Earth Satellites:",
+    "concepts": [
+      "geostationary",
+      "communication satellites",
+      "polar satellites"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_8_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Earth Satellites:",
+    "concepts": [
+      "escape velocity",
+      "critical velocity",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_8_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Earth Satellites:",
+    "concepts": [
+      "gravitational force",
+      "normal reaction force",
+      "weightlessness"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_8_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Earth Satellites:",
+    "concepts": [
+      "gravitational constant",
+      "centripetal force",
+      "orbital period"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH05_S5_8_005",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 5,
+    "chapter_title": "Gravitation",
+    "section": "Earth Satellites:",
+    "concepts": [
+      "binding energy",
+      "gravitational potential energy",
+      "centripetal force"
+    ]
+  }
+]

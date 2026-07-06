@@ -1,0 +1,418 @@
+[
+  {
+    "resource_id": "RCL_11_CH16_X_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": null,
+    "concepts": [
+      "movements",
+      "locomotion",
+      "displacement"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Movements and locomotion:",
+    "concepts": [
+      "internal movements",
+      "external movements",
+      "voluntary movements",
+      "involuntary movements",
+      "heartbeat",
+      "breathing",
+      "lifting an arm",
+      "walking",
+      "running"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH16_S16_1_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Movements and locomotion:",
+    "concepts": [
+      "skeletal muscles",
+      "tendons",
+      "movement"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_2_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Location and structure of skeletal muscles:",
+    "concepts": [
+      "muscle",
+      "joint",
+      "bone"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Working of Skeletal Muscles:",
+    "concepts": [
+      "antagonism",
+      "contraction",
+      "pulling",
+      "bones",
+      "movement"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH16_S16_3_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Working of Skeletal Muscles:",
+    "concepts": [
+      "skeletal muscles",
+      "contraction",
+      "muscle proteins",
+      "sarcomere",
+      "actin",
+      "myosin",
+      "meromyosins",
+      "light chains",
+      "ATPase activity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_4_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Mechanism of muscle contraction:",
+    "concepts": [
+      "muscle contraction",
+      "actin",
+      "myosin",
+      "cross bridges",
+      "ATP"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_5_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Physiology of muscle relaxation:",
+    "concepts": [
+      "tropomyosin",
+      "actin filaments",
+      "myosin",
+      "sarcoplasmic reticulum",
+      "transverse tubules",
+      "calcium ions",
+      "troponin"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_6_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Relaxation of muscle fibres:",
+    "concepts": [
+      "muscle relaxation",
+      "ATP breakdown",
+      "calcium ion return"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_7_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Properties of Muscles on Electrical Stimulation:",
+    "concepts": [
+      "muscle",
+      "joint",
+      "fulcrum"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_8_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Skeletal System:",
+    "concepts": [
+      "skeletal system",
+      "endoskeleton",
+      "exoskeleton",
+      "bones",
+      "cartilage",
+      "scales",
+      "plates",
+      "movement",
+      "locomotion",
+      "joints",
+      "muscle attachment",
+      "long bones",
+      "weight distribution",
+      "shock absorption"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_9_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Group of skeleton:",
+    "concepts": [
+      "axial skeleton",
+      "cranium",
+      "facial bones",
+      "frontal bone",
+      "parietal bone",
+      "temporal bone",
+      "occipital bone",
+      "sphenoid bone",
+      "ethmoid bone"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH16_S16_9_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Group of skeleton:",
+    "concepts": [
+      "nasals",
+      "maxillae",
+      "palatines"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH16_S16_9_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Group of skeleton:",
+    "concepts": [
+      "sinuses",
+      "skull",
+      "functions",
+      "disorder"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH16_S16_9_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Group of skeleton:",
+    "concepts": [
+      "skull importance",
+      "ear ossicles",
+      "vertebral column"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH16_S16_9_002",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Group of skeleton:",
+    "concepts": [
+      "sternum",
+      "manubrium",
+      "body of sternum",
+      "xiphoid process",
+      "rib",
+      "head of rib",
+      "tubercle"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH16_S16_9_003",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Group of skeleton:",
+    "concepts": [
+      "humerus",
+      "ball and socket joint",
+      "hemispherical head",
+      "tubercles",
+      "bicipital groove",
+      "deltoid tuberosity",
+      "trochlea",
+      "radius",
+      "ulna",
+      "superior and inferior radio-ulnar joints",
+      "interosseous membrane"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH16_S16_9_004",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Group of skeleton:",
+    "concepts": [
+      "fixed type of joint",
+      "freely movable joint",
+      "elbow joint"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_10_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Types of joints:",
+    "concepts": [
+      "fibrous joints",
+      "cartilaginous joints",
+      "synovial joints"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH16_S16_10_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Types of joints:",
+    "concepts": [
+      "hinge joint",
+      "condylar joint",
+      "gliding joint"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_11_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Disorders related to muscles:",
+    "concepts": [
+      "muscular dystrophy",
+      "Duchenne muscular dystrophy",
+      "limb-girdle muscular dystrophy",
+      "Myasthenia gravis"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH16_S16_12_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Disorders related to bones:",
+    "concepts": [
+      "arthritis",
+      "joint",
+      "synovial membrane",
+      "pannus",
+      "cartilage"
+    ]
+  },
+  {
+    "resource_id": "ACT_11_CH16_S16_12_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "activity",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Disorders related to bones:",
+    "concepts": [
+      "repetitive motions",
+      "tendons",
+      "forearm muscles",
+      "elbow",
+      "technique",
+      "rest"
+    ]
+  },
+  {
+    "resource_id": "INT_11_CH16_S16_12_001",
+    "document_id": "MAHA_BIO_11",
+    "resource_type": "internet_task",
+    "subject": "Biology",
+    "class_no": 11,
+    "chapter_no": 16,
+    "chapter_title": "Skeleton And Movements",
+    "section": "Disorders related to bones:",
+    "concepts": [
+      "fractures",
+      "osteoporosis",
+      "vertebrae"
+    ]
+  }
+]

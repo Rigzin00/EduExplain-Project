@@ -1,0 +1,168 @@
+[
+  {
+    "resource_id": "TXT_12_CH13_S13_1_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Ac Circuits",
+    "section": "Introduction:",
+    "concepts": [
+      "alternating_current",
+      "direct_current",
+      "electromagnetic_induction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_2_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Ac Circuits",
+    "section": "AC Generator:",
+    "concepts": [
+      "alternating_current",
+      "electromotive_force",
+      "peak_emf"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Ac Circuits",
+    "section": "Phasors:",
+    "concepts": [
+      "phasors",
+      "phase difference",
+      "maximum values",
+      "instantaneous values",
+      "vector addition"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_5_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Ac Circuits",
+    "section": "Different Types of AC Circuits:",
+    "concepts": [
+      "resistors",
+      "inductors",
+      "capacitors",
+      "reactances",
+      "frequency",
+      "LCR circuit",
+      "impedance"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_6_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Ac Circuits",
+    "section": "Power in AC circuit:",
+    "concepts": [
+      "power",
+      "RMS values",
+      "average power"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_7_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Ac Circuits",
+    "section": "LC Oscillations:",
+    "concepts": [
+      "LC Circuit",
+      "Energy Oscillation",
+      "Initial Discharge"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_8_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Ac Circuits",
+    "section": "Electric Resonance:",
+    "concepts": [
+      "resonance",
+      "natural frequency",
+      "oscillations",
+      "external source",
+      "LCR circuit",
+      "inductive reactance",
+      "capacitive reactance",
+      "minimum impedance",
+      "maximum current"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_9_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Ac Circuits",
+    "section": "Sharpness of Resonance: Q factor",
+    "concepts": [
+      "angular frequency",
+      "resonant frequency",
+      "bandwidth",
+      "Q factor"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH13_S13_10_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Ac Circuits",
+    "section": "Choke Coil:",
+    "concepts": [
+      "inductor",
+      "Joule heating",
+      "coil",
+      "inductive reactance",
+      "core",
+      "average power dissipation"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH13_S13_10_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "internet_task",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 13,
+    "chapter_title": "Ac Circuits",
+    "section": "Choke Coil:",
+    "concepts": [
+      "resistance",
+      "capacitance",
+      "inductance"
+    ]
+  }
+]

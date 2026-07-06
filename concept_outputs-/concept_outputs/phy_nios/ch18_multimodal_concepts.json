@@ -1,0 +1,539 @@
+[
+  {
+    "resource_id": "TXT_12_CH18_X_001",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": null,
+    "concepts": [
+      "electricity",
+      "magnetic field",
+      "Hans Christian Oersted"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_X_002",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": null,
+    "concepts": [
+      "magnetic field",
+      "electric current",
+      "magnetic effect"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_1_001",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "MAGNETS AND THEIR PROPERTIES",
+    "concepts": [
+      "north and south poles",
+      "magnetic field",
+      "external magnetic field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_1_002",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "MAGNETS AND THEIR PROPERTIES",
+    "concepts": [
+      "magnetic field lines",
+      "density of field lines",
+      "Earth's magnetic field",
+      "inclination",
+      "declination"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_2_001",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "ELECTRICITY AND MAGNETISM : BASIC CONCEPTS",
+    "concepts": [
+      "magnetic field",
+      "magnetic field lines",
+      "current"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_2_002",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "ELECTRICITY AND MAGNETISM : BASIC CONCEPTS",
+    "concepts": [
+      "magnetic field",
+      "current",
+      "compass needle",
+      "deflects",
+      "Hans Christian Oersted"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_3_001",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "BIOT-SAVART'S LAW",
+    "concepts": [
+      "magnetic field",
+      "current",
+      "geometry",
+      "infinitesimal segment",
+      "contribution",
+      "permeability of free space",
+      "right-hand grip rule"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_3_002",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "BIOT-SAVART'S LAW",
+    "concepts": [
+      "magnetic field",
+      "current",
+      "coil",
+      "infinitesimal current element",
+      "perpendicular",
+      "plane",
+      "turns",
+      "total magnetic field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_4_001",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "AMPERE'S CIRCUITAL LAW",
+    "concepts": [
+      "magnetic field",
+      "closed loop",
+      "total current",
+      "electromagnetic induction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_4_002",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "AMPERE'S CIRCUITAL LAW",
+    "concepts": [
+      "magnetic field",
+      "current-carrying conductor",
+      "solenoid",
+      "uniform field",
+      "non-uniform field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_4_003",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "AMPERE'S CIRCUITAL LAW",
+    "concepts": [
+      "magnetic field",
+      "current",
+      "solenoid",
+      "toroid",
+      "B = μ₀ni"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_4_004",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "AMPERE'S CIRCUITAL LAW",
+    "concepts": [
+      "current-carrying solenoid",
+      "right-hand rule",
+      "electromagnetic induction",
+      "soft iron core"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_4_005",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "AMPERE'S CIRCUITAL LAW",
+    "concepts": [
+      "displacement current",
+      "Ampère's circuital law",
+      "conduction current"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH18_S18_4_001",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "AMPERE'S CIRCUITAL LAW",
+    "concepts": [
+      "displacement current",
+      "magnetic field",
+      "solenoid"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH18_S18_4_002",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "AMPERE'S CIRCUITAL LAW",
+    "concepts": [
+      "displacement current",
+      "magnetic field around a current-carrying wire",
+      "angular momentum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_5_001",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "FORCE ON A MOVING CHARGE IN A MAGNETIC FIELD",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_5_002",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "FORCE ON A MOVING CHARGE IN A MAGNETIC FIELD",
+    "concepts": [
+      "force",
+      "magnetic field",
+      "tesla"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_5_003",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "FORCE ON A MOVING CHARGE IN A MAGNETIC FIELD",
+    "concepts": []
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_5_004",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "FORCE ON A MOVING CHARGE IN A MAGNETIC FIELD",
+    "concepts": [
+      "force",
+      "magnetic field",
+      "Lorentz force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_5_005",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "FORCE ON A MOVING CHARGE IN A MAGNETIC FIELD",
+    "concepts": [
+      "force",
+      "acceleration",
+      "velocity",
+      "displacement",
+      "electric field",
+      "magnetic field",
+      "charged particle",
+      "motion",
+      "equations of motion",
+      "angular momentum",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_5_006",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "FORCE ON A MOVING CHARGE IN A MAGNETIC FIELD",
+    "concepts": [
+      "cyclotron",
+      "electric field",
+      "magnetic field",
+      "cyclotron frequency",
+      "cyclotron resonance"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH18_S18_5_001",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "FORCE ON A MOVING CHARGE IN A MAGNETIC FIELD",
+    "concepts": [
+      "magnetic force",
+      "current-carrying wires",
+      "forces between objects"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH18_S18_5_002",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "FORCE ON A MOVING CHARGE IN A MAGNETIC FIELD",
+    "concepts": [
+      "centripetal force",
+      "Lorentz force law",
+      "magnetic field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_6_001",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "CURRENT LOOP AS A DIPOLE",
+    "concepts": [
+      "magnetic dipole",
+      "inverse cubic law",
+      "ferromagnetic materials"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH18_S18_6_001",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "CURRENT LOOP AS A DIPOLE",
+    "concepts": [
+      "Bohr Magneton",
+      "Planck's constant",
+      "electron mass"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_6_002",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "CURRENT LOOP AS A DIPOLE",
+    "concepts": [
+      "torque",
+      "magnetic field",
+      "current",
+      "effective length",
+      "force",
+      "angle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_6_003",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "CURRENT LOOP AS A DIPOLE",
+    "concepts": [
+      "current loop as a dipole",
+      "galvanometer",
+      "magnetic effect of current"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_6_004",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "CURRENT LOOP AS A DIPOLE",
+    "concepts": [
+      "shunt resistance",
+      "galvanometer",
+      "current measurement",
+      "amperage",
+      "voltmeter construction",
+      "potential difference measurement"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH18_S18_6_002",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "CURRENT LOOP AS A DIPOLE",
+    "concepts": [
+      "torque",
+      "current-carrying coil",
+      "magnetic field"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH18_S18_6_003",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "CURRENT LOOP AS A DIPOLE",
+    "concepts": [
+      "amplitude",
+      "current loop as a dipole",
+      "galvanometer"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_6_005",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "CURRENT LOOP AS A DIPOLE",
+    "concepts": [
+      "magnetic dipole",
+      "torque",
+      "uniform magnetic field"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_6_006",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "CURRENT LOOP AS A DIPOLE",
+    "concepts": [
+      "magnetic field",
+      "current loop as a dipole",
+      "amperian law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S18_6_007",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "CURRENT LOOP AS A DIPOLE",
+    "concepts": [
+      "Tesla",
+      "magnetic field gradient",
+      "scientific notation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH18_S13_5_001",
+    "document_id": "NIOS_PHY_CH18",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 18,
+    "chapter_title": "Magnetism And Magnetic Effect Of Electric Current",
+    "section": "uN",
+    "concepts": [
+      "Coulomb's law",
+      "magnetic flux linkage",
+      "resistance"
+    ]
+  }
+]

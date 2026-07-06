@@ -1,0 +1,520 @@
+[
+  {
+    "resource_id": "TXT_12_CH07_S7_1_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Introduction:",
+    "concepts": [
+      "reflection",
+      "refraction",
+      "Snell's law"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_2_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Nature of Light",
+    "concepts": [
+      "corpuscular nature",
+      "laws of reflection",
+      "refraction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_2_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Nature of Light",
+    "concepts": [
+      "wave nature of light",
+      "Huygens' principle",
+      "laws of reflection and refraction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_2_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Nature of Light",
+    "concepts": [
+      "wave-particle duality",
+      "photons",
+      "angular momentum"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Light as a Wave:",
+    "concepts": [
+      "electromagnetic wave",
+      "speed of light",
+      "refractive index"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_3_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Light as a Wave:",
+    "concepts": [
+      "speed of light",
+      "relativity",
+      "electromagnetic waves",
+      "wavelengths",
+      "refractive index"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_4_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Huygens' Theory:",
+    "concepts": [
+      "primary sources of light",
+      "secondary sources of light",
+      "reflection",
+      "scattering"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_4_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Huygens' Theory:",
+    "concepts": [
+      "wavefront",
+      "phase",
+      "wave propagation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_4_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Huygens' Theory:",
+    "concepts": [
+      "wavefront",
+      "secondary source",
+      "wavelet",
+      "envelope",
+      "future time",
+      "shape prediction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_5_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Reflection of Light at a Plane Surface",
+    "concepts": [
+      "law of reflection",
+      "Snell's law",
+      "refractive index"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_7_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Polarization:",
+    "concepts": [
+      "polarization",
+      "polarizer",
+      "intensity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_7_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Polarization:",
+    "concepts": [
+      "polarization",
+      "Brewster's law",
+      "reflected light",
+      "refracted light"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH07_S7_7_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "recall",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Polarization:",
+    "concepts": [
+      "Brewster's law",
+      "refractive index",
+      "angle of incidence"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_7_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Polarization:",
+    "concepts": [
+      "scattering",
+      "sky appearance",
+      "blue coloration",
+      "polarization",
+      "degree of polarization",
+      "plane polarized light"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_8_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Interference:",
+    "concepts": [
+      "wave superposition",
+      "constructive interference",
+      "destructive interference"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_8_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Interference:",
+    "concepts": [
+      "coherent sources",
+      "interference patterns",
+      "Young's double-slit setup"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_8_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Interference:",
+    "concepts": [
+      "interference",
+      "path difference",
+      "constructive interference",
+      "destructive interference",
+      "bright fringes",
+      "dark fringes",
+      "wavelength"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_8_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Interference:",
+    "concepts": [
+      "coherence",
+      "fringe width formula",
+      "Young's double-slit experiment"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_8_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Interference:",
+    "concepts": [
+      "interference",
+      "diffraction",
+      "phase difference"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_8_005",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Interference:",
+    "concepts": [
+      "coherent sources",
+      "Lloyd's mirror",
+      "Fresnel biprism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_8_006",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Interference:",
+    "concepts": [
+      "wavevector",
+      "angularfrequency",
+      "refractiveindex"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_9_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Diffraction of Light:",
+    "concepts": [
+      "diffraction",
+      "wave phenomena",
+      "light"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_9_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Diffraction of Light:",
+    "concepts": [
+      "far-field diffraction",
+      "near-field diffraction",
+      "wavelength"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_9_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Diffraction of Light:",
+    "concepts": [
+      "monochromatic light source",
+      "converging lens",
+      "plane parallel rays",
+      "wavefronts",
+      "apertures",
+      "gratings",
+      "Fraunhofer diffraction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_9_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Diffraction of Light:",
+    "concepts": [
+      "constructive interference",
+      "destructive interference",
+      "central maximum"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH07_S7_9_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Diffraction of Light:",
+    "concepts": [
+      "path difference",
+      "angle theta",
+      "distance D",
+      "screen",
+      "central bright point",
+      "dark fringes",
+      "bright fringes",
+      "equation",
+      "wave optics",
+      "diffraction",
+      "slit",
+      "Fraunhofer diffraction",
+      "n-th dark point",
+      "n-th bright point",
+      "equation (7.26)",
+      "equation (7.27)",
+      "distance y",
+      "screen distance D",
+      "fringe width"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_9_005",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Diffraction of Light:",
+    "concepts": [
+      "double-slit diffraction pattern",
+      "interference fringes",
+      "diffraction pattern"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_10_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Resolving Power:",
+    "concepts": [
+      "resolving power",
+      "aperture size",
+      "wavelength of light"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_10_002",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Resolving Power:",
+    "concepts": [
+      "Rayleigh's Criterion",
+      "angular separation",
+      "Airy disc"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_10_003",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Resolving Power:",
+    "concepts": [
+      "resolving_power",
+      "diffraction_patterns",
+      "rayleigh_criterion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH07_S7_10_004",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Resolving Power:",
+    "concepts": [
+      "resolving power",
+      "angular separation",
+      "airy discs"
+    ]
+  },
+  {
+    "resource_id": "INT_12_CH07_S7_10_001",
+    "document_id": "MAHA_PHY_12",
+    "resource_type": "internet_task",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 7,
+    "chapter_title": "Wave Optics",
+    "section": "Resolving Power:",
+    "concepts": [
+      "resolving power",
+      "optical path",
+      "refractive index",
+      "interference fringes",
+      "angular separation",
+      "lens",
+      "fringe spacing"
+    ]
+  }
+]

@@ -1,0 +1,283 @@
+[
+  {
+    "resource_id": "TXT_12_CH23_X_001",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": null,
+    "concepts": [
+      "nucleus",
+      "chromosomes",
+      "genes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_1_001",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "THE CONCEPT OF THE ONE GENE ONE ENZYME HYPOTHESIS",
+    "concepts": [
+      "one gene one enzyme hypothesis",
+      "gene controls the production of polypeptides",
+      "genetic mutations affect protein synthesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_2_001",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "DISCOVERY OF DNA AS THE GENETIC (HEREDITARY)",
+    "concepts": [
+      "chromosomes",
+      "genetic material",
+      "transformation",
+      "virulence",
+      "DNA"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_001",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "STRUCTURE OF DNA, THE GENETIC (HEREDITARY) MATERIAL",
+    "concepts": [
+      "nucleotide",
+      "purines",
+      "pyrimidines"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_3_002",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "STRUCTURE OF DNA, THE GENETIC (HEREDITARY) MATERIAL",
+    "concepts": [
+      "double-stranded molecule",
+      "helical structure",
+      "hydrogen bonds",
+      "Watson and Crick model",
+      "replication",
+      "transcription"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_4_001",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "RNA OR RIBONUCLEIC ACID",
+    "concepts": [
+      "Messenger RNA (mRNA)",
+      "Transfer RNA (tRNA)",
+      "Ribosomal RNA (rRNA)",
+      "protein synthesis",
+      "ribosomes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_5_001",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "MECHANISMS OF DNA TRANSFER IN BACTERIA",
+    "concepts": [
+      "conjugation",
+      "transformation",
+      "transduction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_6_001",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "DNA REPLICATION",
+    "concepts": [
+      "DNA replication",
+      "cell cycle",
+      "helicase",
+      "primase",
+      "RNA primer",
+      "DNA polymerase",
+      "Okazaki fragments",
+      "ligase"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_7_001",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "GENES AND PROTEIN SYNTHESIS",
+    "concepts": [
+      "genes",
+      "DNA",
+      "protein",
+      "cellular functions",
+      "hemoglobin",
+      "pepsin",
+      "carrier proteins",
+      "cell membranes",
+      "transcription",
+      "translation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_7_002",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "GENES AND PROTEIN SYNTHESIS",
+    "concepts": [
+      "DNA",
+      "RNA",
+      "protein",
+      "transcription",
+      "translation",
+      "retroviruses",
+      "central dogma"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_7_003",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "GENES AND PROTEIN SYNTHESIS",
+    "concepts": [
+      "nucleotides",
+      "DNA",
+      "codons",
+      "cistrons",
+      "polypeptide chain"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_7_004",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "GENES AND PROTEIN SYNTHESIS",
+    "concepts": [
+      "transcription",
+      "DNA template",
+      "RNA polymerase",
+      "introns",
+      "exons",
+      "mature mRNA",
+      "poly A tail"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_7_005",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "GENES AND PROTEIN SYNTHESIS",
+    "concepts": [
+      "amino acid activation",
+      "tRNA molecule attachment",
+      "mRNA binding to ribosome",
+      "translation initiation",
+      "polypeptide chain formation",
+      "stop codon recognition"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_8_001",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "HOUSE KEEPING GENES",
+    "concepts": [
+      "gene expression",
+      "regulation",
+      "housekeeping genes",
+      "inducible genes",
+      "repressible genes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_9_001",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "REGULATION OF GENE EXPRESSION",
+    "concepts": [
+      "inducible system",
+      "regulator protein",
+      "operator site",
+      "structural genes",
+      "metabolism",
+      "transcription",
+      "enzymes",
+      "lactose"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH23_S23_9_002",
+    "document_id": "NIOS_BIO_CH23",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 23,
+    "chapter_title": "Molecular Inheritance And Gene Expression",
+    "section": "REGULATION OF GENE EXPRESSION",
+    "concepts": [
+      "DNA",
+      "genes",
+      "meiosis",
+      "fertilization",
+      "genetic diversity"
+    ]
+  }
+]

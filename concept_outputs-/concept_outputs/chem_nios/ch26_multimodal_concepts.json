@@ -1,0 +1,346 @@
+[
+  {
+    "resource_id": "TXT_12_CH26_X_001",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": null,
+    "concepts": [
+      "alcohol",
+      "phenol",
+      "ether"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_X_002",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose molecules",
+      "stomata",
+      "gas exchange",
+      "environmental conditions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_1_001",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "ALCOHOLS",
+    "concepts": [
+      "hydroxy group",
+      "alcohols",
+      "methanol",
+      "ethanol"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_1_002",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "ALCOHOLS",
+    "concepts": [
+      "classification",
+      "nomenclature",
+      "IUPAC"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_1_003",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "ALCOHOLS",
+    "concepts": [
+      "hydrolysis",
+      "hydration",
+      "oxymercuration-demercuration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_1_004",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "ALCOHOLS",
+    "concepts": [
+      "polarity",
+      "hydrogen bonding",
+      "solubility"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_1_005",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "ALCOHOLS",
+    "concepts": [
+      "acidic behavior",
+      "basic behavior",
+      "weak acids",
+      "alkoxide ions",
+      "weak bases",
+      "oxonium ions",
+      "alkoxides",
+      "organic synthesis",
+      "alkyl halides",
+      "hydrogen halides",
+      "phosphorus tribromide",
+      "thionyl chloride"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_1_006",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "ALCOHOLS",
+    "concepts": [
+      "dehydration",
+      "E1 mechanism",
+      "alkenes",
+      "intermolecular dehydration",
+      "ethers",
+      "substitution reaction",
+      "symmetrical ethers",
+      "oxidation",
+      "aldehydes",
+      "ketones",
+      "carboxylic acids",
+      "pyridinium chlorochromate",
+      "esters",
+      "esterification"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_2_001",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "PHENOLS",
+    "concepts": [
+      "phenol",
+      "hydroxyl group",
+      "benzene ring",
+      "disinfectant",
+      "natural distribution",
+      "chemical synthesis",
+      "aspirin",
+      "dyes",
+      "Bakelite"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_2_002",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "PHENOLS",
+    "concepts": [
+      "nomenclature",
+      "substituent",
+      "IUPAC standards"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_2_003",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "PHENOLS",
+    "concepts": [
+      "phenol preparation",
+      "arenediazonium salts",
+      "diazotization",
+      "primary aromatic amines",
+      "hydrolysis",
+      "alkali fusion",
+      "Dow process",
+      "chlorobenzene",
+      "aqueous sodium hydroxide",
+      "sodium phenoxide",
+      "cumene"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_2_004",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "PHENOLS",
+    "concepts": [
+      "phenols",
+      "hydrogen bonding",
+      "boiling point"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_2_005",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "PHENOLS",
+    "concepts": [
+      "resonance stabilization",
+      "electrophilic substitution reactions",
+      "quinone formation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_001",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "ETHERS",
+    "concepts": [
+      "ether",
+      "symmetrical ether",
+      "unsymmetrical ether",
+      "diethyl ether",
+      "tetrahydrofuran"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_002",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "ETHERS",
+    "concepts": [
+      "nomenclature",
+      "IUPAC nomenclature",
+      "root name",
+      "substituent",
+      "alkyl group",
+      "aromatic group"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_003",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "ETHERS",
+    "concepts": [
+      "metal alkoxide",
+      "alkyl halide",
+      "Williamson synthesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_004",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "ETHERS",
+    "concepts": [
+      "geometry",
+      "sp³ hybridization",
+      "lone pairs of electrons",
+      "bent structure",
+      "net dipole moment",
+      "polar solvents",
+      "absence of hydrogen atoms",
+      "lower boiling points"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_005",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "ETHERS",
+    "concepts": [
+      "reactions",
+      "oxygen",
+      "hydroperoxides",
+      "peroxides",
+      "protons",
+      "acids",
+      "basicity",
+      "acidic cleavage",
+      "alkyl halides"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_006",
+    "document_id": "NIOS_CHEM_CH26",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Alcohols, Phenols",
+    "section": "ETHERS",
+    "concepts": [
+      "alkyl magnesium halides",
+      "alkenes",
+      "ether",
+      "alkylated products",
+      "hydrobromic acid",
+      "chloride ions",
+      "ethanol"
+    ]
+  }
+]

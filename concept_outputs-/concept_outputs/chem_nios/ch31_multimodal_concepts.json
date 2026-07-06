@@ -1,0 +1,302 @@
+[
+  {
+    "resource_id": "TXT_12_CH31_X_001",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": null,
+    "concepts": [
+      "detergents",
+      "polymers",
+      "household items"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_X_002",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": null,
+    "concepts": [
+      "surface tension reduction",
+      "polymers",
+      "household items"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_1_001",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "CLEANSING AGENTS (SOAPS AND DETERGENTS)",
+    "concepts": [
+      "surface-active agent",
+      "hydrophilic",
+      "lipophilic",
+      "foaming",
+      "cleansing agents",
+      "saponification",
+      "oils",
+      "fats",
+      "soaps",
+      "synthetic detergents",
+      "long-chain fatty acids",
+      "alkyl hydrogen sulphates",
+      "alkyl benzene sulphonic acids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_1_002",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "CLEANSING AGENTS (SOAPS AND DETERGENTS)",
+    "concepts": [
+      "micelle",
+      "critical micellization concentration",
+      "kraft temperature"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_1_003",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "CLEANSING AGENTS (SOAPS AND DETERGENTS)",
+    "concepts": [
+      "synthetic detergents",
+      "hard water conditions",
+      "soluble salts",
+      "branched alkyl benzene sulphonate",
+      "linear alkyl benzene sulphonate",
+      "biodegradability",
+      "environmental concerns"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_2_001",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "WHAT ARE POLYMERS",
+    "concepts": [
+      "monomers",
+      "polymerization",
+      "ethylene"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_2_002",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "WHAT ARE POLYMERS",
+    "concepts": [
+      "homopolymers",
+      "copolymers",
+      "Buna-S rubber"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_3_001",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "POLYMERIZATION",
+    "concepts": [
+      "polymerization",
+      "monomers",
+      "polymers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_3_002",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "POLYMERIZATION",
+    "concepts": [
+      "polymerization",
+      "addition polymerization",
+      "condensation polymerization"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_4_001",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "CLASSIFICATION OF POLYMERS",
+    "concepts": [
+      "classification",
+      "polymerization",
+      "intermolecular forces",
+      "elastomer",
+      "plasticizer"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_5_001",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "SOME COMMERCIALLY IMPORTANT POLYMERS",
+    "concepts": [
+      "polymerization",
+      "vulcanization",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_5_002",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "SOME COMMERCIALLY IMPORTANT POLYMERS",
+    "concepts": [
+      "synthetic polymers",
+      "olefins/alkenes",
+      "polyethylene",
+      "polypropylene",
+      "Teflon",
+      "polyvinylchloride",
+      "polymethyl methacrylate"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_5_003",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "SOME COMMERCIALLY IMPORTANT POLYMERS",
+    "concepts": [
+      "condensation reactions",
+      "ester groups",
+      "polyesters"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_5_004",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "SOME COMMERCIALLY IMPORTANT POLYMERS",
+    "concepts": [
+      "polymerization",
+      "amide group",
+      "tensile strength",
+      "abrasion resistance",
+      "synthetic polymer",
+      "Nylon-66",
+      "bristles",
+      "brushes",
+      "carpets",
+      "elastic hosiery",
+      "biopolymer",
+      "natural polymer"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_5_005",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "SOME COMMERCIALLY IMPORTANT POLYMERS",
+    "concepts": [
+      "biopolymers",
+      "polysaccharides",
+      "cellulose"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_6_001",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "ENVIRONMENTAL PROBLEMS AND BIODEGRAD-ABLE POLYMERS",
+    "concepts": [
+      "biodegradable polymers",
+      "enzymes",
+      "microorganisms"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_6_002",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "ENVIRONMENTAL PROBLEMS AND BIODEGRAD-ABLE POLYMERS",
+    "concepts": [
+      "biodegradable polymers",
+      "copolymer",
+      "polymerization",
+      "lactic acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH31_S31_6_003",
+    "document_id": "NIOS_CHEM_CH31",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 31,
+    "chapter_title": "Objectives",
+    "section": "ENVIRONMENTAL PROBLEMS AND BIODEGRAD-ABLE POLYMERS",
+    "concepts": [
+      "condensation polymerization",
+      "addition polymerization",
+      "monomers"
+    ]
+  }
+]

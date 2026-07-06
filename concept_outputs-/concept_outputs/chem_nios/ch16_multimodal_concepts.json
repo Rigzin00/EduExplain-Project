@@ -1,0 +1,216 @@
+[
+  {
+    "resource_id": "TXT_12_CH16_X_001",
+    "document_id": "NIOS_CHEM_CH16",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Occurrence And Extraction Of Metals",
+    "section": null,
+    "concepts": [
+      "metals",
+      "alloys",
+      "crucial roles",
+      "modern infrastructure",
+      "technology",
+      "construction",
+      "transportation",
+      "complex chemical processes",
+      "metal compounds",
+      "pure metals",
+      "industrial use"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_X_002",
+    "document_id": "NIOS_CHEM_CH16",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Occurrence And Extraction Of Metals",
+    "section": null,
+    "concepts": [
+      "alloy",
+      "metallic properties",
+      "brass",
+      "steel"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_1_001",
+    "document_id": "NIOS_CHEM_CH16",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Occurrence And Extraction Of Metals",
+    "section": "OCCURRENCE OF METALS",
+    "concepts": [
+      "metals",
+      "occurrence",
+      "minerals"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_1_002",
+    "document_id": "NIOS_CHEM_CH16",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Occurrence And Extraction Of Metals",
+    "section": "OCCURRENCE OF METALS",
+    "concepts": [
+      "iron ore reserves",
+      "mining activities",
+      "aluminum deposits",
+      "bauxite",
+      "copper reserves",
+      "regions",
+      "Zawar mines",
+      "Sargipalli mines",
+      "tin deposits",
+      "Jharkhand"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_2_001",
+    "document_id": "NIOS_CHEM_CH16",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Occurrence And Extraction Of Metals",
+    "section": "GENERAL PRINCIPLES OF EXTRACTION OF METALS",
+    "concepts": [
+      "crushing",
+      "grinding",
+      "concentration",
+      "impurities",
+      "gangue"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_2_002",
+    "document_id": "NIOS_CHEM_CH16",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Occurrence And Extraction Of Metals",
+    "section": "GENERAL PRINCIPLES OF EXTRACTION OF METALS",
+    "concepts": [
+      "crushing",
+      "pulverization",
+      "screening"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_2_003",
+    "document_id": "NIOS_CHEM_CH16",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Occurrence And Extraction Of Metals",
+    "section": "GENERAL PRINCIPLES OF EXTRACTION OF METALS",
+    "concepts": [
+      "impurities",
+      "gangue",
+      "ore",
+      "gravity separation",
+      "magnetic separation",
+      "froth floatation",
+      "chemical treatment"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_2_004",
+    "document_id": "NIOS_CHEM_CH16",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Occurrence And Extraction Of Metals",
+    "section": "GENERAL PRINCIPLES OF EXTRACTION OF METALS",
+    "concepts": [
+      "calcination",
+      "roasting",
+      "ore"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_2_005",
+    "document_id": "NIOS_CHEM_CH16",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Occurrence And Extraction Of Metals",
+    "section": "GENERAL PRINCIPLES OF EXTRACTION OF METALS",
+    "concepts": [
+      "reduction",
+      "carbon",
+      "iron",
+      "tin",
+      "zinc",
+      "chromium",
+      "titanium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_2_006",
+    "document_id": "NIOS_CHEM_CH16",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Occurrence And Extraction Of Metals",
+    "section": "GENERAL PRINCIPLES OF EXTRACTION OF METALS",
+    "concepts": [
+      "impurities",
+      "refining processes",
+      "electrolysis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_3_001",
+    "document_id": "NIOS_CHEM_CH16",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Occurrence And Extraction Of Metals",
+    "section": "EXTRACTION OF Al, Fe, Cu AND Zn",
+    "concepts": [
+      "dissolution",
+      "precipitation",
+      "heating",
+      "electrolysis",
+      "alumina",
+      "cathode",
+      "anode",
+      "oxydation-reduction reaction",
+      "blast furnace",
+      "limestone",
+      "slag"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH16_S16_3_002",
+    "document_id": "NIOS_CHEM_CH16",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 16,
+    "chapter_title": "Occurrence And Extraction Of Metals",
+    "section": "EXTRACTION OF Al, Fe, Cu AND Zn",
+    "concepts": [
+      "ore",
+      "calcination",
+      "roasting"
+    ]
+  }
+]

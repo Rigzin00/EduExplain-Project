@@ -1,0 +1,271 @@
+[
+  {
+    "resource_id": "TXT_12_CH04_S4_1_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "The Discovery of DNA:",
+    "concepts": [
+      "nucleic acids",
+      "phosphorus content",
+      "acidic nature",
+      "DNA",
+      "RNA"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_2_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "The Genetic Material is DNA:",
+    "concepts": [
+      "genetic material",
+      "DNA",
+      "transforming principle",
+      "protein",
+      "virulent bacteria"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_3_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "DNA packaging:",
+    "concepts": [
+      "DNA packaging",
+      "nucleoid",
+      "chromatin",
+      "histones",
+      "non-histone chromosomal proteins"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_4_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "DNA Replication:",
+    "concepts": [
+      "cell",
+      "instruction manual",
+      "genetic information",
+      "semiconservative replication",
+      "DNA duplication",
+      "daughter DNA molecules",
+      "mitosis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "Protein synthesis:",
+    "concepts": [
+      "transcription",
+      "translation",
+      "central dogma"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH04_S4_5_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "Protein synthesis:",
+    "concepts": [
+      "transcription",
+      "promoter",
+      "terminator",
+      "mRNA",
+      "ribosome",
+      "translation",
+      "nucleus",
+      "cytoplasm"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH04_S4_5_002",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "Protein synthesis:",
+    "concepts": [
+      "translation",
+      "ribosomes",
+      "mRNA",
+      "tRNA",
+      "polypeptide",
+      "amino acids",
+      "enzymes",
+      "elongation",
+      "translocation",
+      "release factors"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "Regulation of gene expression:",
+    "concepts": [
+      "gene expression",
+      "metabolic level",
+      "physiological level",
+      "environmental condition",
+      "β-galactosidase",
+      "lactose",
+      "inducible enzyme"
+    ]
+  },
+  {
+    "resource_id": "CLT_12_CH04_S4_6_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "callout",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "Regulation of gene expression:",
+    "concepts": [
+      "repression",
+      "biosynthetic pathway",
+      "metabolite",
+      "feedback repression"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "Operon concept:",
+    "concepts": [
+      "lac operon",
+      "transcriptional control mechanism",
+      "lactose metabolism",
+      "repressor protein",
+      "structural genes",
+      "mRNA molecule",
+      "enzymes",
+      "metabolic pathway",
+      "negative feedback regulatory system"
+    ]
+  },
+  {
+    "resource_id": "RCL_12_CH04_S4_7_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "recall",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "Operon concept:",
+    "concepts": [
+      "Trp-operon",
+      "Araoperon",
+      "His-operon"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_8_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "Genomics:",
+    "concepts": [
+      "genome",
+      "genomics",
+      "structural genomics",
+      "functional genomics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_9_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "Human Genome Project:",
+    "concepts": [
+      "human genome project",
+      "international collaboration",
+      "model organisms",
+      "gene functions",
+      "species comparison"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH04_S4_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "DNA Fingerprinting:",
+    "concepts": [
+      "chromosomes",
+      "gamete formation",
+      "genetic fingerprinting",
+      "DNA fingerprinting",
+      "Dr. Alec Jeffreys"
+    ]
+  },
+  {
+    "resource_id": "SCI_12_CH04_S4_10_001",
+    "document_id": "MAHA_BIO_12",
+    "resource_type": "scientist_box",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 4,
+    "chapter_title": "The Discovery Of Dna:",
+    "section": "DNA Fingerprinting:",
+    "concepts": [
+      "DNA",
+      "probe",
+      "Y chromosome",
+      "XY",
+      "YY",
+      "minor",
+      "krait",
+      "forensic",
+      "technologies"
+    ]
+  }
+]

@@ -1,0 +1,384 @@
+[
+  {
+    "resource_id": "TXT_12_CH26_X_001",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": null,
+    "concepts": [
+      "nucleus",
+      "proton",
+      "neutron",
+      "strong nuclear forces",
+      "radioactivity",
+      "alpha-particle",
+      "atomic nucleus",
+      "techniques",
+      "nuclear structure",
+      "size",
+      "mass",
+      "fundamental principles"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_X_002",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "glucose",
+      "chemical energy",
+      "oxygen balance",
+      "carbon dioxide balance",
+      "food production"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_1_001",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "THE ATOMIC NUCLEUS",
+    "concepts": [
+      "proton",
+      "neutron",
+      "atomic nucleus"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_1_002",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "THE ATOMIC NUCLEUS",
+    "concepts": [
+      "protons",
+      "neutrons",
+      "atomic number",
+      "mass number",
+      "elementary charge"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_1_003",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "THE ATOMIC NUCLEUS",
+    "concepts": [
+      "atomic nucleus",
+      "radius",
+      "volume",
+      "mass number",
+      "density",
+      "proportional relationship"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_1_004",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "THE ATOMIC NUCLEUS",
+    "concepts": [
+      "nucleus",
+      "mass number",
+      "atomic number",
+      "isobars"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH26_S26_1_001",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "THE ATOMIC NUCLEUS",
+    "concepts": [
+      "protons",
+      "neutrons",
+      "nucleons"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH26_S26_1_002",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "THE ATOMIC NUCLEUS",
+    "concepts": [
+      "isotopes",
+      "isobars",
+      "isotones"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_1_005",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "THE ATOMIC NUCLEUS",
+    "concepts": [
+      "mass",
+      "atomic mass unit",
+      "nuclear physics"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_1_006",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "THE ATOMIC NUCLEUS",
+    "concepts": [
+      "mass defect",
+      "binding energy",
+      "nucleus",
+      "deuterium",
+      "helium",
+      "iron"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH26_S26_1_003",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "THE ATOMIC NUCLEUS",
+    "concepts": [
+      "atomic mass units",
+      "kilograms",
+      "mass defect",
+      "binding energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_2_001",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "HOW DO NUCLEONS CLING TOGETHER: NUCLEAR FORCE",
+    "concepts": [
+      "nuclear force",
+      "binding energy",
+      "electrostatic forces"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_2_002",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "HOW DO NUCLEONS CLING TOGETHER: NUCLEAR FORCE",
+    "concepts": [
+      "nuclear forces",
+      "charge-independent forces",
+      "saturation property"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_001",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "RADIOACTIVITY",
+    "concepts": [
+      "radioactive decay",
+      "radiometric dating",
+      "cancer cell"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_002",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "RADIOACTIVITY",
+    "concepts": [
+      "radioactivity",
+      "photographic plates",
+      "radiation",
+      "Becquerel rays",
+      "uranium",
+      "polonium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_003",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "RADIOACTIVITY",
+    "concepts": [
+      "nuclear stability",
+      "radioactive decay",
+      "emission of particles"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_004",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "RADIOACTIVITY",
+    "concepts": [
+      "radioactive decay",
+      "atomic number",
+      "mass number",
+      "conservation of charge number",
+      "conservation of mass number"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_005",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "RADIOACTIVITY",
+    "concepts": [
+      "radioactive decay",
+      "law of radioactive decay",
+      "exponential decay formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_006",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "RADIOACTIVITY",
+    "concepts": [
+      "half-life",
+      "decay constant",
+      "inverse proportionality"
+    ]
+  },
+  {
+    "resource_id": "EXP_12_CH26_S26_3_001",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "example",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "RADIOACTIVITY",
+    "concepts": [
+      "radioactive decay",
+      "radiocarbon dating",
+      "half life"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_007",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "RADIOACTIVITY",
+    "concepts": [
+      "nucleus",
+      "atomic number",
+      "mass number",
+      "electrons",
+      "protons",
+      "neutrons",
+      "radioactivity",
+      "emission",
+      "particles",
+      "electromagnetic waves",
+      "transformation",
+      "element",
+      "another"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_008",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "RADIOACTIVITY",
+    "concepts": [
+      "nuclear disintegration",
+      "atomic and mass number changes",
+      "ionizing power of alpha particles"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH26_S26_3_009",
+    "document_id": "NIOS_PHY_CH26",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 12,
+    "chapter_no": 26,
+    "chapter_title": "Nuclei And Radioactivity",
+    "section": "RADIOACTIVITY",
+    "concepts": [
+      "half life"
+    ]
+  }
+]

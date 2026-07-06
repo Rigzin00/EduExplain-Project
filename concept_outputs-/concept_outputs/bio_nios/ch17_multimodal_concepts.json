@@ -1,0 +1,383 @@
+[
+  {
+    "resource_id": "TXT_12_CH17_X_001",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": null,
+    "concepts": [
+      "nervous system",
+      "endocrine system",
+      "survival"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_1_001",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "FUNCTIONS OF THE NERVOUS SYSTEM",
+    "concepts": [
+      "receptors",
+      "sensory nerves",
+      "motor nerves"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_1_002",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "FUNCTIONS OF THE NERVOUS SYSTEM",
+    "concepts": [
+      "nervous system",
+      "brain",
+      "esophagus",
+      "sub-oesophageal ganglion",
+      "circumoesophageal connectives",
+      "ventral nerve cord",
+      "ganglia"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_4_001",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "NERVOUS SYSTEM OF HUMANS",
+    "concepts": [
+      "central nervous system",
+      "peripheral nervous system",
+      "sensory functions",
+      "motor functions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_4_002",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "NERVOUS SYSTEM OF HUMANS",
+    "concepts": [
+      "cerebrum",
+      "cerebellum",
+      "brainstem",
+      "corpus callosum",
+      "nerve cells",
+      "axon fibers"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_4_003",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "NERVOUS SYSTEM OF HUMANS",
+    "concepts": [
+      "nerve impulse",
+      "neuron",
+      "cerebral cortex",
+      "amygdala"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_4_004",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "PERIPHERAL NERVOUS SYSTEM",
+    "concepts": [
+      "sensory pathways",
+      "motor pathways",
+      "autonomic nervous system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_5_001",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "NEURON – THE STRUCTURAL AND FUNCTIONAL UNIT OF NERVOUS SYSTEM (FIG. 17.4)",
+    "concepts": [
+      "cell body",
+      "cytoplasm",
+      "nucleus"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_6_001",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "CONDUCTION OF NERVE IMPULSE ALONG THE NEURON AND OVER THE SYNAPSE",
+    "concepts": [
+      "electrochemical signaling",
+      "ion channels",
+      "neurotransmitters"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_7_001",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "REFLEX ACTION",
+    "concepts": [
+      "reflex action",
+      "sensory organ",
+      "motor neuron",
+      "muscle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_8_001",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "SENSORY RECEPTORS (THE SENSE ORGANS)",
+    "concepts": [
+      "eyes",
+      "ears",
+      "nose",
+      "tongue",
+      "skin"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_8_002",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "SENSORY RECEPTORS (THE SENSE ORGANS)",
+    "concepts": [
+      "sclera",
+      "choroid",
+      "retina",
+      "lens",
+      "binocular vision",
+      "depth perception"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_8_003",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "SENSORY RECEPTORS (THE SENSE ORGANS)",
+    "concepts": [
+      "cochlea",
+      "sensory cells",
+      "electrical signals",
+      "vestibule",
+      "fluid movement",
+      "particle displacement"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_8_004",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "SENSORY RECEPTORS (THE SENSE ORGANS)",
+    "concepts": [
+      "taste perception",
+      "smell perception",
+      "sensory cells",
+      "tongue",
+      "nose"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_8_005",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "SENSORY RECEPTORS (THE SENSE ORGANS)",
+    "concepts": [
+      "sensory receptors",
+      "nerve endings",
+      "skin",
+      "touch",
+      "pressure",
+      "deep pressure",
+      "cold",
+      "heat",
+      "pain",
+      "hunger",
+      "thirst",
+      "fatigue",
+      "muscles"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_9_001",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "COORDINATION THROUGH HORMONES—THE ENDOCRINE SYSTEM",
+    "concepts": [
+      "hormone",
+      "endocrine gland",
+      "target organ"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_9_002",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "COORDINATION THROUGH HORMONES—THE ENDOCRINE SYSTEM",
+    "concepts": [
+      "pituitary gland",
+      "master gland",
+      "endocrine glands",
+      "hormones",
+      "thyroid gland",
+      "metabolism",
+      "growth",
+      "adrenocorticotropic hormone",
+      "pancreas",
+      "glucose regulation",
+      "insulin",
+      "glucagon",
+      "gonads",
+      "sex hormones"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_10_001",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "THE FEEDBACK MECHANISM (CONTROL OF HORMONAL SECRETION)",
+    "concepts": [
+      "feedback mechanism",
+      "hormonal secretion",
+      "thyroid gland",
+      "hypothalamus",
+      "thyroxine",
+      "pituitary gland",
+      "thyroid-stimulating hormone (TSH)",
+      "thyroxine levels"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_11_001",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "COMPARISON OF HORMONAL AND NERVOUS COORDINATION",
+    "concepts": [
+      "growth",
+      "development",
+      "learning"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_12_001",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "PHEROMONES—THE CHEMICAL MESSENGERS AT SOCIAL LEVEL",
+    "concepts": [
+      "pheromones",
+      "sex pheromones",
+      "alarm pheromones"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_12_002",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "PHEROMONES—THE CHEMICAL MESSENGERS AT SOCIAL LEVEL",
+    "concepts": [
+      "coordination",
+      "control",
+      "nervous system",
+      "endocrine system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_12_003",
+    "document_id": "NIOS_BIO_CH17",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "",
+    "section": "PHEROMONES—THE CHEMICAL MESSENGERS AT SOCIAL LEVEL",
+    "concepts": [
+      "axon fibers",
+      "electrical signals",
+      "communication",
+      "photosynthesis",
+      "organism",
+      "survive",
+      "thrives"
+    ]
+  }
+]

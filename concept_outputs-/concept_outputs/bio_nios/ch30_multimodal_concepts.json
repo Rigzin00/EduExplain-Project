@@ -1,0 +1,424 @@
+[
+  {
+    "resource_id": "TXT_12_CH30_X_001",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": null,
+    "concepts": [
+      "microorganisms",
+      "fermentation",
+      "food production"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_1_001",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "BIOTECHNOLOGY",
+    "concepts": [
+      "biotechnology",
+      "industrial applications",
+      "food production",
+      "medicines development",
+      "diagnostic tools",
+      "gene therapy",
+      "forensic analysis",
+      "DNA fingerprinting"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_1_002",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "BIOTECHNOLOGY",
+    "concepts": [
+      "biotechnology",
+      "pharmaceuticals",
+      "antibiotics",
+      "vaccines",
+      "gene therapy",
+      "gene editing",
+      "microorganisms",
+      "toxic substances",
+      "environmental cleanup",
+      "bioremediation",
+      "crop resilience",
+      "pest control"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_1_003",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "BIOTECHNOLOGY",
+    "concepts": [
+      "industrial microorganisms",
+      "protein manufacturing",
+      "genetic engineering",
+      "cell culture",
+      "hybridoma"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_1_004",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "BIOTECHNOLOGY",
+    "concepts": [
+      "fermentation",
+      "yeast",
+      "ATP",
+      "Louis Pasteur"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_2_001",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "YOGHURT AND CHEESE MAKING",
+    "concepts": [
+      "milk curdling",
+      "Lactobacillus",
+      "rennin",
+      "casein",
+      "whey",
+      "lactic acid",
+      "pH",
+      "souring",
+      "butter making",
+      "cheese production",
+      "yogurt",
+      "cheese"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_2_002",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "YOGHURT AND CHEESE MAKING",
+    "concepts": [
+      "antibiotics",
+      "microorganisms",
+      "pathogenic bacteria"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_3_001",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "VACCINATION",
+    "concepts": [
+      "cowpox",
+      "smallpox",
+      "vaccination",
+      "first-generation vaccines",
+      "second-generation vaccines",
+      "third-generation vaccines"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_4_001",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "PRODUCTION OF VITAMINS",
+    "concepts": [
+      "vitamin",
+      "metabolic process",
+      "fermentation",
+      "probiotic",
+      "propionic bacteria"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_5_001",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "PRODUCTION OF BIOGAS",
+    "concepts": [
+      "anaerobic fermentation",
+      "methane-producing bacteria",
+      "methylene"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_6_001",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "GENETIC ENGINEERING",
+    "concepts": [
+      "genetic engineering",
+      "DNA",
+      "blueprints",
+      "gene manipulation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_6_002",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "GENETIC ENGINEERING",
+    "concepts": [
+      "gene mutation",
+      "therapeutic genes",
+      "protein synthesis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_6_003",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "GENETIC ENGINEERING",
+    "concepts": [
+      "recombinant DNA",
+      "cloned genes",
+      "reciprocal complementation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_6_004",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "GENETIC ENGINEERING",
+    "concepts": [
+      "restriction enzymes",
+      "ligase",
+      "recombinant DNA"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_6_005",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "GENETIC ENGINEERING",
+    "concepts": [
+      "genetic engineering",
+      "recombinant DNA technology",
+      "therapeutic proteins",
+      "enzymes",
+      "biosynthetic pathways",
+      "antibiotics",
+      "bioengineered vaccines"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_8_001",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "TRANSGENE AND TRANSGENIC",
+    "concepts": [
+      "transgene",
+      "transgenic",
+      "Agrobacterium tumefaciens",
+      "foreign genes",
+      "plant cells",
+      "desired genes",
+      "medically useful proteins",
+      "mice",
+      "foreign DNA",
+      "embryos",
+      "new traits",
+      "increased size",
+      "therapeutic proteins",
+      "goats",
+      "milk"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_8_002",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "TRANSGENE AND TRANSGENIC",
+    "concepts": [
+      "transgene",
+      "transgenic bacteria",
+      "bioremediation",
+      "genetic modification"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_9_001",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "HUMAN GENE THERAPY",
+    "concepts": [
+      "genetic defects",
+      "diseases",
+      "haemophilia"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_9_002",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "HUMAN GENE THERAPY",
+    "concepts": [
+      "enzymes",
+      "biochemical reactions",
+      "genetic disorders",
+      "defective genes",
+      "single-gene defects"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_9_003",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "HUMAN GENE THERAPY",
+    "concepts": [
+      "gene therapy",
+      "defective genes",
+      "genetic disorders",
+      "healthy genes",
+      "patient's cells",
+      "necessary proteins",
+      "normal function"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_9_004",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "HUMAN GENE THERAPY",
+    "concepts": [
+      "gene therapy",
+      "ex-vivo gene therapy",
+      "in-vivo gene therapy",
+      "antisense therapy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_9_005",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "HUMAN GENE THERAPY",
+    "concepts": [
+      "gene therapy",
+      "somatic cell gene therapy",
+      "germ-line gene therapy",
+      "genetic modification",
+      "reproductive cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_9_006",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "HUMAN GENE THERAPY",
+    "concepts": [
+      "sterilization",
+      "autoclaving",
+      "yeast introduction",
+      "fermentation",
+      "terminal exercises"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH30_S30_9_007",
+    "document_id": "NIOS_BIO_CH30",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 30,
+    "chapter_title": "Biotechnology",
+    "section": "HUMAN GENE THERAPY",
+    "concepts": [
+      "microbial growth",
+      "conventional culture method",
+      "suspended culture method",
+      "Lactobacillus",
+      "gene therapy"
+    ]
+  }
+]

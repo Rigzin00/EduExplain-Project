@@ -1,0 +1,417 @@
+[
+  {
+    "resource_id": "TXT_12_CH14_X_001",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": null,
+    "concepts": [
+      "respiratory system",
+      "carbon dioxide",
+      "ammonia",
+      "urea"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_1_001",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "RESPIRATION",
+    "concepts": [
+      "respiratory chain",
+      "ATP synthesis",
+      "cellular respiration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_1_002",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "RESPIRATION",
+    "concepts": [
+      "cutaneous respiration",
+      "dual respiratory system",
+      "oxygen extraction"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_1_003",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "RESPIRATION",
+    "concepts": [
+      "respiratory process",
+      "abdomen expansion-contraction",
+      "gas exchange"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_1_004",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "RESPIRATION",
+    "concepts": [
+      "enzymes",
+      "respiratory system",
+      "oxygen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_001",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "MECHANISM OF PULMONARY RESPIRATION",
+    "concepts": [
+      "gas exchange",
+      "oxygen inhalation",
+      "carbon dioxide expulsion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_002",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "MECHANISM OF PULMONARY RESPIRATION",
+    "concepts": [
+      "breathing",
+      "pulmonary ventilation",
+      "rib cage",
+      "diaphragm",
+      "external intercostal muscles",
+      "internal intercostal muscles",
+      "carbon-dioxide"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_003",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "MECHANISM OF PULMONARY RESPIRATION",
+    "concepts": [
+      "pulmonary vein",
+      "vital capacity",
+      "lung ventilation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_004",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "MECHANISM OF PULMONARY RESPIRATION",
+    "concepts": [
+      "oxygen transport",
+      "pulmonary respiration",
+      "CO₂"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_005",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "MECHANISM OF PULMONARY RESPIRATION",
+    "concepts": [
+      "high solubility",
+      "carbonic acid",
+      "bicarbonate ions",
+      "blood plasma",
+      "alveoli",
+      "CO₂",
+      "exhalation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_006",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "MECHANISM OF PULMONARY RESPIRATION",
+    "concepts": [
+      "respiratory demand",
+      "specialized neurons",
+      "brainstem",
+      "carbon dioxide levels",
+      "hydrogen ion concentrations",
+      "respiratory centers",
+      "breathing rate",
+      "regulation of respiration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_2_007",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "MECHANISM OF PULMONARY RESPIRATION",
+    "concepts": [
+      "cellular respiration",
+      "aerobic respiration",
+      "anaerobic respiration",
+      "ATP",
+      "glucose",
+      "mitochondria"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_3_001",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "Common respiratory disorders and their prevention",
+    "concepts": [
+      "allergic condition",
+      "airborne allergens",
+      "breathing difficulties",
+      "coughing",
+      "excessive mucus production",
+      "preventive measures",
+      "avoidance",
+      "smoke and dust",
+      "alveolar infection",
+      "diplococci"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_3_002",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "Common respiratory disorders and their prevention",
+    "concepts": [
+      "respiratory condition",
+      "bronchioles",
+      "alveolar sacs",
+      "lung elasticity",
+      "smoking",
+      "alveoli",
+      "reversible loss of elasticity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_3_003",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "EXCRETION",
+    "concepts": [
+      "mechanisms",
+      "excretory system",
+      "urea",
+      "nitrogenous wastes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_3_004",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "EXCRETION",
+    "concepts": [
+      "ammonotelism",
+      "ureotelism",
+      "uricotelism"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_3_005",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "EXCRETION",
+    "concepts": [
+      "excretion",
+      "organism",
+      "nitrogenous wastes"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_3_006",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "EXCRETION",
+    "concepts": [
+      "kidneys",
+      "ureters",
+      "urinary bladder",
+      "urethra"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_3_007",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "EXCRETION",
+    "concepts": [
+      "ultra-filtration",
+      "selective reabsorption",
+      "tubular secretion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_3_008",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "EXCRETION",
+    "concepts": [
+      "renin-angiotensin system",
+      "juxtaglomerular apparatus",
+      "blood pressure",
+      "blood volume",
+      "vascular response",
+      "vasoconstriction",
+      "nephron",
+      "sodium and water reabsorption",
+      "aldosterone",
+      "adrenal glands"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_4_001",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "OSMOREGULATION BY KIDNEY",
+    "concepts": [
+      "osmoregulation",
+      "kidneys",
+      "ADH",
+      "aldosterone",
+      "dilute",
+      "concentrated urine"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_5_001",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "HAEMODIALYSIS AND KIDNEY TRANSPLANTATION",
+    "concepts": [
+      "haemodialysis",
+      "kidney transplantation",
+      "waste products"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_6_001",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "ROLE OF LIVER IN EXCRETION",
+    "concepts": [
+      "respiratory system",
+      "digestive system",
+      "nitrogen cycle"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_6_002",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "ROLE OF LIVER IN EXCRETION",
+    "concepts": [
+      "respiration",
+      "excretion",
+      "urinary system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH14_S14_6_003",
+    "document_id": "NIOS_BIO_CH14",
+    "resource_type": "explanation",
+    "subject": "Biology",
+    "class_no": 12,
+    "chapter_no": 14,
+    "chapter_title": "Respiration And Elimination Of Nitrogenous Wastes",
+    "section": "ROLE OF LIVER IN EXCRETION",
+    "concepts": [
+      "respiration",
+      "elimination of nitrogenous wastes",
+      "liver"
+    ]
+  }
+]

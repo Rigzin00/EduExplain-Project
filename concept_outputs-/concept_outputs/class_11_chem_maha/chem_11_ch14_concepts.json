@@ -1,0 +1,456 @@
+[
+  {
+    "resource_id": "TXT_11_CH14_X_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": null,
+    "concepts": [
+      "functional groups",
+      "isomerism",
+      "stereochemistry"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_1_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Introduction: Of all the elements, only carbon is able to form an immense array of compounds, ranging from methane having one carbon atom to deoxyribonucleic acid (DNA) with billions of carbon atoms. Crude oil is a complex mixture of compounds called hydrocarbons. The pharmaceutical industry is one of the most important chemical industries that provides us medicines which are organic compounds. We need to study the organic compounds for they are interesting in their own right and their functions are greatly important to life.",
+    "concepts": [
+      "carbon",
+      "hydrocarbons",
+      "molecules",
+      "glucose",
+      "vanillin",
+      "camphor",
+      "paracetamol",
+      "sigma bonds",
+      "pi bonds"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_2_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Structural Representation of organic molecules",
+    "concepts": [
+      "structural representation",
+      "covalent bonds",
+      "electron dot structures"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_2_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Structural Representation of organic molecules",
+    "concepts": [
+      "zig-zag lines",
+      "carbon atoms",
+      "tetravalency",
+      "hydrogen bonding",
+      "methyl groups",
+      "propane",
+      "ethanol"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_2_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Structural Representation of organic molecules",
+    "concepts": [
+      "three-dimensional representation",
+      "wedge formula",
+      "Fischer projection formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_3_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Classification of organic compounds:",
+    "concepts": [
+      "classification",
+      "carbon skeletons",
+      "functional groups"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH14_S14_3_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Classification of organic compounds:",
+    "concepts": [
+      "molecular model",
+      "three-dimensional shape",
+      "organic molecule"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_3_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Classification of organic compounds:",
+    "concepts": [
+      "carbon skeleton",
+      "acyclic compounds",
+      "cyclic compounds"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH14_S14_3_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "callout",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Classification of organic compounds:",
+    "concepts": [
+      "homologous series",
+      "carbon skeleton",
+      "molecular formulae",
+      "general formula",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_4_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Nomenclature of organic compounds 14.4.1 Common/trivial names",
+    "concepts": [
+      "common/trivial names",
+      "structural formulas",
+      "nomenclature",
+      "lactic acid"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_4_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Nomenclature of organic compounds 14.4.1 Common/trivial names",
+    "concepts": [
+      "nomenclature",
+      "IUPAC",
+      "International Union of Pure and Applied Chemistry"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_4_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Nomenclature of organic compounds 14.4.1 Common/trivial names",
+    "concepts": [
+      "alkyl group",
+      "IUPAC nomenclature",
+      "parent chain"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_4_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Nomenclature of organic compounds 14.4.1 Common/trivial names",
+    "concepts": [
+      "carbon-carbon multiple bond",
+      "lowest possible locant number",
+      "hexane group",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_4_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Nomenclature of organic compounds 14.4.1 Common/trivial names",
+    "concepts": [
+      "nomenclature",
+      "IUPAC names",
+      "side chain numbering"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_4_006",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Nomenclature of organic compounds 14.4.1 Common/trivial names",
+    "concepts": [
+      "monofunctional compounds",
+      "polyfunctional compounds",
+      "IUPAC nomenclature"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_4_007",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Nomenclature of organic compounds 14.4.1 Common/trivial names",
+    "concepts": [
+      "nomenclature",
+      "substituent",
+      "IUPAC nomenclature",
+      "phenyl-substituted alkanes"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_5_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Isomerism",
+    "concepts": [
+      "structural isomerism",
+      "molecular formula",
+      "structural formula"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_5_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Isomerism",
+    "concepts": [
+      "structural isomers",
+      "chain isomerism",
+      "tautomerism"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_6_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Theoretical basis of organic reactions:",
+    "concepts": [
+      "covalent bond",
+      "redox reaction",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_6_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Theoretical basis of organic reactions:",
+    "concepts": [
+      "covalent bond",
+      "homolytic cleavage",
+      "heterolytic cleavage"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH14_S14_6_001",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Theoretical basis of organic reactions:",
+    "concepts": [
+      "homolysis",
+      "heterolysis",
+      "intermediate species"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH14_S14_6_002",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Theoretical basis of organic reactions:",
+    "concepts": [
+      "Electrophiles",
+      "Nucleophiles",
+      "Electron-deficient species",
+      "Electron-rich species"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_6_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Theoretical basis of organic reactions:",
+    "concepts": [
+      "polarization",
+      "electronic effects",
+      "permanent/electromeric effects"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH14_S14_6_003",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Theoretical basis of organic reactions:",
+    "concepts": [
+      "inductive effect",
+      "polarity",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_6_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Theoretical basis of organic reactions:",
+    "concepts": [
+      "resonance structures",
+      "delocalization of electrons",
+      "benzene ring"
+    ]
+  },
+  {
+    "resource_id": "RCL_11_CH14_S14_6_004",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "recall",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Theoretical basis of organic reactions:",
+    "concepts": [
+      "conjugated system of π bonds",
+      "resonance theory",
+      "Lewis structures",
+      "delocalization of π electrons",
+      "resonance hybrid",
+      "resonance stabilization energy"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_6_005",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Theoretical basis of organic reactions:",
+    "concepts": [
+      "resonance effect",
+      "mesomeric effect",
+      "positive resonance effect"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_6_006",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Theoretical basis of organic reactions:",
+    "concepts": [
+      "reagent",
+      "chemical reaction",
+      "transient effect"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH14_S14_6_007",
+    "document_id": "MAHA_CHEM_11",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 11,
+    "chapter_no": 14,
+    "chapter_title": "Basic Principles Of Organic Chemistry",
+    "section": "Theoretical basis of organic reactions:",
+    "concepts": [
+      "hyperconjugation",
+      "carbocation",
+      "free radical"
+    ]
+  }
+]

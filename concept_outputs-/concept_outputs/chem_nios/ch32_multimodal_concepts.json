@@ -1,0 +1,677 @@
+[
+  {
+    "resource_id": "TXT_12_CH32_X_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": null,
+    "concepts": [
+      "human activities",
+      "natural resources",
+      "water and soil pollution",
+      "green chemistry",
+      "design of safer chemical products"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_1_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "COMPONENTS OF ENVIRONMENT",
+    "concepts": [
+      "abiotic",
+      "biotic",
+      "biosphere",
+      "atmosphere",
+      "hydrosphere",
+      "lithosphere"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_2_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "POLLUTION",
+    "concepts": [
+      "population growth",
+      "waste production",
+      "sanitation practices"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_3_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "POLLUTANTS",
+    "concepts": [
+      "pollutant",
+      "harmful impact",
+      "environmental chemistry"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_3_002",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "POLLUTANTS",
+    "concepts": [
+      "volcanic eruptions",
+      "forest fires",
+      "windblown dust"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_3_003",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "POLLUTANTS",
+    "concepts": [
+      "anthropogenic pollutants",
+      "sulfur dioxide (SO₂)",
+      "nitric oxide (NO)",
+      "oxygen",
+      "sulfur trioxide (SO₃)",
+      "nitrogen dioxide (NO₂)",
+      "water vapor",
+      "harmful substances like sulfuric acid (H₂SO₄)",
+      "secondary pollutants",
+      "reactions",
+      "crucial",
+      "environmental pollution",
+      "human health"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_4_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "SOURCES OF POLLUTANTS",
+    "concepts": [
+      "pollutants",
+      "sources",
+      "mobile sources",
+      "contaminants",
+      "water pollution",
+      "Table 32.1"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_5_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "AIR POLLUTION",
+    "concepts": [
+      "air pollution",
+      "pollutants",
+      "CO₂"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_5_002",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "AIR POLLUTION",
+    "concepts": [
+      "particulate pollutants",
+      "air pollution",
+      "health issues",
+      "fluorosis",
+      "lead poisoning",
+      "respiratory diseases"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_5_003",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "AIR POLLUTION",
+    "concepts": [
+      "hydrocarbons",
+      "methane",
+      "paddy fields",
+      "ruminant animals",
+      "3,4-benzopyrene",
+      "complete fuel combustion",
+      "photochemical smog"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_5_004",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "AIR POLLUTION",
+    "concepts": [
+      "sulfur dioxide",
+      "hydrogen sulfide",
+      "carbon dioxide",
+      "defoliation",
+      "reduced plant growth",
+      "respiratory issues",
+      "acid rain",
+      "global warming",
+      "nitrogen oxides",
+      "photochemical smog",
+      "acid deposition",
+      "greenhouse effect",
+      "covalent bond",
+      "redox reaction",
+      "entropy",
+      "mole concept",
+      "angular momentum",
+      "electromagnetic induction",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_6_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "EFFECTS OF EXCESSIVE ATMOSPHERIC POLLUTANTS ON NATURE (OUTDOOR POLLUTION)",
+    "concepts": [
+      "temperature inversion",
+      "photochemical smog",
+      "acid rain",
+      "greenhouse effect",
+      "ozone layer depletion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_7_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "TEMPERATURE INVERSION AND PHOTO-CHEMICAL SMOG",
+    "concepts": [
+      "photochemical smog",
+      "temperature inversion",
+      "ozone"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_8_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "ACID RAIN",
+    "concepts": [
+      "acid rain",
+      "nitrogen oxides",
+      "ozone"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_8_002",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "ACID RAIN",
+    "concepts": [
+      "acid rain",
+      "chemical reaction",
+      "calcium carbonate",
+      "sulfuric acid",
+      "calcium sulfate",
+      "carbon dioxide",
+      "water",
+      "soil",
+      "leaching",
+      "visibility",
+      "lenticularity"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_9_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "GREEN HOUSE EFFECT AND GLOBAL WARMING",
+    "concepts": [
+      "greenhouse gas",
+      "CO₂",
+      "NO₂",
+      "CFCs",
+      "sunlight",
+      "trapping heat",
+      "glass chamber",
+      "Earth's temperature",
+      "greenhouse effect"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_9_002",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "GREEN HOUSE EFFECT AND GLOBAL WARMING",
+    "concepts": [
+      "greenhouse gas",
+      "carbon dioxide",
+      "nitrogen dioxide",
+      "methane",
+      "chlorofluorocarbon",
+      "fossil fuel",
+      "fertilizer",
+      "vehicle emission",
+      "livestock",
+      "landfill",
+      "agricultural activity",
+      "rice cultivation",
+      "bacterial action",
+      "covalent bond",
+      "redox reaction",
+      "entropy",
+      "mole concept",
+      "angular momentum",
+      "electromagnetic induction",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_9_003",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "GREEN HOUSE EFFECT AND GLOBAL WARMING",
+    "concepts": [
+      "greenhouse effect",
+      "global warming",
+      "atmospheric trapping"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_10_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "DEPLETION OF OZONE LAYER",
+    "concepts": [
+      "chlorofluorocarbons",
+      "halogen gases",
+      "ultraviolet radiation",
+      "climatic change",
+      "ozone layer",
+      "ozone hole",
+      "ozone depletion"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_10_002",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "DEPLETION OF OZONE LAYER",
+    "concepts": [
+      "ozone layer",
+      "ultraviolet radiation",
+      "troposphere"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_11_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "EFFECTS OF AIR POLLUTION ON HUMANS",
+    "concepts": [
+      "air pollution",
+      "ecosystems",
+      "health risks",
+      "public health",
+      "mitosis"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_12_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "CONTROL OF AIR POLLUTION",
+    "concepts": [
+      "combustion",
+      "emissions",
+      "alternative energy sources"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_13_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "WATER POLLUTION – PARAMETERS",
+    "concepts": [
+      "industrialization",
+      "population growth",
+      "pollution indicators"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_14_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "WATER POLLUTION – SOURCES",
+    "concepts": [
+      "water pollutants",
+      "domestic discharge",
+      "agricultural discharge",
+      "industrial discharge",
+      "surface water pollution",
+      "ground water pollution"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_14_002",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "WATER POLLUTION – SOURCES",
+    "concepts": [
+      "point source",
+      "non-point source",
+      "siltation"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_14_003",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "WATER POLLUTION – SOURCES",
+    "concepts": [
+      "groundwater pollution",
+      "aquifers",
+      "soil infiltration",
+      "porous layers",
+      "slow movement",
+      "contaminated water"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_15_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "WATER POLLUTANTS",
+    "concepts": [
+      "heavy metals",
+      "nonbiodegradable",
+      "eutrophication",
+      "algal bloom",
+      "dissolved oxygen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_16_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "WATER POLLUTION AND SOME BIOLOGICAL EFFECTS",
+    "concepts": [
+      "eutrophication",
+      "lower plants",
+      "algal bloom",
+      "nutrient accumulation",
+      "aquatic system"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_16_002",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "WATER POLLUTION AND SOME BIOLOGICAL EFFECTS",
+    "concepts": [
+      "eutrophication",
+      "nutrient-rich substances",
+      "agricultural runoff",
+      "domestic waste",
+      "excessive plant growth",
+      "deoxygenation",
+      "bacterial decomposition",
+      "organic matter"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_16_003",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "WATER POLLUTION AND SOME BIOLOGICAL EFFECTS",
+    "concepts": [
+      "BOD",
+      "microorganisms",
+      "organic waste",
+      "water pollution",
+      "oxygen consumption",
+      "chemical oxygen demand"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_16_004",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "WATER POLLUTION AND SOME BIOLOGICAL EFFECTS",
+    "concepts": [
+      "biomagnification",
+      "food chain",
+      "concentration increase"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_17_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "WATER POLLUTION – SOME CONTROL MEASURES",
+    "concepts": [
+      "sedimentation",
+      "coagulation",
+      "filtration",
+      "microorganisms",
+      "softening",
+      "aeration",
+      "chlorine",
+      "pathogens"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_18_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "SOIL POLLUTION",
+    "concepts": [
+      "soil pollution",
+      "waste disposal",
+      "industrial discharges",
+      "sustainable agriculture"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_19_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "GREEN CHEMISTRY AS AN ALTERNATIVE TOOL FOR REDUCING POLLUTION",
+    "concepts": [
+      "green chemistry",
+      "pollution reduction",
+      "hazardous substances",
+      "human health",
+      "environmental impact",
+      "chemical design",
+      "palladium",
+      "copper catalysts",
+      "water"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_20_001",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "STRATEGIES TO CONTROL ENVIRONMENTAL POLLUTIONS",
+    "concepts": [
+      "waste management",
+      "biodegradable vs non-biodegradable waste",
+      "fly ash",
+      "furnace slag",
+      "sewage treatment process",
+      "anaerobic respiration",
+      "carbon dioxide",
+      "methane"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_20_002",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "STRATEGIES TO CONTROL ENVIRONMENTAL POLLUTIONS",
+    "concepts": [
+      "chemicals",
+      "personal care products",
+      "food preservation",
+      "household cleaning agents",
+      "chemical reactions",
+      "properties",
+      "phenomena",
+      "technologies"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH32_S32_20_003",
+    "document_id": "NIOS_CHEM_CH32",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 32,
+    "chapter_title": "Environmental Chemistry",
+    "section": "STRATEGIES TO CONTROL ENVIRONMENTAL POLLUTIONS",
+    "concepts": [
+      "chemistry",
+      "principle",
+      "chemical principle"
+    ]
+  }
+]

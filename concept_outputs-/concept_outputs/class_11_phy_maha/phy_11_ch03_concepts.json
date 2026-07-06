@@ -1,0 +1,214 @@
+[
+  {
+    "resource_id": "TXT_11_CH03_S3_1_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Motion In A Plane",
+    "section": "Introduction:",
+    "concepts": [
+      "motion",
+      "rectilinear motion",
+      "vector notation",
+      "projectile motion",
+      "circular motion"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH03_S3_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Motion In A Plane",
+    "section": "Rectilinear Motion:",
+    "concepts": [
+      "displacement",
+      "path length",
+      "average velocity",
+      "instantaneous velocity",
+      "acceleration"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH03_S3_2_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Motion In A Plane",
+    "section": "Rectilinear Motion:",
+    "concepts": [
+      "distance",
+      "uniform acceleration",
+      "rectilinear motion",
+      "freely falling object",
+      "second equation of motion",
+      "initial velocity",
+      "time interval",
+      "equation",
+      "ratio"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH03_S3_3_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Motion In A Plane",
+    "section": "Motion in Two Dimensions-Motion in a Plane:",
+    "concepts": [
+      "vector equations",
+      "displacement",
+      "path length"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH03_S3_3_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Motion In A Plane",
+    "section": "Motion in Two Dimensions-Motion in a Plane:",
+    "concepts": [
+      "displacement",
+      "velocity",
+      "acceleration",
+      "vector",
+      "average velocity",
+      "instantaneous velocity",
+      "position vector"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH03_S3_3_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Motion In A Plane",
+    "section": "Motion in Two Dimensions-Motion in a Plane:",
+    "concepts": [
+      "average acceleration",
+      "instantaneous acceleration",
+      "velocity"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH03_S3_3_004",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Motion In A Plane",
+    "section": "Motion in Two Dimensions-Motion in a Plane:",
+    "concepts": [
+      "equations_of_motion",
+      "rectilinear_motion",
+      "vector_form"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH03_S3_3_005",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Motion In A Plane",
+    "section": "Motion in Two Dimensions-Motion in a Plane:",
+    "concepts": [
+      "relative velocity",
+      "velocity addition",
+      "wind effect"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH03_S3_3_006",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Motion In A Plane",
+    "section": "Motion in Two Dimensions-Motion in a Plane:",
+    "concepts": [
+      "projectile",
+      "motion",
+      "parabola"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH03_S3_4_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Motion In A Plane",
+    "section": "Uniform Circular Motion:",
+    "concepts": [
+      "centripetal acceleration",
+      "gravitational pull",
+      "parabola"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH03_S3_4_002",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Motion In A Plane",
+    "section": "Uniform Circular Motion:",
+    "concepts": [
+      "angular speed",
+      "radius vector",
+      "period"
+    ]
+  },
+  {
+    "resource_id": "TXT_11_CH03_S3_4_003",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "explanation",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Motion In A Plane",
+    "section": "Uniform Circular Motion:",
+    "concepts": [
+      "angular speed",
+      "period",
+      "position vector",
+      "instantaneous velocity",
+      "centripetal acceleration",
+      "centripetal force"
+    ]
+  },
+  {
+    "resource_id": "CLT_11_CH03_S3_4_001",
+    "document_id": "MAHA_PHY_11",
+    "resource_type": "callout",
+    "subject": "Physics",
+    "class_no": 11,
+    "chapter_no": 3,
+    "chapter_title": "Motion In A Plane",
+    "section": "Uniform Circular Motion:",
+    "concepts": [
+      "linear speed",
+      "angular speed",
+      "centripetal acceleration"
+    ]
+  }
+]

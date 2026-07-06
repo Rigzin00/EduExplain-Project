@@ -1,0 +1,321 @@
+[
+  {
+    "resource_id": "TXT_12_CH17_X_001",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": null,
+    "concepts": [
+      "alkali metals",
+      "alkaline earth metals",
+      "vanaspati"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_X_002",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": null,
+    "concepts": [
+      "photosynthesis",
+      "chlorophyll",
+      "light absorption",
+      "conversion of light energy",
+      "chemical energy",
+      "glucose",
+      "carbon dioxide",
+      "water",
+      "enzymatic reactions",
+      "chloroplasts",
+      "plant cells"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_1_001",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "HYDROGEN",
+    "concepts": [
+      "single proton in the nucleus",
+      "one electron orbiting around it",
+      "electronic configuration",
+      "covalent bond"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_1_002",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "HYDROGEN",
+    "concepts": [
+      "hydrogen",
+      "nuclear fusion",
+      "helium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_1_003",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "HYDROGEN",
+    "concepts": [
+      "electronic configuration",
+      "hydride ion",
+      "halogen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_1_004",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "HYDROGEN",
+    "concepts": [
+      "isotopes",
+      "neutrons",
+      "chemical properties"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_1_005",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "HYDROGEN",
+    "concepts": [
+      "colorless",
+      "odorless",
+      "diatomic gas",
+      "low density",
+      "does not dissolve",
+      "adsorbed by platinum and palladium surfaces"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_1_006",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "HYDROGEN",
+    "concepts": [
+      "reactivity",
+      "combustibility",
+      "reducing properties",
+      "metal oxides",
+      "hydrogen chloride",
+      "hydrides"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_1_007",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "HYDROGEN",
+    "concepts": [
+      "hydrogen",
+      "universe",
+      "chemical reactions",
+      "compounds",
+      "water",
+      "acids"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_2_001",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "COMPOUNDS OF HYDROGEN",
+    "concepts": [
+      "hydrogen bonding",
+      "redox reaction",
+      "entropy"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_2_002",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "COMPOUNDS OF HYDROGEN",
+    "concepts": [
+      "covalent bond",
+      "polar bonds",
+      "hydrogen bonding"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_2_003",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "COMPOUNDS OF HYDROGEN",
+    "concepts": [
+      "deuterium oxide",
+      "electrolysis",
+      "heavy water"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_2_004",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "COMPOUNDS OF HYDROGEN",
+    "concepts": [
+      "colorless",
+      "syrupy",
+      "sharp odor",
+      "boiling point",
+      "dilute sulfuric acid",
+      "metallic peroxides",
+      "electrolysis",
+      "distillation",
+      "oxidizing property",
+      "reducing property",
+      "unique oxidation state",
+      "oxygen"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_2_005",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "COMPOUNDS OF HYDROGEN",
+    "concepts": [
+      "hydride",
+      "metallic bonding",
+      "interstitial hydride"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_2_006",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "COMPOUNDS OF HYDROGEN",
+    "concepts": [
+      "hydrogen economy",
+      "electrolysis",
+      "solar-powered catalytic reactions"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_3_001",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "s-BLOCK ELEMENTS",
+    "concepts": [
+      "outer electron configurations",
+      "alkali metals",
+      "alkaline earth metals"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_3_002",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "s-BLOCK ELEMENTS",
+    "concepts": [
+      "electropositive metals",
+      "outer electron configurations",
+      "similarities in properties",
+      "abundant elements",
+      "natural sources",
+      "unipositive ions",
+      "hydrogen gas release",
+      "hydroxide formation",
+      "reactivity increase",
+      "unique properties of lithium"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_3_003",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "s-BLOCK ELEMENTS",
+    "concepts": [
+      "size",
+      "electropositivity",
+      "inert gas configuration"
+    ]
+  },
+  {
+    "resource_id": "TXT_12_CH17_S17_3_004",
+    "document_id": "NIOS_CHEM_CH17",
+    "resource_type": "explanation",
+    "subject": "Chemistry",
+    "class_no": 12,
+    "chapter_no": 17,
+    "chapter_title": "Objectives",
+    "section": "s-BLOCK ELEMENTS",
+    "concepts": [
+      "reduction",
+      "oxidation",
+      "manganese(II) sulfate"
+    ]
+  }
+]
